@@ -1,0 +1,9 @@
+{
+  "name": "VC",
+  "description": "VC",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "gulp-markdown": "^1.2.0",
+    "gulp": "^3.9.0" }
+}

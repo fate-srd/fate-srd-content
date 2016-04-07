@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta charset="utf-8" />
+		<title>AtomicSRD</title>
+		<link href="AtomicSRD.css" rel="stylesheet" type="text/css" />
+	</head>
+		<div id="_idContainer003">
+			<p class="CC-BY_Normal">©2016 Evil Hat Productions, LLC. Refer to the licensing pages at http://www.faterpg.com/licensing/ for details.</p>
+			<p class="CC-BY_Normal">This is the System Reference Document for use with the Creative Commons Attribution Unported license. The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:</p>
+			<p class="CC-BY_Normal">This work is based on the Atomic Robo RPG SRD (found at http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by Mike Olson, Jeremy Keller, Adam Jury, Brian Clevinger, Brian Engard, Morgan Ellis, and Fred Hicks, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).</p>
+		</div>
+		<div id="_idContainer004" class="Basic-Text-Frame">
+			<p class="Heading-1">Custom Skills</p>
+			<p class="Normal-First">Creating a new skill starts with a name. It doesn’t have to be the final name of the skill, but you need something to give you direction and a sense of what the skill is intended to do.</p>
+			<p class="Heading-2">Skill Actions and Applications</p>
+			<p class="Normal-First">Skill are defined in two ways: in terms of the <span class="Term">actions</span> that you can take with the skill, and the <span class="Term">applications</span> of its use. While there are only four actions, as discussed in <span class="Book-Title">Fate Core</span>, the number of potential <span class="Emphasis">applications</span> is roughly infinite.</p>
+			<p class="Normal">A skill’s name provides context for its place in the story. Its actions tell you how it matters in game terms. The intersection of a skill’s context and its actions gives you its <span class="Strong">applications</span>—the circumstances under which it can be used.</p>
+			<p class="Normal">For example, the context of a skill called Combat context is very likely going to be fighting, and the context of the <span class="Book-Title">Fate Core</span> skill Provoke is social interaction. Even if both skills have the attack action, they’ll apply it in different ways. Combat’s attack application involves inflicting physical harm with things like fists, guns, or other weapons, while Provoke’s attack application involves inflicting mental harm via threats and intimidation.</p>
+			<p class="Normal">A skill can have more than one application for a given action. For example, the <span class="Book-Title">Fate Core</span> skill Athletics lets you defend against both physical attacks and attempts to create physical advantages against you—that’s two applications of the defend action.</p>
+			<p class="Normal">This distinction between “actions” and “applications” isn’t found in <span class="Book-Title">Fate Core</span>, but it’s important here because under these rules every skill has a cost dependent on how many applications it has, so we need to be a bit more precise than usual. These rules also assume that <span class="Emphasis">all</span> skills are priced this way, and that a typical player character has around 30 points to spend on skills.</p>
+			<p class="Example-start">Mike wants to play a telepath who can project mental illusions into a target’s brain. He wants to make a custom skill to do this, and starts by calling it Hallucinations.</p>
+			<p class="Example-middle">What game actions are a good fit for Hallucinations? One big use for the skill is probably going to be convincing people he’s someone other than himself, which sounds like overcome. Advantage is a good one, too—Mike can see using those illusions to distract his opponent with imaginary enemies or immobilize them in an imaginary pit. That also makes it sound like he could use it for defense against physical attacks by appearing to be a couple of feet in another direction, so he adds defend to the list. And what kind of imaginary enemies can’t cause imaginary wounds? That’s definitely attack.</p>
+			<p class="Example-end">That’s four actions in total (overcome, advantage, attack, and defend) with one application for each.</p>
+			<p class="Normal">The skill descriptions in <span class="Book-Title">Fate Core</span> go into a lot of helpful detail for each game action, but you don’t need to be so in-depth when making your own skills. A brief phrase for each application should suffice—just enough to remind yourself and the GM how it works. For example, “Overcome: Create believable illusions” or “Attack: Hallucinatory damage.”</p>
+			<p class="Normal"><span class="Strong">Each skill starts at a cost of zero character points and has two free applications. For each application the skill has in excess of two, increase its cost by 1.</span></p>
+			<p class="Example">Hallucinations has four applications, so it’ll cost 2 character points. Done!</p>
+			<p class="CC-BY_Heading-4">Exceeding Recommended Limits</p>
+			<p class="Normal-First">The actions and applications for standard and custom skills only reflect their usual, reliable functions in the game. If a player wants to exceed these guidelines, that’s totally cool—as long as it makes sense in context. But keep in mind when you do this that you’re potentially setting a precedent, so proceed with caution.</p>
+			<p class="Normal">For example, Briana’s playing a pilot in the Pacific Theater of World War II. She wants to ram an enemy aircraft, effectively using Vehicles as an attack. Unorthodox! The GM’s fine with it, with two provisos: One, the attacking fighter will automatically take whatever damage the defending aircraft does (as will Briana’s pilot, unless he can eject in time), and two, she’s going to need to invoke an aspect to do it.</p>
+			<p class="Normal">Briana agrees. First she creates an advantage to put an aspect on his plane: <span class="Aspect">Ramming Speed!</span> Next round, she invokes that aspect for effect to temporarily add the attack game action to Vehicles, and rolls her attack.</p>
+			<p class="Heading-2">Sample Skills</p>
+			<p class="Normal-First">Here are more detailed write-ups of a few standard <span class="Book-Title">Fate Core</span> skills. If a single action has more than one application for the skill, each action listed indicates a separate application.</p>
+			<p class="Heading-3">Athletics (2 skill points)</p>
+			<p class="Normal-First">The Athletics skill represents your character’s general level of physical fitness, whether through training, natural gifts, or unusual means (like cybernetic enhancement or genetic alteration). It’s the skill that represents how good you are at moving your body.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Deal with an obstacle that requires physical movement—jumping, running, climbing, swimming, etc. If it resembles something you’d do in the decathlon, you should roll Athletics. You’d also roll to participate in any contests or challenges that rely on these types of activities. Note that conflicts aren’t obstacles; those are handled by Defend (see below).</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Maneuver to gain an edge, such as finding Higher Ground, forcing someone to be <span class="Aspect">Cornered</span>, or climbing a tree to get a <span class="Aspect">Bird’s Eye View</span>.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Dodge close-quarters or ranged attacks in a physical conflict.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Counter efforts to create an advantage against you, if you’re in a position to physically interfere with whomever’s making the attempt, or to keep someone from moving past a certain point.</p>
+			<p class="Heading-3">Combat (2 skill points)</p>
+			<p class="Normal-First">The Combat skill deals in all manner of violence, unarmed or armed, close-quarters or ranged.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Execute a maneuver or “special move” in combat, such as disarming your opponent, throwing sand in their eyes, striking nerve points, or laying down suppressive fire.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Attack:</span> Inflict some form of physical harm, whether hand-to-hand or ranged. Defend against Combat attacks with Combat or Athletics.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Counter hand-to-hand attacks in a physical conflict. Combat <span class="Emphasis">cannot</span> defend against ranged attacks, however; use Athletics for that.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Counter an attempt to create combat-oriented advantages.</p>
+			<p class="Heading-3">Contacts (2 skill points)</p>
+			<p class="Normal-First">Contacts is the skill of knowing people and making connections with them, especially in a pinch. The better you are with Contacts, the better your information network.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Poll your social networks for information. Whether that’s old-fashioned “man on the street” type of work or searching archives and computer databases, you’re able to hunt down information (or people). Note that in the case of finding a specific person, a successful roll doesn’t necessarily give you immediate access to them, depending on the situation. For example, if the research scientist in question is currently detained by the authorities, that’ll be a separate obstacle to overcome (maybe using Contacts, maybe using some other skill).</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Leverage your contacts to create a story detail or create/discover an aspect. “Hey, my contacts tell me that Joe Steel is the <span class="Aspect">Best Mechanic For A Thousand Miles</span>—we should talk to him.”</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Get the word on the street about a particular individual, object, or location, based on what your contacts tell you. These aspects almost always deal with reputation more than fact, such as <span class="Aspect">Known Sycophant</span> or <span class="Aspect">Notorious Swindler</span>. Whether that person lives up to their reputation is anybody’s guess, though that doesn’t invalidate the aspect. (People often have misleading reputations about themselves that complicate their lives.) Similarly, you can also use your information network to plant information or get you information to help in the conflict.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Counter an opponent’s attempts to create social advantages against you, provided your information network can be brought to bear in the situation.</p>
+			<p class="Heading-3">Deceive (3 skill points)</p>
+			<p class="Normal-First">As might be expected, this is the skill of lies and misdirection. Whether spinning a convincing falsehood, crafting a disguise, or bluffing some poor dope who really ought to know better, it’s all Deceive.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Bluff or give a false impression. These are situations in which the stakes aren’t high enough for a contest or conflict, but you still want to roll to see if things get complicated or not. More complicated cons might involve a contest or a challenge, as you layer the deception to achieve your goal.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Create a convincing disguise, whether for yourself or others. You’ll need to have the time and supplies to create the desired effect.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Obtain information from someone who (falsely) believes you to be trustworthy. This is more likely to get you story details than an aspect, but if the information represents a tangible advantage, it might net you an aspect.</p>
+			<p class="Normal">By a similar token, the advantage might be an aspect you’re putting forward as a false impression. For example, if you’re undercover at a fancy corporate shindig, you might use Deceive to declare a <span class="Aspect">Wealthy Industrialist Cover Story</span> on the scene to help you mingle with the guests.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Distract or misdirect, similar to declaring a false impression above. This can also apply in physical conflicts for feints and fake-outs, allowing you to put an enemy <span class="Aspect">Off-Balance</span>.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Counter efforts to discern your true motives. This includes someone using Empathy against you, as well as throwing off investigation attempts with false information.</p>
+			<p class="Heading-3">Empathy (3 skill points)</p>
+			<p class="Normal-First">Empathy involves knowing and being able to spot changes in a person’s mood or bearing. It’s basically the Notice skill (see below), but for people.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Perceive a change in someone’s attitude or intent.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Remove mental consequences from yourself or others.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Read a person’s emotional state and/or get a general sense of who they are. This presumes you have some kind of interpersonal contact with them. Most often, this will mean discovering their aspects, but you can also create new aspects for NPCs as well. If the target has some reason to be aware that you’re trying to read them, they can defend with Deceive or Rapport. This includes the use of Empathy to try and discover what circumstances will allow you to conduct mental attacks against the target by figuring out their breaking points.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> See through lies and deceptions to someone’s true intent.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Counter someone’s attempt to create an advantage against you in a social context. Generally speaking, this usually requires direct contact with them. If you’re working through an intermediary, Contacts is probably a more appropriate skill to use.</p>
+			<p class="Heading-3">Notice (1 skill point)</p>
+			<p class="Normal-First">The Notice skill represents a character’s overall perception, ability to pick out details at a glance, and other powers of observation.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Spotting or reacting to something in the environment, often in a timely manner. This includes hearing the faint sound of a twig snapping behind you, spotting a concealed gun in that mail carrier’s waistband, and searching a cluttered room for the evidence you need.</p>
+			<p class="Normal">Note that this isn’t license for the GM to call for Notice rolls left and right to see how generally observant a character is; that’s boring. Instead, call for a Notice roll when both success and failure would have equally interesting results.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Discover something new and advantageous in the environment via direct observation. You might look over a room for details that stand out, find an escape route in a debris-filled building, notice someone sticking out in a crowd, and so on. This advantage can often manifest as a situation aspect. For example, you might spy <span class="Aspect">Hidden H</span><span class="Aspect">andholds</span> in a wall, find a <span class="Aspect">Weak Point</span> in a tank’s armor plating, or chance upon some <span class="Aspect">Distinctive Spoor</span> in the course of tracking a monster.</p>
+			<p class="Normal">When you’re watching people, Notice can tell you what’s going on with them externally; for subtler, more internal changes, use Empathy.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Defend:</span> Watch over an area to detect people trying to use Stealth or Burglary to infiltrate it.</p>
+			<p class="CC-BY_Heading-4">Example: Action-Science Skills</p>
+			<p class="Normal-First">Here are the standard skills in our action-science setting. They’re all basically taken right from <span class="Book-Title">Fate Core</span>. If you’re wondering where the actual <span class="Emphasis">science</span> skills are, see <span class="Book-Title">Science: It’s Special</span>.</p>
+			<ul>
+				<li class="Bullets">Athletics</li>
+				<li class="Bullets">Burglary</li>
+				<li class="Bullets">Combat</li>
+				<li class="Bullets">Contacts</li>
+				<li class="Bullets">Deceive</li>
+				<li class="Bullets">Empathy</li>
+				<li class="Bullets">Notice</li>
+				<li class="Bullets">Physique</li>
+				<li class="Bullets">Provoke</li>
+				<li class="Bullets">Rapport</li>
+				<li class="Bullets">Stealth</li>
+				<li class="Bullets">Vehicles</li>
+				<li class="Bullets">Will</li>
+			</ul>
+			<p class="Heading-1">Modes</p>
+			<p class="Heading-2">What Modes Are</p>
+			<p class="Normal-First">A <span class="Term">mode</span> is a broad area of competence, represented as a group of skills connected by a common theme. For example, the Action mode includes skills about things like running, fighting, and piloting, while the skills in the Banter mode are all about social interaction.</p>
+			<p class="Normal">Every game should have a small number of <span class="Term">standard modes</span>, somewhere between four and six, available to players. These modes should reflect the themes of your setting, and should collectively cover everything that the typical PC in the setting might be expected to tackle problems.</p>
+			<p class="Normal">The four standard modes included here—Action, Banter, Intrigue, and Science—are intended for PCs in a science-oriented, modern-day action-adventure setting.</p>
+			<p class="Normal"><span class="Emphasis">Unusual</span> characters who don’t fit neatly into this paradigm, such as a robot in a setting dominated by humans or a wizard in world of warriors and scoundrels, can have one or more <span class="Term">weird modes</span>. These are either player-defined or purpose-built in advance to enforce the themes or tropes of the setting, or both. “Weird” doesn’t have to mean literally <span class="Emphasis">weird</span>--they’re also good for niche skillsets that aren’t integral enough to the setting to be standard modes. Examples in our modern-day action-science setting might include things like Reporter, Secret Agent, or Martial Artist. If the standard modes describe ways of doing things, weird modes describe the character doing them. You can find a few pre-fab weird modes later in this section to act as examples.</p>
+			<p class="Normal">Every PC has three modes, whether standard or weird.</p>
+			<p class="Heading-2">What Modes Do</p>
+			<p class="Normal-First">The primary function of modes is to make character creation quick and easy. Instead of picking and rating skills individually, you pick three modes, give each a rating, and get to playing.</p>
+			<p class="Normal">Modes also serve as a way to quickly conceptualize or evaluate a character, or even a setting. A character’s selection of modes gives you a good indication of what’s important to that character’s concept—what they’re all about. Even at a glance, you can tell that a character with Action, Science, and Robot modes is much different than one with Dinosaur, Intrigue, and Banter modes.</p>
+			<p class="Normal">Every mode has a rating. Of a PC’s three modes, rate one at Average (+1), one at Fair (+2), and one at Good (+3). While these rules don’t add a mode’s rating directly to a roll, a mode’s rating does affect the rating of its skills.</p>
+			<p class="Heading-3">Modes and Stress</p>
+			<p class="Normal-First">Characters start with two mental stress boxes and two physical stress boxes.</p>
+			<p class="Normal">Modes with Athletics or Physique can give your character additional physical stress boxes, while modes with Provoke or Will can give your character additional mental stress boxes. A mode with one or more of these skills rated at Fair (+2) adds one box, while one rated at Good (+3) adds two boxes.</p>
+			<p class="Normal">If a mode has skills that apply to <span class="Emphasis">both</span> scopes, pick one. For example, the Action mode has Athletics, Physique, and Provoke. If you’ve given it a rating of Good (+3), you could have two more physical stress boxes, two more mental stress boxes, or one in each.</p>
+			<p class="Normal">Bonus stress boxes from your Good (+3) and Fair (+2) modes are <span class="Emphasis">cumulative</span>. So if you have Good (+3) Action and Fair (+2) Intrigue, both of which have the Athletics skill, you’ll get three more physical stress boxes—two from Action and one from Intrigue.</p>
+			<p class="Normal">A character’s array of modes is the only way to add stress boxes.</p>
+			<p class="Heading-2">The Standard Modes</p>
+			<p class="Normal-First">Here are the standard modes in our action-science setting, complete with the standard skills each contains (taken from those listed earlier).</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Action:</span> Action-hero type stuff, like flying a plane, leaping over a chasm, or some good old-fashioned face punching. If you’re being overtly physical or tough, you’re making use of a skill in the Action mode.</p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Skills:</span> Athletics, Combat, Notice, Physique, Provoke, Vehicles</li>
+			</ul>
+			<p class="Normal-Inline-Header"><span class="Strong">Banter:</span> Interpersonal skills, polite and otherwise. This covers everything from reasoned persuasion to irrational intimidation and all points in between.</p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Skills:</span> Contacts, Deceive, Empathy, Provoke, Rapport, Will</li>
+			</ul>
+			<p class="Normal-Inline-Header"><span class="Strong">Intrigue:</span> Subterfuge, subtlety, and ventures of questionable legality. Stealth, disguise,</p>
+			<p class="Normal">and your standard B&amp;E all fall under Intrigue.</p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Skills:</span> Athletics, Burglary, Contacts, Deceive, Notice, Stealth</li>
+			</ul>
+			<p class="Normal-Inline-Header"><span class="Strong">Science:</span> All fields of scientific endeavor, whether you’re hacking a mainframe, accelerating particles, or rebuilding a transmission on a ’69 Charger. If you’re pitting your brain against an inanimate object, you’re probably doing Science.</p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Skills:</span> Notice, Will, all sciences. (See <span class="Book-Title">Science: It’s Special</span> on page <span class="Markup">XX</span> for more detail on the Science mode.)</li>
+			</ul>
+			<p class="Normal">Even with just four modes, the player’ choices of ratings allow for plenty of variety—and that’s not even accounting for skills and stunts, which offer even more differentiation between PCs.</p>
+			<p class="Heading-2">Custom Modes</p>
+			<p class="Normal-First">Supplementing these are custom modes. Optional and usually player-defined, custom modes serve two basic purposes. One, they cover unusual character concepts, like sentient robots or possibly psychotic dinosaurs. Two, they say something very specific about the character in question. A custom mode might combine elements of two or more standard modes, or it might bear no resemblance whatsoever to the spectrum of typical human ability.</p>
+			<p class="Normal">We’ll unpack what all that means later on in this chapter, but for now here are some examples of custom modes.</p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Robot:</span> You’re a mechanical artificial intelligence of some kind. Robo himself is the most obvious example, but that doesn’t mean he has to be the only one.</li>
+				<li class="Bullets"><span class="Strong">Mutant:</span> You’ve been altered by science into something more (or less) than human. </li>
+				<li class="Bullets"><span class="Strong">Secret Agent:</span> You’re an elite operative for a shadowy organization of one kind or another.</li>
+				<li class="Bullets"><span class="Strong">Reporter:</span> You’re a professional journalist of the investigative variety who relies on a sharp eye and sharper instincts to get to the bottom of things.</li>
+			</ul>
+			<p class="Normal">Some of modes will have a bit of thematic overlap, like Intrigue and Secret Agent. That’s perfectly normal and nothing to worry about. No standard mode is wholly unique, and many custom modes will share something in common with one or more standard modes, or even another custom mode the character may have. It’s actually beneficial when they do.</p>
+			<p class="Heading-2">Mode Costs</p>
+			<p class="Normal-First">The cost of a mode equals the total combined cost of its skills. The cost of an individual skill depends on how many <span class="Term">applications</span> it has. The next section, <span class="Book-Title">Skills</span>, has more detail on skills and how their costs are determined.</p>
+			<p class="Normal">For example, here are the costs of our standard action-adventure modes:</p>
+			<table id="table007" class="Basic-Table">
+				<colgroup>
+					<col class="_idGenTableRowColumn-1" />
+					<col class="_idGenTableRowColumn-2" />
+				</colgroup>
+				<tbody>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Mode</span></p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Cost</span></p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Action</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">9</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Banter</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">9</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Intrigue</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">9</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Science</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">3</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="Heading-2">Skills Within Modes</p>
+			<p class="Normal-First">If modes represent broad areas of competence, then <span class="Term">skills</span> are like specialties within those modes. Even so, skills can be pretty broad themselves.</p>
+			<p class="Normal">Skills are the basis for everything your character actually <span class="Emphasis">does</span> in the game that involves challenge and chance (and dice). Like modes, skills are rated on the adjective ladder. The higher the rating, the more effective your character is with the skill.</p>
+			<p class="Heading-3">Trained, Focused, and Specialized Skills</p>
+			<p class="Normal-First">A skill’s rating is limited to three possibilities—equal to its mode’s rating, one step higher than its mode’s rating, or two steps higher than its mode’s rating. Thus, no skill can be rated more than two steps higher than its mode’s rating.</p>
+			<p class="Normal">When you take a mode, you are also <span class="Term">trained</span> in all of its skills—your rating with those skills is equal to the rating of their mode.</p>
+			<p class="Normal">Skill ratings can improve from there, “climbing” the Adjective Ladder. So if you were to improve one of those Action skills from trained to <span class="Term">focused</span>, its rating would be one rung higher than Fair (+2), or Good (+3). If you improved it to <span class="Term">specialized</span>, its rating would be two rungs higher than Fair (+2), or Great (+4).</p>
+			<ul>
+				<li class="Bullets"><span class="Term">Trained</span>: The skill’s rating equals the mode’s rating.</li>
+				<li class="Bullets"><span class="Term">Focused</span>: The skill’s rating is one rung higher than the mode’s rating.</li>
+				<li class="Bullets"><span class="Term">Specialized</span>: The skill’s rating is two rungs higher than the mode’s rating.</li>
+			</ul>
+			<p class="Normal">No skill can be higher than specialized within a given mode. This means the highest skill rating your character can have is Superb (+5)—a specialized skill within their Good (+3) mode.</p>
+			<p class="Normal">Modes you don’t have are rated at Mediocre (+0). Skills in these modes can’t be improved, so they’re all Mediocre (+0) too.</p>
+			<p class="Heading-3">Reinforced Skills</p>
+			<p class="Normal-First">A skill is <span class="Term">reinforced</span> if it’s associated with more than one of your character’s modes. The more it’s reinforced, the higher its starting rating. If a skill is associated with two of your character’s modes, it’s reinforced once—write it down as focused under the higher-rated of the two modes (and <span class="Emphasis">only</span> under that mode). If all three of your character’s modes have the same skill, it’s reinforced twice—write it down as specialized under the character’s highest-rated mode.</p>
+			<p class="Normal">Regardless of how many modes reinforce a skill, it should never appear more than once on your sheet.</p>
+			<p class="Example-start">Your character’s three modes are Good (+3) Action, Fair (+2) Science, and Average (+1) Intrigue. Suppose that all three of these modes contain the Notice skill, which means Notice is reinforced twice. Because it can’t appear more than once in your modes, it will only appear under Action, because Action is the highest-rated mode that contains it. Because it’s reinforced twice, its rating will be equal to Action’s rating plus two, so you have Superb (+5) Notice.</p>
+			<p class="Example-end">Further suppose that Action and Intrigue also both contain the Athletics skill, so Athletics is reinforced once. Again, it can only appear once in your modes, under the highest-rated mode that contains it, so that’ll be Action. And because it’s reinforced once, it’s a focused Action skill, which means its rating is equal to the mode’s rating plus one—in this case, Great (+4).</p>
+			<p class="Heading-3">Improving Skills Within Modes</p>
+			<p class="Normal-First">Reinforcement isn’t the only way for a skill to be rated higher than its mode’s rating. You can also spend excess skill points, whether during character creation, during play, or after an appropriate milestone, to improve skills as well.</p>
+			<table id="table008" class="Basic-Table">
+				<colgroup>
+					<col class="_idGenTableRowColumn-4" />
+					<col class="_idGenTableRowColumn-5" />
+				</colgroup>
+				<tbody>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Improvement</span></p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Cost</span></p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Focus a trained skill</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">1</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Specialize a focused skill</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">2</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Specialize a trained skill</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">3</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="Heading-2">Science: It’s Special</p>
+			<p class="Normal-First">You’ve no doubt noticed that none of these standard skills is particularly scientific in nature (the “sweet science” of fisticuffs notwithstanding), nor is any of them apart from Notice and Will associated with the Science mode.</p>
+			<p class="Normal">That’s because each field of scientific study is its own skill—robotics, physics, exobiology, engineering, mechanics, chemistry, you name it—with the same two actions. And <span class="Emphasis">all</span> of them are associated with the Science mode. In other words, the Science mode has a virtually unlimited number of associated skills, or at the very least way too many to list here.</p>
+			<p class="Normal">When you write the Science mode on your character sheet and give it a rating, all of your Science skills—that includes all fields of science—have that same rating by default. For example, if you have Fair (+2) Science, that means you have Fair (+2) Robotics, Fair (+2) Physics, Fair (+2) Engineering, and so on. You don’t have to write these individual sciences down on your sheet. You can just write something like “All Other Sciences” and leave it at that.</p>
+			<p class="Normal">You can improve any of these Science skills just like you’d improve any other skill in any other mode. So if you have Fair (+2) Science and want to have better than Fair (+2) Robotics, you could bump your Robotics skill up to Good (+3) or Great (+4).</p>
+			<p class="Heading-3">Science Actions and Applications</p>
+			<p class="Normal-First">Every Science skill other than Notice and Will has the following actions and applications:</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Overcome:</span> Know things and solve problems related to the scientific field in question.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Create Advantage:</span> Leverage your scientific knowledge to create or discover details or aspects related to your chosen field, whether by time-consuming research or by suddenly recalling vital information. This lets you do things like recalibrate complex machinery (<span class="Aspect">Hyper-Sensitive Sensors</span>), introduce a new algorithm to a robot’s programming to change its behavior (<span class="Aspect">Human... Friend?</span>), or add a volatile compound to a rocket’s fuel to improve its performance (<span class="Aspect">Almost Too Much Thrust</span>).</p>
+			<p class="Heading-2">Sample Custom Modes</p>
+			<p class="Normal-First">Each of these custom modes includes a list of skills associated with the mode. These skills are taken from the list of standard action-science skills provided earlier.</p>
+			<p class="Normal">Keep in mind that these custom modes are meant to be descriptive, not prescriptive. If your idea of a martial artist doesn’t gel with the one presented here, that’s fine. They’re templates, nothing more.</p>
+			<p class="Heading-2">Martial Artist</p>
+			<p class="Normal-First">A paragon of self-discipline, physical training, and face-punching.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Skills:</span></p>
+			<ul>
+				<li class="Bullets">Athletics</li>
+				<li class="Bullets">Combat</li>
+				<li class="Bullets">Notice</li>
+				<li class="Bullets">Physique</li>
+				<li class="Bullets">Stealth</li>
+				<li class="Bullets">Will</li>
+			</ul>
+			<p class="Heading-2">Pilot</p>
+			<p class="Normal-First">A trained, well-traveled pilot, professional or otherwise.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Skills:</span></p>
+			<ul>
+				<li class="Bullets">Contacts</li>
+				<li class="Bullets">Notice</li>
+				<li class="Bullets">Vehicles</li>
+			</ul>
+			<p class="Heading-2">Reporter</p>
+			<p class="Normal-First">Someone who makes it their business to know other people’s business.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Skills</span></p>
+			<ul>
+				<li class="Bullets">Contacts</li>
+				<li class="Bullets">Empathy</li>
+				<li class="Bullets">Notice</li>
+				<li class="Bullets">Rapport</li>
+				<li class="Bullets">Stealth</li>
+				<li class="Bullets">Will</li>
+			</ul>
+			<p class="Heading-2"><span class="Strong">Robot</span></p>
+			<p class="Normal-First">A generic robot, with no specific assumed function—your average automatic intelligence.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Skills:</span></p>
+			<ul>
+				<li class="Bullets">Athletics</li>
+				<li class="Bullets">Notice</li>
+				<li class="Bullets">Physique</li>
+			</ul>
+			<p class="Heading-2">Secret Agent</p>
+			<p class="Normal-First">A covert operative for a covert agency.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Skills:</span></p>
+			<ul>
+				<li class="Bullets">Burglary</li>
+				<li class="Bullets">Contacts</li>
+				<li class="Bullets">Deceive</li>
+				<li class="Bullets">Notice</li>
+				<li class="Bullets">Stealth</li>
+				<li class="Bullets">Vehicles</li>
+			</ul>
+			<p class="Heading-2">Soldier</p>
+			<p class="Normal-First">A skilled combatant with a military background.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Skills:</span></p>
+			<ul>
+				<li class="Bullets">Athletics</li>
+				<li class="Bullets">Combat</li>
+				<li class="Bullets">Contacts</li>
+				<li class="Bullets">Notice</li>
+				<li class="Bullets">Physique</li>
+				<li class="Bullets">Vehicles</li>
+				<li class="Bullets">Will</li>
+			</ul>
+			<p class="Heading-1">Stunts</p>
+			<p class="Normal-First">Building Stunts</p>
+			<p class="Normal-First">Players are encouraged to create or pick stunts during play as needed, but there’s nothing wrong with deciding on some or all of them before play begins. It’s up to you.</p>
+			<p class="Normal">While there’s no definitive list of stunts—the possibilities being limitless, it would be folly to try to enumerate them all—there’s absolutely a definitive list of what stunts can potentially <span class="Emphasis">do</span>. When in doubt, look to these examples as guidance.</p>
+			<p class="Normal">A stunt only functions when the player wants it to. If for some reason you want to sidestep the advantage a stunt gives you, by all means do so.</p>
+			<p class="Normal">Each stunt confers a single benefit listed below.</p>
+			<p class="Heading-3">Add a Bonus</p>
+			<p class="Normal-First"><span class="Emphasis">Gain a bonus in a narrow circumstance</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Gain a situational +2 bonus to one application of a skill.</p>
+			<p class="Normal">If you phrase this as “+2 to [action] with [skill] when [situation occurs],” you pretty much can’t go wrong.</p>
+			<p class="Bullets"><span class="Strong">Examples:</span></p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Friends in High Places:</span> +2 to overcome with Rapport when socializing at a fancy gathering, such as a ritzy corporate or government function.</li>
+			</ul>
+			<p class="Normal">Alternately, for a stunt with a little more breadth, you can split up that +2 bonus to one application into +1 bonus to <span class="Emphasis">two</span> applications. Those applications can both be for the same skill, or you can assign them to two separate skills strongly connected by a common theme.</p>
+			<p class="Bullets"><span class="Strong">Examples:</span></p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Expert Marksman:</span> +1 to attack or create an advantage with Combat when using a firearm.</li>
+				<li class="Bullets"><span class="Strong">Martial Artist:</span> +1 to create an advantage with Combat or Athletics when fighting unarmed.</li>
+			</ul>
+			<p class="Heading-3">Add a New Action to a Skill</p>
+			<p class="Normal-First"><span class="Emphasis">Use a skill in an unusual way</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Use a skill to do something it normally can’t by adding a new game action to the skill in certain situations. This new action can be one that’s already covered by another skill—effectively letting you use one skill in place of another for the specified circumstance—or one that’s just not available to any skill.</p>
+			<p class="Bullets"><span class="Strong">Examples:</span></p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Backstab:</span> Use Stealth instead of Combat to attack when the target isn’t aware of you.</li>
+				<li class="Bullets"><span class="Strong">Let’s Take It Outside:</span> Use Physique to defend against intimidation.</li>
+			</ul>
+			<p class="Heading-3">Add a Rules Exception to a Skill</p>
+			<p class="Normal-First"><span class="Emphasis">Bend the rules in your favor</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Make a single exception, in a narrow circumstance, for a single skill in a way that doesn’t precisely fit any existing action.</p>
+			<p class="Normal">This is admittedly a pretty wibbly-wobbly rule of thumb, but some stunts simply can’t be classified neatly. For more dramatic effects, it’s a good idea to balance this benefit by requiring the character to spend a fate point, take a consequence, or sacrifice their next action, or limit the effect to once per session. Otherwise, you may find that instead of making the character cooler, the stunt just makes the game less fun. And that’s the opposite of what we’re going for.</p>
+			<p class="Bullets"><span class="Strong">Examples:</span></p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Riposte:</span> When you use Combat to defend in melee and succeed with style, spend a fate point to immediately inflict an attack on your opponent at the shift value of your defense. For example, if you get four shifts on your defense, you’d deal a 4-shift hit to the attacker. You can’t do this again until you have another “next action” to spend (after your skipped turn goes by).</li>
+				<li class="Bullets"><span class="Strong">Mind Over Matter:</span> Once per scene, you may check a mental stress box to absorb physical harm.</li>
+			</ul>
+			<p class="Heading-3">Have a Signature Aspect</p>
+			<p class="Normal-First"><span class="Emphasis">Get a free invoke once per issue</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> One of your character’s aspects is so important to your character, so <span class="Emphasis">integral</span>, that, once per issue, you can invoke it for free.</p>
+			<p class="Normal">The flip side of this is that when the GM compels that aspect, she must offer you two fate points instead of one. However, should you want to refuse the compel, you have to match the GM’s offer, one-for-one. That means you’d have to spend <span class="Emphasis">two</span> fate points to refuse the initial compel.</p>
+			<p class="Normal">Mark the aspect with an asterisk, or write “Signature” in parentheses next to it, as a reminder that it works a bit differently.</p>
+			<p class="Bullets"><span class="Strong">Examples:</span></p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Signature Aspect:</span> Britain’s Most Dangerous Commando</li>
+				<li class="Bullets"><span class="Strong">Signature Aspect:</span> Behold, the Power of Science!</li>
+			</ul>
+			<p class="Heading-3">Personal Hardware</p>
+			<p class="Normal-First"><span class="Emphasis">Own an important possession</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Your character has an iconic possession of some kind.</p>
+			<p class="Normal">This benefit lets you pick from two of the options in the sidebar. If that’s not enough to properly represent your personal hardware, you can take this stunt (and gain its benefit) multiple times.</p>
+			<p class="Normal">In addition, your hardware includes any non-mechanical abilities that seem reasonable. For example, a two-way wristwatch radio gives you the ability to communicate over long distances, just as a jetpack gives you the ability to fly—no numbers or rolling required, unless doing so puts you at risk or in danger.</p>
+			<p class="Bullets"><span class="Strong">Examples:</span></p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Armored Jacket:</span> Armor:2</li>
+				<li class="Bullets"><span class="Strong">Knuckledusters:</span> +1 to Combat to attack when unarmed, Weapon:2</li>
+			</ul>
+			<p class="OGL_Heading-4">Personal Hardware Options</p>
+			<p class="Normal">Pick two:</p>
+			<ul>
+				<li class="Bullets">+1 to one situational application of one skill</li>
+				<li class="Bullets">Weapon:2</li>
+				<li class="Bullets">Armor:1</li>
+				<li class="Bullets _idGenParaOverride-1">Add a new action to a skill (functions once per session)</li>
+			</ul>
+			<p class="Heading-1">Mega-Stunts</p>
+			<p class="Heading-2">What Mega-Stunts Are</p>
+			<p class="Normal-First">In most respects, mega-stunts are like stunts, in that they let you bend the rules in character-specific ways. But mega-stunts can also surpass what stunts normally offer—they can confer superhuman abilities, like extraordinary strength, enhanced sensory perception, or incredible toughness.</p>
+			<p class="Normal">Moreover, unlike stunts, a single mega-stunt can provide more than one benefit.</p>
+			<p class="Normal">However, you can’t take a mega-stunt unless unless you have <span class="Strong">permission</span>.</p>
+			<p class="Normal">To have permission, your character needs a weird mode and an appropriate concept aspect. Both of these must suggest the sorts of benefits that mega-stunts can provide. In turn, your character’s mega-stunts must be logical extensions of the mode and aspect.</p>
+			<p class="Normal">Each mega-stunt takes up one stunt slot, regardless of how many benefits that mega-stunt provides.</p>
+			<p class="Normal">The total number of benefits a PC has affects the GM’s <span class="Term">fate point reserve</span>. See that section for more detail on how that works.</p>
+			<p class="OGL_Heading-4">Mega-Stunts, Stunt Slots, and Refresh</p>
+			<p class="Normal">These rules presume that a PC has a certain number of “stunt slots” instead of paying refresh for them. The exact number varies depending on the power level of the individual game, but a range of one to five slots works for most settings. (Five mega-stunts is more than enough to cover the range of a typical superhero.)</p>
+			<p class="Normal">In place of refresh, these rules assign a flat number of starting fate points to each PC. The specifics of this are up to your group. Possibilities include:</p>
+			<ul>
+				<li class="Bullets">One per aspect the PC has. If a PC starts with one or more of their aspects left blank—say, everything apart from their concept, or their concept and trouble—they’ll start with fewer fate points, but every time the player fills one in during play, they immediately gain a fate point.</li>
+				<li class="Bullets">Make refresh inversely proportional to the number of stunt slots the PC has, from one to five. For example, if the PCs have five stunt slots, their effective refresh is 1. If they have two stunt slots, their effective refresh is 4.</li>
+				<li class="Bullets">Three. Nice round number. It’s simple and people like threes.</li>
+			</ul>
+			<p class="Heading-2">Weaknesses and Costs</p>
+			<p class="Normal-First">Some of these benefits are so powerful that they require a weakness or a cost. These provide a specific circumstance under which one of the PC’s aspects can be invoked or compelled. So they’re similar in function, but flavored in different ways.</p>
+			<p class="Normal">A weakness specifies an attack or effect against which you’re vulnerable—your defense is Mediocre (+0). When writing the mega-stunt on your sheet, indicate a weakness by writing “but weak against...” after the benefit.</p>
+			<p class="Normal">A cost is a minor cost (see Fate Core for more on costs) the GM can introduce by compelling your concept aspect. It’s always a minor cost, but the exact form it takes depends on the PC’s concept aspect, the circumstances, and common sense, and can differ from one instance to another. When writing the mega-stunt on your sheet, indicate a cost by writing “but at a cost” after the absolute benefit.</p>
+			<p class="Normal">When the GM initiates a compel that stems from a weakness or cost, the player can refuse it, as usual.</p>
+			<p class="Heading-2">What Mega-Stunts Can Do</p>
+			<p class="Normal-First">Each benefit provided by a mega-stunt takes one of four basic forms. It can give the character an innate Weapon or Armor rating, provide an absolute ability with one skill to exceed what normal humans can do, render them bulletproof, or duplicate a stunt benefit.</p>
+			<p class="Heading-3">Weapon or Armor Rating</p>
+			<p class="Normal-First">Get a 2-shift bonus to a successful attack or a 1-shift bonus to defend.</p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Gain Weapon:2 or Armor:1 due to some inherent quality.</p>
+			<p class="Normal">Normally, a Weapon or Armor rating is the result of special equipment, like from the Personal Hardware stunt (page <span class="Markup">XX</span>). This benefit, however, is for characters who hit harder or are more resistant to damage simply because of their very nature.</p>
+			<p class="Normal">If you choose a Weapon rating, specify the circumstances under which it applies, such as “when using strength” or “with eyebeams.” If you choose an Armor rating, specify physical or mental harm.</p>
+			<p class="Normal">You can select this stunt benefit more than once for a single mega-stunt. Its effects can be cumulative, or applied to different forms of attack or defense.</p>
+			<p class="Heading-3">Absolute Ability</p>
+			<p class="Normal-First"><span class="Emphasis">Be superior to humans in one area</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Choose a skill. When using that skill for an overcome action, you can exceed what normal humans can accomplish. Under the specified conditions, that action is always considered a success, no roll required.</p>
+			<p class="Normal">You can’t apply this benefit to a skill without the overcome action, such as Combat. (In other words, no fair getting absolute accuracy with an attack.)</p>
+			<p class="Normal">When using your absolute in an opposed roll against an opponent who isn’t on your level—that is, one without an equivalent mega-stunt—you automatically win with a success (as opposed to a tie or a success with style).</p>
+			<p class="Normal">The GM is the final arbiter of where “normal human ability” ends and “superhuman ability” begins. Your PC may be stronger than the world’s strongest human, sure, but is she stronger than the world’s <span class="Emphasis">ten</span> strongest humans, working together against her? Or a giant ape? When in doubt, make a skill roll. (Borderline cases are good opportunities to let the dice decide anyway.)</p>
+			<p class="Normal">When you take this benefit, it always comes with a weakness or cost. (There’s no getting around this—every absolute ability is required to have one or the other.)</p>
+			<p class="Heading-3">Bulletproof</p>
+			<p class="Normal-First"><span class="Emphasis">Ignore a type of damage</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Bullets? They bounce off of you. So do conventional weapons less-powerful than bullets, like swords and vampire teeth. You have Armor:∞ against all of them.</p>
+			<p class="Normal">Roll for the attack and defense as normal. If the attack ties, succeeds, or succeeds with style, the attacker gets a boost. If the defense succeeds with style, the defender gets a boost.</p>
+			<p class="Normal">Let your common sense draw the line between “conventional weapons” and “dangerously unconventional implements of destruction.” As one example—pistols, rifles, and machine guns may only annoy a bulletproof robot, but a simple steel rod becomes a real threat to his safety when wielded by a super-strong warbot, and a high-speed collision with a satellite is nearly enough to destroy him altogether.</p>
+			<p class="Normal">And of course, if the attacker’s intent is to create an advantage, being Bulletproof is irrelevant and the defender has to defend as usual.</p>
+			<p class="Normal">If you need to make a character even <span class="Emphasis">tougher</span>, give them an Armor rating on top of Bulletproof that applies to attacks more powerful than mere bullets.</p>
+			<p class="Normal">A mega-stunt with this benefit requires a weakness or cost, just as with absolute abilities.</p>
+			<p class="OGL_Heading-4">Other -Proofs</p>
+			<p class="Normal">Bulletproof is the most common type of “-proof” found in fiction, but you can easily repurpose the Bulletproof benefit to apply to other types of harm, like Fearproof (immune to threats and other fear-based mental attacks) or Fireproof (immune to fire and high temperatures). Apply the same common sense to these as you would to Bulletproof. For example, even a Fearproof character will have a hard time keeping it together when confronted by a truly extraordinary threat, such as an ancient awakened deity or a world-eating dragon. Under circumstances such as these, it’s totally fine to call for a roll despite being Fearproof (but a bonus to that roll will help the GM’s medicine go down more easily).</p>
+			<p class="Heading-3">Stunt Benefit</p>
+			<p class="Normal-First"><span class="Emphasis">Do what a stunt does</span></p>
+			<p class="Normal-Inline-Header"><span class="Strong">Benefit:</span> Choose one of these stunts: Add a Bonus, Add a Game Action, Add a Rules Exception, Personal Hardware. Add that stunt’s benefit to the mega-stunt.</p>
+			<p class="Normal">Note that Personal Hardware confers bigger Weapon and Armor ratings than the Weapon and Armor Rating stunt benefit above does. That’s intentional</p>
+			<p class="Heading-2">Paying for Mega-Stunts</p>
+			<p class="Normal-Inline-Header"><span class="Strong">To recap:</span> Each mega-stunt takes up one stunt slot. A single stunt has a single benefit, but a single mega-stunt can have two or more benefits.</p>
+			<p class="Normal">So if characters in your game have five stunt slots, one with five stunts and no mega-stunts will have a maximum of five benefits. But a character with mega-stunts can easily end up with <span class="Emphasis">more</span> than five benefits. For example, if a character has two stunts and three mega-stunts, and each of those mega-stunts has two benefits, that’s a total of eight benefits—three more than usual maximum of five.</p>
+			<p class="Normal">When a character has more than the usual maximum of stunt benefits from stunts and mega-stunts, <span class="Strong">add one fate point to the GM’s reserve for each benefit in excess of the usual maximum</span>.</p>
+			<p class="Normal">For example, that PC with the eight benefits? When he’s in a session, the GM gets another three fate points for her reserve. The mere presence of this character means things are harder for everyone.</p>
+			<p class="Normal">See <span class="Book-Title">The GM’s Fate Point Reserve</span> for more on how the GM’s fate point reserve works.</p>
+			<p class="OGL_Heading-4">Option: Voluntary Weaknesses and Costs</p>
+			<p class="Normal">With this option, you can tack a weakness or a cost onto a mega-stunt even if it doesn’t require one. For each of these voluntary costs, reduce the number of fate points added to the GM’s reserve by one, to a minimum of zero. You can’t have both a weakness <span class="Emphasis">and</span> a cost on the same benefit, though.</p>
+			<p class="Heading-1"><a id="_idTextAnchor002"></a><a id="_idTextAnchor003"></a>Invention</p>
+			<p class="Normal-First">The process of inventing involves one or more PCs figuring out what needs to be built, what that thing will actually do in game terms, and what complications will arise as a result. All of this only takes one skill roll—the rest is making choices and playing out their ramifications.</p>
+			<table id="table009" class="Basic-Table">
+				<colgroup>
+					<col class="_idGenTableRowColumn-6" />
+				</colgroup>
+				<tbody>
+					<tr class="Basic-Table _idGenTableRowColumn-7">
+						<td class="Basic-Table">
+							<p class="Normal">Note that these rules aren’t limited to actually “inventing” things—they apply equally well to recreating existing technology, whether strange or familiar.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="Normal">We’ll refer to the thing you’re making as your <span class="Strong">invention</span>, but don’t take that too literally. It could just as easily be a never-before-seen technological wonder as it could a recreation of an existing piece of tech. Whatever it is, broadly speaking, your invention is an item that makes you better at doing something or gives you a new capability. It consists of three basic parts:</p>
+			<ul>
+				<li class="Bullets">A function aspect</li>
+				<li class="Bullets">A flaw aspect</li>
+				<li class="Bullets">One or more stunts or extras</li>
+			</ul>
+			<p class="Normal">Creating an invention happens in five steps:</p>
+			<ul>
+				<li class="Bullets">Determine the invention’s function—its role in the story</li>
+				<li class="Bullets">Define its capabilities—how it fulfills that role</li>
+				<li class="Bullets">Put it together—make a skill roll</li>
+				<li class="Bullets">Pay for it—what you’ll have to do to create the invention</li>
+				<li class="Bullets">Determine its flaw—nobody’s perfect</li>
+			</ul>
+			<p class="Heading-3">Step One: Determine Its Function</p>
+			<p class="Normal-First">This may seem like a given, but before anything else you need to ask yourself what the invention is meant to <span class="Emphasis">do</span>. Think about what it’s going to make possible (or impossible) in the story, and how it’ll accomplish that. Based on your answer, come up with a short statement that addresses it, such as its intended purpose, a straightforward description, or even the invention’s expected role in the story. Whatever it is, keep it brief and focused—<span class="Aspect">Retractable Hypo-Syringe</span> is good. <span class="Aspect">Secret Hidden Needle that has the Power to Poison or Heal</span> is maybe not so good.</p>
+			<p class="Normal">Your answer to this question forms the basis of your invention’s <span class="Strong">function aspect</span>.</p>
+			<p class="Heading-3">Step Two: Define Its Capabilities</p>
+			<p class="Normal-First">Now that you know the invention’s purpose, it’s time to decide how it actually works in game terms, anyway.</p>
+			<p class="Normal">Defining an invention’s capabilities is as simple as giving it stunt benefits, just like mega-stunts. Pack on as many benefits as the invention needs to function the way you want it to, but be aware that the more benefits it has, the more complications it will throw into the story, as seen in Step Three: Make It and Step Four: Costs.</p>
+			<p class="Heading-3">Step Three: Put It Together</p>
+			<p class="Normal-First">Next, pick the skill that seems most relevant to the invention’s construction. If more than one skill can reasonably apply, go with the one with the highest rating.</p>
+			<p class="Normal">The difficulty for this roll starts at Mediocre (+0). Every stunt benefit the invention has increases the difficulty by +2. The more benefits it has, the more complex it is, and the more complications its creation throws into the story.</p>
+			<p class="Normal">Make a note of the roll’s outcome, whether it’s failure, a tie, a success, or a success with style. You’ll need it for the next step.</p>
+			<p class="Normal"><span class="Strong">Failing this roll does not mean you’ll fail to make the thing</span>. You <span class="Emphasis">cannot</span> fail to make it. The skill roll determines not whether you can make it, but what hoops you’ll have to jump through to do so.</p>
+			<p class="OGL_Heading-4">Teamwork</p>
+			<p class="Normal-First">Multiple PCs can work together to create the invention, using the usual teamwork rules (page <span class="Markup">XX</span>), but with one variation. Each additional participating PC adds a +1 bonus to the roll only if they’re bringing a <span class="Emphasis">different</span> relevant skill to the task. In practical terms, this means there’s one acknowledged “expert” who takes the lead, and others with expertise in related fields who lend a hand.</p>
+			<p class="Heading-3">Step Four: Pay For It</p>
+			<p class="Normal-First">To paraphrase a marketing genius with a questionable sense of ethics, every invention is 1% inspiration and 99% perspiration. We call the perspiration part a <span class="Term">catch</span>.</p>
+			<p class="Normal">When we say you have to pay for your invention, it’s not necessarily in terms of cash money. Depending on the nature of your setting or campaign, the PCs may be part of an organization that will pick up the tab, or they may already have the raw materials available and it’s just a matter of putting it all together.</p>
+			<p class="Normal">Typically, a catch is some complication or condition that’ll have to be resolved before the invention can be realized—a series of narrative hurdles that stand between the inventor and the invention.</p>
+			<p class="Normal">Players render payment in two ways. One is increasing the GM’s fate point reserve. The other is accepting one or more catches. We’ll get to the former in a minute, but for now let’s concentrate on the latter. A catch can include:</p>
+			<ul>
+				<li class="Bullets"><span class="Strong">Attention:</span> The process of creating the invention will attract unwanted notice from someone or something whose notice you’d rather not attract. This unwelcome party will involve themselves in the events of the volume or otherwise complicate matters or hamper the PCs’ efforts in some way.</li>
+				<li class="Bullets"><span class="Strong">Bug:</span> The invention has a glitch—either a weakness or a cost. (See <span class="Book-Title">Mega-Stunts</span> for more on weaknesses and costs.)</li>
+				<li class="Bullets"><span class="Strong">Costly:</span> Access to the hardware comes at a steep price, whether in cash, information, or an equitable trade, to be paid to a gatekeeper of some kind. While money will usually be no object for well-funded PCs, large, clandestine transactions rarely go smoothly.</li>
+				<li class="Bullets"><span class="Strong">Facilities:</span> Producing the invention requires a specialized facility, one to which you don’t normally have access. You may have to negotiate for that access, or you may gain it through more “creative” means.</li>
+				<li class="Bullets"><span class="Strong">Help:</span> You can’t do it alone—you need assistance from an outside party, such as a notable expert in the field or another faction. They may require convincing, demand something in exchange for their involvement, or drag their own baggage into the project. <span class="Emphasis">Note:</span> Another PC isn’t “help.” That’s just another PC. (Although it’s a good way to bring in a <span class="Emphasis">new</span> PC, if a player’s looking for a character to play.) This catch means going outside your usual circle of reliable associates.</li>
+				<li class="Bullets"><span class="Strong">Materials:</span> One of the invention’s components is something rare, under lock and key, or otherwise hard to acquire. Getting your hands on it may be an adventure in and of itself.</li>
+				<li class="Bullets"><span class="Strong">Red Tape:</span> This generally involves paperwork—lots of paperwork—as well as follow-up calls, emails, office visits, or the like. This catch isn’t suited to all settings, but if it’s suited to yours, expect it to be a pain.</li>
+				<li class="Bullets"><span class="Strong">Strings:</span> The promise “I owe you one” is ripe with the potential for further trouble. Unlike Costly, which involves immediate payment, or Help, which involves convincing someone to assist you, the Strings catch means ceding power to someone else for short-term gain. You may not know when or where or what they’ll want in return, but rest assured, they won’t forget. Or maybe they want concrete assurances right now—maybe even a contract.</li>
+				<li class="Bullets"><span class="Strong">Time:</span> Producing the invention will take long enough that the situation will worsen and/or someone will gain an advantage against you. Whatever the case, you’ll still finish it in time for it to be useful.</li>
+			</ul>
+			<p class="Normal">For every stunt benefit an invention has, there’s a catch. For example, an invention with four stunt benefits will have four catches, selected from the list above.</p>
+			<p class="Normal">Who chooses these catches? That depends on the outcome of the skill roll from Step Three.</p>
+			<table id="table010" class="Basic-Table _idGenTablePara-1">
+				<colgroup>
+					<col class="_idGenTableRowColumn-8" />
+					<col class="_idGenTableRowColumn-9" />
+				</colgroup>
+				<tbody>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Outcome</span></p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Who chooses?</span></p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Fail</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">The GM chooses them all.</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Tie</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">The GM and player take turns choosing, starting with the GM.</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Success</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">The GM chooses one and the player chooses the rest.</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">Success with Style</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">The player chooses them all.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="OGL_Heading-4">Examples of Catches</p>
+			<p class="Normal">The infection spreads rapidly while you’re working, necessitating a quarantine.</p>
+			<p class="Normal">The robots dig in at several key locations before you can complete the device.</p>
+			<p class="Normal">The only expert who can help is a former enemy.</p>
+			<p class="Normal">The only place with the right equipment to build the hardware is a rival in the tech industry.</p>
+			<p class="Normal">You know exactly what you need--and it’s currently in the hands of a foreign power.</p>
+			<p class="Normal">A government agency “takes an interest” in your work.</p>
+			<p class="Normal">Nearby electronics sometimes shut down briefly when the invention’s powered up and running.</p>
+			<p class="CC-BY_Heading-4">Option: Fewer Catches</p>
+			<p class="Normal">The standard invention rules assume that the PCs will only occasionally invent something, and that it’ll be a collaborative process. However, in games where this isn’t the case—for example, if every session includes a montage of the PCs cobbling together (or stealing) a bunch of mission-specific equipment—all those catches can be too numerous to be useful.</p>
+			<p class="Normal">If you’d rather just have one catch per invention, use these rules instead.</p>
+			<ul>
+				<li class="Bullets">When a player’s roll <span class="Strong">succeeds with style</span>, the players mark two victories.</li>
+				<li class="Bullets">When a player’s roll <span class="Strong">succeeds</span>, the players mark one victory.</li>
+				<li class="Bullets">When a player’s roll <span class="Strong">ties</span>, the players mark one victory and the GM marks one victory.</li>
+				<li class="Bullets">When a player’s roll <span class="Strong">fails</span>, the GM marks two victories.</li>
+			</ul>
+			<p class="Normal">If the players accumulate <span class="Strong">three victories</span> before the GM does, the <span class="Strong">players</span> decide what the catch is. Otherwise, the GM decides.</p>
+			<p class="CC-BY_Heading-4">Serious Catches</p>
+			<p class="Normal">If one of the invention’s extras bundles two or more identical stunt benefits for a larger bonus, such as bundling two Add A Bonus benefits to grant +4 to an action instead of the usual +2, that bundle automatically comes with a <span class="Term">serious catch</span>—a more onerous version of the default.</p>
+			<p class="OGL_Heading-4">Examples of Serious Catches</p>
+			<ul>
+				<li class="Bullets">The infection spreads rapidly while you’re working, claiming some important would-be allies.</li>
+				<li class="Bullets">The robots destroy half of the city before you can complete the device.</li>
+				<li class="Bullets">You need a sizable team of experts beyond what you have available.</li>
+				<li class="Bullets">The only expert who can help is a high-profile rival.</li>
+				<li class="Bullets">The only place with the right equipment to build it is the Cern labs in Geneva.</li>
+				<li class="Bullets">You know exactly what you need—and it’s in Area 51.</li>
+				<li class="Bullets">You don’t just attract attention; a main NPC takes a special interest in your work.</li>
+				<li class="Bullets">The device sporadically emits an unstable and potentially dangerous energy field within a radius of a few dozen feet. (It’s not supposed to do that.)</li>
+			</ul>
+			<p class="OGL_Heading-4">Catches as Aspects</p>
+			<p class="Normal-First">If it makes sense and everyone’s agreeable, a catch can manifest as an aspect. This aspect sticks around for as long as it makes sense in the story. It comes with one free invocation (the GM has dibs), or two free invocations if it’s the product of a serious catch.</p>
+			<p class="Normal">Examples might include:</p>
+			<ul>
+				<li class="Bullets"><span class="Aspect">Down to the Wire</span> (Time)</li>
+				<li class="Bullets"><span class="Aspect">Robot Army Has the Tactical Advantage</span> (Time)</li>
+				<li class="Bullets"><span class="Aspect">Uneasy Working Relationship with Dr. Priddy</span> (Help)</li>
+				<li class="Bullets"><span class="Aspect">On the FBI’s Watch List</span> (Attention)</li>
+				<li class="Bullets"><span class="Aspect">Fluctuating Energy Fields</span> (Bug)</li>
+			</ul>
+			<p class="OGL_Heading-4">Using Catches</p>
+			<p class="Normal">This may seem self-evident, but it’s crucial that the GM <span class="Emphasis">write these catches down</span>. In the short term, feel free to use them to complicate the PCs’ lives when it seems appropriate. Catches like Attention and Strings are especially likely to rear their heads right in the PCs’ faces. You could even include an epilogue in which the authorities demand explanations for the PCs “indiscretions” and “lapses in judgment,” or a cutscene to give the players (but not the PCs) a glimpse of some future trouble brewing for them.</p>
+			<p class="Normal">In the <span class="Emphasis">long</span> term, at the end of the session, go over the catches that haven’t made an appearance in the story yet. Pick any that strike your fancy and hang onto them. At the end of the volume, take a look at all the catches you salvaged. Consider them individually and in combination. Then use them to inspire the pressures for future sessions. The players created these problems for themselves—it’s only right that they should have to deal with the fallout.</p>
+			<p class="OGL_Heading-4">Adding to the GM’s Reserve</p>
+			<p class="Normal-First">The other payment for the invention is an increase in the GM’s fate point reserve. Add fate points to the GM’s reserve equal to invention’s <span class="Term">quality</span>. This is equal to the number of the invention’s stunt benefits <span class="Emphasis">minus</span> the number of Bugs. These fate points come from the fate point slush fund, not from the players. See <span class="Book-Title">The GM’s Reserve</span> (page <span class="Markup">XX</span>) for details on how the GM’s reserve works.</p>
+			<p class="Heading-3">Step Five: Determine Its Flaw</p>
+			<p class="Normal-First">Nothing is <span class="Emphasis">perfect</span>. Every invention will have some sort of drawback or problem associated with it. That’s what your invention’s <span class="Term">flaw aspect</span> represents.</p>
+			<p class="Normal">While the player determines the invention’s function aspect, the flaw is up to the GM. The GM can either do this immediately, as soon as Step Four is complete, or pay a fate point to the player to do it at a later point in the story.</p>
+			<p class="Normal">Note that flaws aren’t the same as Bugs as described in Step Four, above. Bugs are weird, unpredictable anomalies that plague the invention’s function—more nuisances than anything else—whereas a good flaw is fundamental to the invention’s construction or operation, or a necessary limitation of available technology. GMs, think of how you might compel the flaw aspect to put the players in an undesirable position or complicate that climactic scene when the invention takes center stage.</p>
+			<p class="Normal">Examples include:</p>
+			<ul>
+				<li class="Bullets"><span class="Aspect">Weighs a Ton</span></li>
+				<li class="Bullets"><span class="Aspect">Massive Power Requirements</span></li>
+				<li class="Bullets"><span class="Aspect">Distinctive Energy Signature</span></li>
+				<li class="Bullets"><span class="Aspect">Uses Broadband Radio Signals</span></li>
+				<li class="Bullets"><span class="Aspect">Strong Electromagnetic Field</span></li>
+			</ul>
+			<p class="Heading-1">Brainstorms</p>
+			<p class="Normal-First">In a brainstorm, the PCs (and their players) spitball, make observations, or run tests and/or experiments in an attempt to formulate a workable hypothesis about a phenomenon. This can take a few minutes, a few days, or a few weeks. It all depends on the context of the scene.</p>
+			<p class="Normal">Ideally, the result of all of this is a <span class="Term">hypothesis</span>. And because we’re talking about highly trained and talented characters, <span class="Emphasis">it is always true</span>. In other words, whatever explanation the players collectively establish will steer the course of the story. This is accomplished through a short series of skill rolls (usually involving whatever sciences the PCs can bring to bear) made by all players at the table who choose to participate. Characters will try to establish facts about the situation, then use those facts to develop their hypothesis.</p>
+			<p class="Normal">If they <span class="Emphasis">don’t</span> establish enough facts to come up with a workable hypothesis, then the problem remains a mystery, which the GM gets to enforce with an aspect.</p>
+			<p class="Heading-3">Step 1: Begin the Brainstorm</p>
+			<p class="Normal-First">Ideally, a brainstorm begins when one player uses a leading phrase in the course of normal conversation and roleplaying. This phrase could be something like “What do you think’s going on here, Doctor?” or “So how do we stop it?” That’s everyone’s cue (but especially the GM’s) to start brainstorming.</p>
+			<p class="Normal">If this <span class="Emphasis">doesn’t</span> happen, though, that’s okay. It’s equally fine for the GM or a player to just come out and say, “Hey, how about a brainstorm?”</p>
+			<p class="Normal">Everyone taking part cites a reason why they’re getting involved by compelling a relevant aspect. In other words, everyone gets a fate point just for participating, and everyone who wants to participate can come up with an excuse to do so with a little effort.</p>
+			<p class="Heading-3">Step Two: Establish the First Fact</p>
+			<p class="Normal-First">Next, all participants roll <span class="Emphasis">simultaneously</span> to create an advantage using a relevant skill against a difficulty of Good (+3). Each player can (and is encouraged to) use a different skill. The relevance of the skill here will depend entirely on the situation at hand. In any case, it should be a skill that covers something the player will want to talk about more, or that sparks an idea.</p>
+			<p class="Normal">Whoever succeeds <span class="Emphasis">and</span> has the highest result (make a note of number) is the “winner.” The winner gets to do two things. First, they record one or more victories, depending on the margin of success.</p>
+			<table id="table011" class="Basic-Table _idGenTablePara-1">
+				<colgroup>
+					<col class="_idGenTableRowColumn-10" />
+					<col class="_idGenTableRowColumn-11" />
+					<col class="_idGenTableRowColumn-12" />
+				</colgroup>
+				<tbody>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Margin</span></p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Result</span></p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Victories</span></p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">None</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Fail</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">0</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">0</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Tie</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">1, at a cost</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">1-2</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Success</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">1</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">3+</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Success with Style</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">2</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="Normal">The cost on a tie is up to the GM to determine (see <span class="Book-Title">Fate Core</span>, <span class="Book-Title">Outcomes and Actions</span>), but it should always be a minor cost.</p>
+			<p class="Normal">Second, they get to introduce a <span class="Term">fact</span>. This takes the form of a situation aspect, and must follow three guidelines:</p>
+			<ul>
+				<li class="Bullets">It clearly derives from the skill used to create it.</li>
+				<li class="Bullets">It clearly relates to the situation.</li>
+				<li class="Bullets">It can be stated as an objective fact—an observation of something in the scene, a remembered bit of research, or some other piece of factual information that relates to the situation.</li>
+			</ul>
+			<p class="Normal">In any event, the fact doesn’t have to be something previously established in the fiction. Whether it comes from something the PCs have already done or seen, or whether it’s something the player has invented from whole cloth, it’s equally valid in the brainstorm.</p>
+			<p class="Normal">Conversely, the fact should <span class="Emphasis">not</span> be:</p>
+			<ul>
+				<li class="Bullets">A hypothesis all on its own.</li>
+				<li class="Bullets">A personal opinion instead of a fact.</li>
+			</ul>
+			<p class="Normal">If no one succeeds on the roll, nobody establishes a fact or places an aspect—nothing useful comes out of that segment of the discussion, and it’s back to Square One.</p>
+			<p class="Normal">If there’s a <span class="Emphasis">tie</span> for the highest total, each tying player gets to establish a fact, but only one victory is scored.</p>
+			<p class="Heading-3">Step 3: Establish the Second Fact</p>
+			<p class="Normal-First">Establishing a second fact proceeds much like establishing the first fact did: everyone picks a skill and simultaneously rolls it. It can be the same skill or a different skill, as long as it still makes sense in context.</p>
+			<p class="Normal">The difficulty for this second roll is equal to the winning total from the <span class="Emphasis">first</span> roll. For example, if the winner of the first roll got a Superb (+5), the difficulty for the second roll is also Superb (+5).</p>
+			<p class="Normal">This represents the amount of effort everyone’s putting forth to figure things out. Every victory scored represents a minor breakthrough.</p>
+			<p class="Normal">If no one won the first roll, the difficulty for the second roll is Good (+3).</p>
+			<p class="Normal">If a new situation aspect was created during the first roll, it can be invoked as usual. If it has one or two free invocations, whoever created it gets first dibs, or they can hand it off to someone else.</p>
+			<p class="Normal">The only restriction on using this new aspect is that if it’s invoked by the winner of the second roll, the new fact and aspect they create <span class="Emphasis">must</span> take the invoked aspect into account. It can’t contradict or wildly diverge from what the invoked aspect has established as a truth in the fiction.</p>
+			<p class="Normal">For example, if you invoke <span class="Aspect">Distinctive Energy Signature</span> and win the roll, you can’t then put the aspect <span class="Aspect">Strange Lack of Energy Signatures</span> on the brainstorm.</p>
+			<p class="Heading-3">Step 4: Establish the Third Fact</p>
+			<p class="Normal-First">Go back to Step 3, rinse, and repeat.</p>
+			<p class="Normal">The difficulty for this roll is the winning total from the second roll, if there was one, or Good (+3), if there wasn’t.</p>
+			<p class="OGL_Heading-4">Competing Agendas</p>
+			<p class="Normal">At times, the PCs may be less interested in working together than in one-upping each other. No problem. Disagreements happen. And because whoever gets to form the hypothesis at the end gets to steer the story in a particular direction of their choosing, players might very well want to vie for the privilege.</p>
+			<p class="Normal">Using this optional rule, each player records their <span class="Emphasis">own</span> victory total, separate from their colleagues. Everyone still rolls simultaneously.</p>
+			<p class="Normal">Players can also choose to back someone else’s horse by giving their victories to a colleague, so long as that colleague has already established a fact and placed a situation aspect on the brainstorm. This only applies to recording victories—the player who <span class="Emphasis">wins</span> the roll still establishes a fact and an aspect. These <span class="Emphasis">must</span> support whatever facts the colleague in question has already established during the brainstorm.</p>
+			<p class="Normal">Be warned, though: all this competition will definitely draw out the brainstorm, so make sure you have a consensus before starting down this path.</p>
+			<p class="Heading-3">Step 5: Form a Hypothesis</p>
+			<p class="Normal-First">If the PCs rack up at least three victories, everyone makes one last roll. There’s no difficulty number—all you care about is who has the highest total.</p>
+			<p class="Normal">There are several possibilities for this final roll, including:</p>
+			<ul>
+				<li class="Bullets">Each player must select a skill already used in the brainstorm.</li>
+				<li class="Bullets">All players roll the same skill, selected by the GM.</li>
+				<li class="Bullets">All players roll Will (see <span class="Book-Title">Fate Core</span>), or another standard skill that reflects pure mental ability or fortitude.</li>
+				<li class="Bullets">The players roll 4dF with no skill bonus. Instead, each player gets a +2 bonus to their roll for each fact they contributed to the brainstorm.</li>
+			</ul>
+			<p class="Normal">Whoever wins this final roll gets to come up with a hypothesis that dictates what’s actually going on. <span class="Emphasis">This</span><span class="Emphasis"> becomes the truth of the situation</span>. The hypothesis must take into account and build on the facts already generated during the brainstorm.</p>
+			<p class="Normal">In other words, it doesn’t come out of nowhere—everyone who scored at least one victory in the brainstorm ends up having a hand in the hypothesis.</p>
+			<p class="Normal">The hypothesis becomes an aspect, like <span class="Aspect">The Washington Monument Has Developed Artificial Intelligence</span>, or <span class="Aspect">Exposure to Radiation Has Turned the Ants into Giants!</span> All the situation aspects established during the brainstorm go away when the hypothesis aspect is placed. The hypothesis is an amalgam of all of those aspects.</p>
+			<p class="Normal">The number of free invocations on the hypothesis aspect (if any) depends on how many total victories were scored in the brainstorm, as shown on the table.</p>
+			<table id="table012" class="Basic-Table _idGenTablePara-1">
+				<colgroup>
+					<col class="_idGenTableRowColumn-2" />
+					<col class="_idGenTableRowColumn-13" />
+				</colgroup>
+				<tbody>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Victories</span></p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data"><span class="Strong">Result</span></p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">0-2</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Failure—it’s a mystery!</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">3</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Tie—hypothesis aspect</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">4-5</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Success—hypothesis aspect with one free invocation</p>
+						</td>
+					</tr>
+					<tr class="Basic-Table _idGenTableRowColumn-3">
+						<td class="Basic-Table">
+							<p class="Data">6</p>
+						</td>
+						<td class="Basic-Table">
+							<p class="Data">Success with Style—as Success, but two free invocations</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="Normal">If the PCs <span class="Emphasis">haven’t</span> scored at least three victories, the phenomenon defies scientific explanation, at least for now. They’ve failed to shed any light on the situation, and now they’re a little worse off for it.</p>
+			<p class="Normal">In this case, instead of a hypothesis, the <span class="Emphasis">GM</span> places an aspect on the game to reflect the team’s utter lack of comprehension—something like <span class="Aspect">Science Can’t Explain It!</span> or <span class="Aspect">Nobody Said Anything About Ghosts</span>.</p>
+			<p class="Normal">Any situation aspects generated during the brainstorm go away, but the facts remain—the GM will need them (see below).</p>
+			<p class="Heading-2">The GM’s Role</p>
+			<p class="Normal-First">So if the players set difficulties and discuss possibilities and argue amongst themselves, what’s your role in all this, GM, apart from sitting back and enjoying the show?</p>
+			<p class="Normal">Right off the bat, let’s establish that there’s nothing wrong with sitting back and enjoying shows. That’s just a given. You work hard, GM. No shame in taking a little break.</p>
+			<p class="Normal">That said, pay attention to the facts and hypothesis the players come up with, because you’re going to need to incorporate them into the story going forward. If you need a little time to determine how to do that, just let the players know. “Hey everyone, you’ve kinda thrown me for a loop here. Let’s take five so I can figure it out.”</p>
+			<p class="Normal">When the players are in competition, though, you’ll have more of an opportunity to meddle in their affairs. It’s easy to do: compel their aspects.</p>
+			<p class="Normal">“Aren’t you a <span class="Aspect">Graduate of the Institute of Magical Arts</span>? Are you really going to go along with this scientific gobbledy-gook your colleagues are spouting?”</p>
+			<p class="Normal">“Seems like a <span class="Aspect">Team Player</span> wouldn’t be so adamant about advancing his own ideas when an associate’s have already gained traction. I don’t know; maybe it’s just me.”</p>
+			<p class="Normal">“Strong and weak forces? Really? And <span class="Emphasis">not</span> the Freemasons? Does that sound like something a <span class="Aspect">Conspiracy Theorist</span> would buy into?”</p>
+			<p class="Normal">Mess with them as much or as little as you like—but be mindful of their reactions. If they’re not on the same page as you, back off.</p>
+			<p class="OGL_Heading-4">Brainstorming Options</p>
+			<p class="Normal">Combine a brainstorm with an action or combat scene whenever possible. Brainstormers can’t participate in any other part of the scene other than the brainstorm. When a brainstormer’s turn comes up, <span class="Emphasis">everyone</span> who’s brainstorming makes their roll. And don’t be afraid to have your NPCs target the brainstormers. This gives those who can’t or don’t want to participate something vitally important to do—usually, keep everyone else alive.</p>
+			<p class="Normal">In addition to the above, to really drive home that a rational, scientific discussion is more difficult when it’s raining lead, consider making the brainstorm rolls <span class="Emphasis">opposed</span> by the NPCs in the scene rather than having the players roll against a static difficulty number. Careful, though—if you take an active role like this in the brainstorm, your goal should be to make the brainstorm more costly for the players, not to foil them at every turn.</p>
+			<p class="Normal">Normally, a brainstorm starts with a question and a compel. Instead of privileging the science-types this way, consider the reverse—compelling PCs to <span class="Emphasis">fight</span> instead. This really only makes sense if the group isn’t especially combat-capable, or if they’re just desperate to sort out the mystery and would rather do anything but fight.</p>
+			<p class="Normal">Alternately, compel <span class="Emphasis">everyone</span>, but let the players choose the aspect. Their choice will determine whether they’ll be thinking or fighting—it’s largely a matter of flavor. Either way, everyone gets a fate point out of it, so this is a good option if the group’s fate points are running low.</p>
+			<p class="Normal">Spread the brainstorm out over several scenes instead of doing it all at once. The first time a player speaks the magic words—“What’s <span class="Emphasis">really</span> going on here?” or the like—begin the brainstorm, but <span class="Emphasis">after</span> that only continue it when the players have encountered some new evidence or information. This gives the non-brainstormers little “breaks” here and there instead of sitting silent for what basically amounts to an entire scene. The other advantage of this approach is that it leaves room for each fact in the brainstorm to have its own effect on the narrative, as opposed to being a mere stepping-stone to the hypothesis.</p>
+			<p class="Heading-1">Mission Briefings</p>
+			<p class="Normal-First">Mission briefings, like brainstorms, give players a concrete way to collectively steer the narrative. However, instead of answering the question “What’s going on here?”, a mission briefing asks the players “What stands between you and your objective?”</p>
+			<p class="Normal">During a mission briefing, the players take turns inventing expected obstacles and resistance they expect their characters to face in the course of achieving their goal. They also indirectly tell the GM what sorts of things they’d like to do during the mission by choosing what skills will be especially relevant. This also generates a supply of communal fate points that can be used during the mission, with certain restrictions.</p>
+			<p class="Heading-2">Running a Mission Briefing</p>
+			<p class="Normal-First">Typical mission briefings occur in the following steps: <span class="Strong">mission overview</span>, <span class="Strong">expected obstacles</span>, and <span class="Strong">resource allocation</span>.</p>
+			<p class="Heading-3">Step One: Mission Overview</p>
+			<p class="Normal-First">Start off by giving the players a basic overview of the mission, starting with the chief objective and including some other useful intel, like schematics, blueprints, NPC names, or whatever might be relevant. But don’t make it too extensive or detailed—think about what the PCs would or could have already learned prior to setting off. And don’t shy away from a little misinformation or faulty intel. Don’t assume whatever it was they’ve already learned was actually <span class="Emphasis">correct</span>. The best missions keep the PCs on their toes.</p>
+			<p class="Normal">Then name the mission—something along the lines of “Operation [Blank]” or “The Quest for the [Gribble].” If you’re stuck, do what Fate GMs always do and ask the players. It doesn’t have to sound cool. In fact, sometimes it’ll probably ring truer if it <span class="Emphasis">doesn’t</span>.</p>
+			<p class="Normal">Write the mission name on an index card—this is the <span class="Term">mission aspect</span>. This aspect has no free invocations. Make sure the players know that. Leave room on the card for more stuff, because you’ll be writing a few more things on it.</p>
+			<p class="Heading-3">Step Two: Expected Obstacles</p>
+			<p class="Normal-First">Here’s where the GM hands it over to the players to fill in some details.</p>
+			<p class="Normal">Pick a player, or ask for a volunteer. Have them describe an obstacle the party’s expected to encounter in pursuit of their mission. Take note of this. You’re not obligated to include it verbatim—bad intel is a thing!—but as an indication of what each player would like to have the opportunity to do during the mission, it’s invaluable. If you don’t include their obstacle exactly as described, at least replace it with something with a similar feel.</p>
+			<p class="Normal">Next, have the player pick a skill, and explain why or how this skill will be vital to the mission’s success. Then write the name of that skill on the mission aspect’s index card. These skills are called <span class="Term">mission skills</span>. (Their use is described in the next section, <span class="Book-Title">Resource Allocation</span>.) Go around the table until every player has described an obstacle and chosen a mission skill.</p>
+			<p class="Normal">Let them know they’re free to come up with whatever obstacles they like, but they <span class="Emphasis">must</span> flow from the chief objective or other obstacles that have already been established. Use logic and common sense. If it’s a bit of a stretch, that’s fine, but direct contradictions are right out.</p>
+			<p class="Normal">These obstacle descriptions don’t have to occur in chronological order, either. Players can say things like “But before that” or “Next” to indicate when something during the mission might happen, but there’s no obligation to treat the order in which the obstacles are presented as some sort of timeline.</p>
+			<p class="CC-BY_Heading-4">Keeping It Real</p>
+			<p class="Normal">If there’s a third party delivering a mission to the PCs, like a shady wizard or a Mr. Johannson, encourage the players to present their obstacles as if they were that person. An easy way they can do this is to preface their obstacle descriptions with phrases like “We have reason to believe” or “Intel indicates” or “According to our informant”—that kind of thing. Not only does this give the mission briefing the right feel, it also highlights that none of this is a certainty.</p>
+			<p class="OGL_Heading-4">Step Three: Resource Allocation</p>
+			<p class="Normal-First">For each mission skill, the player who contributed it makes a roll. The specifics of this roll, such as how it’s modified or what its difficulty is, can vary depending on the setting. Here are a few possibilities:</p>
+			<ul>
+				<li class="Bullets">If the players belong to an organization that’s providing this information to them, use a skill related to that organization—or, if the organization itself has skills, use the one that’s most relevant to the mission briefing. For example, if the Academia Magicka has skills in Coffers, Guards, Scholars, and Spies, the most appropriate skill would probably be Spies.</li>
+				<li class="Bullets">All players roll the same skill, chosen by the GM. This is best if the PCs are thematically similar, such as a group of soldiers or psychics, and that the information they’re receiving was either provided by them in an implied, off-camera scene. Alternatively, it could be that the person briefing them isn’t necessarily being straightforward, and the roll represents trying to separate lies from truth.</li>
+				<li class="Bullets">Each player rolls the mission skill they’ve contributed. This is best if the players are encouraged to pick mission skills that play to their own strengths, and if you’re less concerned with having a strong connection to the fiction than you are with making a fun little mini-game out of it.</li>
+				<li class="Bullets">Each player rolls 4dF, no modifiers. This is best if the situation is unpredictable and there are no guarantees.</li>
+			</ul>
+			<p class="Normal">The default difficulty is Good (+3). (If everyone’s doing a straight 4dF roll, it’s a good idea to drop it to Average (+1) or Mediocre (+0), or this whole thing will be an exercise in futility.)</p>
+			<p class="Normal">Modify this difficulty by any factors the GM or players find relevant. Some examples include:</p>
+			<ul>
+				<li class="Bullets">Proposed obstacle seems like a natural extension of the chief objective or other obstacles: +0</li>
+				<li class="Bullets">Proposed obstacle makes a leap in logic from the chief objective: +2</li>
+				<li class="Bullets">Proposed obstacle seems iffy in the context of another proposed obstacle: +1 per obstacle</li>
+			</ul>
+			<p class="Normal">Note that nothing <span class="Emphasis">lowers</span> the starting difficulty.</p>
+			<p class="Normal">For each success, place one fate point on the mission aspect. For each success with style, place two fate points on the mission aspect.</p>
+			<p class="Normal">On a tie, the mission aspect gets a fate point, but at a minor cost. This is a good excuse to decide the reported obstacle in question is the result of miscommunication or deception.</p>
+			<p class="Normal">On a failure, either the mission aspect doesn’t get any fate points, or it gets one fate point at a <span class="Emphasis">serious</span> cost. This is the player’s choice, as usual. As with a tie, the cost will be something that occurs during the mission itself, so make a note of it.</p>
+			<p class="Normal">Don’t hold back on a serious cost. Make it something truly dangerous, like maybe the targets are expecting the PCs, or their shady wizard friend feeding them this information is secretly in thrall to the Dark Lord. A serious cost during this phase of the mission briefing could easily change the entire nature of the mission—unbeknownst to the players, of course.</p>
+			<p class="Heading-3">The Mission Briefing in Play</p>
+			<p class="Normal-First">The fate points on the mission aspect are a communal supply to be spent by players when invoking an aspect—<span class="Emphasis">any</span> aspect—for a bonus or reroll, but <span class="Strong">only when using a mission skill</span>. This is their only use—making the PCs more effective with the skills they’d anticipated would be crucial to the mission’s success. The mission aspect’s fate points can’t be spent to refuse compels, pay for stunts that require fate points to activate, or anything else that might be done with fate points during play.</p>
+			<p class="Normal">Once the mission aspect’s fate points are gone, they’re gone—preparation can only get you so far.</p>
+			<p class="OGL_Heading-4">It’s The Economy, GM</p>
+			<p class="Normal">It’s important to retain these restrictions on the use of the mission aspect’s fate points for two major reasons. One, handing the players a pile of fate points is not to be done lightly. You’ve probably heard or read that fate points should flow like water between the players and GM during a Fate game, and that’s true. But that’ll only happen if the players actually <span class="Emphasis">need</span> those fate points, a condition that giving them <span class="Emphasis">extra</span> fate points is likely to endanger unless you’re careful. Any reasonable limits on the use of these “free” fate points are virtually necessary to maintain the fate point economy that lies at (or close to) the heart of a good Fate game.</p>
+			<p class="Normal">Two, they’re not all <span class="Emphasis">that</span> limiting, really. All they really do is encourage the players to use the skills they were excited about using in the first place. It might feel subversive to them, but the upshot is that the PCs will be a bit more effective with the mission skills than with other skills. It’ll be almost as if the team was specifically put together because of their complementary skillsets. Which, y’know, they almost certainly <span class="Emphasis">were</span>, in the fiction. In the end, these constraints enforce the narrative, and that’s what we want anyway, so it’s a win-win.</p>
+		</div>
+	</body>
+</html>
