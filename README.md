@@ -17,7 +17,7 @@ You'll find the following rules in this project:
 
 # How to use this project
 
-If you're looking for the Fate SRD rules in a clean text format, this is the place. The files in the `docs` folder have everything in several formats, e.g. markdown and HTML.
+If you're looking for the Fate SRD rules in a clean text format, this is the place. The files in the `docs` folder have everything in several formats, e.g. markdown, HTML, and Docx (Word).
 
 [Download Files](https://github.com/amazingrando/fate-srd/archive/master.zip)
 
@@ -27,6 +27,7 @@ If you are looking for the 100% official SRD rules, you can find them at http://
 
 - `docs/markdown` folder includes the docs in markdown format
 - `docs/html` folder includes the docs in HTML format
+- `docs/word` folder includes the docs in DOCX (Word) format
 - `source` contains copies of the files provided at the licensing link above.
 
 # Technical and nerdy things
