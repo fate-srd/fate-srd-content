@@ -7,11 +7,23 @@
   var markdown = require('gulp-markdown');
   var prettify = require('gulp-prettify');
   var dest = require('gulp-dest');
+  var pandoc = require('gulp-pandoc');
 
   gulp.task('md', function () {
     return gulp.src('docs/markdown/**.md')
       .pipe(markdown())
       .pipe(gulp.dest('docs/html'));
+  });
+
+  gulp.task('docs', function() {
+    gulp.src('docs/markdown/*.md')
+      .pipe(pandoc({
+        from: 'markdown',
+        to: 'html5',
+        ext: '.html',
+        args: ['--smart']
+      }))
+      .pipe(gulp.dest('docs/word/'));
   });
 
   gulp.task('replace', function(){
@@ -103,11 +115,5 @@
       .pipe(dest('docs/markdown', {ext: '.md'}))
       .pipe(gulp.dest('./'));
   });
-
-  // gulp.task('prettify', function() {
-  //   gulp.src('source/*.html')
-  //     .pipe(prettify({indent_size: 2}))
-  //     .pipe(gulp.dest('prettyHTML'))
-  // });
 
 })();

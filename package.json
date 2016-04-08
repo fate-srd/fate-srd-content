@@ -7,7 +7,7 @@
     "gulp": "^3.9.0",
     "gulp-dest": "^0.2.3",
     "gulp-markdown": "^1.2.0",
-    "gulp-prettify": "^0.4.0",
+    "gulp-pandoc": "^0.2.2",
     "gulp-replace": "^0.5.4"
   }
 }
