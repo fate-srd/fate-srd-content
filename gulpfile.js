@@ -25,6 +25,7 @@
     exec('pandoc -s -S docs/markdown/sails-full-of-stars-SRD.md -o docs/word/sails-full-of-stars-SRD.docx');
     exec('pandoc -s -S docs/markdown/three-rocketeers-fate-conspiracies-SRD.md -o docs/word/three-rocketeers-fate-conspiracies-SRD.docx');
     exec('pandoc -s -S docs/markdown/three-rocketeers-no-skill-swashbuckling-SRD.md -o docs/word/three-rocketeers-no-skill-swashbuckling-SRD.docx');
+    exec('pandoc -s -S docs/markdown/venture-city.md -o docs/word/venture-city.docx');
   })
 
   gulp.task('replace', function(){
@@ -37,7 +38,7 @@
       .pipe(replace('</head>',''))
       .pipe(replace('<meta charset="utf-8" />',''))
       .pipe(replace(/<title>((.)*?)<\/title>/g,''))
-      .pipe(replace(/<body id="(NoSkill|FrontierSpirit|Fate_Conspiracies|Sails_Full_of_Stars_SRD|GodsSRD)" lang="en-US">/g,''))
+      .pipe(replace(/<body id="(NoSkill|FrontierSpirit|Fate_Conspiracies|Sails_Full_of_Stars_SRD|GodsSRD|Open_Source_Chunk)" lang="en-US">/g,''))
       .pipe(replace(/<link href="((.)*?).css" rel="stylesheet" type="text\/css" \/>/g,''))
       .pipe(replace('',''))
       .pipe(replace('',''))
