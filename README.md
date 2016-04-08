@@ -19,7 +19,7 @@ You'll find the following rules in this project:
 
 If you're looking for the Fate SRD rules in a clean text format, this is the place. The files in the `docs` folder have everything in several formats, e.g. markdown and HTML.
 
-[Download](https://github.com/amazingrando/fate-srd/archive/master.zip)
+[Download Files](https://github.com/amazingrando/fate-srd/archive/master.zip)
 
 If you are looking for the 100% official SRD rules, you can find them at http://www.faterpg.com/licensing/. That said, the files in the `source` folder are copies of those files.
 
@@ -28,6 +28,13 @@ If you are looking for the 100% official SRD rules, you can find them at http://
 - `docs/markdown` folder includes the docs in markdown format
 - `docs/html` folder includes the docs in HTML format
 - `source` contains copies of the files provided at the licensing link above.
+
+# Technical and nerdy things
+
+This section is for formatting and editing the files from source to the many output formats. If you're just looking to use or read the files then ignore this section.
+
+- Install the project with `npm install`
+- Install Pandoc with `brew install pandoc`
 
 # License
 
