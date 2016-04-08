@@ -15,6 +15,14 @@ You'll find the following rules in this project:
 - Fate Conspiracies (from The Three Rocketeers) System Reference Document
 - No-Skill Swashbuckling (from The Three Rocketeers) System Reference Document
 
+# How to use this project
+
+If you're looking for the Fate SRD rules in a clean text format, this is the place. The files in the `docs` folder have everything in several formats, e.g. markdown and HTML.
+
+[Download](https://github.com/amazingrando/fate-srd/archive/master.zip)
+
+If you are looking for the 100% official SRD rules, you can find them at http://www.faterpg.com/licensing/. That said, the files in the `source` folder are copies of those files.
+
 # Project structure
 
 - `docs/markdown` folder includes the docs in markdown format
