@@ -7,7 +7,6 @@
   var markdown = require('gulp-markdown');
   var prettify = require('gulp-prettify');
   var dest = require('gulp-dest');
-  var pandoc = require('gulp-pandoc');
   var exec = require('child_process').exec;
 
   gulp.task('md', function () {
@@ -27,8 +26,6 @@
     exec('pandoc -s -S docs/markdown/three-rocketeers-fate-conspiracies-SRD.md -o docs/word/three-rocketeers-fate-conspiracies-SRD.docx');
     exec('pandoc -s -S docs/markdown/three-rocketeers-no-skill-swashbuckling-SRD.md -o docs/word/three-rocketeers-no-skill-swashbuckling-SRD.docx');
   })
-    
-
 
   gulp.task('replace', function(){
     gulp.src(['source/*.html'])
