@@ -9,13 +9,26 @@
   var dest = require('gulp-dest');
 
   gulp.task('md', function () {
-    return gulp.src('markdown/**.md')
+    return gulp.src('docs/markdown/**.md')
       .pipe(markdown())
-      .pipe(gulp.dest('final-html'));
+      .pipe(gulp.dest('docs/html'));
   });
 
   gulp.task('replace', function(){
     gulp.src(['source/*.html'])
+      // Remove specific cases (sometimes this is easier than figuring out regexp)
+      .pipe(replace('<a href="NoSkill.html#_idTextAnchor002">page&#160;8</a>','page 8'))
+      .pipe(replace('<!DOCTYPE html>',''))
+      .pipe(replace('<html xmlns="http://www.w3.org/1999/xhtml">',''))
+      .pipe(replace('<head>',''))
+      .pipe(replace('</head>',''))
+      .pipe(replace('<meta charset="utf-8" />',''))
+      .pipe(replace(/<title>((.)*?)<\/title>/g,''))
+      .pipe(replace(/<body id="(NoSkill|FrontierSpirit|Fate_Conspiracies|Sails_Full_of_Stars_SRD|GodsSRD)" lang="en-US">/g,''))
+      .pipe(replace(/<link href="((.)*?).css" rel="stylesheet" type="text\/css" \/>/g,''))
+      .pipe(replace('',''))
+      .pipe(replace('',''))
+
       // Formating
       .pipe(replace('<p class="Heading-1">','\n# '))
       .pipe(replace('<p class="CC-BY_Heading-1">','\n# '))
@@ -50,9 +63,6 @@
       // Remove anchors
       .pipe(replace(/<a id="((.|\n)*?)"><\/a>/g,''))
 
-      // Remove specific cases (sometimes this is easier than figuring out regexp)
-      .pipe(replace('<a href="NoSkill.html#_idTextAnchor002">page&#160;8</a>','page 8'))
-
       // Remove class and ids
       .pipe(replace(/(class|id)=\"(.*?)\"/g, ''))
       // Remove extra spaces caused from removing classes and ids
@@ -82,9 +92,15 @@
 
       // Clean up newlines
       .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+
 
       // Put output in markdown folder
-      .pipe(dest('markdown', {ext: '.md'}))
+      .pipe(dest('docs/markdown', {ext: '.md'}))
       .pipe(gulp.dest('./'));
   });
 
