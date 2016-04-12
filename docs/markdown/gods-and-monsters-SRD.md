@@ -18,7 +18,7 @@ Regions begin as large, homogenous areas with either one or two aspects, but no 
 
 In the beginning, the regions are quite bland; this is intentional, as it provides a blank slate for the players to scribble all over. Also, the list of regions we give here is not exhaustive; make up your own during play to support the stories you tell.
 
-If the world has responded to a character’s power once, it can be persuaded to do so again. Each region has a <em>regional stunt</em>, which can be used only by gods who have <em>marked</em> the region—see <span>“Changing and Creating Regions”</span> for more.
+If the world has responded to a character’s power once, it can be persuaded to do so again. Each region has a <em>regional stunt</em>, which can be used only by gods who have <em>marked</em> the region—see “Changing and Creating Regions” for more.
 
 If a region is changed beyond all recognition, such as if the Forest Primeval is clear-cut, then the group should either amend the flavor of the regional stunt to reflect the new state of things or create a new stunt to replace the old one.
 
@@ -34,12 +34,12 @@ Generally, your god—and all others—can go anywhere in the world with minimal
 
 As part of shaping the world around them characters will often interact with <em>communities</em>: cohesive groups of people who can be led, manipulated or fought as a unit. When a community acts as a whole or you need some approximate stats for one of its members, use its community skills. Not all communities have all skills; if one is missing, assume it is Mediocre (+0). The community skills are:
 
--  <strong>Culture</strong> covers the appeal of the community’s arts and “ambience” to outsiders.
--  <strong>Integrity</strong> is used to resist the forces of change both internal and external. 
--  <strong>Subtlety</strong> reflects the level of skulduggery that the community engages in, including spying, stealth, and theft.
--  <strong>Technology</strong> is the overall level of technical advancement. Technology rarely begins at a rank higher than Average (+1), but it can change over the course of the game.
--  <strong>Warfare</strong> covers how many soldiers the community can round up and what level of training they have received. 
--  <strong>Wealth</strong> is self-explanatory: how rich does the community tend to be in material possessions? However, it says nothing about how those riches are distributed.
+- <strong>Culture</strong> covers the appeal of the community’s arts and “ambience” to outsiders.
+- <strong>Integrity</strong> is used to resist the forces of change both internal and external. 
+- <strong>Subtlety</strong> reflects the level of skulduggery that the community engages in, including spying, stealth, and theft.
+- <strong>Technology</strong> is the overall level of technical advancement. Technology rarely begins at a rank higher than Average (+1), but it can change over the course of the game.
+- <strong>Warfare</strong> covers how many soldiers the community can round up and what level of training they have received. 
+- <strong>Wealth</strong> is self-explanatory: how rich does the community tend to be in material possessions? However, it says nothing about how those riches are distributed.
 
 Communities also have a stress track and a set of consequences, used to resist raids, environmental destruction, depopulation by disease or misfortune, social pressure to change their ways, or other forces of change. Some communities also have stunts or other special powers, but these are rare.
 
@@ -77,12 +77,12 @@ The upshot of this for character generation is that it’s natural for a god to 
 
 Gods use the six approaches from <em>Fate Accelerated Edition</em>, but here they have different names to better suit the genre, and they are arranged into three opposing pairs.
 
--  <em>Bold</em> covers the doing of deeds with great fanfare, and generally making yourself the center of attention. It replaces the Flashy approach.
--  <em>Subtle</em> is the opposite partner to Bold; it encompasses hiding, sneaking, subtle manipulation, and otherwise getting what you want by remaining unnoticed. It replaces Sneaky.
--  <em>Clever</em> is the approach of quick thinking, fast talking, and improvisation. It is the same as the usual Clever approach.
--  <em>Mighty</em> is the brute force approach, and the opposite of Clever. Whether you’re lifting, pulling, throwing, or smashing, Mighty is the approach to use. It replaces Forceful.
--  <em>Wise</em> is action that relies on planning, preparedness, and knowledge of the world. It replaces Careful.
--  <em>Swift</em> is the opposed partner of Wise, and deals with physical speed and precision. It replaces the Quick approach.
+- <em>Bold</em> covers the doing of deeds with great fanfare, and generally making yourself the center of attention. It replaces the Flashy approach.
+- <em>Subtle</em> is the opposite partner to Bold; it encompasses hiding, sneaking, subtle manipulation, and otherwise getting what you want by remaining unnoticed. It replaces Sneaky.
+- <em>Clever</em> is the approach of quick thinking, fast talking, and improvisation. It is the same as the usual Clever approach.
+- <em>Mighty</em> is the brute force approach, and the opposite of Clever. Whether you’re lifting, pulling, throwing, or smashing, Mighty is the approach to use. It replaces Forceful.
+- <em>Wise</em> is action that relies on planning, preparedness, and knowledge of the world. It replaces Careful.
+- <em>Swift</em> is the opposed partner of Wise, and deals with physical speed and precision. It replaces the Quick approach.
 
 Just like in <em>Fate Accelerated</em>, you choose one approach to be rated at Good (+3), two at Fair (+2), two at Average (+1), and one at Mediocre (+0). Remember that your character’s abilities—especially their physical abilities—are several notches above those of mundane mortals. A scholarly god who only has a Mediocre rank in Mighty can still swordfight an entire village at once with a decent chance of success; she just won’t be the engine of destruction that a god with a Good rank in Mighty would be.
 
@@ -94,12 +94,12 @@ Each god starts with 3 refresh and 3 free stunts. If you want to buy more stunts
 
 ### Example Stunts
 
--  Because I can see the <strong>threads of destiny</strong>, once per session I can arrive in a scene at a moment of great import, even if it would be impossible for me to get there in time (or at all).
--  Because I have buried a portion of myself <strong>under the Rugged Peaks</strong>, once per session I can bleed off excess intention into that region instead of my immediate environs.
--  Because I am the <strong>inventor of archery</strong>, once per session I can turn one of my missed ranged attacks into a 2-shift hit.
--  Because the blood in my veins is the <strong>blood of the earth</strong>, once per session when I take stress from a physical attack I can choose to spout lava everywhere, adding an appropriate situation aspect.
--  Because I live in symbiotic union with a <strong>thorned vine</strong>, once per session I can make a melee attack into an adjacent zone.
--  Because I am a <strong>god of war</strong>, I get a +2 bonus whenever a community opposes my actions with Warfare.
+- Because I can see the <strong>threads of destiny</strong>, once per session I can arrive in a scene at a moment of great import, even if it would be impossible for me to get there in time (or at all).
+- Because I have buried a portion of myself <strong>under the Rugged Peaks</strong>, once per session I can bleed off excess intention into that region instead of my immediate environs.
+- Because I am the <strong>inventor of archery</strong>, once per session I can turn one of my missed ranged attacks into a 2-shift hit.
+- Because the blood in my veins is the <strong>blood of the earth</strong>, once per session when I take stress from a physical attack I can choose to spout lava everywhere, adding an appropriate situation aspect.
+- Because I live in symbiotic union with a <strong>thorned vine</strong>, once per session I can make a melee attack into an adjacent zone.
+- Because I am a <strong>god of war</strong>, I get a +2 bonus whenever a community opposes my actions with Warfare.
 
 ## The Divine Mantle
 
@@ -161,16 +161,16 @@ Then, create a boon stunt following this template:
 
 This boon stunt is weaker than a stunt, but as your god grows in power, you will receive more powerful boon stunts. 
 
-Boons and power points are described in more detail in the next chapter, <span>Godly Power</span>.
+Boons and power points are described in more detail in the next chapter, Godly Power.
 
 ### Geasa
 
 Each god also has a weakness called a geas. This is something they struggle with, a restriction or weakness antithetical to their nature that worsens as they grow in power. For now, choose one:
 
--  Your god takes a -1 penalty when doing something that their nature resists. The circumstances for this penalty are often broader than a stunt, covering all actions done with a certain intent regardless of approach or action. For example, a god of war might take a penalty to peaceful negotiation, or a sun god might take a penalty to concealing their presence.
--  Your god is entirely barred from a certain course of action unless there is an aspect in the scene that allows them to do it. For example, trickster god might be unable to attack until they have created an advantage on their target, or a god of destruction might be unable to do anything creative until they have created a situation aspect that reflects how the god has ruined of their surroundings.
+- Your god takes a -1 penalty when doing something that their nature resists. The circumstances for this penalty are often broader than a stunt, covering all actions done with a certain intent regardless of approach or action. For example, a god of war might take a penalty to peaceful negotiation, or a sun god might take a penalty to concealing their presence.
+- Your god is entirely barred from a certain course of action unless there is an aspect in the scene that allows them to do it. For example, trickster god might be unable to attack until they have created an advantage on their target, or a god of destruction might be unable to do anything creative until they have created a situation aspect that reflects how the god has ruined of their surroundings.
 
-As with boons, we’ll talk more about geasa in the next chapter, <span>Godly Power</span>.
+As with boons, we’ll talk more about geasa in the next chapter, Godly Power.
 
 ### Also, You’re Immortal
 
@@ -196,7 +196,7 @@ At each milestone, you’ll evaluate your intention and set your <em>milestone t
 
 All mentions of tiers in later sections on boons and geasa refer to your god’s milestone tier, not the positions of your intention tokens.
 
-If you need a quick reference on intention during play, read <span>Intention in 30 Seconds</span>.
+If you need a quick reference on intention during play, read Intention in 30 Seconds.
 
 ## Intention and Power
 
@@ -234,7 +234,7 @@ On the plus side, bleeding off intention marks that region or sub-region, giving
 
 > The GM pauses for a moment to have a think. She puts together the events of the story with the Clever intention that Cassia is bleeding off and comes up with the idea that the villagers are scared of a return to their old, wicked ways and have become suspicious and mistrustful. She adds <span class="aspect">Inquisition!</span> as an aspect on the village, and describes how the headman approaches Herakhty and Cassia with a list of so-called “subversives” he believes have not fully given up the old ways.
 
-We’ll talk more about the effects of bleeding off intention in <span>“Changing and Creating Regions”</span>.
+We’ll talk more about the effects of bleeding off intention in “Changing and Creating Regions”.
 
 ### Making Things Worse
 
@@ -242,10 +242,10 @@ If the characters hang around in a particular area for a while they’ll probabl
 
 As an example, consider the following progression of refinements for a sub-region:
 
--  <span class="aspect">“Justice Comes Swiftly to the Evildoer!”</span>
--  <span class="aspect">“Punish the Evildoers!”</span>
--  <span class="aspect">“Death to the Outsiders!”</span>
--  <span class="aspect">“DEATH!”</span>
+- <span class="aspect">“Justice Comes Swiftly to the Evildoer!”</span>
+- <span class="aspect">“Punish the Evildoers!”</span>
+- <span class="aspect">“Death to the Outsiders!”</span>
+- <span class="aspect">“DEATH!”</span>
 
 ## Stations
 
@@ -291,8 +291,8 @@ If you are at tier 0 you cannot use your boons at all.
 
 At tier 1, you can expect to receive a constant low-level benefit related to your concept: the ability to see in pitch darkness, minor illusory cantrips, deep pockets filled with odds and ends, invulnerability to naked flames, and so on. These benefits tend to take two forms:
 
--  It offers no mechanical advantages but lets you do things you might not otherwise be able to, such as produce a valuable gem from your deep pockets, or use your illusions to display silent messages.
--  It offers a mechanical advantage over a limited scope, such as being invulnerable to fire damage or immune to compels on darkness-related aspects.
+- It offers no mechanical advantages but lets you do things you might not otherwise be able to, such as produce a valuable gem from your deep pockets, or use your illusions to display silent messages.
+- It offers a mechanical advantage over a limited scope, such as being invulnerable to fire damage or immune to compels on darkness-related aspects.
 
 At tier 1 and above, a god can spend a power point to grant a bonus to a roll equal to their tier, but within limited circumstances, similar to those of a stunt, that must relate directly to the god’s concept. When you created your god, you created a boon with a +1 bonus because all new gods start at tier 1. As your tier rises, so too will your boon’s bonus.
 
@@ -362,9 +362,9 @@ In <em>Gods and Monsters</em>, the mythic feel remains but the order of events i
 
 When your tale has reached a conclusion, think back over everything that occurred. As a group, come up with a fact about the world that their adventure explains. This is the <em>explanation</em>: the “…and that’s why…” that comes at the end of most mythic tales. Some examples might be:
 
--  “…and that’s why crows are black.”
--  “…and that’s where owlbears come from.”
--  “…and that’s why no-one sails the Sea of Glass.”
+- “…and that’s why crows are black.”
+- “…and that’s where owlbears come from.”
+- “…and that’s why no-one sails the Sea of Glass.”
 
 When choosing an explanation, you have three broad options: something cosmetic with a global scope, something more potent but more local in effect, or something potent and global but that other parties will contest.
 
@@ -406,10 +406,10 @@ At the end of a tale, you can choose to bleed off all the intention your god has
 
 If you do this, count the number of steps on the track that each token moves, and note which approach the token moves <em>away from</em>. Bleeding off this energy has the usual effects—changing a region’s refinement aspect in an uncontrolled and negative way—but the intensity depends directly on the total number of steps the tokens moved:
 
--  <strong>1–2 steps:</strong> As normal. You mark the region, and the refinement aspect becomes something unpleasant based on the approaches you’ve bled off.
--  <strong>3–4 steps:</strong> This is bad. The refinement aspect on the region jumps straight to something hostile—coming here in future is going to be difficult and dangerous, and the mortal population will be starkly affected.
--  <strong>5–6 steps:</strong> Really bad. It’s just like 3–4 steps, except that either you affect a very large sub-region, or you hit multiple smaller sub-regions. Also, the power you create in the sub-region hates you and anything that reminds it of you.
--  <strong>7+ steps:</strong> Grossly irresponsible. Your drive to avoid the consequences of your actions by pouring your power back into the world causes numerous large sub-regions to spring up all over the region you affect and any other similar regions in the world—all forests, all oceans, all mountain ranges, and so on. All these sub-regions have the same hostile refinement aspect, and the creatures they spawn bear a special hatred for you and anything like you. Nice work.
+- <strong>1–2 steps:</strong> As normal. You mark the region, and the refinement aspect becomes something unpleasant based on the approaches you’ve bled off.
+- <strong>3–4 steps:</strong> This is bad. The refinement aspect on the region jumps straight to something hostile—coming here in future is going to be difficult and dangerous, and the mortal population will be starkly affected.
+- <strong>5–6 steps:</strong> Really bad. It’s just like 3–4 steps, except that either you affect a very large sub-region, or you hit multiple smaller sub-regions. Also, the power you create in the sub-region hates you and anything that reminds it of you.
+- <strong>7+ steps:</strong> Grossly irresponsible. Your drive to avoid the consequences of your actions by pouring your power back into the world causes numerous large sub-regions to spring up all over the region you affect and any other similar regions in the world—all forests, all oceans, all mountain ranges, and so on. All these sub-regions have the same hostile refinement aspect, and the creatures they spawn bear a special hatred for you and anything like you. Nice work.
 
 This list is only guidance, of course. If you have a better idea of how to ruin a god’s day with the unintended consequences of their reckless use of power, go with that.
 
@@ -465,9 +465,9 @@ Whatever the reason, talk to the GM and the rest of the group and adjust your go
 
 <strong>Every time you spend a fate point to affect a roll, choose one:</strong>
 
--  If you are using an ascendant approach, imbue one of your stations with a power point.
--  Bleed off the intention into the environment.
--  Move your intention token one step toward the approach rolled.
+- If you are using an ascendant approach, imbue one of your stations with a power point.
+- Bleed off the intention into the environment.
+- Move your intention token one step toward the approach rolled.
 
 <strong>If moving your token would push it off the end of the track</strong>, you must store the intention in a station, bleed it off, or turn into a monster and end the scene.
 

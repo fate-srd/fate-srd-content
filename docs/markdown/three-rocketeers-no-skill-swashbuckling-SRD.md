@@ -54,10 +54,10 @@ This game uses the four actions from <em>Fate Core</em>. It is important to keep
 
 Even more than most <em>Fate Core</em> games, the players need to be clear as to what action they are taking when they pick up the dice. 
 
--  Attacks harm your opponent. 
--  Defense prevents harm. 
--  Create an advantage changes the story for someone’s benefit by introducing new aspects into play. 
--  Overcome removes some obstacle, often an aspect, that stands in the way. 
+- Attacks harm your opponent. 
+- Defense prevents harm. 
+- Create an advantage changes the story for someone’s benefit by introducing new aspects into play. 
+- Overcome removes some obstacle, often an aspect, that stands in the way. 
 
 What action is being taken should be clearly stated before the dice are picked up or skill bonuses are tallied. 
 
@@ -97,10 +97,10 @@ Since <em>Three Rocketeers</em> does not have a skill list, stunts need to be ha
 
 In addition to the Swordplay aspect, players can build a custom swordplay stunt. A swordplay stunt consists of four elements: appearance, edge, main hand, and off-hand. 
 
--  <strong>Appearance:</strong> The qualities an observer might notice about the fencing style. It can be flamboyant or crude, straightforward or sly. Appearance is often used to create an advantage. 
--  <strong>Edge:</strong> A particular trick or set of maneuvers the fencer uses to seize the upper hand or score the final blow. Both appearance and edge can be used with any weapon as they are the product of technique and not tied to a fencer’s equipment. 
--  <strong>Main Hand:</strong> Every fencing style requires a sword and each blade offers a unique benefit that only a fencer trained in the blade can use. 
--  <strong>Off Hand:</strong> Fencers employ a variety of off-hand techniques and weapons, usually for defensive purposes. A fencer only gains the benefit of a main hand or off hand weapon when using the appropriate gear. 
+- <strong>Appearance:</strong> The qualities an observer might notice about the fencing style. It can be flamboyant or crude, straightforward or sly. Appearance is often used to create an advantage. 
+- <strong>Edge:</strong> A particular trick or set of maneuvers the fencer uses to seize the upper hand or score the final blow. Both appearance and edge can be used with any weapon as they are the product of technique and not tied to a fencer’s equipment. 
+- <strong>Main Hand:</strong> Every fencing style requires a sword and each blade offers a unique benefit that only a fencer trained in the blade can use. 
+- <strong>Off Hand:</strong> Fencers employ a variety of off-hand techniques and weapons, usually for defensive purposes. A fencer only gains the benefit of a main hand or off hand weapon when using the appropriate gear. 
 
 To create a swordplay stunt, pick one item from each list of elements at character creation. You can advance your swordplay stunt as a campaign progresses. When you reach a significant milestone, add one additional item to your swordplay stunt—this is in place of a new skill point since this game does not use skills. Keep in mind that Main Hand and Off Hand elements can only be used with the corresponding gear. 
 
@@ -112,35 +112,35 @@ Weapon and Armor do not change the total of an action. Success with style still 
 
 ### Appearance
 
--  <strong>Acrobatic:</strong> Gain +1 to create an advantage when using obstacles, furniture, or terrain for superior positioning. 
--  <strong>Flashy:</strong> Gain +1 to create an advantage when intimidating an opponent with a demonstration of your style.
--  <strong>Quick:</strong> Gain +1 when determining turn order.
--  <strong>Steady:</strong> When you succeed with style creating an advantage, gain +1 to your next defense roll. 
--  <strong>Subtle:</strong> Invoking your fencing aspect to create an advantage based on misdirection grants +3 instead of +2.
+- <strong>Acrobatic:</strong> Gain +1 to create an advantage when using obstacles, furniture, or terrain for superior positioning. 
+- <strong>Flashy:</strong> Gain +1 to create an advantage when intimidating an opponent with a demonstration of your style.
+- <strong>Quick:</strong> Gain +1 when determining turn order.
+- <strong>Steady:</strong> When you succeed with style creating an advantage, gain +1 to your next defense roll. 
+- <strong>Subtle:</strong> Invoking your fencing aspect to create an advantage based on misdirection grants +3 instead of +2.
 
 ### Edge
 
--  <strong>Aggressive:</strong> Your opponent does not gain a boost when you tie on a defense action.
--  <strong>Impenetrable:</strong> Increase your Armor value by +1.
--  <strong>Perfect Footwork:</strong> When you succeed with style on defense, you may create a situation aspect with a free invocation instead of gaining a boost.
--  <strong>Powerful:</strong> When you tie on attack you create a situation aspect with one free invoke instead of gaining a boost.
--  <strong>Precise:</strong> Increase the Weapon rating of your main hand by +1.
+- <strong>Aggressive:</strong> Your opponent does not gain a boost when you tie on a defense action.
+- <strong>Impenetrable:</strong> Increase your Armor value by +1.
+- <strong>Perfect Footwork:</strong> When you succeed with style on defense, you may create a situation aspect with a free invocation instead of gaining a boost.
+- <strong>Powerful:</strong> When you tie on attack you create a situation aspect with one free invoke instead of gaining a boost.
+- <strong>Precise:</strong> Increase the Weapon rating of your main hand by +1.
 
 ### Main Hand
 
--  <strong>Broadsword:</strong> Weapon:1. 
--  <strong>Cutlass:</strong> Gain +1 to create an advantage when you try to disarm your opponent. 
--  <strong>Rapier:</strong> Invoking your Swordplay aspect for a bonus on an attack grants a +3 instead of +2.
--  <strong>Saber:</strong> When you invoke a situation aspect about your fencing style that you created as an obstacle, increase the opposition by an additional +1.
--  <strong>Small Sword:</strong> Gain +1 to attack an enemy who has already acted in the round.
+- <strong>Broadsword:</strong> Weapon:1. 
+- <strong>Cutlass:</strong> Gain +1 to create an advantage when you try to disarm your opponent. 
+- <strong>Rapier:</strong> Invoking your Swordplay aspect for a bonus on an attack grants a +3 instead of +2.
+- <strong>Saber:</strong> When you invoke a situation aspect about your fencing style that you created as an obstacle, increase the opposition by an additional +1.
+- <strong>Small Sword:</strong> Gain +1 to attack an enemy who has already acted in the round.
 
 ### Off Hand
 
--  <strong>Buckler:</strong> Gain +1 to your next attack when you succeed on defense. 
--  <strong>Cloak:</strong> Gain +1 to create an advantage when you obfuscate your weapon. 
--  <strong>Empty:</strong> Gain +1 to attack when you swing with both hands. 
--  <strong>Gauntlet:</strong> When you succeed with style on defense, create a <span class="aspect">Grabbed Blade</span> aspect with a free invocation rather than take a boost. 
--  <strong>Main Gauche:</strong> When you succeed with style on defense against an attack you may deal a 2-shift physical hit with your off hand instead of gaining a boost.
+- <strong>Buckler:</strong> Gain +1 to your next attack when you succeed on defense. 
+- <strong>Cloak:</strong> Gain +1 to create an advantage when you obfuscate your weapon. 
+- <strong>Empty:</strong> Gain +1 to attack when you swing with both hands. 
+- <strong>Gauntlet:</strong> When you succeed with style on defense, create a <span class="aspect">Grabbed Blade</span> aspect with a free invocation rather than take a boost. 
+- <strong>Main Gauche:</strong> When you succeed with style on defense against an attack you may deal a 2-shift physical hit with your off hand instead of gaining a boost.
 
 # NPCs
 

@@ -9,6 +9,8 @@
   var dest = require('gulp-dest');
   var exec = require('child_process').exec;
 
+  var match;
+
   gulp.task('md', function () {
     return gulp.src('docs/markdown/**.md')
       .pipe(markdown())
@@ -40,7 +42,7 @@
       .pipe(replace(/<title>((.)*?)<\/title>/g,''))
       .pipe(replace(/<body id="(NoSkill|FrontierSpirit|Fate_Conspiracies|Sails_Full_of_Stars_SRD|GodsSRD|Open_Source_Chunk)" lang="en-US">/g,''))
       .pipe(replace(/<link href="((.)*?).css" rel="stylesheet" type="text\/css" \/>/g,''))
-      .pipe(replace('',''))
+      .pipe(replace('xml:lang="en-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"',''))
       .pipe(replace('',''))
 
       // Formating
@@ -60,10 +62,18 @@
       .pipe(replace('<p class="Example-end">','\n block> '))
       .pipe(replace('<p class="Example-middle">','\n block> '))
       .pipe(replace('<p class="Example">','\n block> '))
+      // .pipe(replace(/<h([123456])>/gi,function(match){
+      //   console.log('Match found ' + match)
+      // }))
+      .pipe(replace('<h1','#'))
+      .pipe(replace('<h2','##'))
+      .pipe(replace('<h3','###'))
+      .pipe(replace('<h4','####'))
+      .pipe(replace('<h5','#####'))
+      .pipe(replace('<h6','######'))
       .pipe(replace('<ul>',''))
       .pipe(replace('</ul>',''))
-      .pipe(replace(/<li((.|\n)*?)>/gi,'- $1'))
-      .pipe(replace('</li>',''))
+      .pipe(replace(/<\s*li[^>]*>(.*?)<\s*\/\s*li>/g, '- $1'))
       .pipe(replace(/^-../g,'- '))
       .pipe(replace(/<span class="Emphasis">((.|\n)*?)<\/span>/gi,'<em>$1<\/em>'))
       .pipe(replace(/<span class="Strong">((.|\n)*?)<\/span>/gi,'<strong>$1<\/strong>'))
@@ -71,16 +81,28 @@
       .pipe(replace(/<span class="Book-Title">((.|\n)*?)<\/span>/gi,'<em>$1<\/em>'))
       .pipe(replace(/<span class="Term">((.|\n)*?)<\/span>/gi,'<em>$1<\/em>'))
       .pipe(replace(/<span class="CC-BY_Term">((.|\n)*?)<\/span>/gi,'<em>$1<\/em>'))
+      .pipe(replace(/<span class="Book-Title">((.|\n)*?)<\/span>/gi,'<em>$1<\/em>'))
       .pipe(replace(/<span class="Aspect">((.|\n)*?)<\/span>/gi,'<aspect>$1<\/aspect>'))
       .pipe(replace(/<span class="Markup">((.|\n)*?)<\/span>/gi,'<markup>$1<\/markup>'))
+      .pipe(replace('&nbsp;',' '))
+
+      // Remove id and style
+      .pipe(replace(/(id|style)=\"(.*?)\"/g, ''))
+
+      // Remove unique elements in core file
+      .pipe(replace(/ char-style-override-(\d)/g,''))
 
       // Remove anchors
-      .pipe(replace(/<a id="((.|\n)*?)"><\/a>/g,''))
+      .pipe(replace(/<a id="((.|\n|)*?)"><\/a>/g,'foo'))
+      .pipe(replace(/<a href="#((.|\n)*?)">((.|\n)*?)<\/a>/g,''))
+      .pipe(replace('<a></a>',''))
 
       // Remove class and ids
-      .pipe(replace(/(class|id)=\"(.*?)\"/g, ''))
+      .pipe(replace(/(class)=\"(.*?)\"/g, ''))
       // Remove extra spaces caused from removing classes and ids
       .pipe(replace(/\s*>/g,'>'))
+      // Remove empty <span>
+      .pipe(replace(/<span>((.|\n)*?)<\/span>/gi,'$1'))
       
       // Remove elements
       .pipe(replace('<p>','\n'))

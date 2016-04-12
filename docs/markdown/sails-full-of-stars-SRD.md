@@ -38,9 +38,9 @@ If you wish to create alchemical weapons, such as acids or explosives, you can d
 
 To create an alchemical mixture, an alchemist needs access to three things:
 
--  <strong>Tools:</strong> flasks, burners, pipes, and retorts. 
--  <strong>Materials:</strong> liquids, powders, metals, and crystals.
--  <strong>Time:</strong> Anywhere from a few minutes (to produce a simple acid) to several years (to produce a breakthrough in alchemical science). Typically, an alchemist can produce a simple alchemical mixture—such as a one-use gas bomb or a vial of antivenom—in less than an hour. 
+- <strong>Tools:</strong> flasks, burners, pipes, and retorts. 
+- <strong>Materials:</strong> liquids, powders, metals, and crystals.
+- <strong>Time:</strong> Anywhere from a few minutes (to produce a simple acid) to several years (to produce a breakthrough in alchemical science). Typically, an alchemist can produce a simple alchemical mixture—such as a one-use gas bomb or a vial of antivenom—in less than an hour. 
 
 To set the difficulty of an Alchemy roll, consider not only the magnitude of the task to be accomplished, but also the tools, materials, and time available. When a character must work with a limited set of tools, or with poor quality materials, or in a rush, increase the difficulty.
 
@@ -52,9 +52,9 @@ The practice of sailing a ship requires competence in reading navigational chart
 
 If you fail an overcome roll with Sail and want to succeed at a cost, you can choose to damage the ship as your cost. In this case you’re pushing the ship past its limits, causing its structure or mechanisms to suffer. By default, a minor cost produces a situation aspect, such as <span class="aspect">Engine Stalled Out</span>, and a major cost produces a consequence, such as <span class="aspect">Torn Mainsails</span>.
 
-<strong>Create an Advantage:</strong> A ship’s navigator can roll Sail to put the vessel in an advantageous position relative to an enemy vessel. The enemy’s navigator actively opposes this roll by using Sail. See <span>Ship Combat</span> for more information on this.
+<strong>Create an Advantage:</strong> A ship’s navigator can roll Sail to put the vessel in an advantageous position relative to an enemy vessel. The enemy’s navigator actively opposes this roll by using Sail. See Ship Combat for more information on this.
 
-<strong>Attack:</strong> You can use Sail to try to ram an enemy vessel, as described in <span>Ship Combat</span>.
+<strong>Attack:</strong> You can use Sail to try to ram an enemy vessel, as described in Ship Combat.
 
 <strong>Defend:</strong> A ship’s navigator can defend with Sail against Shoot or Sail attacks made by enemy vessels, or against enemy Sail rolls used to create an advantage.
 
@@ -158,15 +158,15 @@ A vessel controlled by the players starts with 3 additional aspects, for a total
 
 Skills associated with a ship represent the proficiencies of its crew. Choose these skills <em>only</em> from the following list:
 
--  Athletics
--  Craft
--  Fight
--  Notice
--  Provoke
--  Sail
--  Shoot
--  Stealth
--  Will
+- Athletics
+- Craft
+- Fight
+- Notice
+- Provoke
+- Sail
+- Shoot
+- Stealth
+- Will
 
 For an NPC vessel, use the guidelines in <em>Fate Core</em> (page 214) for giving skills to nameless NPCs. Don’t use the guidelines for supporting and main NPCs; only use those guidelines when making important non-ship NPCs.
 
@@ -192,7 +192,7 @@ Stunts represent special equipment aboard ship or innate features of the ship it
 
 <strong>False Hull:</strong> Cleverly built into the ship’s structure, this hidden space can store a small amount of cargo, less than 5% of the ship’s total cargo tonnage. Add +2 to the opposition to any attempts to find the hidden cargo.
 
-<strong>Ramming Prow:</strong> A reinforced, sharply pointed prow allows the ship to deliver a ramming attack while minimizing harm to itself. When delivering a ramming attack, the ship receives +2 to defend itself against the damage from this attack. See <span>Ship Combat</span> for more information on this.
+<strong>Ramming Prow:</strong> A reinforced, sharply pointed prow allows the ship to deliver a ramming attack while minimizing harm to itself. When delivering a ramming attack, the ship receives +2 to defend itself against the damage from this attack. See Ship Combat for more information on this.
 
 ## Ship Milestones
 
@@ -238,15 +238,15 @@ At the end of the combat, take note of which units are uninjured, injured, and t
 
 Before combat begins, each ship’s navigator must roll Sail to create an aspect indicating its position relative to the other vessels. For example:
 
--  <span class="aspect">The Asteroid Is Between Us</span>
--  <span class="aspect">We Have the Weather Gage</span>
--  <span class="aspect">Closing to Gun Range</span>
+- <span class="aspect">The Asteroid Is Between Us</span>
+- <span class="aspect">We Have the Weather Gage</span>
+- <span class="aspect">Closing to Gun Range</span>
 
 The navigator may be any PC or NPC crew member who is on or near the bridge of the ship at the beginning of the conflict. To determine the order that the ships create their aspects, compare the Notice ranks of the navigators, just as you would to determine turn order during a normal exchange. When declaring each aspect, state which ships it affects. Each of these ships can actively oppose this attempt by rolling Sail.
 
 You may wish to use index cards to represent individual ships and positional aspects. For a positional aspect between two ships—such as <span class="aspect">In the Pirate’s Blind Spot</span>—place a card between them, drawing arrows as desired to show motion or targeting. For one that affects multiple opponents—such as <span class="aspect">We’re Leaving Them Far Behind</span>—place the card near the ship creating the aspect and note on the card which ships it affects.
 
-Certain activities can only occur once per ship in each exchange: <em>maneuvers</em>, <em>repairs</em>, <em>gunnery</em>, and <em>signaling</em>. All four of these activities can occur simultaneously. The PCs can directly command any of these activities, one activity per PC, or the crew can execute any number of these activities on their own, as described in the <span>“Crew Actions”</span> section. When the crew performs an activity on their own, use their own Notice to determine their place in the turn order; when a PC takes command of an activity, use that PC’s Notice instead.
+Certain activities can only occur once per ship in each exchange: <em>maneuvers</em>, <em>repairs</em>, <em>gunnery</em>, and <em>signaling</em>. All four of these activities can occur simultaneously. The PCs can directly command any of these activities, one activity per PC, or the crew can execute any number of these activities on their own, as described in the “Crew Actions” section. When the crew performs an activity on their own, use their own Notice to determine their place in the turn order; when a PC takes command of an activity, use that PC’s Notice instead.
 
 <strong>Maneuvers:</strong> To alter a position aspect, the ship’s navigator rolls overcome using Sail. Any ships affected by the altered aspect can actively oppose with Sail. Successfully changing the position aspect removes the prior aspect and grants one or two free invocations or a boost on the new aspect, as per the usual rules for creating an advantage.
 
@@ -274,12 +274,12 @@ Consequences represent battle damage, mechanical failures, and other persistent 
 
 Conditions represent crew casualties or missing crew members. The <em>Fate System Toolkit</em> explains how to use conditions on page 18. The following conditions are available for a ship’s crew:
 
--  <strong>Bruised:</strong> 1 point
--  <strong>Battered:</strong> 1 point
--  <strong>Light Losses:</strong> 2 points
--  <strong>Light Losses:</strong> 2 points
--  <strong>Heavy Losses:</strong> 4 points
--  <strong>Heavy Losses:</strong> 4 points
+- <strong>Bruised:</strong> 1 point
+- <strong>Battered:</strong> 1 point
+- <strong>Light Losses:</strong> 2 points
+- <strong>Light Losses:</strong> 2 points
+- <strong>Heavy Losses:</strong> 4 points
+- <strong>Heavy Losses:</strong> 4 points
 
 The Bruised and Battered conditions are fleeting: remove them as soon as the crew has time to rest and dress their wounds. The Light Losses and Heavy Losses conditions are sticky: you can only remove them after you replace the lost crew members. Each Light Losses condition represents a loss of one-tenth the ship’s maximum crew, while each Heavy Losses condition represents a loss of one-quarter the maximum crew.
 

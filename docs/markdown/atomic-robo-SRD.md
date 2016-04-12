@@ -130,19 +130,19 @@ When you’re watching people, Notice can tell you what’s going on with them e
 
 Here are the standard skills in our action-science setting. They’re all basically taken right from <em>Fate Core</em>. If you’re wondering where the actual <em>science</em> skills are, see <em>Science: It’s Special</em>.
 
--  Athletics
--  Burglary
--  Combat
--  Contacts
--  Deceive
--  Empathy
--  Notice
--  Physique
--  Provoke
--  Rapport
--  Stealth
--  Vehicles
--  Will
+- Athletics
+- Burglary
+- Combat
+- Contacts
+- Deceive
+- Empathy
+- Notice
+- Physique
+- Provoke
+- Rapport
+- Stealth
+- Vehicles
+- Will
 
 # Modes
 
@@ -184,21 +184,21 @@ Here are the standard modes in our action-science setting, complete with the sta
 
 <strong>Action:</strong> Action-hero type stuff, like flying a plane, leaping over a chasm, or some good old-fashioned face punching. If you’re being overtly physical or tough, you’re making use of a skill in the Action mode.
 
--  <strong>Skills:</strong> Athletics, Combat, Notice, Physique, Provoke, Vehicles
+- <strong>Skills:</strong> Athletics, Combat, Notice, Physique, Provoke, Vehicles
 
 <strong>Banter:</strong> Interpersonal skills, polite and otherwise. This covers everything from reasoned persuasion to irrational intimidation and all points in between.
 
--  <strong>Skills:</strong> Contacts, Deceive, Empathy, Provoke, Rapport, Will
+- <strong>Skills:</strong> Contacts, Deceive, Empathy, Provoke, Rapport, Will
 
 <strong>Intrigue:</strong> Subterfuge, subtlety, and ventures of questionable legality. Stealth, disguise,
 
 and your standard B&amp;E all fall under Intrigue.
 
--  <strong>Skills:</strong> Athletics, Burglary, Contacts, Deceive, Notice, Stealth
+- <strong>Skills:</strong> Athletics, Burglary, Contacts, Deceive, Notice, Stealth
 
 <strong>Science:</strong> All fields of scientific endeavor, whether you’re hacking a mainframe, accelerating particles, or rebuilding a transmission on a ’69 Charger. If you’re pitting your brain against an inanimate object, you’re probably doing Science.
 
--  <strong>Skills:</strong> Notice, Will, all sciences. (See <em>Science: It’s Special</em> on page <markup>XX</markup> for more detail on the Science mode.)
+- <strong>Skills:</strong> Notice, Will, all sciences. (See <em>Science: It’s Special</em> on page <markup>XX</markup> for more detail on the Science mode.)
 
 Even with just four modes, the player’ choices of ratings allow for plenty of variety—and that’s not even accounting for skills and stunts, which offer even more differentiation between PCs.
 
@@ -208,10 +208,10 @@ Supplementing these are custom modes. Optional and usually player-defined, custo
 
 We’ll unpack what all that means later on in this chapter, but for now here are some examples of custom modes.
 
--  <strong>Robot:</strong> You’re a mechanical artificial intelligence of some kind. Robo himself is the most obvious example, but that doesn’t mean he has to be the only one.
--  <strong>Mutant:</strong> You’ve been altered by science into something more (or less) than human. 
--  <strong>Secret Agent:</strong> You’re an elite operative for a shadowy organization of one kind or another.
--  <strong>Reporter:</strong> You’re a professional journalist of the investigative variety who relies on a sharp eye and sharper instincts to get to the bottom of things.
+- <strong>Robot:</strong> You’re a mechanical artificial intelligence of some kind. Robo himself is the most obvious example, but that doesn’t mean he has to be the only one.
+- <strong>Mutant:</strong> You’ve been altered by science into something more (or less) than human. 
+- <strong>Secret Agent:</strong> You’re an elite operative for a shadowy organization of one kind or another.
+- <strong>Reporter:</strong> You’re a professional journalist of the investigative variety who relies on a sharp eye and sharper instincts to get to the bottom of things.
 
 Some of modes will have a bit of thematic overlap, like Intrigue and Secret Agent. That’s perfectly normal and nothing to worry about. No standard mode is wholly unique, and many custom modes will share something in common with one or more standard modes, or even another custom mode the character may have. It’s actually beneficial when they do.
 
@@ -293,9 +293,9 @@ When you take a mode, you are also <em>trained</em> in all of its skills—your 
 
 Skill ratings can improve from there, “climbing” the Adjective Ladder. So if you were to improve one of those Action skills from trained to <em>focused</em>, its rating would be one rung higher than Fair (+2), or Good (+3). If you improved it to <em>specialized</em>, its rating would be two rungs higher than Fair (+2), or Great (+4).
 
--  <em>Trained</em>: The skill’s rating equals the mode’s rating.
--  <em>Focused</em>: The skill’s rating is one rung higher than the mode’s rating.
--  <em>Specialized</em>: The skill’s rating is two rungs higher than the mode’s rating.
+- <em>Trained</em>: The skill’s rating equals the mode’s rating.
+- <em>Focused</em>: The skill’s rating is one rung higher than the mode’s rating.
+- <em>Specialized</em>: The skill’s rating is two rungs higher than the mode’s rating.
 
 No skill can be higher than specialized within a given mode. This means the highest skill rating your character can have is Superb (+5)—a specialized skill within their Good (+3) mode.
 
@@ -393,12 +393,12 @@ A paragon of self-discipline, physical training, and face-punching.
 
 <strong>Skills:</strong>
 
--  Athletics
--  Combat
--  Notice
--  Physique
--  Stealth
--  Will
+- Athletics
+- Combat
+- Notice
+- Physique
+- Stealth
+- Will
 
 ## Pilot
 
@@ -406,9 +406,9 @@ A trained, well-traveled pilot, professional or otherwise.
 
 <strong>Skills:</strong>
 
--  Contacts
--  Notice
--  Vehicles
+- Contacts
+- Notice
+- Vehicles
 
 ## Reporter
 
@@ -416,12 +416,12 @@ Someone who makes it their business to know other people’s business.
 
 <strong>Skills</strong>
 
--  Contacts
--  Empathy
--  Notice
--  Rapport
--  Stealth
--  Will
+- Contacts
+- Empathy
+- Notice
+- Rapport
+- Stealth
+- Will
 
 ## <strong>Robot</strong>
 
@@ -429,9 +429,9 @@ A generic robot, with no specific assumed function—your average automatic inte
 
 <strong>Skills:</strong>
 
--  Athletics
--  Notice
--  Physique
+- Athletics
+- Notice
+- Physique
 
 ## Secret Agent
 
@@ -439,12 +439,12 @@ A covert operative for a covert agency.
 
 <strong>Skills:</strong>
 
--  Burglary
--  Contacts
--  Deceive
--  Notice
--  Stealth
--  Vehicles
+- Burglary
+- Contacts
+- Deceive
+- Notice
+- Stealth
+- Vehicles
 
 ## Soldier
 
@@ -452,13 +452,13 @@ A skilled combatant with a military background.
 
 <strong>Skills:</strong>
 
--  Athletics
--  Combat
--  Contacts
--  Notice
--  Physique
--  Vehicles
--  Will
+- Athletics
+- Combat
+- Contacts
+- Notice
+- Physique
+- Vehicles
+- Will
 
 # Stunts
 
@@ -482,14 +482,14 @@ If you phrase this as “+2 to [action] with [skill] when [situation occurs],”
 
 <strong>Examples:</strong>
 
--  <strong>Friends in High Places:</strong> +2 to overcome with Rapport when socializing at a fancy gathering, such as a ritzy corporate or government function.
+- <strong>Friends in High Places:</strong> +2 to overcome with Rapport when socializing at a fancy gathering, such as a ritzy corporate or government function.
 
 Alternately, for a stunt with a little more breadth, you can split up that +2 bonus to one application into +1 bonus to <em>two</em> applications. Those applications can both be for the same skill, or you can assign them to two separate skills strongly connected by a common theme.
 
 <strong>Examples:</strong>
 
--  <strong>Expert Marksman:</strong> +1 to attack or create an advantage with Combat when using a firearm.
--  <strong>Martial Artist:</strong> +1 to create an advantage with Combat or Athletics when fighting unarmed.
+- <strong>Expert Marksman:</strong> +1 to attack or create an advantage with Combat when using a firearm.
+- <strong>Martial Artist:</strong> +1 to create an advantage with Combat or Athletics when fighting unarmed.
 
 ### Add a New Action to a Skill
 
@@ -499,8 +499,8 @@ Alternately, for a stunt with a little more breadth, you can split up that +2 bo
 
 <strong>Examples:</strong>
 
--  <strong>Backstab:</strong> Use Stealth instead of Combat to attack when the target isn’t aware of you.
--  <strong>Let’s Take It Outside:</strong> Use Physique to defend against intimidation.
+- <strong>Backstab:</strong> Use Stealth instead of Combat to attack when the target isn’t aware of you.
+- <strong>Let’s Take It Outside:</strong> Use Physique to defend against intimidation.
 
 ### Add a Rules Exception to a Skill
 
@@ -512,8 +512,8 @@ This is admittedly a pretty wibbly-wobbly rule of thumb, but some stunts simply 
 
 <strong>Examples:</strong>
 
--  <strong>Riposte:</strong> When you use Combat to defend in melee and succeed with style, spend a fate point to immediately inflict an attack on your opponent at the shift value of your defense. For example, if you get four shifts on your defense, you’d deal a 4-shift hit to the attacker. You can’t do this again until you have another “next action” to spend (after your skipped turn goes by).
--  <strong>Mind Over Matter:</strong> Once per scene, you may check a mental stress box to absorb physical harm.
+- <strong>Riposte:</strong> When you use Combat to defend in melee and succeed with style, spend a fate point to immediately inflict an attack on your opponent at the shift value of your defense. For example, if you get four shifts on your defense, you’d deal a 4-shift hit to the attacker. You can’t do this again until you have another “next action” to spend (after your skipped turn goes by).
+- <strong>Mind Over Matter:</strong> Once per scene, you may check a mental stress box to absorb physical harm.
 
 ### Have a Signature Aspect
 
@@ -527,8 +527,8 @@ Mark the aspect with an asterisk, or write “Signature” in parentheses next t
 
 <strong>Examples:</strong>
 
--  <strong>Signature Aspect:</strong> Britain’s Most Dangerous Commando
--  <strong>Signature Aspect:</strong> Behold, the Power of Science!
+- <strong>Signature Aspect:</strong> Britain’s Most Dangerous Commando
+- <strong>Signature Aspect:</strong> Behold, the Power of Science!
 
 ### Personal Hardware
 
@@ -542,17 +542,17 @@ In addition, your hardware includes any non-mechanical abilities that seem reaso
 
 <strong>Examples:</strong>
 
--  <strong>Armored Jacket:</strong> Armor:2
--  <strong>Knuckledusters:</strong> +1 to Combat to attack when unarmed, Weapon:2
+- <strong>Armored Jacket:</strong> Armor:2
+- <strong>Knuckledusters:</strong> +1 to Combat to attack when unarmed, Weapon:2
 
 #### Personal Hardware Options
 
 Pick two:
 
--  +1 to one situational application of one skill
--  Weapon:2
--  Armor:1
--  Add a new action to a skill (functions once per session)
+- +1 to one situational application of one skill
+- Weapon:2
+- Armor:1
+- Add a new action to a skill (functions once per session)
 
 # Mega-Stunts
 
@@ -576,9 +576,9 @@ These rules presume that a PC has a certain number of “stunt slots” instead 
 
 In place of refresh, these rules assign a flat number of starting fate points to each PC. The specifics of this are up to your group. Possibilities include:
 
--  One per aspect the PC has. If a PC starts with one or more of their aspects left blank—say, everything apart from their concept, or their concept and trouble—they’ll start with fewer fate points, but every time the player fills one in during play, they immediately gain a fate point.
--  Make refresh inversely proportional to the number of stunt slots the PC has, from one to five. For example, if the PCs have five stunt slots, their effective refresh is 1. If they have two stunt slots, their effective refresh is 4.
--  Three. Nice round number. It’s simple and people like threes.
+- One per aspect the PC has. If a PC starts with one or more of their aspects left blank—say, everything apart from their concept, or their concept and trouble—they’ll start with fewer fate points, but every time the player fills one in during play, they immediately gain a fate point.
+- Make refresh inversely proportional to the number of stunt slots the PC has, from one to five. For example, if the PCs have five stunt slots, their effective refresh is 1. If they have two stunt slots, their effective refresh is 4.
+- Three. Nice round number. It’s simple and people like threes.
 
 ## Weaknesses and Costs
 
@@ -683,17 +683,17 @@ Note that these rules aren’t limited to actually “inventing” things—they
 
 We’ll refer to the thing you’re making as your <strong>invention</strong>, but don’t take that too literally. It could just as easily be a never-before-seen technological wonder as it could a recreation of an existing piece of tech. Whatever it is, broadly speaking, your invention is an item that makes you better at doing something or gives you a new capability. It consists of three basic parts:
 
--  A function aspect
--  A flaw aspect
--  One or more stunts or extras
+- A function aspect
+- A flaw aspect
+- One or more stunts or extras
 
 Creating an invention happens in five steps:
 
--  Determine the invention’s function—its role in the story
--  Define its capabilities—how it fulfills that role
--  Put it together—make a skill roll
--  Pay for it—what you’ll have to do to create the invention
--  Determine its flaw—nobody’s perfect
+- Determine the invention’s function—its role in the story
+- Define its capabilities—how it fulfills that role
+- Put it together—make a skill roll
+- Pay for it—what you’ll have to do to create the invention
+- Determine its flaw—nobody’s perfect
 
 ### Step One: Determine Its Function
 
@@ -731,15 +731,15 @@ Typically, a catch is some complication or condition that’ll have to be resolv
 
 Players render payment in two ways. One is increasing the GM’s fate point reserve. The other is accepting one or more catches. We’ll get to the former in a minute, but for now let’s concentrate on the latter. A catch can include:
 
--  <strong>Attention:</strong> The process of creating the invention will attract unwanted notice from someone or something whose notice you’d rather not attract. This unwelcome party will involve themselves in the events of the volume or otherwise complicate matters or hamper the PCs’ efforts in some way.
--  <strong>Bug:</strong> The invention has a glitch—either a weakness or a cost. (See <em>Mega-Stunts</em> for more on weaknesses and costs.)
--  <strong>Costly:</strong> Access to the hardware comes at a steep price, whether in cash, information, or an equitable trade, to be paid to a gatekeeper of some kind. While money will usually be no object for well-funded PCs, large, clandestine transactions rarely go smoothly.
--  <strong>Facilities:</strong> Producing the invention requires a specialized facility, one to which you don’t normally have access. You may have to negotiate for that access, or you may gain it through more “creative” means.
--  <strong>Help:</strong> You can’t do it alone—you need assistance from an outside party, such as a notable expert in the field or another faction. They may require convincing, demand something in exchange for their involvement, or drag their own baggage into the project. <em>Note:</em> Another PC isn’t “help.” That’s just another PC. (Although it’s a good way to bring in a <em>new</em> PC, if a player’s looking for a character to play.) This catch means going outside your usual circle of reliable associates.
--  <strong>Materials:</strong> One of the invention’s components is something rare, under lock and key, or otherwise hard to acquire. Getting your hands on it may be an adventure in and of itself.
--  <strong>Red Tape:</strong> This generally involves paperwork—lots of paperwork—as well as follow-up calls, emails, office visits, or the like. This catch isn’t suited to all settings, but if it’s suited to yours, expect it to be a pain.
--  <strong>Strings:</strong> The promise “I owe you one” is ripe with the potential for further trouble. Unlike Costly, which involves immediate payment, or Help, which involves convincing someone to assist you, the Strings catch means ceding power to someone else for short-term gain. You may not know when or where or what they’ll want in return, but rest assured, they won’t forget. Or maybe they want concrete assurances right now—maybe even a contract.
--  <strong>Time:</strong> Producing the invention will take long enough that the situation will worsen and/or someone will gain an advantage against you. Whatever the case, you’ll still finish it in time for it to be useful.
+- <strong>Attention:</strong> The process of creating the invention will attract unwanted notice from someone or something whose notice you’d rather not attract. This unwelcome party will involve themselves in the events of the volume or otherwise complicate matters or hamper the PCs’ efforts in some way.
+- <strong>Bug:</strong> The invention has a glitch—either a weakness or a cost. (See <em>Mega-Stunts</em> for more on weaknesses and costs.)
+- <strong>Costly:</strong> Access to the hardware comes at a steep price, whether in cash, information, or an equitable trade, to be paid to a gatekeeper of some kind. While money will usually be no object for well-funded PCs, large, clandestine transactions rarely go smoothly.
+- <strong>Facilities:</strong> Producing the invention requires a specialized facility, one to which you don’t normally have access. You may have to negotiate for that access, or you may gain it through more “creative” means.
+- <strong>Help:</strong> You can’t do it alone—you need assistance from an outside party, such as a notable expert in the field or another faction. They may require convincing, demand something in exchange for their involvement, or drag their own baggage into the project. <em>Note:</em> Another PC isn’t “help.” That’s just another PC. (Although it’s a good way to bring in a <em>new</em> PC, if a player’s looking for a character to play.) This catch means going outside your usual circle of reliable associates.
+- <strong>Materials:</strong> One of the invention’s components is something rare, under lock and key, or otherwise hard to acquire. Getting your hands on it may be an adventure in and of itself.
+- <strong>Red Tape:</strong> This generally involves paperwork—lots of paperwork—as well as follow-up calls, emails, office visits, or the like. This catch isn’t suited to all settings, but if it’s suited to yours, expect it to be a pain.
+- <strong>Strings:</strong> The promise “I owe you one” is ripe with the potential for further trouble. Unlike Costly, which involves immediate payment, or Help, which involves convincing someone to assist you, the Strings catch means ceding power to someone else for short-term gain. You may not know when or where or what they’ll want in return, but rest assured, they won’t forget. Or maybe they want concrete assurances right now—maybe even a contract.
+- <strong>Time:</strong> Producing the invention will take long enough that the situation will worsen and/or someone will gain an advantage against you. Whatever the case, you’ll still finish it in time for it to be useful.
 
 For every stunt benefit an invention has, there’s a catch. For example, an invention with four stunt benefits will have four catches, selected from the list above.
 
@@ -825,10 +825,10 @@ The standard invention rules assume that the PCs will only occasionally invent s
 
 If you’d rather just have one catch per invention, use these rules instead.
 
--  When a player’s roll <strong>succeeds with style</strong>, the players mark two victories.
--  When a player’s roll <strong>succeeds</strong>, the players mark one victory.
--  When a player’s roll <strong>ties</strong>, the players mark one victory and the GM marks one victory.
--  When a player’s roll <strong>fails</strong>, the GM marks two victories.
+- When a player’s roll <strong>succeeds with style</strong>, the players mark two victories.
+- When a player’s roll <strong>succeeds</strong>, the players mark one victory.
+- When a player’s roll <strong>ties</strong>, the players mark one victory and the GM marks one victory.
+- When a player’s roll <strong>fails</strong>, the GM marks two victories.
 
 If the players accumulate <strong>three victories</strong> before the GM does, the <strong>players</strong> decide what the catch is. Otherwise, the GM decides.
 
@@ -838,14 +838,14 @@ If one of the invention’s extras bundles two or more identical stunt benefits 
 
 #### Examples of Serious Catches
 
--  The infection spreads rapidly while you’re working, claiming some important would-be allies.
--  The robots destroy half of the city before you can complete the device.
--  You need a sizable team of experts beyond what you have available.
--  The only expert who can help is a high-profile rival.
--  The only place with the right equipment to build it is the Cern labs in Geneva.
--  You know exactly what you need—and it’s in Area 51.
--  You don’t just attract attention; a main NPC takes a special interest in your work.
--  The device sporadically emits an unstable and potentially dangerous energy field within a radius of a few dozen feet. (It’s not supposed to do that.)
+- The infection spreads rapidly while you’re working, claiming some important would-be allies.
+- The robots destroy half of the city before you can complete the device.
+- You need a sizable team of experts beyond what you have available.
+- The only expert who can help is a high-profile rival.
+- The only place with the right equipment to build it is the Cern labs in Geneva.
+- You know exactly what you need—and it’s in Area 51.
+- You don’t just attract attention; a main NPC takes a special interest in your work.
+- The device sporadically emits an unstable and potentially dangerous energy field within a radius of a few dozen feet. (It’s not supposed to do that.)
 
 #### Catches as Aspects
 
@@ -853,11 +853,11 @@ If it makes sense and everyone’s agreeable, a catch can manifest as an aspect.
 
 Examples might include:
 
--  <span class="aspect">Down to the Wire</span> (Time)
--  <span class="aspect">Robot Army Has the Tactical Advantage</span> (Time)
--  <span class="aspect">Uneasy Working Relationship with Dr. Priddy</span> (Help)
--  <span class="aspect">On the FBI’s Watch List</span> (Attention)
--  <span class="aspect">Fluctuating Energy Fields</span> (Bug)
+- <span class="aspect">Down to the Wire</span> (Time)
+- <span class="aspect">Robot Army Has the Tactical Advantage</span> (Time)
+- <span class="aspect">Uneasy Working Relationship with Dr. Priddy</span> (Help)
+- <span class="aspect">On the FBI’s Watch List</span> (Attention)
+- <span class="aspect">Fluctuating Energy Fields</span> (Bug)
 
 #### Using Catches
 
@@ -879,11 +879,11 @@ Note that flaws aren’t the same as Bugs as described in Step Four, above. Bugs
 
 Examples include:
 
--  <span class="aspect">Weighs a Ton</span>
--  <span class="aspect">Massive Power Requirements</span>
--  <span class="aspect">Distinctive Energy Signature</span>
--  <span class="aspect">Uses Broadband Radio Signals</span>
--  <span class="aspect">Strong Electromagnetic Field</span>
+- <span class="aspect">Weighs a Ton</span>
+- <span class="aspect">Massive Power Requirements</span>
+- <span class="aspect">Distinctive Energy Signature</span>
+- <span class="aspect">Uses Broadband Radio Signals</span>
+- <span class="aspect">Strong Electromagnetic Field</span>
 
 # Brainstorms
 
@@ -990,16 +990,16 @@ The cost on a tie is up to the GM to determine (see <em>Fate Core</em>, <em>Outc
 
 Second, they get to introduce a <em>fact</em>. This takes the form of a situation aspect, and must follow three guidelines:
 
--  It clearly derives from the skill used to create it.
--  It clearly relates to the situation.
--  It can be stated as an objective fact—an observation of something in the scene, a remembered bit of research, or some other piece of factual information that relates to the situation.
+- It clearly derives from the skill used to create it.
+- It clearly relates to the situation.
+- It can be stated as an objective fact—an observation of something in the scene, a remembered bit of research, or some other piece of factual information that relates to the situation.
 
 In any event, the fact doesn’t have to be something previously established in the fiction. Whether it comes from something the PCs have already done or seen, or whether it’s something the player has invented from whole cloth, it’s equally valid in the brainstorm.
 
 Conversely, the fact should <em>not</em> be:
 
--  A hypothesis all on its own.
--  A personal opinion instead of a fact.
+- A hypothesis all on its own.
+- A personal opinion instead of a fact.
 
 If no one succeeds on the roll, nobody establishes a fact or places an aspect—nothing useful comes out of that segment of the discussion, and it’s back to Square One.
 
@@ -1043,10 +1043,10 @@ If the PCs rack up at least three victories, everyone makes one last roll. There
 
 There are several possibilities for this final roll, including:
 
--  Each player must select a skill already used in the brainstorm.
--  All players roll the same skill, selected by the GM.
--  All players roll Will (see <em>Fate Core</em>), or another standard skill that reflects pure mental ability or fortitude.
--  The players roll 4dF with no skill bonus. Instead, each player gets a +2 bonus to their roll for each fact they contributed to the brainstorm.
+- Each player must select a skill already used in the brainstorm.
+- All players roll the same skill, selected by the GM.
+- All players roll Will (see <em>Fate Core</em>), or another standard skill that reflects pure mental ability or fortitude.
+- The players roll 4dF with no skill bonus. Instead, each player gets a +2 bonus to their roll for each fact they contributed to the brainstorm.
 
 Whoever wins this final roll gets to come up with a hypothesis that dictates what’s actually going on. <em>This becomes the truth of the situation</em>. The hypothesis must take into account and build on the facts already generated during the brainstorm.
 
@@ -1188,18 +1188,18 @@ If there’s a third party delivering a mission to the PCs, like a shady wizard 
 
 For each mission skill, the player who contributed it makes a roll. The specifics of this roll, such as how it’s modified or what its difficulty is, can vary depending on the setting. Here are a few possibilities:
 
--  If the players belong to an organization that’s providing this information to them, use a skill related to that organization—or, if the organization itself has skills, use the one that’s most relevant to the mission briefing. For example, if the Academia Magicka has skills in Coffers, Guards, Scholars, and Spies, the most appropriate skill would probably be Spies.
--  All players roll the same skill, chosen by the GM. This is best if the PCs are thematically similar, such as a group of soldiers or psychics, and that the information they’re receiving was either provided by them in an implied, off-camera scene. Alternatively, it could be that the person briefing them isn’t necessarily being straightforward, and the roll represents trying to separate lies from truth.
--  Each player rolls the mission skill they’ve contributed. This is best if the players are encouraged to pick mission skills that play to their own strengths, and if you’re less concerned with having a strong connection to the fiction than you are with making a fun little mini-game out of it.
--  Each player rolls 4dF, no modifiers. This is best if the situation is unpredictable and there are no guarantees.
+- If the players belong to an organization that’s providing this information to them, use a skill related to that organization—or, if the organization itself has skills, use the one that’s most relevant to the mission briefing. For example, if the Academia Magicka has skills in Coffers, Guards, Scholars, and Spies, the most appropriate skill would probably be Spies.
+- All players roll the same skill, chosen by the GM. This is best if the PCs are thematically similar, such as a group of soldiers or psychics, and that the information they’re receiving was either provided by them in an implied, off-camera scene. Alternatively, it could be that the person briefing them isn’t necessarily being straightforward, and the roll represents trying to separate lies from truth.
+- Each player rolls the mission skill they’ve contributed. This is best if the players are encouraged to pick mission skills that play to their own strengths, and if you’re less concerned with having a strong connection to the fiction than you are with making a fun little mini-game out of it.
+- Each player rolls 4dF, no modifiers. This is best if the situation is unpredictable and there are no guarantees.
 
 The default difficulty is Good (+3). (If everyone’s doing a straight 4dF roll, it’s a good idea to drop it to Average (+1) or Mediocre (+0), or this whole thing will be an exercise in futility.)
 
 Modify this difficulty by any factors the GM or players find relevant. Some examples include:
 
--  Proposed obstacle seems like a natural extension of the chief objective or other obstacles: +0
--  Proposed obstacle makes a leap in logic from the chief objective: +2
--  Proposed obstacle seems iffy in the context of another proposed obstacle: +1 per obstacle
+- Proposed obstacle seems like a natural extension of the chief objective or other obstacles: +0
+- Proposed obstacle makes a leap in logic from the chief objective: +2
+- Proposed obstacle seems iffy in the context of another proposed obstacle: +1 per obstacle
 
 Note that nothing <em>lowers</em> the starting difficulty.
 

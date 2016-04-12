@@ -62,13 +62,13 @@ A <em>special effect</em> is an extra-special thing you can pull off when you su
 
 Your power starts with two special effects. If you want more, you can buy them with a stunt or refresh; each stunt or refresh you spend gets you two more special effects. If you need special effects, use the following list. If our suggestions don’t suffice, you can create your own special effects using this list as a guideline.
 
--  <strong>Forced Movement:</strong> You move your target up to two zones.
--  <strong>Area Attack:</strong> Attack everyone in a zone.
--  <strong>Inflict Condition:</strong> You add an aspect to the target, which you can invoke once for free.
--  <strong>Extra Movement:</strong> You can move up to two zones for free.
--  <strong>Physical Recovery:</strong> You recover from all physical stress.
--  <strong>Mental Recovery:</strong> You recover from all mental stress.
--  <strong>Extra Action:</strong> You can split your shifts between two different yet related actions, adding a +1 to each action.
+- <strong>Forced Movement:</strong> You move your target up to two zones.
+- <strong>Area Attack:</strong> Attack everyone in a zone.
+- <strong>Inflict Condition:</strong> You add an aspect to the target, which you can invoke once for free.
+- <strong>Extra Movement:</strong> You can move up to two zones for free.
+- <strong>Physical Recovery:</strong> You recover from all physical stress.
+- <strong>Mental Recovery:</strong> You recover from all mental stress.
+- <strong>Extra Action:</strong> You can split your shifts between two different yet related actions, adding a +1 to each action.
 
 In addition, some powers have an <em>improved special effect</em>. An improved special effect works just like a special effect: you can use the effect when you succeed with style or spend a fate point while using your power. However, improved special effects are unique to their power and do bigger stuff than regular ones. The trade-off is that they’re more expensive: one stunt buys one improved special effect. 
 
@@ -122,9 +122,9 @@ You can walk with the animals, talk with the animals, and fight with the animals
 
 ### Drawbacks
 
--  Your animal friends don’t just like you, they love you, and want to be around you all the time. You have an <span class="aspect">Unwanted Menagerie</span> at all times.
--  Your connection to the minds of animals works both ways: their psyches rub off on you, and you need to contend with <span class="aspect">Overwhelming Animal Instincts</span>.
--  You have control over an animal with certain environmental needs—say fish, or hawks—which means your powers are <span class="aspect">Not Useful Indoors</span>.
+- Your animal friends don’t just like you, they love you, and want to be around you all the time. You have an <span class="aspect">Unwanted Menagerie</span> at all times.
+- Your connection to the minds of animals works both ways: their psyches rub off on you, and you need to contend with <span class="aspect">Overwhelming Animal Instincts</span>.
+- You have control over an animal with certain environmental needs—say fish, or hawks—which means your powers are <span class="aspect">Not Useful Indoors</span>.
 
 ### Collateral Damage Effects
 
@@ -156,9 +156,9 @@ Your summoned creature is not an NPC, but another character under your control. 
 
 ### Drawbacks
 
--  The thing you summon is not quite as under your control as you’d like people to think. You can tell it what to do, but <span class="aspect">It Has a Mind of Its Own</span>.
--  Your little summoned buddy might be as friendly as anything, but since <span class="aspect">It Looks Like a Living Nightmare</span>, people tend to freak out.
--  Saying you <em>choose</em> to summon your creature isn’t quite right. It’s more accurate to say that you <span class="aspect">Can’t Get Rid of Your Creature</span>, no matter how hard you try.
+- The thing you summon is not quite as under your control as you’d like people to think. You can tell it what to do, but <span class="aspect">It Has a Mind of Its Own</span>.
+- Your little summoned buddy might be as friendly as anything, but since <span class="aspect">It Looks Like a Living Nightmare</span>, people tend to freak out.
+- Saying you <em>choose</em> to summon your creature isn’t quite right. It’s more accurate to say that you <span class="aspect">Can’t Get Rid of Your Creature</span>, no matter how hard you try.
 
 ### Collateral Damage Effects
 
@@ -188,9 +188,9 @@ Your ability to disguise yourself as another person is uncanny. Who are you, rea
 
 ### Drawbacks
 
--  There’s a reason you spend most or all of your time wearing someone else’s face: your own is an <span class="aspect">Inhuman Visage</span>.
--  Too much time spent being someone else. Too many faces, too many lives. You’ve reached the point where you <span class="aspect">Don’t Know Who You Are Anymore</span>.
--  You can’t consciously control the way your face changes. Instead, your power is <span class="aspect">Touch-Activated</span>; it only triggers when you physically touch your target.
+- There’s a reason you spend most or all of your time wearing someone else’s face: your own is an <span class="aspect">Inhuman Visage</span>.
+- Too much time spent being someone else. Too many faces, too many lives. You’ve reached the point where you <span class="aspect">Don’t Know Who You Are Anymore</span>.
+- You can’t consciously control the way your face changes. Instead, your power is <span class="aspect">Touch-Activated</span>; it only triggers when you physically touch your target.
 
 ### Collateral Damage Effects
 
@@ -224,9 +224,9 @@ You can be an entire team, all by yourself.
 
 ### Drawbacks
 
--  You would think that you and your duplicate get along smashingly, but you don’t. Trouble brews when you <span class="aspect">Don’t Get Along with Yourself</span>.
--  Your duplicates are, if anything, too perfect. Sure, you don’t get hurt when they do, but you do <span class="aspect">Feel Their Pain</span>.
--  It would be great to send duplicates off on adventures without you, but when they get a hundred yards away from you they just fall over, dead. You have <span class="aspect">Short-Range Control</span>.
+- You would think that you and your duplicate get along smashingly, but you don’t. Trouble brews when you <span class="aspect">Don’t Get Along with Yourself</span>.
+- Your duplicates are, if anything, too perfect. Sure, you don’t get hurt when they do, but you do <span class="aspect">Feel Their Pain</span>.
+- It would be great to send duplicates off on adventures without you, but when they get a hundred yards away from you they just fall over, dead. You have <span class="aspect">Short-Range Control</span>.
 
 ### Collateral Damage Effects
 
@@ -258,8 +258,8 @@ You’ve got a body as stretchy as rubber and twice as resilient.
 
 ### Drawbacks
 
--  Because all of your bones shift and slide around, you can never really bring good leverage to bear during physical tasks. You are actually quite <span class="aspect">Weak</span>.
--  You aren’t so much “elastic” as you are a formless, shapeless horror. You might be able to put on a fairly humanoid form, but you <span class="aspect">Need to Concentrate to Stay Solid</span>.
+- Because all of your bones shift and slide around, you can never really bring good leverage to bear during physical tasks. You are actually quite <span class="aspect">Weak</span>.
+- You aren’t so much “elastic” as you are a formless, shapeless horror. You might be able to put on a fairly humanoid form, but you <span class="aspect">Need to Concentrate to Stay Solid</span>.
 
 ### Collateral Damage Effects
 
@@ -289,8 +289,8 @@ You are a human capacitor, able to absorb pure energy into your body and release
 
 ### Drawbacks
 
--  The human body is not a perfect battery, which is why you’ve blown out a few walls without meaning to. You suffer from <span class="aspect">Involuntary Bursts of Energy</span>.
--  Wherever you go, lights flicker, TVs show static, and cars won’t start. You tend to stay away from hospitals because you <span class="aspect">Can’t Shut It Off</span>.
+- The human body is not a perfect battery, which is why you’ve blown out a few walls without meaning to. You suffer from <span class="aspect">Involuntary Bursts of Energy</span>.
+- Wherever you go, lights flicker, TVs show static, and cars won’t start. You tend to stay away from hospitals because you <span class="aspect">Can’t Shut It Off</span>.
 
 ### Collateral Damage Effects
 
@@ -324,9 +324,9 @@ A classic power with innumerable variations: you can shoot stuff. Lasers from yo
 
 ### Drawbacks
 
--  Your energy blast takes the form of lasers shooting from your eyes. This is great for sniping at a distance, but not for tracking nearby targets. You are <span class="aspect">Inaccurate at Close Range</span>.
--  Your blasts come with huge bursts of concussive force, which generate <span class="aspect">Lots of Collateral Damage</span>.
--  You don’t have true control over your blasts: energy pours out of you non-stop, but you have safety equipment to hold it in check until you need to fire. You <span class="aspect">Need a Mask to Protect Those Around You</span>.
+- Your energy blast takes the form of lasers shooting from your eyes. This is great for sniping at a distance, but not for tracking nearby targets. You are <span class="aspect">Inaccurate at Close Range</span>.
+- Your blasts come with huge bursts of concussive force, which generate <span class="aspect">Lots of Collateral Damage</span>.
+- You don’t have true control over your blasts: energy pours out of you non-stop, but you have safety equipment to hold it in check until you need to fire. You <span class="aspect">Need a Mask to Protect Those Around You</span>.
 
 ### Collateral Damage Effects
 
@@ -358,9 +358,9 @@ For many people, flight is the reason to activate their super gene. You are one 
 
 ### Drawbacks
 
--  Your ability to fly comes from the pair of great big wings sprouting out of your shoulder blades. You are <span class="aspect">Very Noticeable</span>.
--  You can’t actually fly on your own. Instead, you have artificial assistance, whether it’s a drug cocktail to stimulate your super gene or an honest-to-goodness jetpack. Your power has <span class="aspect">Limited Fuel</span>.
--  Humans aren’t actually built to fly; without wings or a tail to act as a rudder, you find that it is <span class="aspect">Hard to Maneuver in Flight</span>.
+- Your ability to fly comes from the pair of great big wings sprouting out of your shoulder blades. You are <span class="aspect">Very Noticeable</span>.
+- You can’t actually fly on your own. Instead, you have artificial assistance, whether it’s a drug cocktail to stimulate your super gene or an honest-to-goodness jetpack. Your power has <span class="aspect">Limited Fuel</span>.
+- Humans aren’t actually built to fly; without wings or a tail to act as a rudder, you find that it is <span class="aspect">Hard to Maneuver in Flight</span>.
 
 ### Collateral Damage Effects
 
@@ -390,8 +390,8 @@ You have special insight into how stuff works, letting you assemble incredible d
 
 ### Drawbacks
 
--  You learned to build things out of sheer necessity, not because you like it. It turns out, despite your skills, <span class="aspect">Machinery Tends to Fail Around You</span>.
--  If not for your gadgeteering, you wouldn’t be here today. After a horrible accident some time ago, you are <span class="aspect">Kept Alive by Your Own Devices</span>.
+- You learned to build things out of sheer necessity, not because you like it. It turns out, despite your skills, <span class="aspect">Machinery Tends to Fail Around You</span>.
+- If not for your gadgeteering, you wouldn’t be here today. After a horrible accident some time ago, you are <span class="aspect">Kept Alive by Your Own Devices</span>.
 
 ### Collateral Damage Effects
 
@@ -421,9 +421,9 @@ You have a deadly touch. You don’t have to hit people to hurt them; just brush
 
 ### Drawbacks
 
--  The cause harm in the form of strange, cancerous lesions all over your target’s skin. Unfortunately, you show them as well, making you look <span class="aspect">Grotesque</span>.
--  Despite your best attempts to keep it in check, your power is always active in small ways: pencils rot in your hand, and food spoils when you touch it. You <span class="aspect">Can’t Turn It Off</span>.
--  Your power is usually inactive, which means you aren’t accidentally damaging those around you, but it means you can’t always bring your ability to bear; you have to be furious at a target to harm them. Your power is <span class="aspect">Fueled By Rage</span>.
+- The cause harm in the form of strange, cancerous lesions all over your target’s skin. Unfortunately, you show them as well, making you look <span class="aspect">Grotesque</span>.
+- Despite your best attempts to keep it in check, your power is always active in small ways: pencils rot in your hand, and food spoils when you touch it. You <span class="aspect">Can’t Turn It Off</span>.
+- Your power is usually inactive, which means you aren’t accidentally damaging those around you, but it means you can’t always bring your ability to bear; you have to be furious at a target to harm them. Your power is <span class="aspect">Fueled By Rage</span>.
 
 ### Collateral Damage Effects
 
@@ -457,9 +457,9 @@ You are, invariably, the most popular person to have on hand during a fight. You
 
 ### Drawbacks
 
--  Your healing is tied to your emotional state and your ability to feel compassion for your target. No matter how pressed, you <span class="aspect">Can’t Heal Someone You Don’t Like</span>.
--  Your healing ability isn’t perfect; like any healer, you’ve lost patients before, and like any healer, you’re <span class="aspect">Racked with Guilt</span> about it.
--  The human body is incredibly complex, which means you <span class="aspect">Require Complete Concentration</span> to heal your targets.
+- Your healing is tied to your emotional state and your ability to feel compassion for your target. No matter how pressed, you <span class="aspect">Can’t Heal Someone You Don’t Like</span>.
+- Your healing ability isn’t perfect; like any healer, you’ve lost patients before, and like any healer, you’re <span class="aspect">Racked with Guilt</span> about it.
+- The human body is incredibly complex, which means you <span class="aspect">Require Complete Concentration</span> to heal your targets.
 
 ### Collateral Damage Effects
 
@@ -489,9 +489,9 @@ You can make things that aren’t there…there.
 
 ### Drawbacks
 
--  Everyone has demons, of course. Not everyone has the latent ability to bring their subconscious thoughts into the real world when they aren’t paying attention. You suffer from a <span class="aspect">Subconscious Made Real</span>.
--  Your illusions aren’t projections; they’re hallucinations you make people have. This means your <span class="aspect">Illusions Don’t Show Up on Video</span>.
--  You spin your illusions together out of shadows. Indoors or at night they’re perfectly serviceable, but your <span class="aspect">Illusions Dissipate in Daylight</span>.
+- Everyone has demons, of course. Not everyone has the latent ability to bring their subconscious thoughts into the real world when they aren’t paying attention. You suffer from a <span class="aspect">Subconscious Made Real</span>.
+- Your illusions aren’t projections; they’re hallucinations you make people have. This means your <span class="aspect">Illusions Don’t Show Up on Video</span>.
+- You spin your illusions together out of shadows. Indoors or at night they’re perfectly serviceable, but your <span class="aspect">Illusions Dissipate in Daylight</span>.
 
 ### Collateral Damage Effects
 
@@ -521,8 +521,8 @@ You are a natural people person—whether people like it or not. You can’t con
 
 ### Drawbacks
 
--  Something about always being able to get everything you want has left you, well, a little dead inside. You have <span class="aspect">No Empathy</span>.
--  While you can direct your power, you can’t turn it off. You have an incessant aura of likability, so you always wind up <span class="aspect">Surrounded by Admirers</span>.
+- Something about always being able to get everything you want has left you, well, a little dead inside. You have <span class="aspect">No Empathy</span>.
+- While you can direct your power, you can’t turn it off. You have an incessant aura of likability, so you always wind up <span class="aspect">Surrounded by Admirers</span>.
 
 ### Collateral Damage Effects
 
@@ -552,9 +552,9 @@ Sorry, who said that?
 
 ### Drawbacks
 
--  Your invisibility is not actually visual; your power works by effectively writing yourself out of the minds of those around you. Unfortunately, you still have a <span class="aspect">Completely Visible Reflection</span>.
--  Your power is a reflection of your personality: you were always a meek, background sort of person, even before you learned to fade from view. You are <span class="aspect">Easily Forgotten</span>, even by your companions.
--  Unfortunately, your invisibility is only skin deep, it <span class="aspect">Doesn’t Work on Clothes</span>.
+- Your invisibility is not actually visual; your power works by effectively writing yourself out of the minds of those around you. Unfortunately, you still have a <span class="aspect">Completely Visible Reflection</span>.
+- Your power is a reflection of your personality: you were always a meek, background sort of person, even before you learned to fade from view. You are <span class="aspect">Easily Forgotten</span>, even by your companions.
+- Unfortunately, your invisibility is only skin deep, it <span class="aspect">Doesn’t Work on Clothes</span>.
 
 ### Collateral Damage Effects
 
@@ -584,8 +584,8 @@ You always have what you need close at hand.
 
 ### Drawbacks
 
--  You aren’t summoning physical objects; you’re actually constructing hard-light holograms. But the light isn’t that hard—your <span class="aspect">Summons are as Fragile as Glass</span>.
--  Your idle thoughts constantly create a stream of things. It disappears eventually, but you still <span class="aspect">Leave a Trail of Random Stuff</span>.
+- You aren’t summoning physical objects; you’re actually constructing hard-light holograms. But the light isn’t that hard—your <span class="aspect">Summons are as Fragile as Glass</span>.
+- Your idle thoughts constantly create a stream of things. It disappears eventually, but you still <span class="aspect">Leave a Trail of Random Stuff</span>.
 
 ### Collateral Damage Effects
 
@@ -617,8 +617,8 @@ You are what you touch.
 
 ### Drawbacks
 
--  You can’t turn into just anything you want; your power is <span class="aspect">Limited to Organic Materials</span>.
--  You often trigger your power without meaning to. You suffer from <span class="aspect">Involuntary Mimicry</span>.
+- You can’t turn into just anything you want; your power is <span class="aspect">Limited to Organic Materials</span>.
+- You often trigger your power without meaning to. You suffer from <span class="aspect">Involuntary Mimicry</span>.
 
 ### Collateral Damage Effects
 
@@ -648,9 +648,9 @@ You come pre-armed for everyone’s inconvenience.
 
 ### Drawbacks
 
--  You don’t know which came first, the retractile claws or the animal sensibilities, but you can’t have one without the other. While you’re armed with a natural weapon, you are also <span class="aspect">Half-Feral</span>.
--  Your weapon isn’t as simple as jutting bone spurs; your fists generate a strange energy that you can’t entirely shut off. It makes you dangerous to foes, but you’re also <span class="aspect">A Danger to Anyone Nearby</span>.
--  Your natural weapon isn’t attached to your hands, but to your elbows or knees. It’s no less effective, but you’re <span class="aspect">Only Good Up Close</span>.
+- You don’t know which came first, the retractile claws or the animal sensibilities, but you can’t have one without the other. While you’re armed with a natural weapon, you are also <span class="aspect">Half-Feral</span>.
+- Your weapon isn’t as simple as jutting bone spurs; your fists generate a strange energy that you can’t entirely shut off. It makes you dangerous to foes, but you’re also <span class="aspect">A Danger to Anyone Nearby</span>.
+- Your natural weapon isn’t attached to your hands, but to your elbows or knees. It’s no less effective, but you’re <span class="aspect">Only Good Up Close</span>.
 
 ### Collateral Damage Effects
 
@@ -680,9 +680,9 @@ You have a powerful psychic bond with machines of all sorts. They do what you te
 
 ### Drawbacks
 
--  Because you have a bond with machinery, it has a bond with you. In a technologically advanced city, that means <span class="aspect">The Machines Never Stop Talking!</span>
--  Your ability to control machinery is psychic in nature and tied into your emotional state. This can cause <span class="aspect">Unwanted Feedback</span>.
--  You might be able to sense machinery near you, and control it when it’s away from you, but the only way to access a psychic link is by physically touching the machine you want to influence. Your power <span class="aspect">Requires Physical Contact</span>.
+- Because you have a bond with machinery, it has a bond with you. In a technologically advanced city, that means <span class="aspect">The Machines Never Stop Talking!</span>
+- Your ability to control machinery is psychic in nature and tied into your emotional state. This can cause <span class="aspect">Unwanted Feedback</span>.
+- You might be able to sense machinery near you, and control it when it’s away from you, but the only way to access a psychic link is by physically touching the machine you want to influence. Your power <span class="aspect">Requires Physical Contact</span>.
 
 ### Collateral Damage Effects
 
@@ -712,8 +712,8 @@ You have a green thumb and then some: plants respond to you.
 
 ### Drawbacks
 
--  Occasionally, you curse the fact that you developed your powers in the city, because you are <span class="aspect">Not Very Useful Indoors</span>.
--  You are part plant yourself, or too much time in their presence has caused chlorophyll to leech into your flesh. Either way, you’re walking around with <span class="aspect">Bright Green Skin</span>.
+- Occasionally, you curse the fact that you developed your powers in the city, because you are <span class="aspect">Not Very Useful Indoors</span>.
+- You are part plant yourself, or too much time in their presence has caused chlorophyll to leech into your flesh. Either way, you’re walking around with <span class="aspect">Bright Green Skin</span>.
 
 ### Collateral Damage Effects
 
@@ -743,8 +743,8 @@ Walls are something other people have to deal with. You’ve always found it eas
 
 ### Drawbacks
 
--  Your control over your power isn’t as absolute as you’d like. You can keep solid most of the time, but <span class="aspect">Sometimes Things Drop Right Through Your Hands</span>.
--  If you’re out of phase with the world, you’re out of phase with everything, even the air. You <span class="aspect">Can’t Breathe While Phasing</span>.
+- Your control over your power isn’t as absolute as you’d like. You can keep solid most of the time, but <span class="aspect">Sometimes Things Drop Right Through Your Hands</span>.
+- If you’re out of phase with the world, you’re out of phase with everything, even the air. You <span class="aspect">Can’t Breathe While Phasing</span>.
 
 ### Collateral Damage Effects
 
@@ -774,8 +774,8 @@ You don’t do much on your own. But when there are other super-powered fighters
 
 ### Drawbacks
 
--  Your ability is less than short-range; you <span class="aspect">Must Maintain Physical Contact</span> to keep someone empowered.
--  When you empower an ally, they’re taking some of your energy away. Your power <span class="aspect">Leaves You Weakened</span> while your allies are empowered.
+- Your ability is less than short-range; you <span class="aspect">Must Maintain Physical Contact</span> to keep someone empowered.
+- When you empower an ally, they’re taking some of your energy away. Your power <span class="aspect">Leaves You Weakened</span> while your allies are empowered.
 
 ### Collateral Damage Effects
 
@@ -803,8 +803,8 @@ The guys who amplify powers are more popular, but you’re arguably more importa
 
 ### Drawbacks
 
--  Nullifying powers requires a lot of concentration, and keeping a nullification zone active for more than a few seconds is <span class="aspect">Exhausting</span>.
--  Rather than strictly nullify powers, your ability causes superpowers to short out, go off randomly, and generally still work but work wrong. Your nullification zone suffers from <span class="aspect">Unpredictable Superpower Misfires</span>.
+- Nullifying powers requires a lot of concentration, and keeping a nullification zone active for more than a few seconds is <span class="aspect">Exhausting</span>.
+- Rather than strictly nullify powers, your ability causes superpowers to short out, go off randomly, and generally still work but work wrong. Your nullification zone suffers from <span class="aspect">Unpredictable Superpower Misfires</span>.
 
 ### Collateral Damage Effects
 
@@ -834,8 +834,8 @@ You never need to suffer from power envy. If you can find someone with the power
 
 ### Drawbacks
 
--  Too much time thinking about how powers work and how to get access to them has left you a little psychologically damaged: you are <span class="aspect">Power-Hungry</span>.
--  A light tap on the arm isn’t enough for you to borrow someone’s ability; your power-theft <span class="aspect">Requires Sustained Physical Contact</span>.
+- Too much time thinking about how powers work and how to get access to them has left you a little psychologically damaged: you are <span class="aspect">Power-Hungry</span>.
+- A light tap on the arm isn’t enough for you to borrow someone’s ability; your power-theft <span class="aspect">Requires Sustained Physical Contact</span>.
 
 ### Collateral Damage Effects
 
@@ -861,8 +861,8 @@ You have a bit of insight into how things are going to go; mainly you know how t
 
 ### Drawbacks
 
--  There are so many different futures that you can half-see; it’s overwhelming, leaving you with <span class="aspect">Constant Migraines</span>.
--  Your ability to see the near-future is so finely tuned that it eclipses your ability to stay in the now, leading you to answer questions before they’re asked and dodge blows before they’re thrown. You <span class="aspect">Have Trouble Seeing the Present</span>.
+- There are so many different futures that you can half-see; it’s overwhelming, leaving you with <span class="aspect">Constant Migraines</span>.
+- Your ability to see the near-future is so finely tuned that it eclipses your ability to stay in the now, leading you to answer questions before they’re asked and dodge blows before they’re thrown. You <span class="aspect">Have Trouble Seeing the Present</span>.
 
 ### Collateral Damage Effects
 
@@ -894,8 +894,8 @@ You aren’t made of iron. You can get stabbed just as easily as the next guy. D
 
 ### Drawbacks
 
--  You don’t heal perfectly. Every time you come back from an injury, there’s a scar, even if it’s just a little one, and those things add up. By this point, you are <span class="aspect">Grotesquely Scarred</span>.
--  You are older than you look—much, much older. You may have lived several lifetimes, or spent a few decades trapped in ice before you were revived. Either way, you are <span class="aspect">From Another Time</span>.
+- You don’t heal perfectly. Every time you come back from an injury, there’s a scar, even if it’s just a little one, and those things add up. By this point, you are <span class="aspect">Grotesquely Scarred</span>.
+- You are older than you look—much, much older. You may have lived several lifetimes, or spent a few decades trapped in ice before you were revived. Either way, you are <span class="aspect">From Another Time</span>.
 
 ### Collateral Damage Effects
 
@@ -925,8 +925,8 @@ You are what you want to be.
 
 ### Drawbacks
 
--  Your transformations aren’t perfect; whenever you return to human shape, some animal features remain. You <span class="aspect">Don’t Look Quite Human</span>.
--  While your transformations are impressive, you can only tweak your form a little bit; you can’t change it entirely. You are <span class="aspect">Limited to Terrestrial Mammals</span>.
+- Your transformations aren’t perfect; whenever you return to human shape, some animal features remain. You <span class="aspect">Don’t Look Quite Human</span>.
+- While your transformations are impressive, you can only tweak your form a little bit; you can’t change it entirely. You are <span class="aspect">Limited to Terrestrial Mammals</span>.
 
 ### Collateral Damage Effects
 
@@ -958,8 +958,8 @@ You keep people safe with invisible walls of force. It’s not flashy, but it’
 
 ### Drawbacks
 
--  Because you can throw up protective barriers with ease, you’ve never had to really defend yourself. As result, anyone who breaks through your shield will find that you’re <span class="aspect">Quite Frail</span>.
--  Your barriers don’t appear instantly; instead, they coalesce as the air solidifies. Your shields are <span class="aspect">Slow to Form</span>.
+- Because you can throw up protective barriers with ease, you’ve never had to really defend yourself. As result, anyone who breaks through your shield will find that you’re <span class="aspect">Quite Frail</span>.
+- Your barriers don’t appear instantly; instead, they coalesce as the air solidifies. Your shields are <span class="aspect">Slow to Form</span>.
 
 ### Collateral Damage Effects
 
@@ -975,9 +975,9 @@ You have the ability to stop a person in their tracks.
 
 “Slowing” is a broad term for several different means of getting an opponent to stop in their tracks. The skill used to overcome your slowing depends on the nature of your power:
 
--  If you are physically entangling your opponent, as with vines or webbing, they use Athletics.
--  If you are encasing your target in a barrier, such as a mound of ice, they use Physique.
--  If you are slowing them with a psychic force, they use Will.
+- If you are physically entangling your opponent, as with vines or webbing, they use Athletics.
+- If you are encasing your target in a barrier, such as a mound of ice, they use Physique.
+- If you are slowing them with a psychic force, they use Will.
 
 ### Enhancements
 
@@ -995,8 +995,8 @@ You have the ability to stop a person in their tracks.
 
 ### Drawbacks
 
--  You don’t slow someone by force of will alone; you hit them with a bola, a sticky web, or something of that nature. Whatever the precise form, you <span class="aspect">Require a Prop</span> to make it work.
--  Your ability to slow others is a reflection of your own personality; you’re just a <span class="aspect">Lethargic</span> person.
+- You don’t slow someone by force of will alone; you hit them with a bola, a sticky web, or something of that nature. Whatever the precise form, you <span class="aspect">Require a Prop</span> to make it work.
+- Your ability to slow others is a reflection of your own personality; you’re just a <span class="aspect">Lethargic</span> person.
 
 ### Collateral Damage Effects
 
@@ -1026,9 +1026,9 @@ You are an acrobat without compare, a position you show off best with your grace
 
 ### Drawbacks
 
--  Your legs are perpetually coiled springs, and they don’t like being still. When you aren’t leaping through the air, you are <span class="aspect">Restless</span>.
--  While your leaps are decent enough, what actually moves you are lines of sticky webbing that work like grappling hooks. You <span class="aspect">Need Solid Anchor Points</span> in order to move.
--  Your leaps are amazing, but not incredibly accurate. Outside that’s not a problem, but you are <span class="aspect">Accident-Prone While Indoors</span>.
+- Your legs are perpetually coiled springs, and they don’t like being still. When you aren’t leaping through the air, you are <span class="aspect">Restless</span>.
+- While your leaps are decent enough, what actually moves you are lines of sticky webbing that work like grappling hooks. You <span class="aspect">Need Solid Anchor Points</span> in order to move.
+- Your leaps are amazing, but not incredibly accurate. Outside that’s not a problem, but you are <span class="aspect">Accident-Prone While Indoors</span>.
 
 ### Collateral Damage Effects
 
@@ -1062,8 +1062,8 @@ You are the smartest person in the room, whatever room you happen to be in.
 
 ### Drawbacks
 
--  Perhaps unsurprisingly, it’s sometimes difficult for the very brilliant to get along with the more normal. You <span class="aspect">Think You’re Better than Everyone</span>.
--  Your brain just. Doesn’t. Shut. Off. Because of your endlessly bubbling, productive mind, you are <span class="aspect">Intensely Sleep-Deprived</span>.
+- Perhaps unsurprisingly, it’s sometimes difficult for the very brilliant to get along with the more normal. You <span class="aspect">Think You’re Better than Everyone</span>.
+- Your brain just. Doesn’t. Shut. Off. Because of your endlessly bubbling, productive mind, you are <span class="aspect">Intensely Sleep-Deprived</span>.
 
 ### Collateral Damage Effects
 
@@ -1093,8 +1093,8 @@ Some of your senses are much more acute than is normal. It sometimes surprises y
 
 ### Drawbacks
 
--  The human brain wasn’t meant to deal with this much input all at once. You are <span class="aspect">Easily Overwhelmed</span>.
--  You can’t tune out or narrow your super senses, which makes it hard to focus on what’s important at the moment. As a result, you suffer from a <span class="aspect">Slowed Reaction Time</span>.
+- The human brain wasn’t meant to deal with this much input all at once. You are <span class="aspect">Easily Overwhelmed</span>.
+- You can’t tune out or narrow your super senses, which makes it hard to focus on what’s important at the moment. As a result, you suffer from a <span class="aspect">Slowed Reaction Time</span>.
 
 ### Collateral Damage Effects
 
@@ -1128,8 +1128,8 @@ Gotta go fast, gotta go fast!
 
 ### Drawbacks
 
--  Even a super-speedster gets tired, and when your hyperactive metabolism is on the downswing, you can suffer from intense <span class="aspect">Burnout</span>.
--  In your world, people are moving in slow motion; they take forever to do the simplest tasks. No wonder you are so <span class="aspect">Easily Distracted</span>.
+- Even a super-speedster gets tired, and when your hyperactive metabolism is on the downswing, you can suffer from intense <span class="aspect">Burnout</span>.
+- In your world, people are moving in slow motion; they take forever to do the simplest tasks. No wonder you are so <span class="aspect">Easily Distracted</span>.
 
 ### Collateral Damage Effects
 
@@ -1161,9 +1161,9 @@ You are a powerhouse, a wall of muscle, an unstoppable force. Are you strong? Li
 
 ### Drawbacks
 
--  Your super strength also makes you super aggressive. Sometimes you can’t help but fly into a <span class="aspect">Destructive Rage</span>.
--  Your power isn’t as supernormal as some others; it comes from having muscles on muscles on muscles. You are big and beefy but, unfortunately, <span class="aspect">Clumsy</span>.
--  Super strength isn’t quite the gift everyone makes it out to be; just ask the trail of broken doors, shattered plates, and other chaos you leave in your wake. It’s not fun when you <span class="aspect">Don’t Know Your Own Strength</span>.
+- Your super strength also makes you super aggressive. Sometimes you can’t help but fly into a <span class="aspect">Destructive Rage</span>.
+- Your power isn’t as supernormal as some others; it comes from having muscles on muscles on muscles. You are big and beefy but, unfortunately, <span class="aspect">Clumsy</span>.
+- Super strength isn’t quite the gift everyone makes it out to be; just ask the trail of broken doors, shattered plates, and other chaos you leave in your wake. It’s not fun when you <span class="aspect">Don’t Know Your Own Strength</span>.
 
 ### Collateral Damage Effects
 
@@ -1197,9 +1197,9 @@ It’s not that you’re too strong to show that you’re hurt, or that you reco
 
 ### Drawbacks
 
--  Your toughness is actually a form of armor, either literal armor that you have to put on or armor that you can encase your body in at will. Either way, it impedes your mobility, leaving you <span class="aspect">Slow</span>.
--  You’re super tough and can’t really feel pain, but that’s because your entire sense of touch has been dialed down to 1. You <span class="aspect">Can’t Feel Much of Anything</span>.
--  The source of your super toughness isn’t internal; it’s in the series of chitinous plates sprouting from your joints, or the shadowy clouds that always surround you, or something else similarly <span class="aspect">Horrifying to Behold</span>.
+- Your toughness is actually a form of armor, either literal armor that you have to put on or armor that you can encase your body in at will. Either way, it impedes your mobility, leaving you <span class="aspect">Slow</span>.
+- You’re super tough and can’t really feel pain, but that’s because your entire sense of touch has been dialed down to 1. You <span class="aspect">Can’t Feel Much of Anything</span>.
+- The source of your super toughness isn’t internal; it’s in the series of chitinous plates sprouting from your joints, or the shadowy clouds that always surround you, or something else similarly <span class="aspect">Horrifying to Behold</span>.
 
 ### Collateral Damage Effects
 
@@ -1233,8 +1233,8 @@ You are a genuine spoon-bending, mind-over-matter psychic, able to enforce your 
 
 ### Drawbacks
 
--  A lifetime of pulling things toward you with your mind, rather than your arms, either led to or was a result of your own <span class="aspect">Weak and Frail Body</span>.
--  There’s no easy way to say this, but your mental prowess is tied to your <span class="aspect">Huge, Visible, Pulsating Brain</span>.
+- A lifetime of pulling things toward you with your mind, rather than your arms, either led to or was a result of your own <span class="aspect">Weak and Frail Body</span>.
+- There’s no easy way to say this, but your mental prowess is tied to your <span class="aspect">Huge, Visible, Pulsating Brain</span>.
 
 ### Collateral Damage Effects
 
@@ -1266,8 +1266,8 @@ You know what everyone is thinking.
 
 ### Drawbacks
 
--  When you can read others’ thoughts but nobody’s reading your own, you <span class="aspect">Tend to Abuse Your Power</span>.
--  Delving too deep into someone’s brain is risky; their thoughts may start to resonate with yours and generate <span class="aspect">Psychic Feedback</span>.
+- When you can read others’ thoughts but nobody’s reading your own, you <span class="aspect">Tend to Abuse Your Power</span>.
+- Delving too deep into someone’s brain is risky; their thoughts may start to resonate with yours and generate <span class="aspect">Psychic Feedback</span>.
 
 ### Collateral Damage Effects
 
@@ -1297,8 +1297,8 @@ You go where you want, whether there’s a path there or not.
 
 ### Drawbacks
 
--  Your teleportation fills you with energy that discharges as soon as you appear at your destination. You create an <span class="aspect">Involuntary Energy Field</span>.
--  When you teleport, you actually move through another dimension, one where physics works differently. The process creates <span class="aspect">Massive Bursts of Ill-Smelling Smoke</span>.
+- Your teleportation fills you with energy that discharges as soon as you appear at your destination. You create an <span class="aspect">Involuntary Energy Field</span>.
+- When you teleport, you actually move through another dimension, one where physics works differently. The process creates <span class="aspect">Massive Bursts of Ill-Smelling Smoke</span>.
 
 ### Collateral Damage Effects
 
@@ -1328,8 +1328,8 @@ Gravity is something that other people have to worry about; you just need a surf
 
 ### Drawbacks
 
--  Fact is, the ability to hang onto a wall comes from the strange, viscous substance oozing out of your hands and feet. You are <span class="aspect">Sticky-Fingered (Literally)</span>.
--  You can get a finger hold on even the tiniest, most insignificant nooks and crannies of a wall, but you <span class="aspect">Can’t Climb Perfectly Smooth Surfaces</span>.
+- Fact is, the ability to hang onto a wall comes from the strange, viscous substance oozing out of your hands and feet. You are <span class="aspect">Sticky-Fingered (Literally)</span>.
+- You can get a finger hold on even the tiniest, most insignificant nooks and crannies of a wall, but you <span class="aspect">Can’t Climb Perfectly Smooth Surfaces</span>.
 
 ### Collateral Damage Effects
 
@@ -1363,8 +1363,8 @@ You can rain on anyone’s parade.
 
 ### Drawbacks
 
--  Your moods tend to leech into the room’s weather, no matter how hard you try. You suffer from <span class="aspect">Sympathetic Weather Patterns</span>.
--  The weather you create can be impressive, but it’s easily overpowered by nature. That’s why you’re <span class="aspect">Only Effective While Indoors</span>
+- Your moods tend to leech into the room’s weather, no matter how hard you try. You suffer from <span class="aspect">Sympathetic Weather Patterns</span>.
+- The weather you create can be impressive, but it’s easily overpowered by nature. That’s why you’re <span class="aspect">Only Effective While Indoors</span>
 
 ### Collateral Damage Effects
 
@@ -1398,8 +1398,8 @@ You are…unfortunate. Whatever turned on your superpowers did not do so nicely,
 
 ### Drawbacks
 
--  No explanation needed for this one: <span class="aspect">Visibly Corrupted</span>.
--  Your power kicked in when you were irradiated in an accident that should have been fatal. Instead, you survived, but your body is twisted and <span class="aspect">Radioactive</span>.
+- No explanation needed for this one: <span class="aspect">Visibly Corrupted</span>.
+- Your power kicked in when you were irradiated in an accident that should have been fatal. Instead, you survived, but your body is twisted and <span class="aspect">Radioactive</span>.
 
 ### Collateral Damage Effects
 
@@ -1427,9 +1427,9 @@ You are filled with enough electrical potential to make Tesla blush.
 
 ### Drawbacks
 
--  As a walking, talking nexus of electrical activity, you find that <span class="aspect">Modern Tech Just Doesn’t Like You</span>.
--  You are filled with electrical energy, just all the time. It’s like being hopped up on sugar and caffeine, only more so! You are <span class="aspect">Hyperactive</span>.
--  People notice that you tend to keep your superheroics indoors on rainy days. It’s not your fault: <span class="aspect">Water Shorts You Out</span>.
+- As a walking, talking nexus of electrical activity, you find that <span class="aspect">Modern Tech Just Doesn’t Like You</span>.
+- You are filled with electrical energy, just all the time. It’s like being hopped up on sugar and caffeine, only more so! You are <span class="aspect">Hyperactive</span>.
+- People notice that you tend to keep your superheroics indoors on rainy days. It’s not your fault: <span class="aspect">Water Shorts You Out</span>.
 
 ### Collateral Damage Effects
 
@@ -1461,9 +1461,9 @@ You like fire. Fire likes you. It doesn’t have to get more complex than that t
 
 ### Drawbacks
 
--  Some personality traits just go well with the ability to summon flames. You are <span class="aspect">Hot-Tempered</span>.
--  You aren’t wreathed in flames at all times, but you’re never entirely extinguished; even if it’s just a little smoke drifting from your hair, you are <span class="aspect">Always On Fire</span>.
--  You can induce a small flame to become huge, but you can’t create fire from nothing at all. At a minimum, <span class="aspect">You Need a Spark</span>.
+- Some personality traits just go well with the ability to summon flames. You are <span class="aspect">Hot-Tempered</span>.
+- You aren’t wreathed in flames at all times, but you’re never entirely extinguished; even if it’s just a little smoke drifting from your hair, you are <span class="aspect">Always On Fire</span>.
+- You can induce a small flame to become huge, but you can’t create fire from nothing at all. At a minimum, <span class="aspect">You Need a Spark</span>.
 
 ### Collateral Damage Effects
 
@@ -1497,8 +1497,8 @@ You bring winter wherever you go.
 
 ### Drawbacks
 
--  Weather that others would consider merely chilly is, to you, sweltering. You can <span class="aspect">Only Live in the Cold</span>.
--  You aren’t just cold to the touch; you bring the temperature down all around you, whether you like it or not. You don’t mind it, but you are <span class="aspect">Always Freezing</span>.
+- Weather that others would consider merely chilly is, to you, sweltering. You can <span class="aspect">Only Live in the Cold</span>.
+- You aren’t just cold to the touch; you bring the temperature down all around you, whether you like it or not. You don’t mind it, but you are <span class="aspect">Always Freezing</span>.
 
 ### Collateral Damage Effects
 
@@ -1528,8 +1528,8 @@ You can surround yourself with shadows and use them to fuel your powers. It does
 
 ### Drawbacks
 
--  You can never actually leave the shadows—if you try to peel away, the darkness clings to you. You are <span class="aspect">Always Shrouded in Darkness</span>.
--  Your powers don’t just create shadows; they require shadows. You work best in the dark, and you’re <span class="aspect">Weakened by Daylight</span>.
+- You can never actually leave the shadows—if you try to peel away, the darkness clings to you. You are <span class="aspect">Always Shrouded in Darkness</span>.
+- Your powers don’t just create shadows; they require shadows. You work best in the dark, and you’re <span class="aspect">Weakened by Daylight</span>.
 
 ### Collateral Damage Effects
 
@@ -1557,8 +1557,8 @@ You’ll be ready for action as soon as your transformation sequence finishes up
 
 ### Drawbacks
 
--  Your super-form is so powerful that you can’t dive into it instantly; you suffer from an <span class="aspect">Extended Transformation Sequence</span>.
--  Your normal and super selves aren’t the same person—they have distinct minds and personalities that happen to share a body. They don’t hate one another, but you are still <span class="aspect">Often Arguing with Yourself</span>.
+- Your super-form is so powerful that you can’t dive into it instantly; you suffer from an <span class="aspect">Extended Transformation Sequence</span>.
+- Your normal and super selves aren’t the same person—they have distinct minds and personalities that happen to share a body. They don’t hate one another, but you are still <span class="aspect">Often Arguing with Yourself</span>.
 
 ### Collateral Damage Effects
 
@@ -1584,8 +1584,8 @@ Not everyone can take advantage of their superpower gene. Some people come by th
 
 ### Drawbacks
 
--  Your tech doesn’t work without power, and something this advanced doesn’t run on dollar-store batteries. You have <span class="aspect">Limited Fuel</span>.
--  Your equipment isn’t fancy. You cobbled it together in your basement with duct-table and gumption. You’ve got <span class="aspect">Shabby Equipment</span>.
+- Your tech doesn’t work without power, and something this advanced doesn’t run on dollar-store batteries. You have <span class="aspect">Limited Fuel</span>.
+- Your equipment isn’t fancy. You cobbled it together in your basement with duct-table and gumption. You’ve got <span class="aspect">Shabby Equipment</span>.
 
 ### Collateral Damage Effects
 
