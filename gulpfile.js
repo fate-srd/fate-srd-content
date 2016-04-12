@@ -11,13 +11,13 @@
 
   var match;
 
-  gulp.task('md', function () {
+  gulp.task('make-html', function () {
     return gulp.src('docs/markdown/**.md')
       .pipe(markdown())
       .pipe(gulp.dest('docs/html'));
   });
 
-  gulp.task('pandoc', function (cb) {
+  gulp.task('make-word', function (cb) {
     exec('pandoc -s -S docs/markdown/atomic-robo-SRD.md -o docs/word/atomic-robo-SRD.docx');
     exec('pandoc -s -S docs/markdown/fate-accelerated-SRD.md -o docs/word/fate-accelerated-SRD.docx');
     exec('pandoc -s -S docs/markdown/fate-core-SRD.md -o docs/word/fate-core-SRD.docx');
@@ -30,7 +30,7 @@
     exec('pandoc -s -S docs/markdown/venture-city.md -o docs/word/venture-city.docx');
   })
 
-  gulp.task('replace', function(){
+  gulp.task('make-md', function(){
     gulp.src(['source/*.html'])
       // Remove specific cases (sometimes this is easier than figuring out regexp)
       .pipe(replace('<a href="NoSkill.html#_idTextAnchor002">page&#160;8</a>','page 8'))
