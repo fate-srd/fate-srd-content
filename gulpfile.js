@@ -8,6 +8,7 @@
   var prettify = require('gulp-prettify');
   var dest = require('gulp-dest');
   var exec = require('child_process').exec;
+  var htmlsplit = require('gulp-htmlsplit');
 
   var match;
 
@@ -16,6 +17,13 @@
       .pipe(markdown())
       .pipe(gulp.dest('docs/html'));
   });
+
+  gulp.task('split', function() {
+    gulp.src('docs/html/atomic-robo-SRD.html')
+      .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, '<!-- split $1.html --><h1>$3</h1>'))
+      .pipe(htmlsplit())
+      .pipe(gulp.dest('temp'));
+  })
 
   gulp.task('make-word', function (cb) {
     exec('pandoc -s -S docs/markdown/atomic-robo-SRD.md -o docs/word/atomic-robo-SRD.docx');
