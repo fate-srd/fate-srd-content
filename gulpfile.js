@@ -11,10 +11,18 @@
   var htmlsplit = require('gulp-htmlsplit');
 
   var match;
+  var i = 0;
 
   gulp.task('split', function() {
     gulp.src('docs/html/atomic-robo-SRD.html')
-      .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, '<!-- split $1.html --><h1>$3</h1>'))
+      // .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, '<!-- split $1.html --><h1>$3</h1>'))
+      
+      .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, function(match, offset, p1, p2, p3){
+        i++;
+        return '<!-- split ' + i + '-' + offset + '.html --><h1>' + p2 + '</h1>'
+      }))
+
+
       .pipe(htmlsplit())
       .pipe(gulp.dest('for-import/atomic-robo'));
   })
