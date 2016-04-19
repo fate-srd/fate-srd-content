@@ -119,6 +119,7 @@
       .pipe(replace('</div>',''))
       .pipe(replace('</body>',''))
       .pipe(replace('</html>',''))
+      .pipe(replace(/<a><\/a>/g, ''))
 
       // Remove extra space at the start of a line.
       .pipe(replace(/\t*/g, ''))
@@ -147,5 +148,8 @@
       .pipe(dest('docs/markdown', {ext: '.md'}))
       .pipe(gulp.dest('./'));
   });
+
+  gulp.task('convert-docs', ['make-md', 'make-html', 'make-word']);
+
 
 })();
