@@ -6,7 +6,9 @@
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-dest": "^0.2.3",
+    "gulp-htmlsplit": "^1.1.0",
     "gulp-markdown": "^1.2.0",
-    "gulp-replace": "^0.5.4"
+    "gulp-replace": "^0.5.4",
+    "gulp-tap": "^0.1.3"
   }
 }

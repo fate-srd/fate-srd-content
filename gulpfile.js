@@ -8,8 +8,33 @@
   var prettify = require('gulp-prettify');
   var dest = require('gulp-dest');
   var exec = require('child_process').exec;
+  var htmlsplit = require('gulp-htmlsplit');
+  var tap = require('gulp-tap');
+  var path = require('path');
 
   var match;
+  var i = 0;
+  var filename;
+  var splitDest;
+
+  gulp.task('split', function() {
+    gulp.src('docs/html/**.html')
+      .pipe(tap(function (file,t) {
+        filename = path.basename(file.path)
+        filename = filename.replace('.html','')
+        splitDest = 'for-import/';
+        return filename, splitDest;
+      }))
+      // Insert breaks before the <h1>s.
+      .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, function(match, offset, p1, p2, p3){
+        i++; // Start the count at 1. :-)
+        return '<!-- split ' + filename + '-' + i + '-' + offset + '.html --><h1>' + p2 + '</h1>'
+      }))
+      .pipe(htmlsplit())
+      .pipe(gulp.dest(function(){
+        return splitDest;
+      }))
+  });
 
   gulp.task('make-html', function () {
     return gulp.src('docs/markdown/**.md')
@@ -111,6 +136,7 @@
       .pipe(replace('</div>',''))
       .pipe(replace('</body>',''))
       .pipe(replace('</html>',''))
+      .pipe(replace(/<a><\/a>/g, ''))
 
       // Remove extra space at the start of a line.
       .pipe(replace(/\t*/g, ''))
@@ -139,5 +165,8 @@
       .pipe(dest('docs/markdown', {ext: '.md'}))
       .pipe(gulp.dest('./'));
   });
+
+  gulp.task('convert-docs', ['make-md', 'make-html', 'make-word']);
+
 
 })();
