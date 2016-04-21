@@ -42,18 +42,19 @@
       .pipe(gulp.dest('docs/html'));
   });
 
-  gulp.task('make-word', function (cb) {
-    exec('pandoc -s -S docs/markdown/atomic-robo-SRD.md -o docs/word/atomic-robo-SRD.docx');
-    exec('pandoc -s -S docs/markdown/fate-accelerated-SRD.md -o docs/word/fate-accelerated-SRD.docx');
-    exec('pandoc -s -S docs/markdown/fate-core-SRD.md -o docs/word/fate-core-SRD.docx');
-    exec('pandoc -s -S docs/markdown/fate-system-toolkit-SRD.md -o docs/word/fate-system-toolkit-SRD.docx');
-    exec('pandoc -s -S docs/markdown/frontier-spirit.md -o docs/word/frontier-spirit.docx');
-    exec('pandoc -s -S docs/markdown/gods-and-monsters-SRD.md -o docs/word/gods-and-monsters-SRD.docx');
-    exec('pandoc -s -S docs/markdown/sails-full-of-stars-SRD.md -o docs/word/sails-full-of-stars-SRD.docx');
-    exec('pandoc -s -S docs/markdown/three-rocketeers-fate-conspiracies-SRD.md -o docs/word/three-rocketeers-fate-conspiracies-SRD.docx');
-    exec('pandoc -s -S docs/markdown/three-rocketeers-no-skill-swashbuckling-SRD.md -o docs/word/three-rocketeers-no-skill-swashbuckling-SRD.docx');
-    exec('pandoc -s -S docs/markdown/venture-city.md -o docs/word/venture-city.docx');
-  })
+  // Pandoc is failing. :-(
+  // gulp.task('make-word', function (cb) {
+  //   exec('pandoc -s -S docs/markdown/atomic-robo-SRD.md -o docs/word/atomic-robo-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/fate-accelerated-SRD.md -o docs/word/fate-accelerated-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/fate-core-SRD.md -o docs/word/fate-core-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/fate-system-toolkit-SRD.md -o docs/word/fate-system-toolkit-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/frontier-spirit.md -o docs/word/frontier-spirit.docx');
+  //   exec('pandoc -s -S docs/markdown/gods-and-monsters-SRD.md -o docs/word/gods-and-monsters-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/sails-full-of-stars-SRD.md -o docs/word/sails-full-of-stars-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/three-rocketeers-fate-conspiracies-SRD.md -o docs/word/three-rocketeers-fate-conspiracies-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/three-rocketeers-no-skill-swashbuckling-SRD.md -o docs/word/three-rocketeers-no-skill-swashbuckling-SRD.docx');
+  //   exec('pandoc -s -S docs/markdown/venture-city.md -o docs/word/venture-city.docx');
+  // })
 
   gulp.task('make-md', function(){
     gulp.src(['source/*.html'])
@@ -165,8 +166,5 @@
       .pipe(dest('docs/markdown', {ext: '.md'}))
       .pipe(gulp.dest('./'));
   });
-
-  gulp.task('convert-docs', ['make-md', 'make-html', 'make-word']);
-
 
 })();
