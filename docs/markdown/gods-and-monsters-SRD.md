@@ -35,10 +35,10 @@ Generally, your god—and all others—can go anywhere in the world with minimal
 As part of shaping the world around them characters will often interact with <em>communities</em>: cohesive groups of people who can be led, manipulated or fought as a unit. When a community acts as a whole or you need some approximate stats for one of its members, use its community skills. Not all communities have all skills; if one is missing, assume it is Mediocre (+0). The community skills are:
 
 - <strong>Culture</strong> covers the appeal of the community’s arts and “ambience” to outsiders.
-- <strong>Integrity</strong> is used to resist the forces of change both internal and external. 
+- <strong>Integrity</strong> is used to resist the forces of change both internal and external.
 - <strong>Subtlety</strong> reflects the level of skulduggery that the community engages in, including spying, stealth, and theft.
 - <strong>Technology</strong> is the overall level of technical advancement. Technology rarely begins at a rank higher than Average (+1), but it can change over the course of the game.
-- <strong>Warfare</strong> covers how many soldiers the community can round up and what level of training they have received. 
+- <strong>Warfare</strong> covers how many soldiers the community can round up and what level of training they have received.
 - <strong>Wealth</strong> is self-explanatory: how rich does the community tend to be in material possessions? However, it says nothing about how those riches are distributed.
 
 Communities also have a stress track and a set of consequences, used to resist raids, environmental destruction, depopulation by disease or misfortune, social pressure to change their ways, or other forces of change. Some communities also have stunts or other special powers, but these are rare.
@@ -63,7 +63,7 @@ Which is all a wordy way of encouraging you to embrace the epic flaws and terrib
 
 ## Aspects
 
-Mythic characters, just like all other Fate characters, have a <em>high concept</em> and a <em>trouble</em>. The high concept should reflect the god’s self-image—are you a <span class="aspect">Thunder Goddess</span>, a <span class="aspect">Thing of the Wild Places</span>, or <span class="aspect">One Who Dances at the End of Time</span>? 
+Mythic characters, just like all other Fate characters, have a <em>high concept</em> and a <em>trouble</em>. The high concept should reflect the god’s self-image—are you a <span class="aspect">Thunder Goddess</span>, a <span class="aspect">Thing of the Wild Places</span>, or <span class="aspect">One Who Dances at the End of Time</span>?
 
 A god’s trouble, on the other hand, might be anything. It could be something as human as a <span class="aspect">Weakness for Alcohol</span>, something slightly supernatural like being <span class="aspect">Subject to Summoning</span>, or the sort of thing that ties directly into the nature of godly existence like being a <span class="aspect">Power Sink</span> or having <span class="aspect">No Fine Control</span> or an <span class="aspect">Unstable Form</span>. Whatever it is, make sure it can come back again and again to make your life difficult.
 
@@ -86,7 +86,7 @@ Gods use the six approaches from <em>Fate Accelerated Edition</em>, but here the
 
 Just like in <em>Fate Accelerated</em>, you choose one approach to be rated at Good (+3), two at Fair (+2), two at Average (+1), and one at Mediocre (+0). Remember that your character’s abilities—especially their physical abilities—are several notches above those of mundane mortals. A scholarly god who only has a Mediocre rank in Mighty can still swordfight an entire village at once with a decent chance of success; she just won’t be the engine of destruction that a god with a Good rank in Mighty would be.
 
-In each pair of approaches, one approach is <em>ascendant</em> and one is <em>subordinate</em>. A god’s ascendant approaches are those that reinforce the god’s <em>mantle</em>, the shell of identity they have constructed to hold their power. For now, just mark the higher approach in each pair as ascendant, and the other as subordinate. If the two approaches are rated the same, choose which you wish to be ascendant. We’ll talk more about the divine mantle soon. 
+In each pair of approaches, one approach is <em>ascendant</em> and one is <em>subordinate</em>. A god’s ascendant approaches are those that reinforce the god’s <em>mantle</em>, the shell of identity they have constructed to hold their power. For now, just mark the higher approach in each pair as ascendant, and the other as subordinate. If the two approaches are rated the same, choose which you wish to be ascendant. We’ll talk more about the divine mantle soon.
 
 ## Stunts and Refresh
 
@@ -107,7 +107,7 @@ The gods are creatures made from leftover pieces of the great primordial everyth
 
 But this kind of fluid existence is untenable. A god needs a touchstone, an anchor to hold their self steady against the whims and urges that threaten to rewrite their identity with every fleeting thought. This is their <em>mantle</em>: a loose shell of ideals and concepts that contains and channels the torrent of their consciousness, acting both as a bulwark for their identity and a source of power tied to that identity. A god’s mantle is a blending of self-image, the beliefs of mortals, and the nature of the world. A dedicated god can manage all of these elements and become exactly what they wish to be, but most drift among the range of identities encompassed by their mantle as their actions shape themselves and the world around them.
 
-In game terms, a god’s mantle is a combination of their identity, the powers they wield, their link to the land, and their connection to the people of the world. A mantle offers <em>boons</em> but also comes with a <em>geas</em>—a limitation that comes with the god’s adopted identity. 
+In game terms, a god’s mantle is a combination of their identity, the powers they wield, their link to the land, and their connection to the people of the world. A mantle offers <em>boons</em> but also comes with a <em>geas</em>—a limitation that comes with the god’s adopted identity.
 
 As a god uses their approaches, they generate a weight of <em>intention</em>, which can cause their aspects—their physical and mental selves—to flex, in order to reflect their new outlook. And just as a river flowing in its course becomes deeper, faster, and stronger, a god’s intentions shape their own being into vehicles for expressing that intention. A god who solves problems with violence and feats of strength will find themselves becoming muscular and direct, able to crack stone by shouting or to part the sea with their bare hands—adaptations which favor solving problems through violence and feats of strength. Likewise, a god who favors a patient, considered approach might develop a third eye which can see the future, encouraging them to be even more patient in their planning.
 
@@ -135,7 +135,7 @@ These scales measure how far your god’s behavior is pulling them toward the di
 
 When you create your god, place a token, called an <em>intention token</em>, on the “1” space on the side of your god’s ascendant approach for each approach pair. The numbered spaces represent the <em>tiers</em> of each approach pair. At the start of each tale, mark the positions of your intention tokens on the track itself.
 
-Your god’s intention will change as you play. <strong>Every time you spend a fate point to affect a roll for an action</strong>—whether to get a +2 bonus, to reroll, to power a stunt, or to do anything else—move the token one step toward the approach you are using on the appropriate track. 
+Your god’s intention will change as you play. <strong>Every time you spend a fate point to affect a roll for an action</strong>—whether to get a +2 bonus, to reroll, to power a stunt, or to do anything else—move the token one step toward the approach you are using on the appropriate track.
 
 During a session, the positions of your intention tokens only matter if you push a token off its track, turning your god into a monster. At milestones, however, their positions determine your <em>milestone tier</em>, which affects your god’s <em>boons</em> and <em>geas</em>. Upon creating your god, you begin at milestone tier 1.
 
@@ -155,11 +155,11 @@ As part of their mantle, a god has a set of boons, powerful advantages that befi
 
 First, choose a low-level persistent benefit related to your god’s overall concept: for example, the ability to see in pitch darkness, minor illusory cantrips, deep pockets filled with odds and ends, or invulnerability to naked flames.
 
-Then, create a boon stunt following this template: 
+Then, create a boon stunt following this template:
 
-> Because I am <strong>[something related to your god’s concept]</strong>, I can spend a power point stored in my stations to get a +1 bonus when I <strong>[pick one: Boldly, Subtly, Mightily, Swiftly, Wisely, Cleverly]</strong> <strong>[pick one: attack, defend, overcome, create an advantage]</strong> while <strong>[describe a circumstance]</strong>. 
+> Because I am <strong>[something related to your god’s concept]</strong>, I can spend a power point stored in my stations to get a +1 bonus when I <strong>[pick one: Boldly, Subtly, Mightily, Swiftly, Wisely, Cleverly]</strong> <strong>[pick one: attack, defend, overcome, create an advantage]</strong> while <strong>[describe a circumstance]</strong>.
 
-This boon stunt is weaker than a stunt, but as your god grows in power, you will receive more powerful boon stunts. 
+This boon stunt is weaker than a stunt, but as your god grows in power, you will receive more powerful boon stunts.
 
 Boons and power points are described in more detail in the next chapter, Godly Power.
 
@@ -188,11 +188,11 @@ Eventually, most mythologies end with a “twilight of the gods”—a retreat f
 
 # Godly Power
 
-A god gains power through increasing their <em>intention</em> and storing it in <em>stations</em> in the form of <em>power points</em>, which are spent to power their <em>boons</em>. 
+A god gains power through increasing their <em>intention</em> and storing it in <em>stations</em> in the form of <em>power points</em>, which are spent to power their <em>boons</em>.
 
 If a god’s intention grows to such a point that it cannot be controlled, the god transforms into a monster. If the god cannot stave off an increase of intention by storing it in a station, they can <em>bleed off</em> intention into the land—but this could have consequences.
 
-At each milestone, you’ll evaluate your intention and set your <em>milestone tier</em>, which determines the strength of your god’s boons and the severity of their <em>geas</em>, a divine weakness. 
+At each milestone, you’ll evaluate your intention and set your <em>milestone tier</em>, which determines the strength of your god’s boons and the severity of their <em>geas</em>, a divine weakness.
 
 All mentions of tiers in later sections on boons and geasa refer to your god’s milestone tier, not the positions of your intention tokens.
 
@@ -200,21 +200,21 @@ If you need a quick reference on intention during play, read Intention in 30 Sec
 
 ## Intention and Power
 
-Intention is the main measure of a god’s power: The more they favor their strengths, the stronger they become, and if they act against their nature, their power will leach away. One might conclude that the gods want to push themselves as far toward their nature as possible in order to maximize their powers—and this is true, to an extent. But this is not a boundless cycle of improvement and ever-increasing power. If their flow of power becomes too great, a god will inevitably lose themself in it and become a monster. 
+Intention is the main measure of a god’s power: The more they favor their strengths, the stronger they become, and if they act against their nature, their power will leach away. One might conclude that the gods want to push themselves as far toward their nature as possible in order to maximize their powers—and this is true, to an extent. But this is not a boundless cycle of improvement and ever-increasing power. If their flow of power becomes too great, a god will inevitably lose themself in it and become a monster.
 
-This happens in the game when spending a fate point pushes your intention token off the end of one of the scales. At that point your character immediately succumbs to their power and becomes a monster, with deleterious consequences for everyone and everything nearby. 
+This happens in the game when spending a fate point pushes your intention token off the end of one of the scales. At that point your character immediately succumbs to their power and becomes a monster, with deleterious consequences for everyone and everything nearby.
 
 Fortunately, gods have two ways of managing the build-up of intention. They can <strong>store the power</strong> in their stations, or they can <strong>bleed it off</strong> into the world.
 
 ### Storing Intention
 
-A god can store intention in their stations, using the metaphysical connection between themself and the world as a buffer. Even better, once grounded in the world like this, this “refined” intention can be used to fuel the god’s boons in a way that raw intention cannot. 
+A god can store intention in their stations, using the metaphysical connection between themself and the world as a buffer. Even better, once grounded in the world like this, this “refined” intention can be used to fuel the god’s boons in a way that raw intention cannot.
 
-Stored intention takes the form of <em>power points</em>, and a god can store 1 power point in each of their stations. Whenever you would move an intention token <strong>toward a higher tier</strong> of your ascendant approach, you can instead store 1 power point and keep the token where it is. If you have no empty stations, you must either move the token or bleed the intention into your surroundings. 
+Stored intention takes the form of <em>power points</em>, and a god can store 1 power point in each of their stations. Whenever you would move an intention token <strong>toward a higher tier</strong> of your ascendant approach, you can instead store 1 power point and keep the token where it is. If you have no empty stations, you must either move the token or bleed the intention into your surroundings.
 
-At the beginning of a tale, all your stations begin empty. Any stored intention vanishes between tales with no ill effects. 
+At the beginning of a tale, all your stations begin empty. Any stored intention vanishes between tales with no ill effects.
 
-If you want to spontaneously fill a station with a power point, you can do so at any time by spending a fate point. 
+If you want to spontaneously fill a station with a power point, you can do so at any time by spending a fate point.
 
 ### Bleeding Off Intention
 
@@ -259,7 +259,7 @@ A place can support one god, unless two deities are so similar that one place co
 
 ### Gaining Stations
 
-New places are harder to find and vulnerable to desecration, but easier to claim—all a god needs to do is find or create a sub-region that reflects some truth about them or their power, and claim it. Bleeding off intention is easy but risky: the created sub-region may not express enough truth about the god to qualify as a station, and its refinement will be hostile. A surer way is to create a sub-region with an explanation, and surer still is to explore the world for the perfect place. 
+New places are harder to find and vulnerable to desecration, but easier to claim—all a god needs to do is find or create a sub-region that reflects some truth about them or their power, and claim it. Bleeding off intention is easy but risky: the created sub-region may not express enough truth about the god to qualify as a station, and its refinement will be hostile. A surer way is to create a sub-region with an explanation, and surer still is to explore the world for the perfect place.
 
 The actual claiming process is a symbolic ritual that varies from god to god but usually takes about five minutes. It could be a religious ceremony, bestial scent-marking, a rainbow touching down from a clear sky to burn arcane sigils into the ground, or anything appropriate to the god in question. Claiming a sub-region as a station marks it.
 
@@ -277,7 +277,7 @@ Desecrating a community is considerably more difficult. The people who make up t
 
 Communities offer a way to drive them against their patron deities: corruption. Because the community’s idea of the god is what stores the power, a subtle god can quietly amend the community’s view of their patron in order to get leverage over them. This is done by creating an advantage against the community’s Integrity. The resulting aspect can be invoked and compelled by anyone as if it were an aspect of the community’s patron god, and it can be “healed” as if it were a moderate consequence. A god can carry a maximum of one such aspect per community station they lay claim to.
 
-> The fearsome nature goddess Thorn wants to teach Herakhty the folly of favoring civilization over the wilderness. Disguising herself as Herakhty, she visits the once-wicked village that Herakhty has since claimed as a station, and counsels them to place more trust in their emotions and indulge their animal sides. She attempts to Subtly create an advantage against the village’s Integrity and succeeds, making the community <span class="aspect">Emotionally Driven</span>. 
+> The fearsome nature goddess Thorn wants to teach Herakhty the folly of favoring civilization over the wilderness. Disguising herself as Herakhty, she visits the once-wicked village that Herakhty has since claimed as a station, and counsels them to place more trust in their emotions and indulge their animal sides. She attempts to Subtly create an advantage against the village’s Integrity and succeeds, making the community <span class="aspect">Emotionally Driven</span>.
 
 > As the community’s perception of Herakhty shifts, his nature warps to accommodate it: <span class="aspect">Emotionally Driven</span> appears on Herakhty’s character sheet, and it can be invoked or compelled as normal. Because Thorn successfully created an advantage, she gets a free invoke on <span class="aspect">Emotionally Driven</span> for either Herakhty or the community.
 
@@ -338,7 +338,7 @@ If your god is at tier 0, then you do not suffer from a geas. By reducing your p
 
 ## Becoming a Monster
 
-A god becomes a monster when they lose themselves in their own power. This happens when spending a fate point pushes their intention token off the end of the track, and they are unable or unwilling to store or bleed off the excess. Also, a god with an ascendant approach at tier 3 can choose to transform themself into a monster at any time—it’s simple for them to tip over the edge and become something both greater and lesser than they were before. 
+A god becomes a monster when they lose themselves in their own power. This happens when spending a fate point pushes their intention token off the end of the track, and they are unable or unwilling to store or bleed off the excess. Also, a god with an ascendant approach at tier 3 can choose to transform themself into a monster at any time—it’s simple for them to tip over the edge and become something both greater and lesser than they were before.
 
 When your god becomes a monster, you lose control of them immediately. In the space of moments their power erupts and they transform into something twisted, powerful, yet still recognizable as the being they once were. The precise nature of the new monster, and what they do now, is up to the GM—you will need a new god.
 
@@ -346,7 +346,7 @@ However, there is one benefit to becoming a monster: you get to dictate how the 
 
 You can effectively shape the landscape, freely changing the local area’s concept or refinement and creating new regions or sub-regions accordingly. Anyone you choose to aggress upon must accept defeat and be taken out or must flee for their lives, in which case they suffer an immediate consequence but can otherwise escape the area unharmed. In this case “aggress upon” can also include acts of supernatural persuasion or mind control, like the inspirational beauty example above.
 
-## Monsters In Action 
+## Monsters In Action
 
 Once the initial transformation has stabilized, monsters operate using more or less the same rules as gods—their identity and form have found a new equilibrium, and they will never tap into that kind of power again. Monsters are often extremely powerful in their own right, however, so they should not be underestimated because they fail to be unstoppable forces of nature.
 
@@ -370,7 +370,7 @@ When choosing an explanation, you have three broad options: something cosmetic w
 
 <strong>Cosmetic:</strong> Cosmetic changes are things like why crows are black, why roses have thorns, or why people speak different languages in different places. These things might affect the background of the world, but aren’t significant enough to function as aspects, nor do they count as marking. On the plus side, these changes can have global scope; if you determine that crows are red because they got soaked in carrion following a huge battle, then all crows everywhere are now red. Alternatively, you could declare that only the crows of this particular region are red, while others remain black. It’s up to you.
 
-<strong>Potent and Local:</strong> The potent-but-local option makes a major change in a region or sub-region by creating or changing the region’s refinement aspect. The character most responsible for the change is considered to have marked the region, and gains access to its regional stunt. 
+<strong>Potent and Local:</strong> The potent-but-local option makes a major change in a region or sub-region by creating or changing the region’s refinement aspect. The character most responsible for the change is considered to have marked the region, and gains access to its regional stunt.
 
 <strong>Global:</strong> The “biggest” option is to create an aspect that applies to the entire world as a result of your actions, reflecting the outcome of your tale. Going forward, this aspect acts as a situation aspect in every scene, but it comes with two important conditions: First, this aspect doesn’t affect individual regions or sub-regions, so it doesn’t count as marking anything. Second, people will notice, and they won’t like it.
 
@@ -429,7 +429,7 @@ There is one exception: do not change the community’s refinement aspect if it 
 
 ## Changing Yourself
 
-The gods in <em>Gods and Monsters</em> are fluid entities, stabilized by their connection to the world and their careful management of their own power. Change is less something they choose to do and more something that happens to them as they exercise their will on the world. <strong>At every milestone</strong>, in addition to gaining the usual benefits of the milestone, reassess your god’s mantle and the locations of their intention tokens. 
+The gods in <em>Gods and Monsters</em> are fluid entities, stabilized by their connection to the world and their careful management of their own power. Change is less something they choose to do and more something that happens to them as they exercise their will on the world. <strong>At every milestone</strong>, in addition to gaining the usual benefits of the milestone, reassess your god’s mantle and the locations of their intention tokens.
 
 First, slide each token that isn’t on a numbered space toward the tier 0 space until it arrives on a numbered tier space, where it stops.
 

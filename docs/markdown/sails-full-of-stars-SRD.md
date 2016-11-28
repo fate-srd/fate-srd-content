@@ -18,7 +18,7 @@ Alchemy is also the study of biological processes, including health, illness, ag
 
 <strong>Overcome:</strong> You can use Alchemy to overcome a variety of obstacles where alchemical knowledge would be useful. For instance, you could mix an acid to dissolve a sturdy lock, or you could determine the components of an unknown alchemical mixture. Alchemy is useful for overcoming medical obstacles as well, and it can be used to remove aspects of a medical nature.
 
-<strong>Create an Advantage:</strong> When you have alchemical supplies and tools on hand, you can create advantages. For instance, you could mix a gas and release it into a guardhouse, leaving the soldiers inside <span class="aspect">Quite Sleepy</span>. Or you could distill an elixir which gives an ally <span class="aspect">Liquid Courage</span>. 
+<strong>Create an Advantage:</strong> When you have alchemical supplies and tools on hand, you can create advantages. For instance, you could mix a gas and release it into a guardhouse, leaving the soldiers inside <span class="aspect">Quite Sleepy</span>. Or you could distill an elixir which gives an ally <span class="aspect">Liquid Courage</span>.
 
 In addition, you can provide your allies with mixtures, which they can later use to create advantages on their own. When your ally uses the mixture, you roll Alchemy to create the desired aspect. Your ally might need to roll to deliver the mixture, such as Shoot to throw a flask or Stealth to pour a vial into someone’s drink.
 
@@ -38,9 +38,9 @@ If you wish to create alchemical weapons, such as acids or explosives, you can d
 
 To create an alchemical mixture, an alchemist needs access to three things:
 
-- <strong>Tools:</strong> flasks, burners, pipes, and retorts. 
+- <strong>Tools:</strong> flasks, burners, pipes, and retorts.
 - <strong>Materials:</strong> liquids, powders, metals, and crystals.
-- <strong>Time:</strong> Anywhere from a few minutes (to produce a simple acid) to several years (to produce a breakthrough in alchemical science). Typically, an alchemist can produce a simple alchemical mixture—such as a one-use gas bomb or a vial of antivenom—in less than an hour. 
+- <strong>Time:</strong> Anywhere from a few minutes (to produce a simple acid) to several years (to produce a breakthrough in alchemical science). Typically, an alchemist can produce a simple alchemical mixture—such as a one-use gas bomb or a vial of antivenom—in less than an hour.
 
 To set the difficulty of an Alchemy roll, consider not only the magnitude of the task to be accomplished, but also the tools, materials, and time available. When a character must work with a limited set of tools, or with poor quality materials, or in a rush, increase the difficulty.
 
@@ -48,7 +48,7 @@ To set the difficulty of an Alchemy roll, consider not only the magnitude of the
 
 The practice of sailing a ship requires competence in reading navigational charts, using instruments to determine one’s position in the solar system, measuring the local wind currents, and setting the sails to produce the desired course and speed.
 
-<strong>Overcome:</strong> While you are navigating a ship, the GM may ask you to roll an overcome action to determine how quickly the vessel arrives at its destination. This roll can be modified by stunts belonging to the navigator and by the ship itself. 
+<strong>Overcome:</strong> While you are navigating a ship, the GM may ask you to roll an overcome action to determine how quickly the vessel arrives at its destination. This roll can be modified by stunts belonging to the navigator and by the ship itself.
 
 If you fail an overcome roll with Sail and want to succeed at a cost, you can choose to damage the ship as your cost. In this case you’re pushing the ship past its limits, causing its structure or mechanisms to suffer. By default, a minor cost produces a situation aspect, such as <span class="aspect">Engine Stalled Out</span>, and a major cost produces a consequence, such as <span class="aspect">Torn Mainsails</span>.
 
@@ -98,7 +98,7 @@ Though modern weapons have transformed the face of warfare, the insights of past
 
 <strong>Eightfold Formation:</strong> From your study of battle formations, you know how to arrange your troops for any situation. During crew combat, you can use Lore instead of Will to benefit units under your command. See the <em>Fate System Toolkit</em> (page 167) for a list of these benefits.
 
-<strong>Empty Fort Strategy:</strong> Your knowledge of armies and warfare allows you to construct a convincing illusion on the battlefield. You can use Lore instead of Deceive to create a plausible but untrue situation aspect on a zone. Creating this aspect requires enough time before the enemy arrives to arrange the scene appropriately—creating false tracks, propping up rifles in windows, and so forth. 
+<strong>Empty Fort Strategy:</strong> Your knowledge of armies and warfare allows you to construct a convincing illusion on the battlefield. You can use Lore instead of Deceive to create a plausible but untrue situation aspect on a zone. Creating this aspect requires enough time before the enemy arrives to arrange the scene appropriately—creating false tracks, propping up rifles in windows, and so forth.
 
 For instance, you might place <span class="aspect">Well Garrisoned</span> on an empty building, or <span class="aspect">Bristling with Traps</span> on an otherwise ordinary road. Enemies who see your illusion attempt to overcome using Notice, with a difficulty equal to the shifts of your Lore roll used to create the illusion. Any enemies who fail this action will believe the aspect is true, and will act accordingly.
 
@@ -144,7 +144,7 @@ A ship’s captain must be decisive and determined, or else risk losing the fait
 
 # Ships as Characters
 
-Ships have aspects, skills, and stunts, just like regular characters. If the players start the game in command of—or serving aboard—their own ship, take some time to discuss the ship’s origins and history so you can decide what statistics to assign it. 
+Ships have aspects, skills, and stunts, just like regular characters. If the players start the game in command of—or serving aboard—their own ship, take some time to discuss the ship’s origins and history so you can decide what statistics to assign it.
 
 Ships come in three sizes: small, medium, and large. A ship with no stunts is considered small, which means that it carries 20 guns and 100 crew, and up to 300 tons of cargo. To increase a ship’s size, take the Medium Ship and Large Ship stunts. For every step in size difference between two ships, the larger ship receives +1 to attack and defend against the smaller ship in combat.
 
@@ -202,7 +202,7 @@ First, ships do not have refresh. At any major milestone, one player may spend a
 
 Second, the skill cap for the ship’s crew is always one rank below the skill cap for the characters.
 
-# Crew 
+# Crew
 
 ## Crew Actions
 
@@ -212,7 +212,7 @@ If a PC takes direct command of the crew to perform a specific task, roll using 
 
 > Bailey orders the ship’s guns to fire. He decides to lead the gun crew, so he uses his own Shoot rank instead of the crew’s Shoot rank. Shortly after, the ship is damaged by return fire, and Bailey wants to lead the repair effort. To do this, he gives up command of the gun crew. When the guns are fired again, the crew operates the guns, using their own Shoot rank.
 
-You may wish to invent names and backgrounds for some NPC crew members, but you don’t need to choose skills for these characters—they have the skills and skill ranks as the rest of the crew. 
+You may wish to invent names and backgrounds for some NPC crew members, but you don’t need to choose skills for these characters—they have the skills and skill ranks as the rest of the crew.
 
 ## Crew Combat
 
@@ -258,7 +258,7 @@ Ramming a ship requires two exchanges. On the first exchange, your ship’s navi
 
 <strong>Gunnery:</strong> A ship can fire its guns at a single target per exchange. This can be represented as an attack action or create an advantage action, attempting to create an aspect on an enemy ship, such as <span class="aspect">Shredded Sails</span>. The targeted vessel can defend or actively oppose, as appropriate, using Sail.
 
-<strong>Signaling:</strong> Once per exchange, a ship can transmit a single message using its signaling lanterns. To judge whether a message can be sent during a single exchange, assume that signaling speed is roughly similar to that of Morse code—about forty words per minute. Normally, signaling does not require a roll, but it does use the signaling character’s action for the exchange. 
+<strong>Signaling:</strong> Once per exchange, a ship can transmit a single message using its signaling lanterns. To judge whether a message can be sent during a single exchange, assume that signaling speed is roughly similar to that of Morse code—about forty words per minute. Normally, signaling does not require a roll, but it does use the signaling character’s action for the exchange.
 
 ## Other Actions During Ship Combat
 
