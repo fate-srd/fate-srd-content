@@ -35,7 +35,9 @@ If you are looking for the 100% official SRD rules, you can find them at http://
 This section is for formatting and editing the files from source to the many output formats. If you're just looking to use or read the files then ignore this section.
 
 - Install the project with `npm install`
-- Install Pandoc with `brew install pandoc`
+- Install Pandoc with
+  - `brew install pandoc` (on MacOS) or
+  - `apt install pandoc` (on Ubuntu or a derivative)
 
 # License
 
