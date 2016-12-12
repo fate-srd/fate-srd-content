@@ -54,7 +54,7 @@ Your character can get two special stunts: <em>ritual</em> stunts and <em>high t
 
 Every medium has at least one means of accessing the otherworld. You never need to roll to access the otherworld; whether or not you can is almost never an interesting question. Instead, you will use a ritual stunt.
 
-A ritual stunt is either a <em>channeling</em> ritual or <em>projection</em> ritual. Each type grants a different means of accessing the otherworld, with different applications, so your group will want a mix. Each of your ritual stunts can be used once per session. 
+A ritual stunt is either a <em>channeling</em> ritual or <em>projection</em> ritual. Each type grants a different means of accessing the otherworld, with different applications, so your group will want a mix. Each of your ritual stunts can be used once per session.
 
 - <strong>Channeling</strong> lets you reach out to a spirit on the other side and allow it to contact the material world. It’s less risky than projection, but it’s also much more specific. You can only reach one spirit-facet with it per ritual, and you must be within the territory of the spirit whose facet you are attempting to reach. It’s most useful for making initial contact with a spirit or following up.
 - <strong>Projection</strong> lets you and others who engage in the ritual with you journey through the otherworld with your minds. It’s potentially dangerous, and can result in permanent harm, but allows for longer and deeper engagement than channeling. You can spend hours immersed in the otherworld, seeking and speaking to facets of a spirit, and you can even travel short distances to the territories of neighboring spirits by descending into deeper layers of the otherworld and then traveling back up.
@@ -99,11 +99,11 @@ In the interest of maintaining tone and a sense of place, there are some limits 
 - <strong>No modern communication.</strong> Telecommunications infrastructure is slow, unreliable, and inconvenient. Most communities are dependent on a handful of overburdened satellites. Characters cannot have portable devices that permit real-time video or voice communication or remote information access from anywhere on the planet. Telecommunications devices must be local, stationary, or asynchronous—something that lets you leave a message rather than chatting, in essence.
 - <strong>No teleportation.</strong> Beaming people or objects around trivializes any kind of travel or logistical obstacle. It’s a little bit too clean, and undercuts the local concerns and scale of the game. Teleporters might be a thing elsewhere, or they might not. Either way, they’re not viable on a new colony world.
 
-Write a stunt describing how your high technology helps you exercise your skills. Often this gives you a rules exception or a new action for a skill, but it could be a bonus. Your technology isn’t a panacea, though—it can only be used in certain situations. 
+Write a stunt describing how your high technology helps you exercise your skills. Often this gives you a rules exception or a new action for a skill, but it could be a bonus. Your technology isn’t a panacea, though—it can only be used in certain situations.
 
 Your gear has an aspect as well, which can be invoked or compelled based on its normal function and limitations. You can give this aspect the same name as the stunt or embellish it a bit.
 
-#### Examples of High Technology Stunts 
+#### Examples of High Technology Stunts
 
 <strong>Ray Gun:</strong> Using your ray gun, you get +2 to Shoot attacks against targets at least one zone away.
 
@@ -161,7 +161,7 @@ A spirit’s facets are, for the most part, built as any other NPC. Choose wheth
 
 #### Facet Aspects
 
-A nameless facet gets one aspect, while supporting and main facets get more, as needed. Start writing aspects for your facet by picking from its parent spirit’s portfolio. No one facet should cover the spirit’s full portfolio. If you need more aspects for a facet, expand the spirit’s portfolio. Some facets have rewritten versions of their spirit’s portfolio aspects. These facets are usually injured, drifting away from their parent somehow, or play the role of devil’s advocate or antagonist, testing the spirit’s other facets. These aspects of the facet, like the spirit’s, are called portfolio aspects. 
+A nameless facet gets one aspect, while supporting and main facets get more, as needed. Start writing aspects for your facet by picking from its parent spirit’s portfolio. No one facet should cover the spirit’s full portfolio. If you need more aspects for a facet, expand the spirit’s portfolio. Some facets have rewritten versions of their spirit’s portfolio aspects. These facets are usually injured, drifting away from their parent somehow, or play the role of devil’s advocate or antagonist, testing the spirit’s other facets. These aspects of the facet, like the spirit’s, are called portfolio aspects.
 
 Once you’ve got a facet’s portfolio aspects sorted out, write an additional aspect for it that distinguishes its role and nature.
 

@@ -209,7 +209,7 @@ Supplementing these are custom modes. Optional and usually player-defined, custo
 We’ll unpack what all that means later on in this chapter, but for now here are some examples of custom modes.
 
 - <strong>Robot:</strong> You’re a mechanical artificial intelligence of some kind. Robo himself is the most obvious example, but that doesn’t mean he has to be the only one.
-- <strong>Mutant:</strong> You’ve been altered by science into something more (or less) than human. 
+- <strong>Mutant:</strong> You’ve been altered by science into something more (or less) than human.
 - <strong>Secret Agent:</strong> You’re an elite operative for a shadowy organization of one kind or another.
 - <strong>Reporter:</strong> You’re a professional journalist of the investigative variety who relies on a sharp eye and sharper instincts to get to the bottom of things.
 
