@@ -17,47 +17,21 @@
   var filename;
   var splitDest;
 
-  gulp.task('split', function() {
-    gulp.src('docs/html/**.html')
-      .pipe(tap(function (file,t) {
-        filename = path.basename(file.path)
-        filename = filename.replace('.html','')
-        splitDest = 'for-import/';
-        return filename, splitDest;
-      }))
-      // Insert breaks before the <h1>s.
-      .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, function(match, offset, p1, p2, p3){
-        i++; // Start the count at 1. :-)
-        return '<!-- split ' + filename + '-' + i + '-' + offset + '.html --><h1>' + p2 + '</h1>'
-      }))
-      .pipe(htmlsplit())
-      .pipe(gulp.dest(function(){
-        return splitDest;
-      }))
-  });
 
-  gulp.task('make-html', function () {
-    return gulp.src('docs/markdown/**.md')
-      .pipe(markdown())
-      .pipe(gulp.dest('docs/html'));
-  });
-
-  // Pandoc is failing. :-(
-  // gulp.task('make-word', function (cb) {
-  //   exec('pandoc -s -S docs/markdown/atomic-robo-SRD.md -o docs/word/atomic-robo-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/fate-accelerated-SRD.md -o docs/word/fate-accelerated-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/fate-core-SRD.md -o docs/word/fate-core-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/fate-system-toolkit-SRD.md -o docs/word/fate-system-toolkit-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/frontier-spirit.md -o docs/word/frontier-spirit.docx');
-  //   exec('pandoc -s -S docs/markdown/gods-and-monsters-SRD.md -o docs/word/gods-and-monsters-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/sails-full-of-stars-SRD.md -o docs/word/sails-full-of-stars-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/three-rocketeers-fate-conspiracies-SRD.md -o docs/word/three-rocketeers-fate-conspiracies-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/three-rocketeers-no-skill-swashbuckling-SRD.md -o docs/word/three-rocketeers-no-skill-swashbuckling-SRD.docx');
-  //   exec('pandoc -s -S docs/markdown/venture-city.md -o docs/word/venture-city.docx');
-  // })
-
-  gulp.task('make-md', function(){
-    gulp.src(['source/*.html'])
+  //  Formats most of the WOA files into Markdown.
+  gulp.task('make-woa-md', function(){
+    var worldsOfAdventure = [
+      'source/atomic-robo-SRD.html',
+      'source/fate-accelerated-SRD.html',
+      'source/fate-core-SRD.html',
+      'source/fate-system-toolkit-SRD.html',
+      'source/frontier-spirit.html',
+      'source/gods-and-monsters-SRD.html',
+      'source/sails-full-of-stars-SRD.html',
+      'source/three-rocketeers-fate-conspiracies-SRD.html',
+      'source/three-rocketeers-no-skill-swashbuckling-SRD.html',
+      'source/venture-city.html'];
+    gulp.src(worldsOfAdventure)
       // Remove specific cases (sometimes this is easier than figuring out regexp)
       .pipe(replace('<a href="NoSkill.html#_idTextAnchor002">page&#160;8</a>','page 8'))
       .pipe(replace('<!DOCTYPE html>',''))
@@ -88,6 +62,21 @@
       .pipe(replace('<p class="Example-end">','\n block> '))
       .pipe(replace('<p class="Example-middle">','\n block> '))
       .pipe(replace('<p class="Example">','\n block> '))
+
+      // War of Ashes
+      // .pipe(replace(/[;](\n)/g,''))
+      .pipe(replace(/(font-size|margin-(top|right|bottom|left)):\d{0,9}.\d{0,9}pt;/g,''))
+      .pipe(replace(/margin-(top|right|bottom|left):(.\d{0,9}|\d{0,9})in;/g,''))
+      .pipe(replace(/text-indent:.\d{0,9}in;/g,''))
+      .pipe(replace('mso-pagination:none;',''))
+      .pipe(replace('mso-layout-grid-align:none;',''))
+      .pipe(replace('text-autospace:none',''))
+      .pipe(replace('font-variant:small-caps',''))
+      .pipe(replace(/style=\"\ntext-autospace:\nnone\"/g,''))
+      .pipe(replace(/style=\"\nmso-layout-grid-align:\nnone;\"/g,''))
+      // .pipe(replace(/style=";\n"/g,''))
+
+
       // .pipe(replace(/<h([123456])>/gi,function(match){
       //   console.log('Match found ' + match)
       // }))
@@ -165,6 +154,45 @@
       // Put output in markdown folder
       .pipe(dest('docs/markdown', {ext: '.md'}))
       .pipe(gulp.dest('./'));
+  });
+
+  // Formats the War of Ashes content into markdown
+  gulp.task('make-warofashes-md', function(){
+    gulp.src(['source/war-of-ashes.html'])
+      .pipe(replace(/style=\"[^\"]*\"/g,''))
+      .pipe(replace(/class=\"[^\"]*\"/g,''))
+
+      // Put output in markdown folder
+      .pipe(dest('docs/markdown', {ext: '.md'}))
+      .pipe(gulp.dest('./'));
+  });
+
+  //  Takes Markdown files and turns them into HTML
+  gulp.task('make-html', function () {
+    return gulp.src('docs/markdown/**.md')
+      .pipe(markdown())
+      .pipe(gulp.dest('docs/html'));
+  });
+
+  //  This splits html when it encounters an h1
+  //  The assumption is that this starts new chapters.
+  gulp.task('split-html', function() {
+    gulp.src('docs/html/**.html')
+      .pipe(tap(function (file,t) {
+        filename = path.basename(file.path)
+        filename = filename.replace('.html','')
+        splitDest = 'for-import/';
+        return filename, splitDest;
+      }))
+      // Insert breaks before the <h1>s.
+      .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, function(match, offset, p1, p2, p3){
+        i++; // Start the count at 1. :-)
+        return '<!-- split ' + filename + '-' + i + '-' + offset + '.html --><h1>' + p2 + '</h1>'
+      }))
+      .pipe(htmlsplit())
+      .pipe(gulp.dest(function(){
+        return splitDest;
+      }))
   });
 
 })();
