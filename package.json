@@ -3,5 +3,15 @@
   "description": "Formatted SRD documents for the Fate Roleplaying Game.",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "@types/globby": "^6.1.0",
+    "@types/node": "^8.0.49",
+    "globby": "^6.1.0",
+    "parse5": "^3.0.3",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.1"
+  }
 }
