@@ -137,19 +137,22 @@ function item(node: AST.Default.Element): string {
 }
 
 function table(node: AST.Default.Element): string {
-    const first = node.childNodes.filter(node => isElement(node))[0];
+    const rows = node.childNodes.filter(node => isElement(node))
+    const first = rows[0];
     if (isElement(first) && first.tagName === "tr") {
         let title = row(first);
-        let traversal: AST.Default.ParentNode = node;
+        let traversal: AST.Default.ParentNode = {
+            childNodes: rows
+        };
         // Special case for the ladder
         if (title.startsWith("\n| +")) {
             title = "\n| Number | Adjective |";
         } else {
             traversal = {
-                childNodes: node.childNodes.slice(1)
+                childNodes: rows.slice(1)
             };
         }
-        const columns = title.split("|").length - 1;
+        const columns = title.split("|").length - 2;
         return `${title}\n${"|-|".repeat(columns)}${traverse(traversal)}`;
     }
     console.log(node);
@@ -161,7 +164,7 @@ function row(node: AST.Default.Element): string {
 }
 
 function cell(node: AST.Default.Element): string {
-    return `| ${traverse(node)} `;
+    return `| ${traverse(node).trim()} `;
 }
 
 function serialize(node: AST.Default.Node): string {

@@ -169,18 +169,18 @@ Here’s the ladder:
 
 
 | Number | Adjective |
-|-||-||-|
-| +8 | Legendary	  |
-| +7 | ￼Epic	  |
-| ￼+6 | Fantastic	  |
-| +5 | ￼Superb	  |
-| ￼+4 | Great	  |
-| ￼+3 | Good	  |
-| +2 | ￼Fair	  |
-| ￼+1 | Average	  |
-| ￼0 | Mediocre	  |
-| -1 | ￼Poor	  |
-| ￼-2 | Terrible	  |
+|-||-|
+| +8 | Legendary  |
+| +7 | ￼Epic  |
+| ￼+6 | Fantastic  |
+| +5 | ￼Superb  |
+| ￼+4 | Great  |
+| ￼+3 | Good  |
+| +2 | ￼Fair  |
+| ￼+1 | Average  |
+| ￼0 | Mediocre  |
+| -1 | ￼Poor  |
+| ￼-2 | Terrible  |
 
 
 
@@ -1879,227 +1879,26 @@ Each skill description contains a list of game actions that you can use the skil
 **Skill List**
 
 
-| Skill
-
- | Overcome
-
- | Create an Advantage
-
- | Attack
-
- | Defend
-
-  |
-|-||-||-||-||-||-|
-| Skill
-
- | Overcome
-
- | Create an Advantage
-
- | Attack
-
- | Defend
-
-  |
-| [Athletics](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-116)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Burglary](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-114)
-
- | X
-
- | X
-
- | 
-
- | 
-
-  |
-| [Contacts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-147)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Crafts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-115)
-
- | X
-
- | X
-
- | 
-
- | 
-
-  |
-| [Deceive](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-110)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Drive](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-148)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Empathy](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-149)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Fight](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-112)
-
- | X
-
- | X
-
- | X
-
- | X
-
-  |
-| [Investigate](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-111)
-
- | X
-
- | X
-
- | 
-
- | 
-
-  |
-| [Lore](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-120)
-
- | X
-
- | X
-
- | 
-
- | 
-
-  |
-| [Notice](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-108)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Physique](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-59)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Provoke](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-150)
-
- | X
-
- | X
-
- | X
-
- | 
-
-  |
-| [Rapport](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-151)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Resources](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-152)
-
- | X
-
- | X
-
- | 
-
- | 
-
-  |
-| [Shoot](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-117)
-
- | X
-
- | X
-
- | X
-
- | 
-
-  |
-| [Stealth](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-153)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
-| [Will](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-60)
-
- | X
-
- | X
-
- | 
-
- | X
-
-  |
+| Skill | Overcome | Create an Advantage | Attack | Defend  |
+|-||-||-||-||-|
+| [Athletics](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-116) | X | X |  | X  |
+| [Burglary](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-114) | X | X |  |   |
+| [Contacts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-147) | X | X |  | X  |
+| [Crafts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-115) | X | X |  |   |
+| [Deceive](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-110) | X | X |  | X  |
+| [Drive](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-148) | X | X |  | X  |
+| [Empathy](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-149) | X | X |  | X  |
+| [Fight](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-112) | X | X | X | X  |
+| [Investigate](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-111) | X | X |  |   |
+| [Lore](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-120) | X | X |  |   |
+| [Notice](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-108) | X | X |  | X  |
+| [Physique](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-59) | X | X |  | X  |
+| [Provoke](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-150) | X | X | X |   |
+| [Rapport](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-151) | X | X |  | X  |
+| [Resources](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-152) | X | X |  |   |
+| [Shoot](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-117) | X | X | X |   |
+| [Stealth](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-153) | X | X |  | X  |
+| [Will](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-60) | X | X |  | X  |
 
 ---
 

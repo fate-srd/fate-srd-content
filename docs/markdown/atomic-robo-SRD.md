@@ -226,37 +226,12 @@ The cost of a mode equals the total combined cost of its skills. The cost of an 
 For example, here are the costs of our standard action-adventure modes:
 
 
-| **Mode**
-
- | **Cost**
-
-  |
-|-||-||-|
-| **Mode**
-
- | **Cost**
-
-  |
-| Action
-
- | 9
-
-  |
-| Banter
-
- | 9
-
-  |
-| Intrigue
-
- | 9
-
-  |
-| Science
-
- | 3
-
-  |
+| **Mode** | **Cost**  |
+|-||-|
+| Action | 9  |
+| Banter | 9  |
+| Intrigue | 9  |
+| Science | 3  |
 
 ## Skills Within Modes
 
@@ -296,32 +271,11 @@ Regardless of how many modes reinforce a skill, it should never appear more than
 Reinforcement isn’t the only way for a skill to be rated higher than its mode’s rating. You can also spend excess skill points, whether during character creation, during play, or after an appropriate milestone, to improve skills as well.
 
 
-| **Improvement**
-
- | **Cost**
-
-  |
-|-||-||-|
-| **Improvement**
-
- | **Cost**
-
-  |
-| Focus a trained skill
-
- | 1
-
-  |
-| Specialize a focused skill
-
- | 2
-
-  |
-| Specialize a trained skill
-
- | 3
-
-  |
+| **Improvement** | **Cost**  |
+|-||-|
+| Focus a trained skill | 1  |
+| Specialize a focused skill | 2  |
+| Specialize a trained skill | 3  |
 
 ## Science: It’s Special
 
@@ -643,13 +597,8 @@ With this option, you can tack a weakness or a cost onto a mega-stunt even if it
 The process of inventing involves one or more PCs figuring out what needs to be built, what that thing will actually do in game terms, and what complications will arise as a result. All of this only takes one skill roll—the rest is making choices and playing out their ramifications.
 
 
-| Note that these rules aren’t limited to actually “inventing” things—they apply equally well to recreating existing technology, whether strange or familiar.
-
-  |
-|-||-|
-| Note that these rules aren’t limited to actually “inventing” things—they apply equally well to recreating existing technology, whether strange or familiar.
-
-  |
+| Note that these rules aren’t limited to actually “inventing” things—they apply equally well to recreating existing technology, whether strange or familiar.  |
+|-|
 
 We’ll refer to the thing you’re making as your **invention**, but don’t take that too literally. It could just as easily be a never-before-seen technological wonder as it could a recreation of an existing piece of tech. Whatever it is, broadly speaking, your invention is an item that makes you better at doing something or gives you a new capability. It consists of three basic parts:
 
@@ -719,37 +668,12 @@ For every stunt benefit an invention has, there’s a catch. For example, an inv
 Who chooses these catches? That depends on the outcome of the skill roll from Step Three.
 
 
-| **Outcome**
-
- | **Who chooses?**
-
-  |
-|-||-||-|
-| **Outcome**
-
- | **Who chooses?**
-
-  |
-| Fail
-
- | The GM chooses them all.
-
-  |
-| Tie
-
- | The GM and player take turns choosing, starting with the GM.
-
-  |
-| Success
-
- | The GM chooses one and the player chooses the rest.
-
-  |
-| Success with Style
-
- | The player chooses them all.
-
-  |
+| **Outcome** | **Who chooses?**  |
+|-||-|
+| Fail | The GM chooses them all.  |
+| Tie | The GM and player take turns choosing, starting with the GM.  |
+| Success | The GM chooses one and the player chooses the rest.  |
+| Success with Style | The player chooses them all.  |
 
 #### Examples of Catches
 
@@ -860,49 +784,12 @@ Next, all participants roll _simultaneously_ to create an advantage using a rele
 Whoever succeeds _and_ has the highest result (make a note of number) is the “winner.” The winner gets to do two things. First, they record one or more victories, depending on the margin of success.
 
 
-| **Margin**
-
- | **Result**
-
- | **Victories**
-
-  |
-|-||-||-||-|
-| **Margin**
-
- | **Result**
-
- | **Victories**
-
-  |
-| None
-
- | Fail
-
- | 0
-
-  |
-| 0
-
- | Tie
-
- | 1, at a cost
-
-  |
-| 1-2
-
- | Success
-
- | 1
-
-  |
-| 3+
-
- | Success with Style
-
- | 2
-
-  |
+| **Margin** | **Result** | **Victories**  |
+|-||-||-|
+| None | Fail | 0  |
+| 0 | Tie | 1, at a cost  |
+| 1-2 | Success | 1  |
+| 3+ | Success with Style | 2  |
 
 The cost on a tie is up to the GM to determine (see _Fate Core_, _Outcomes and Actions_), but it should always be a minor cost.
 
@@ -978,37 +865,12 @@ The hypothesis becomes an aspect, like The Washington Monument Has Developed Art
 The number of free invocations on the hypothesis aspect (if any) depends on how many total victories were scored in the brainstorm, as shown on the table.
 
 
-| **Victories**
-
- | **Result**
-
-  |
-|-||-||-|
-| **Victories**
-
- | **Result**
-
-  |
-| 0-2
-
- | Failure—it’s a mystery!
-
-  |
-| 3
-
- | Tie—hypothesis aspect
-
-  |
-| 4-5
-
- | Success—hypothesis aspect with one free invocation
-
-  |
-| 6
-
- | Success with Style—as Success, but two free invocations
-
-  |
+| **Victories** | **Result**  |
+|-||-|
+| 0-2 | Failure—it’s a mystery!  |
+| 3 | Tie—hypothesis aspect  |
+| 4-5 | Success—hypothesis aspect with one free invocation  |
+| 6 | Success with Style—as Success, but two free invocations  |
 
 If the PCs _haven’t_ scored at least three victories, the phenomenon defies scientific explanation, at least for now. They’ve failed to shed any light on the situation, and now they’re a little worse off for it.
 
