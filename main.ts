@@ -153,7 +153,7 @@ function table(node: AST.Default.Element): string {
             };
         }
         const columns = title.split("|").length - 2;
-        return `${title}\n${"|-|".repeat(columns)}${traverse(traversal)}`;
+        return `${title}\n${"|-".repeat(columns)}|${traverse(traversal)}`;
     }
     console.log(node);
     throw new Error("Table without row as first child");

@@ -227,7 +227,7 @@ For example, here are the costs of our standard action-adventure modes:
 
 
 | **Mode** | **Cost**  |
-|-||-|
+|-|-|
 | Action | 9  |
 | Banter | 9  |
 | Intrigue | 9  |
@@ -272,7 +272,7 @@ Reinforcement isn’t the only way for a skill to be rated higher than its mode�
 
 
 | **Improvement** | **Cost**  |
-|-||-|
+|-|-|
 | Focus a trained skill | 1  |
 | Specialize a focused skill | 2  |
 | Specialize a trained skill | 3  |
@@ -669,7 +669,7 @@ Who chooses these catches? That depends on the outcome of the skill roll from St
 
 
 | **Outcome** | **Who chooses?**  |
-|-||-|
+|-|-|
 | Fail | The GM chooses them all.  |
 | Tie | The GM and player take turns choosing, starting with the GM.  |
 | Success | The GM chooses one and the player chooses the rest.  |
@@ -785,7 +785,7 @@ Whoever succeeds _and_ has the highest result (make a note of number) is the “
 
 
 | **Margin** | **Result** | **Victories**  |
-|-||-||-|
+|-|-|-|
 | None | Fail | 0  |
 | 0 | Tie | 1, at a cost  |
 | 1-2 | Success | 1  |
@@ -866,7 +866,7 @@ The number of free invocations on the hypothesis aspect (if any) depends on how 
 
 
 | **Victories** | **Result**  |
-|-||-|
+|-|-|
 | 0-2 | Failure—it’s a mystery!  |
 | 3 | Tie—hypothesis aspect  |
 | 4-5 | Success—hypothesis aspect with one free invocation  |

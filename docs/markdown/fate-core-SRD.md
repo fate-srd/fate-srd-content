@@ -169,7 +169,7 @@ Here’s the ladder:
 
 
 | Number | Adjective |
-|-||-|
+|-|-|
 | +8 | Legendary  |
 | +7 | ￼Epic  |
 | ￼+6 | Fantastic  |
@@ -1880,7 +1880,7 @@ Each skill description contains a list of game actions that you can use the skil
 
 
 | Skill | Overcome | Create an Advantage | Attack | Defend  |
-|-||-||-||-||-|
+|-|-|-|-|-|
 | [Athletics](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-116) | X | X |  | X  |
 | [Burglary](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-114) | X | X |  |   |
 | [Contacts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-147) | X | X |  | X  |

@@ -167,7 +167,7 @@ Here’s the ladder:
 
 
 | Number | Adjective |
-|-||-|
+|-|-|
 | +8 | Legendary  |
 | +7 | ￼Epic  |
 | ￼+6 | Fantastic  |

@@ -1830,7 +1830,7 @@ The character’s rating in Conjuration is also the limit on the number of eleme
 
 
 | ELEMENTAL | RATING | STRESS | CONSEQUENCE  |
-|-||-||-||-|
+|-|-|-|-|
 | Wisp | Average | 0 | None  |
 | Drudge | Fair | 0 | -2  |
 | Servitor | Good | 2 | -2/-2  |
@@ -1841,7 +1841,7 @@ The character’s rating in Conjuration is also the limit on the number of eleme
 
 
 | ELEMENT (STORM) | WISP | DRUDGE, SERVITOR, OR ATTENDANT | NAMED  |
-|-||-||-||-|
+|-|-|-|-|
 | Earth (Earthquake) | None | +2 Stress | +4 Stress  |
 | Ice (Glacier) | None | Armor:1 | Armor:2  |
 | Fire (Inferno) | None | Weapon:1 | Weapon:2  |
