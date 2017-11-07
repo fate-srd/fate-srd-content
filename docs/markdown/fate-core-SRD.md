@@ -6,7 +6,7 @@ This is the System Reference Document for use with the Creative Commons Attribut
 
 This work is based on Fate Core System and Fate Accelerated Edition (found at http://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).  
 
-**1**
+__1__
 
 # THE BASICS
 
@@ -16,13 +16,13 @@ If you’ve never played a roleplaying game before, here’s the basic idea: you
 
 It’s not all just conversation, though—sometimes you’ll use dice and the rules in this book to bring uncertainty into the story and make things more exciting.
 
-Fate doesn’t come with a default setting, [but it works best with any premise](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-3) where the characters are **proactive, capable people leading dramatic lives**. We give more advice on how to bring that flavor to your games in the next chapter.
+Fate doesn’t come with a default setting, [but it works best with any premise](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-3) where the characters are __proactive, capable people leading dramatic lives__. We give more advice on how to bring that flavor to your games in the next chapter.
 
 
 
 ---
 
-**NEW TO FATE**
+__NEW TO FATE__
 
 If you’re a new player, all you really need to know is in this chapter and on your character sheet—the GM will help you figure out the rest. You may want to check out the [cheat sheet](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#CHEAT-SHEET) just to save your GM some effort, but otherwise, you should be good to go.
 
@@ -30,7 +30,7 @@ If you’re a new GM, this is just the tip of the iceberg for you. You should re
 
 ---
 
-**FOR VETERANS**
+__FOR VETERANS__
 
 You might be reading this because you’re familiar with Fate from our other games, _Spirit of the Century_ and _The Dresden Files Roleplaying Game_. Several other popular RPGs, like Galileo Games’ _Bulldogs!_ and Cubicle 7’s _Legends of Anglerre_, also use the Fate system.
 
@@ -44,20 +44,20 @@ Getting into a game of Fate is very simple. You need:
 
 
 - Between three and five people. One of you is going to be the _gamemaster_ (or “GM” for short), and everyone else is going to be a _player_. We’ll explain what that means in a moment.
-- A [**character sheet**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Blank-CHARACTER-SHEET), one per player, and some extra paper for note-taking. We’ll talk about what’s on the character sheet below. (GMs, any important characters you play might have a character sheet also.)
-- **Fate dice**, at least four, preferably four per person. Fate dice are a special kind of six-sided dice that are marked on two sides with a plus symbol (+), two with a minus symbol (-), and two sides are blank (0). You can get these dice from many hobby and game stores, often under their original name, Fudge dice. (For Fate’s purposes we’ll continue to call them Fate dice, but call them whatever you like!) Evil Hat will offer Fate dice for sale at [**www.evilhat.com**](http://www.evilhat.com/) later in 2013.
+- A [__character sheet__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Blank-CHARACTER-SHEET), one per player, and some extra paper for note-taking. We’ll talk about what’s on the character sheet below. (GMs, any important characters you play might have a character sheet also.)
+- __Fate dice__, at least four, preferably four per person. Fate dice are a special kind of six-sided dice that are marked on two sides with a plus symbol (+), two with a minus symbol (-), and two sides are blank (0). You can get these dice from many hobby and game stores, often under their original name, Fudge dice. (For Fate’s purposes we’ll continue to call them Fate dice, but call them whatever you like!) Evil Hat will offer Fate dice for sale at [__www.evilhat.com__](http://www.evilhat.com/) later in 2013.
 
-     The **Deck of Fate** is an alternative to Fate dice that will be available from Evil Hat. It’s a deck of cards that mimics the probability of Fate dice, and is designed to be used in the same way Fate dice are.
-
----
-
-If you don’t want to use Fate dice, you don’t have to—any set of regular six-sided dice will work. If you’re using regular dice, you read 5 or 6 as**+, 1 or 2 as**-, and 3 or 4 as0.
+     The __Deck of Fate__ is an alternative to Fate dice that will be available from Evil Hat. It’s a deck of cards that mimics the probability of Fate dice, and is designed to be used in the same way Fate dice are.
 
 ---
 
+If you don’t want to use Fate dice, you don’t have to—any set of regular six-sided dice will work. If you’re using regular dice, you read 5 or 6 as__+, 1 or 2 as__-, and 3 or 4 as0.
 
-- Tokens to represent [**fate points**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#sigil_toc_id_15). Poker chips, glass beads, or anything similar will work. You’ll want to have at least thirty or more of these on hand, just to make sure you have enough for any given game. You can use pencil marks on your character sheet in lieu of tokens, but physical tokens add a little more fun.
-- Index cards. These are optional, but we find they’re very handy for recording [**aspects**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#sigil_toc_id_51) during play.
+---
+
+
+- Tokens to represent [__fate points__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#sigil_toc_id_15). Poker chips, glass beads, or anything similar will work. You’ll want to have at least thirty or more of these on hand, just to make sure you have enough for any given game. You can use pencil marks on your character sheet in lieu of tokens, but physical tokens add a little more fun.
+- Index cards. These are optional, but we find they’re very handy for recording [__aspects__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#sigil_toc_id_51) during play.
 
 ## Players and Gamemasters
 
@@ -67,11 +67,11 @@ If you’re a player, your primary job is to take responsibility for portraying 
 
 If you’re a gamemaster, your primary job is to take responsibility for the world the PCs inhabit. You make decisions and roll dice for every character in the game world who isn’t portrayed by a player—we call those _non-player characters_ (or “NPCs”). You describe the environments and places the PCs go to during the game, and you create the scenarios and situations they interact with. You also act as a final arbiter of the rules, determining the outcome of the PCs’ decisions and how that impacts the story as it unfolds.
 
-Both players and gamemasters also have a secondary job: **make everyone around you look awesome**. Fate is best as a collaborative endeavor, with everyone sharing ideas and looking for opportunities to make the events as entertaining as possible.
+Both players and gamemasters also have a secondary job: __make everyone around you look awesome__. Fate is best as a collaborative endeavor, with everyone sharing ideas and looking for opportunities to make the events as entertaining as possible.
 
 ---
 
-**THE EXAMPLE GAME**
+__THE EXAMPLE GAME__
 
 All of our rules examples in this book refer to the same example game and setting. The name is _Hearts of Steel_, a tongue-in-cheek fantasy romp about a group of troubleshooters for hire. They traipse about the countryside and get into trouble at the behest of the various petty kings and fief lords who hire them.
 
@@ -139,7 +139,7 @@ _Refresh_ is the number of fate points you get at the start of every game sessio
 
 ## Taking Action
 
-Players, some of the things you’ll do in a Fate game require you to roll dice to see if your character succeeds or not. **You will always roll the dice when you’re opposing another character with your efforts, or when there’s a significant obstacle in the way of your effort.** Otherwise, just say what your character does and assume it happens.
+Players, some of the things you’ll do in a Fate game require you to roll dice to see if your character succeeds or not. __You will always roll the dice when you’re opposing another character with your efforts, or when there’s a significant obstacle in the way of your effort.__ Otherwise, just say what your character does and assume it happens.
 
 To overcome an [obstacle](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-71)
 
@@ -190,11 +190,11 @@ Results can go below and above the ladder. We encourage you to come up with your
 
 ### Interpreting Results
 
-When you roll the dice, you’re trying to get a high enough roll to match or beat your opposition. That opposition is going to come in one of two forms: **active opposition**, from someone rolling dice against you, or **passive opposition**, from an obstacle that just has a set rating on the ladder for you to overcome. (GMs, you can also just decide your NPCs give passive opposition when you don’t want to roll dice for them.)
+When you roll the dice, you’re trying to get a high enough roll to match or beat your opposition. That opposition is going to come in one of two forms: __active opposition__, from someone rolling dice against you, or __passive opposition__, from an obstacle that just has a set rating on the ladder for you to overcome. (GMs, you can also just decide your NPCs give passive opposition when you don’t want to roll dice for them.)
 
-Generally speaking, if you beat your opposition on the ladder, you succeed at your [**action**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-14). A tie creates some effect, but not to the extent your character was intending. If you win by a lot, something extra happens (like doing more harm to your opponent in a fight).
+Generally speaking, if you beat your opposition on the ladder, you succeed at your [__action__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-14). A tie creates some effect, but not to the extent your character was intending. If you win by a lot, something extra happens (like doing more harm to your opponent in a fight).
 
-If you don’t beat the opposition, either you don’t succeed at your action, you succeed at a cost, or something else happens to complicate the [**outcome**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-16). Some game actions have special results when you fail at the roll.
+If you don’t beat the opposition, either you don’t succeed at your action, you succeed at a cost, or something else happens to complicate the [__outcome__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-16). Some game actions have special results when you fail at the roll.
 
 When you beat a roll or a set obstacle, the difference between your opposition and your result is what we call _shifts_. When you roll equal to the opposition, you have zero shifts. Roll one over your opposition, and you have one shift. Two over means two shifts, and so on. Later in the book, we’ll talk about different instances where getting shifts on a roll benefits you.
 
@@ -226,9 +226,9 @@ A word of warning: don’t use edible things as tokens, especially if the food h
 
 ### Invoking an Aspect
 
-Whenever you’re making a skill roll, and you’re in a situation where an [aspect might be able to help you](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-8), you can spend a fate point to invoke it in order to change the dice result. **This allows you to either reroll the dice or add +2 to your roll, whichever is more helpful.** (Typically, +2 is a good choice if you rolled –2 or higher, but sometimes you want to risk a reroll to get that +4.) You do this after you’ve rolled the dice—if you aren’t happy with your total.
+Whenever you’re making a skill roll, and you’re in a situation where an [aspect might be able to help you](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-8), you can spend a fate point to invoke it in order to change the dice result. __This allows you to either reroll the dice or add +2 to your roll, whichever is more helpful.__ (Typically, +2 is a good choice if you rolled –2 or higher, but sometimes you want to risk a reroll to get that +4.) You do this after you’ve rolled the dice—if you aren’t happy with your total.
 
-**You also have to explain or justify how the aspect is helpful in order to get the bonus**—sometimes it’ll be self-evident, and sometimes it might require some creative narrating.
+__You also have to explain or justify how the aspect is helpful in order to get the bonus__—sometimes it’ll be self-evident, and sometimes it might require some creative narrating.
 
 You can spend more than one fate point on a single roll, gaining another reroll or an additional +2, as long as each point you spend invokes a different aspect.
 
@@ -296,7 +296,7 @@ These are the basic things you need to know to play Fate. The following chapters
 
 ---
 
-**WHERE TO GO FROM HERE**
+__WHERE TO GO FROM HERE__
 
 
 - The [_Game Creation_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#game-creation) chapter takes you through the process of setting up your game, so that should probably be your next stop. Then [_Character Creation_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#character-creation) will show you how to make the characters you’ll play.
@@ -307,7 +307,7 @@ These are the basic things you need to know to play Fate. The following chapters
 
 
 
-**2**
+__2__
 
 # GAME CREATION
 
@@ -345,15 +345,15 @@ Any Fate game that you play should provide the potential and opportunity for dra
 
 ---
 
-**WHEN CREATING YOUR GAME:**
+__WHEN CREATING YOUR GAME:__
 
 
-- **Setting:** Decide what the world that surrounds the protagonists is like.
-- **Scale:** Decide how epic or personal your story will be.
-- **Issues:** Decide what threats and pressures inherent to the setting will spur the protagonists to action.
-- **NPCs:** Decide who the important people and locations are.
-- **Skills and Stunts:** Decide what sorts of things characters in the setting are likely to want to do.
-- **Character Creation:** Make the PCs.
+- __Setting:__ Decide what the world that surrounds the protagonists is like.
+- __Scale:__ Decide how epic or personal your story will be.
+- __Issues:__ Decide what threats and pressures inherent to the setting will spur the protagonists to action.
+- __NPCs:__ Decide who the important people and locations are.
+- __Skills and Stunts:__ Decide what sorts of things characters in the setting are likely to want to do.
+- __Character Creation:__ Make the PCs.
 
 ---
 
@@ -367,13 +367,13 @@ First, we’ll start by talking about your setting. We’ll handle the specifics
 
 ## Making the Setting Work in Fate
 
-**Decide what the world that surrounds the protagonists is like.**
+__Decide what the world that surrounds the protagonists is like.__
 
 You’re probably already familiar with the idea of a setting, but in short, it’s everything that the characters interact with, such as people, organizations and institutions, technology, strange phenomena, and mysteries (crime, intrigue, and cosmic or historical legend). These are the sort of things that characters want to engage with, are forced to engage with, look to for help, or stand in their way.
 
 If you’re using a setting that already exists, from a movie, novel, or other game book, then many of these ideas are ready for you to use. Of course, you’ll also likely add your own spin on things: new organizations or different mysteries to uncover.
 
-If you’re inventing a setting, you have more work cut out for you. It’s beyond the scope of this chapter to tell you how to make a setting; we’re assuming you already know how to do that if that’s what you’re choosing to do. (Besides, we live in a vast world of media. See [**tvtropes.org**](http://tvtropes.org/) if you don’t believe us.) One word of advice, though—don’t try to invent too much up front. As you’ll see over the course of the chapter, you’re going to be generating a lot of ideas just through the process of game and character creation, so the details will come in time.
+If you’re inventing a setting, you have more work cut out for you. It’s beyond the scope of this chapter to tell you how to make a setting; we’re assuming you already know how to do that if that’s what you’re choosing to do. (Besides, we live in a vast world of media. See [__tvtropes.org__](http://tvtropes.org/) if you don’t believe us.) One word of advice, though—don’t try to invent too much up front. As you’ll see over the course of the chapter, you’re going to be generating a lot of ideas just through the process of game and character creation, so the details will come in time.
 
 ---
 
@@ -385,7 +385,7 @@ If you’re inventing a setting, you have more work cut out for you. It’s beyo
 
 ## A Game’s Scale
 
-**Decide how epic or personal your story will be.**
+__Decide how epic or personal your story will be.__
 
 The setting might be small or it might be vast, but where your stories take place determines the scale of your game.
 
@@ -399,7 +399,7 @@ In a small-scale game, characters deal with problems in a city or region, they d
 
 ## The Setting’s Big Issues
 
-**Decide what threats and pressures inherent to the setting will spur the protagonists to action.**
+__Decide what threats and pressures inherent to the setting will spur the protagonists to action.__
 
 Every setting needs to have something going on that the characters care about, often a peril they want to fight or undermine. These are the setting’s issues.
 
@@ -423,7 +423,7 @@ The default number of issues in a Fate game is two: Either two current issues (f
 
 ---
 
-**CHANGING THE NUMBER OF ISSUES**
+__CHANGING THE NUMBER OF ISSUES__
 
 Of course, you don’t have to use the default number of two issues if you don’t want to—one or three also works, but it will change the resulting game a bit. A game with one issue will revolve around just that issue—a quest to rid a city of evil, or to stop evil from happening. A game with three will show off a busy world, one where the characters’ resources are strained against multiple fronts. If you think you need to focus down or expand the scope of your game, talk it over with the group and start by tweaking the number of issues to best fit what you’re after.
 
@@ -449,7 +449,7 @@ If you’re new to making aspects, hold off on this for now. You’ll get quite 
 
 ---
 
-**CHANGING ISSUES IN PLAY**
+__CHANGING ISSUES IN PLAY__
 
 [_The Long Game_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#THE-LONG-GAME) chapter will talk about this in detail, but issues can change as the game progresses. Sometimes, the issue evolves into something new. Sometimes, the characters will successfully fight against it, and it’ll be gone. And sometimes, new issues will emerge. So the ones you make are just what you’re starting off with.
 
@@ -469,7 +469,7 @@ We recommend you start by giving only one issue to each setting element, just to
 
 ## Faces and Places
 
-**Decide who the important people and locations are.**
+__Decide who the important people and locations are.__
 
 At this point, you’ve probably got your issues figured out, and you may have thought of some organizations or groups that feature prominently in your game.
 
@@ -497,7 +497,7 @@ If there’s a piece of your setting that’s meant to be a [mystery](http://ww
 
 ## Make Characters
 
-**Each player makes a protagonist.**
+__Each player makes a protagonist.__
 
 You [can make player characters](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#character-creation) after finishing game creation, or you can do it in the middle of this process—follow your instincts here. If you find yourself talking more about the characters than the world, go to character creation and then float back around to whatever parts of game creation you haven’t done yet. Otherwise, go ahead and finish out all of game creation first.
 
@@ -509,7 +509,7 @@ When you’re making characters, you’ll also discover a bit more about the set
 
 ---
 
-**SKILLS AND YOUR SETTING**
+__SKILLS AND YOUR SETTING__
 
 A big part of your setting is what people can do in it. The various skills in [_Skills and Stunts_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#skills-and-stunts) cover many situations, but you’ll want to look over them to see if any don’t apply or if there’s a skill you need to add.
 
@@ -517,7 +517,7 @@ Adding a skill is covered in more detail in the [_Extras_](http://www.faterpg.c
 
 ---
 
-**3**
+__3__
 
 # CHARACTER CREATION
 
@@ -525,15 +525,15 @@ Adding a skill is covered in more detail in the [_Extras_](http://www.faterpg.c
 
 The moment you sit down to make the game and characters, you’re playing Fate. This style of character creation does three things to reinforce that.
 
-First, **character creation tells part of****the characters’ stories**, just like any other game session does. Characters that really come alive have histories of their own and with each other. This establishes where they’ve been, what they’ve done, and why they continue to act against the issues they face, together or in opposition. There’s an ongoing story you’re now stepping into—it’s just that the most interesting parts haven’t happened yet.
+First, __character creation tells part of____the characters’ stories__, just like any other game session does. Characters that really come alive have histories of their own and with each other. This establishes where they’ve been, what they’ve done, and why they continue to act against the issues they face, together or in opposition. There’s an ongoing story you’re now stepping into—it’s just that the most interesting parts haven’t happened yet.
 
-Second, **it****sets the stage for the next part of the story**. Each arc of a story sets up the next, so that they flow into one another in a natural evolution. Character creation needs to set up the [first story arc](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-30).
+Second, __it____sets the stage for the next part of the story__. Each arc of a story sets up the next, so that they flow into one another in a natural evolution. Character creation needs to set up the [first story arc](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-30).
 
-Third, **character creation in Fate is collaborative**. As with game creation, character creation is best done as a group activity. Doing all of this together builds a strong foundation of communication between the players and GM, and this process has a number of ways to establish connections between the characters and the setting.
+Third, __character creation in Fate is collaborative__. As with game creation, character creation is best done as a group activity. Doing all of this together builds a strong foundation of communication between the players and GM, and this process has a number of ways to establish connections between the characters and the setting.
 
 Combined with game creation, character creation can take a full session to do—this allows everyone to learn about the world and each other’s characters. You and the other players will talk about your characters, make suggestions to each other, discuss how they connect, and establish more of the setting.
 
-You’ll want to keep good notes on this process. You can use the character sheet and character creation worksheet in the back of this book or downloadable at [**FateRPG.com**](http://faterpg.com/).
+You’ll want to keep good notes on this process. You can use the character sheet and character creation worksheet in the back of this book or downloadable at [__FateRPG.com__](http://faterpg.com/).
 
 Start by determining your [character’s high concept](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-31) and [trouble](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-32). Then build your character’s backstory, a process that takes place over three phases. Once you have that figured out, flesh out your character’s skills and stunts. Then you’re ready to play!
 
@@ -541,18 +541,18 @@ Start by determining your [character’s high concept](http://www.faterpg.com/w
 
 ---
 
-**WHEN CREATING YOUR CHARACTER:**
+__WHEN CREATING YOUR CHARACTER:__
 
 
-- **Aspects:** Come up with your character’s high concept and trouble aspects.
-- **Name:** Name your character.
-- **Phase One:** Describe your character’s first adventure.
-- **Phases Two and Three:** Describe how you’ve crossed paths with two other characters.
-- **Aspects:** Write down one aspect for each of these three experiences.
-- **Skills:** Pick and rate your skills.
-- **Stunts:** Pick or invent three to five stunts.
-- **Refresh:** Determine how many fate points you start play with.
-- **Stress and Consequences:** Determine how much of a beating your character can take.
+- __Aspects:__ Come up with your character’s high concept and trouble aspects.
+- __Name:__ Name your character.
+- __Phase One:__ Describe your character’s first adventure.
+- __Phases Two and Three:__ Describe how you’ve crossed paths with two other characters.
+- __Aspects:__ Write down one aspect for each of these three experiences.
+- __Skills:__ Pick and rate your skills.
+- __Stunts:__ Pick or invent three to five stunts.
+- __Refresh:__ Determine how many fate points you start play with.
+- __Stress and Consequences:__ Determine how much of a beating your character can take.
 
 ---
 
@@ -560,9 +560,9 @@ Start by determining your [character’s high concept](http://www.faterpg.com/w
 
 ## Your Character Idea
 
-**Come up with your character’s high concept and trouble aspects.**
+__Come up with your character’s high concept and trouble aspects.__
 
-Character creation starts with a _concept_ for your character. It could be modeled after a character from a favorite novel or movie, or it could be based around some specific thing that you want to be able to do (like break boards with your head, turn into a wolf, blow things up, etc.). Just like you did with the game’s issues earlier, you’re going to take your ideas and turn them into the two central aspects for your character—[**high concept**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-31) and [**trouble**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-32).
+Character creation starts with a _concept_ for your character. It could be modeled after a character from a favorite novel or movie, or it could be based around some specific thing that you want to be able to do (like break boards with your head, turn into a wolf, blow things up, etc.). Just like you did with the game’s issues earlier, you’re going to take your ideas and turn them into the two central aspects for your character—[__high concept__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-31) and [__trouble__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-32).
 
 Player characters should be exceptional and interesting. They could very easily find success in less exciting situations than those that come their way in play. You must figure out why your character is going to keep getting involved in these more dangerous things. If you don’t, the GM is under no obligation to go out of her way to make the game work for you—she’ll be too busy with other players who made characters that have a reason to participate.
 
@@ -570,7 +570,7 @@ Player characters should be exceptional and interesting. They could very easily 
 
 ---
 
-**KEEP BUILDING YOUR SETTING**
+__KEEP BUILDING YOUR SETTING__
 
 As you’re making stuff up for your characters, you’ll also make stuff up about the world around them. You’ll end up talking about NPCs, organizations, places, things like that. That’s fantastic!
 
@@ -586,7 +586,7 @@ That said, don’t worry too much—if your character idea evolves later on, tha
 
 ---
 
-**DIALS, DIALS EVERYWHERE**
+__DIALS, DIALS EVERYWHERE__
 
 Fate Core isn’t the be-all and end-all of Fate. It’s just a starting point—a set of default decisions that will work if you use it as-is.
 
@@ -612,7 +612,7 @@ These aren’t the only ways to play with your high concept, but they’ll get y
 
 ---
 
-**IF YOU GET STUMPED ON ASPECTS**
+__IF YOU GET STUMPED ON ASPECTS__
 
 The golden rule of making aspects in character creation: _you can always change it later_. If you’re struggling to make an aspect, write out the idea in as many words as you need to, in order to get it down on paper in the first place. If a specific phrase pops up after you write it down, great! If not, maybe someone else at the table can help you come up with an aspect. And if you’re still stuck, leave it for now—you’ll have plenty of time during play to refine it.
 
@@ -641,8 +641,8 @@ In addition to a high concept, every character has some sort of _trouble_ aspe
 Trouble brings chaos into a character’s life and drives him into interesting situations. Trouble aspects are broken up into two types: _personal struggles_ and _problematic relationships_.
 
 
-- **Personal struggles are about your darker side or impulses that are****hard to control.** If it’s something that your character might be tempted to do or unconsciously do at the worst possible moment, it’s this sort of trouble. Examples: Anger Management Issues, Sucker for a Pretty Face,The Bottle Calls to Me.
-- **Problematic relationships are about people or organizations that mak****e your life hard.** It could be a group of people who hate your guts and want you to suffer, folks you work for that don’t make your job easy, or even your family or friends that too often get caught in the crossfire. Examples:Family Man, Debt to the Mob, The Scar Triad Wants Me Dead.
+- __Personal struggles are about your darker side or impulses that are____hard to control.__ If it’s something that your character might be tempted to do or unconsciously do at the worst possible moment, it’s this sort of trouble. Examples: Anger Management Issues, Sucker for a Pretty Face,The Bottle Calls to Me.
+- __Problematic relationships are about people or organizations that mak____e your life hard.__ It could be a group of people who hate your guts and want you to suffer, folks you work for that don’t make your job easy, or even your family or friends that too often get caught in the crossfire. Examples:Family Man, Debt to the Mob, The Scar Triad Wants Me Dead.
 
 Your trouble shouldn’t be easy to solve. If it was, your character would have done that already, and that’s not interesting. But nor should it paralyze the character completely. If the trouble is constantly interfering with the character’s day-to-day life, he’s going to spend all his time dealing with it rather than other matters at hand. You shouldn’t have to deal with your trouble at every turn—unless that’s the core of one particular adventure in the story (and even then, that’s just one adventure).
 
@@ -662,7 +662,7 @@ Before you go any further, talk with the GM about your character’s trouble. Ma
 
 ---
 
-**THE “BRIGHT” SIDE OF TROUBLES**
+__THE “BRIGHT” SIDE OF TROUBLES__
 
 Since your trouble is an aspect, it’s something you should also be able to [invoke](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-36), right? Because we’ve been so focused on how this complicates your character’s life, it’s easy to miss how a trouble also helps your character.
 
@@ -676,7 +676,7 @@ Ryan’s Rivals in the Collegia Arcana can come in handy when dealing with riv
 
 ---
 
-**INTRO TO CHOOSING ASPECTS**
+__INTRO TO CHOOSING ASPECTS__
 
 A lot of character creation focuses on coming up with aspects—some are called high concepts, some are called troubles, but they basically all work the same way. Aspects are one of the most important parts of your character, since they define who she is, and they provide ways for you to generate fate points and to spend those fate points on bonuses. If you have time, you really might want to read the whole chapter we have dedicated to aspects before you go through the process of character creation.
 
@@ -714,21 +714,21 @@ If you haven’t already, it’s time to give your character a name!
 
 ## The Phase Trio
 
-**Describe your character’s first adventure. Describe how you’ve crossed paths with two other characters. Write down one aspect for each of these three experiences.**
+__Describe your character’s first adventure. Describe how you’ve crossed paths with two other characters. Write down one aspect for each of these three experiences.__
 
-**Important:** Before moving on to this step, you need to have figured out your high concept, trouble, and name.
+__Important:__ Before moving on to this step, you need to have figured out your high concept, trouble, and name.
 
 The three remaining aspects on your character are made in _phases_, together called the phase trio. The first phase is about recent background: something you did that’s interesting and adventurous. The second and third are about how the other player characters got involved in that adventure, and how you got involved in theirs.
 
-This is an opportunity to tell a story about your characters. Each phase will ask you to write down two things. Use the [character creation worksheet](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#CHARACTER-CREATION-WORKSHEET) (at the back of this book, or at [**FateRPG.com**](http://faterpg.com/)) to write down those details.
+This is an opportunity to tell a story about your characters. Each phase will ask you to write down two things. Use the [character creation worksheet](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#CHARACTER-CREATION-WORKSHEET) (at the back of this book, or at [__FateRPG.com__](http://faterpg.com/)) to write down those details.
 
 
-- **First, write a summary of what happened in that phase.** A couple of sentences to a paragraph should suffice—you don’t want to establish too much detail up front, because you might have to adjust details in later phases.
-- **Second, write an aspect that reflects some part of that pha****se.** The aspect can cover the general vibe from the summary, or it can focus on some piece of it that still resonates with your character in the present day.
+- __First, write a summary of what happened in that phase.__ A couple of sentences to a paragraph should suffice—you don’t want to establish too much detail up front, because you might have to adjust details in later phases.
+- __Second, write an aspect that reflects some part of that pha____se.__ The aspect can cover the general vibe from the summary, or it can focus on some piece of it that still resonates with your character in the present day.
 
 ---
 
-**INTRO TO CHOOSING ASPECTS**
+__INTRO TO CHOOSING ASPECTS__
 
 A lot of character creation focuses on coming up with aspects—some are called high concepts, some are called troubles, but they basically all work the same way. Aspects are one of the most important parts of your character, since they define who she is, and they provide ways for you to generate fate points and to spend those fate points on bonuses. If you have time, you really might want to read the whole chapter we have dedicated to aspects before you go through the process of character creation.
 
@@ -762,7 +762,7 @@ If you find yourself stuck, look to your character’s high concept and trouble.
 
 Landon gets into a bar fight with some of the Scar Triad. He is robbed of his sword and beaten severely. His life is saved by a veteran soldier named Old Finn. Finn helps to heal Landon, clean him up, and enlist him in the town militia.
 
-*** I Owe Old Finn Everything**
+__* I Owe Old Finn Everything__
 
 ---
 
@@ -776,7 +776,7 @@ Ask yourself the following story questions. If you have trouble answering them, 
 
 Once you’ve come up with the adventure, write an aspect that relates to some part of what happened.
 
-**A note on timing:** Because two other characters will be involved in the following phases, this adventure needs to be something that isn’t so early in your character’s life that he hasn’t met the other protagonists yet. If one of you has decided that you recently showed up in the story, then the adventures involving that person happened recently. If some of you have been friends (or old rivals!) for a long time, then those adventures can take place further in the past. Your best bet is to not make these adventures specific in time; you can figure out that part once you know who’s involved in your story.
+__A note on timing:__ Because two other characters will be involved in the following phases, this adventure needs to be something that isn’t so early in your character’s life that he hasn’t met the other protagonists yet. If one of you has decided that you recently showed up in the story, then the adventures involving that person happened recently. If some of you have been friends (or old rivals!) for a long time, then those adventures can take place further in the past. Your best bet is to not make these adventures specific in time; you can figure out that part once you know who’s involved in your story.
 
 ---
 
@@ -792,7 +792,7 @@ Once you’ve come up with the adventure, write an aspect that relates to some p
 
 ---
 
-**PHASES AND INDEX CARDS**
+__PHASES AND INDEX CARDS__
 
 In phase one, you each came up with your own adventure. In phases two and three, you’re going to trade those stories around as other players’ characters get involved. Figuring out how your character fits into someone else’s story can be hard to do if you’ve handed your character phase worksheet to another player, so we recommend that you use index cards (or whatever scraps of paper you have).
 
@@ -811,9 +811,9 @@ Once everyone has their adventure written down (which is where our index card su
 Your character has a supporting role in the story you’re holding, which you get to come up with right now. Briefly discuss it with the player whose adventure it is and add a sentence or phrase to the summary to reflect your character’s supporting role. Supporting roles come in three forms: they complicate the adventure, solve a situation, or both.
 
 
-- **Complicating the adventure:** Your character managed to make some part of the adventure uncertain (possibly because of an issue or trouble aspect). Of course, since that happened in the past, we know you got out of it all right (or mostly all right, as indicated by the aspect you take). When describing this, don’t worry about how the situation is resolved—leave that for someone else, or leave it open. Descriptions like “Landon starts trouble when Cynere needs him quiet” or “Zird gets captured by mysterious brigands” are enough to get some ideas flowing.
-- **Solving a situation:** Your character somehow solves a complication that the main character in the adventure had to deal with, or your character aids the main character in the central conflict (which is an opportunity to involve your high concept aspect). When describing this, you don’t have to mention how the situation was created, just how your character takes care of it. Descriptions like “Cynere holds off foes to give Landon time to escape” or “Zird uses his arcane knowledge to ask the ghosts for information” are enough to give us an idea of what happens.
-- **Complicating and solving:** Here, your character either solves one situation but creates another, or creates a situation but later solves a different one. Mash up the two ideas, using the word “later” in between them, such as: “Landon starts a fight with the Scar Triad while Zird is trying to lay low. Later, he helps Zird by fighting off undead while Zird’s casting a spell.”
+- __Complicating the adventure:__ Your character managed to make some part of the adventure uncertain (possibly because of an issue or trouble aspect). Of course, since that happened in the past, we know you got out of it all right (or mostly all right, as indicated by the aspect you take). When describing this, don’t worry about how the situation is resolved—leave that for someone else, or leave it open. Descriptions like “Landon starts trouble when Cynere needs him quiet” or “Zird gets captured by mysterious brigands” are enough to get some ideas flowing.
+- __Solving a situation:__ Your character somehow solves a complication that the main character in the adventure had to deal with, or your character aids the main character in the central conflict (which is an opportunity to involve your high concept aspect). When describing this, you don’t have to mention how the situation was created, just how your character takes care of it. Descriptions like “Cynere holds off foes to give Landon time to escape” or “Zird uses his arcane knowledge to ask the ghosts for information” are enough to give us an idea of what happens.
+- __Complicating and solving:__ Here, your character either solves one situation but creates another, or creates a situation but later solves a different one. Mash up the two ideas, using the word “later” in between them, such as: “Landon starts a fight with the Scar Triad while Zird is trying to lay low. Later, he helps Zird by fighting off undead while Zird’s casting a spell.”
 
 ---
 
@@ -863,14 +863,14 @@ And with that, you have your five aspects and a good chunk of background!
 
 ---
 
-**FEWER THAN THREE PLAYERS?**
+__FEWER THAN THREE PLAYERS?__
 
 The phase trio assumes that you’ll have at least three players. If you have only two, consider the following ideas:
 
 
-- **Skip phase three** and just make up another aspect, either now or in play.
-- **Come up with a third, joint-story together**, and write about how you each feature in that one.
-- **Have the GM also make a character.** The GM won’t actually play this character alongside the PCs, though—it should just be an NPC. Such an NPC can be a great vehicle for kicking off a campaign—if a friend they’re tied to during character creation mysteriously disappears or even dies, that’s instant fuel for drama.
+- __Skip phase three__ and just make up another aspect, either now or in play.
+- __Come up with a third, joint-story together__, and write about how you each feature in that one.
+- __Have the GM also make a character.__ The GM won’t actually play this character alongside the PCs, though—it should just be an NPC. Such an NPC can be a great vehicle for kicking off a campaign—if a friend they’re tied to during character creation mysteriously disappears or even dies, that’s instant fuel for drama.
 
 ---
 
@@ -886,7 +886,7 @@ Cynere steals Zird’s artifact. Eventually it returns to Zird’s hands and the
 
 ## Skills
 
-**Pick and rate your character’s****skills.**
+__Pick and rate your character’s____skills.__
 
 Once you have mapped out your character’s phases and chosen aspects, it’s time to pick skills. You’ll find descriptions and details for each skill in the [_Skills and Stunts_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#skills-and-stunts) chapter.
 
@@ -900,7 +900,7 @@ Your skills form a pyramid, with a single skill rated at Great (+4)—which w
 
 ---
 
-**FOR VETERANS: WHY THE PYRAMID?**
+__FOR VETERANS: WHY THE PYRAMID?__
 
 If you’ve played _The Dresden Files RPG_, you know that we use skill columns for that instead of the pyramid.
 
@@ -910,7 +910,7 @@ Skill columns didn’t completely go away. It’s just [reserved for advancemen
 
 ---
 
-**THE SKILL CAP**
+__THE SKILL CAP__
 
 By default, we make Great (+4) the highest rated skill PCs start with. As characters advance, they can improve beyond this cap, but it’s more difficult than improving skills rated below the cap (see [Major Milestones](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-55)).
 
@@ -930,11 +930,11 @@ Mediocre (+0) is the default for any skill you do not take. Sometimes, a skill w
 
 ---
 
-**Note:** a few skills have special benefits, notably those skills that affect the number of [stress boxes and consequences](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-41) you have available. If you know you want a certain number of those, put those skills on the pyramid first.
+__Note:__ a few skills have special benefits, notably those skills that affect the number of [stress boxes and consequences](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-41) you have available. If you know you want a certain number of those, put those skills on the pyramid first.
 
 ## Stunts and Refresh
 
-**Pick or invent three to five****stunts. Determine how many****fate points you start play with.**
+__Pick or invent three to five____stunts. Determine how many____fate points you start play with.__
 
 Stunts change how skills work for your character. Picking and inventing stunts are covered in the [Skills and Stunts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#skills-and-stunts) chapter.
 
@@ -954,7 +954,7 @@ A player character in Fate starts with a refresh of 3. That means he’ll start 
 
 If you pick four stunts, your refresh is 2. If you pick five stunts, your refresh is 1.
 
-**Note:** some Fate games will change this setup. Regardless of how stunts work in your game, you can never have a refresh lower than 1.
+__Note:__ some Fate games will change this setup. Regardless of how stunts work in your game, you can never have a refresh lower than 1.
 
 ---
 
@@ -964,21 +964,21 @@ You can adjust these defaults if you want to, and give out more free stunts if y
 
 ## Stress and Consequences
 
-**Determine how much of a beating your character can take.**
+__Determine how much of a beating your character can take.__
 
 When Fate characters find themselves in harm’s way—a fairly common occurrence when you’re highly competent, proactive, and facing drama at every turn—they have two ways to stand their ground and stay on their feet: _stress_ and _consequences_.
 
 The [Conflicts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-44) section of the Challenges, Contests, and Conflicts chapter fully explains what these mean and how they’re used. In brief, stress represents the ephemeral toll of participating in a conflict, whereas consequences are the lingering effects, and sometimes quite traumatic ones, of taking harm.
 
-Every PC has two different [**stress tracks**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-9). The _physical stress track_ deals with physical harm, and the_mental stress track_ mitigates mental harm. The more boxes in a stress track, the more resilient the character is in that regard. By default, a character has two boxes in each stress track.
+Every PC has two different [__stress tracks__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-9). The _physical stress track_ deals with physical harm, and the_mental stress track_ mitigates mental harm. The more boxes in a stress track, the more resilient the character is in that regard. By default, a character has two boxes in each stress track.
 
-Every PC also has three [**consequence slots**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-11). One is_mild_, one is_moderate_, and the last one is_severe_. Unlike stress, these aren’t classified as either physical or mental—any of them can apply to any type of harm. As mentioned above, consequences are the injuries and traumas you can’t just shake off after the dust settles.
+Every PC also has three [__consequence slots__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-11). One is_mild_, one is_moderate_, and the last one is_severe_. Unlike stress, these aren’t classified as either physical or mental—any of them can apply to any type of harm. As mentioned above, consequences are the injuries and traumas you can’t just shake off after the dust settles.
 
 Certain skills and some stunts can add to these defaults. See the [_Skills and Stunts_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#skills-and-stunts) chapter for more on that. For the sake of quick reference, these are the skills in _Hearts of Steel_ that alter stress and consequences:
 
-**Physique** helps with physical stress, and **Will** helps with mental stress. Either skill grants one more stress box of the respective type (physical or mental) if rated at Average (+1) or Fair (+2), or two more stress boxes if rated at Good (+3) or higher. At Superb (+5) or higher, they also grant an additional mild consequence slot. Unlike the standard three, this consequence slot is specifically restricted to either physical harm (Physique) or mental harm (Will).
+__Physique__ helps with physical stress, and __Will__ helps with mental stress. Either skill grants one more stress box of the respective type (physical or mental) if rated at Average (+1) or Fair (+2), or two more stress boxes if rated at Good (+3) or higher. At Superb (+5) or higher, they also grant an additional mild consequence slot. Unlike the standard three, this consequence slot is specifically restricted to either physical harm (Physique) or mental harm (Will).
 
-**Note:** if you’re playing in a setting with different skills, the skills that affect stress boxes and consequences may change. Take a note of those skill benefits when you’re making your character.
+__Note:__ if you’re playing in a setting with different skills, the skills that affect stress boxes and consequences may change. Take a note of those skill benefits when you’re making your character.
 
 ---
 
@@ -1061,7 +1061,7 @@ If you’re out of fate points, but want to note down a stunt you have because y
 
 You’ll also need to reduce your refresh by one for the next session for each extra stunt you take.
 
-**4**
+__4__
 
 # ASPECTS AND FATE POINTS
 
@@ -1071,7 +1071,7 @@ An _aspect_ is a phrase that describes something unique or noteworthy about wh
 
 ## DEFINING FATE POINTS
 
-GMs and players, you both have a pool of points called [**fate points**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-5) you can use to influence the game. You represent these with tokens, as we mentioned in The Basics. Players, you start with a certain number of points every scenario, equal to your character’s _refresh_. You’ll also reset to your refresh rate if you ended a mid-scenario session with fewer fate points than your rate. GMs, [you get a budget of fate points](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-45) to spend in every scene.
+GMs and players, you both have a pool of points called [__fate points__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-5) you can use to influence the game. You represent these with tokens, as we mentioned in The Basics. Players, you start with a certain number of points every scenario, equal to your character’s _refresh_. You’ll also reset to your refresh rate if you ended a mid-scenario session with fewer fate points than your rate. GMs, [you get a budget of fate points](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-45) to spend in every scene.
 
 When your aspects come into play, you will usually spend or gain a fate point.
 
@@ -1261,7 +1261,7 @@ If there’s more than one option, poll the other players and GM to see what the
 
 ---
 
-> During Cynere’s [**phase three**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-38), Lily states that she complicated Zird’s story by showing up at an opportune moment and stealing the artifact that Zird stole from his rivals. Eventually the artifact returns to Zird’s hands.
+> During Cynere’s [__phase three__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-38), Lily states that she complicated Zird’s story by showing up at an opportune moment and stealing the artifact that Zird stole from his rivals. Eventually the artifact returns to Zird’s hands.
 
 > She’s trying to tease out what the best aspect would be, and she doesn’t have a whole lot of information to go on. Going through the questions above, we see a lot of potential options—she showed off her underhandedness, she definitely suggested a relationship with Zird of some kind, and Zird’s rivals might now have a beef with her as well.
 
@@ -1307,7 +1307,7 @@ In order to invoke an aspect, explain why the aspect is relevant, spend a [fate
 
 ---
 
-**THE REROLL VS. THE +2**
+__THE REROLL VS. THE +2__
 
 Rerolling the dice is a little riskier than just getting the +2 bonus, but has the potential for greater benefit. We recommend you reserve this option for when you’ve rolled a –3 or a –4 on the dice, to maximize the chance that you’ll get a beneficial result from rerolling. The odds are better that way.
 
@@ -1339,7 +1339,7 @@ If the aspect you invoke is on someone else’s character sheet, including situa
 
 ---
 
-**THE ELLIPSIS TRICK**
+__THE ELLIPSIS TRICK__
 
 If you want an easy way to ensure you have room to incorporate aspects into a roll, try narrating your action with an ellipsis at the end (“...”), and then finish the action with the aspect you want to invoke. Like this:
 
@@ -1371,7 +1371,7 @@ If you want, you can pass your free invocation to another character. That allows
 
 ---
 
-**FOR VETERANS**
+__FOR VETERANS__
 
 In other Fate games, free invocations were called “tagging.” We thought this was one bit of jargon too many. You can still call it that if you want—whatever helps you and your table understand the rule.
 
@@ -1393,11 +1393,11 @@ If you prevent the complication from happening, then you and the group describe 
 
 GMs, you’re the final arbiter here, as always—not just on how the result of a compel plays out, but on whether or not a compel is valid in the first place. Use the same judgment you apply to an invocation—it should make instinctive sense, or require only a small amount of explanation, that a complication might arise from the aspect.
 
-Finally, and this is very important: **if a player wants to compel another character, it costs a fate point to propose the complication.** The GM can always compel for free, and any player can propose a compel on his or her own character for free.
+Finally, and this is very important: __if a player wants to compel another character, it costs a fate point to propose the complication.__ The GM can always compel for free, and any player can propose a compel on his or her own character for free.
 
 ---
 
-**FOR VETERANS**
+__FOR VETERANS__
 
 In other Fate games, you might have seen player-driven compels referred to as “invoking for effect.” We thought it was clearer to just call it a compel, no matter who initiates it.
 
@@ -1405,7 +1405,7 @@ In other Fate games, you might have seen player-driven compels referred to as �
 
 ### Types of Compels
 
-There are two major categories for what a compel looks like in the game: **events** and **decisions**. These are tools to help you figure out what a compel should look like and help break any mental blocks.
+There are two major categories for what a compel looks like in the game: __events__ and __decisions__. These are tools to help you figure out what a compel should look like and help break any mental blocks.
 
 #### Events
 
@@ -1541,11 +1541,11 @@ For the most part, you’ll use the [create an advantage](http://www.faterpg.co
 
 With some skills, it’s going to make more sense to stick an advantage to an aspect that’s already on some other character’s sheet. In this case, the PC or NPC you’re targeting would provide active opposition to keep you from being able to use that aspect.
 
-If you’re not looking for a free invocation, and you just think it’d make sense if there were a particular situation aspect in play, **you don’t need to roll the dice or anything to make new aspects—just suggest them, and if the group thinks they’re interesting, write them down.**
+If you’re not looking for a free invocation, and you just think it’d make sense if there were a particular situation aspect in play, __you don’t need to roll the dice or anything to make new aspects—just suggest them, and if the group thinks they’re interesting, write them down.__
 
 ---
 
-**FOR THE GM: EXTREMELY POWERFUL NINJA GM TRICK**
+__FOR THE GM: EXTREMELY POWERFUL NINJA GM TRICK__
 
 So, if you don’t have any aspects made up for a scene or an NPC, just ask the players what kinds of aspects they’re looking for when they roll to create an advantage. If they tie or succeed, just write down something similar to what they were looking for and say they were right. If they fail, write it down anyway, or write another aspect down that’s not advantageous to them, so as to contrast with their expectations.
 
@@ -1583,7 +1583,7 @@ Here’s how that works.
 
 ### Refresh
 
-Each player gets a number of fate points to start each session off with. That total is called the [**refresh rate**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-54). The refresh for a default, starting character is three fate points, but you can opt to spend up to two of your refresh to buy additional stunts.
+Each player gets a number of fate points to start each session off with. That total is called the [__refresh rate__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-54). The refresh for a default, starting character is three fate points, but you can opt to spend up to two of your refresh to buy additional stunts.
 
 You get additional refresh as your character achieves a [major milestone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-55) (which we discuss in The Long Game), which you can spend on getting more stunts or keep in order to increase your starting fate point total. You can never have less than one refresh at any time.
 
@@ -1591,7 +1591,7 @@ You might end a session of play with more fate points than your actual refresh. 
 
 ---
 
-**STUNTS AND REFRESH**
+__STUNTS AND REFRESH__
 
 
 - Three Stunts = Refresh of 3
@@ -1605,19 +1605,19 @@ You might end a session of play with more fate points than your actual refresh. 
 You spend fate points in any of the following ways:
 
 
-- **Invoke an Aspect:** Invoking an aspect costs you one fate point, unless the invocation is free.
-- **Power a****Stunt:** Some [stunts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-56) are very potent, and as such, cost a fate point in order to activate.
-- **Refuse a Compel:** Once a compel is proposed, you can pay a fate point to avoid the complication associated with it.
-- **Declare a Story Detail:** To add something to the narrative based on one of your aspects, spend a fate point.
+- __Invoke an Aspect:__ Invoking an aspect costs you one fate point, unless the invocation is free.
+- __Power a____Stunt:__ Some [stunts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-56) are very potent, and as such, cost a fate point in order to activate.
+- __Refuse a Compel:__ Once a compel is proposed, you can pay a fate point to avoid the complication associated with it.
+- __Declare a Story Detail:__ To add something to the narrative based on one of your aspects, spend a fate point.
 
 ### Earning Fate Points
 
 You earn fate points in any of the following ways:
 
 
-- **Accept a****Compel:** You get a fate point when you agree to the complication associated with a compel. As we said above, this may sometimes happen retroactively if the circumstances warrant.
-- **Have Your Aspects Invoked Against You:** If someone pays a fate point to invoke an aspect attached to your character, you gain their fate point at the end of the scene. This includes advantages created on your character, as well as consequences.
-- **Concede in a Conflict:** You receive one fate point for [conceding in a conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-122), as well as an additional fate point for each consequence that you’ve received in that conflict. (This isn’t the same as being [taken out in a conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-57), by the way, but we’ll get into that later.)
+- __Accept a____Compel:__ You get a fate point when you agree to the complication associated with a compel. As we said above, this may sometimes happen retroactively if the circumstances warrant.
+- __Have Your Aspects Invoked Against You:__ If someone pays a fate point to invoke an aspect attached to your character, you gain their fate point at the end of the scene. This includes advantages created on your character, as well as consequences.
+- __Concede in a Conflict:__ You receive one fate point for [conceding in a conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-122), as well as an additional fate point for each consequence that you’ve received in that conflict. (This isn’t the same as being [taken out in a conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-57), by the way, but we’ll get into that later.)
 
 ### The GM and Fate Points
 
@@ -1625,9 +1625,9 @@ GMs, you also get to use fate points, but the rules are a little bit different t
 
 When you award players fate points for compels or concession, they come out of an unlimited pool you have for doing so—you don’t have to worry about running out of fate points to award, and you always get to compel for free.
 
-The NPCs under your control are not so lucky. They have a limited pool of fate points you get to use on their behalf. **Whenever a scene starts, you get one fate point for every PC in that scene.** You can use these points on behalf of any NPC you want, but you can get more in that scene if they take a compel, like PCs do.
+The NPCs under your control are not so lucky. They have a limited pool of fate points you get to use on their behalf. __Whenever a scene starts, you get one fate point for every PC in that scene.__ You can use these points on behalf of any NPC you want, but you can get more in that scene if they take a compel, like PCs do.
 
-**You reset to your default total, one per PC, at the beginning of every scene.**
+__You reset to your default total, one per PC, at the beginning of every scene.__
 
 There are two exceptions:
 
@@ -1656,7 +1656,7 @@ If the immediate next scene doesn’t present a significant interaction with NPC
 
 ---
 
-**5**
+__5__
 
 # SKILLS AND STUNTS
 
@@ -1674,13 +1674,13 @@ We define skills in two ways in Fate—in terms of the _game actions_ that you
 
 We cover these in more detail in [Actions and Outcomes](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#actions-and-outcomes), but here’s a quick reference so that you don’t have to flip all the way over there right now.
 
-**Overcome:** True to its name, you tackle some kind of challenge, engaging task, or hindrance related to your skill.
+__Overcome:__ True to its name, you tackle some kind of challenge, engaging task, or hindrance related to your skill.
 
-**Create an Advantage:** Whether you’re discovering something that already exists about an opponent or creating a situation that helps you succeed, creating advantages allows you to discover and create aspects, and lets you get free invocations of them.
+__Create an Advantage:__ Whether you’re discovering something that already exists about an opponent or creating a situation that helps you succeed, creating advantages allows you to discover and create aspects, and lets you get free invocations of them.
 
-**Attack:** You try to harm someone in a conflict. That harm may be physical, mental, emotional, or social in nature.
+__Attack:__ You try to harm someone in a conflict. That harm may be physical, mental, emotional, or social in nature.
 
-**Defend:** You try to keep someone from harming you, getting past you, or creating an advantage to use against you.
+__Defend:__ You try to keep someone from harming you, getting past you, or creating an advantage to use against you.
 
 There are also some special effects that some skills perform, such as giving you additional [stress](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-9) boxes for a conflict. See [Physique](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-59) and [Will](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-60) in the default skill list below for examples.
 
@@ -1727,9 +1727,9 @@ The most basic option for a stunt is to allow a skill to do something that it no
 Here are some new action stunts:
 
 
-- **Backstab.** You can use Stealth to make physical attacks, provided your target isn’t already aware of your presence.
-- **The Fight in the Dog.** You can use Provoke to enter the kinds of contests that you’d normally need Physique for, whenever your ability to psych your opponent out with the force of your presence alone would be a factor.
-- **You’re Never Safe.** You can use Burglary to make mental attacks and create advantages against a target, by staging a heist in such a way as to shatter their confidence in their security.
+- __Backstab.__ You can use Stealth to make physical attacks, provided your target isn’t already aware of your presence.
+- __The Fight in the Dog.__ You can use Provoke to enter the kinds of contests that you’d normally need Physique for, whenever your ability to psych your opponent out with the force of your presence alone would be a factor.
+- __You’re Never Safe.__ You can use Burglary to make mental attacks and create advantages against a target, by staging a heist in such a way as to shatter their confidence in their security.
 
 ---
 
@@ -1750,9 +1750,9 @@ You can also use this to establish any effect worth two shifts as an additional 
 Here are some examples of adding a bonus to an action:
 
 
-- **Arcane Expert.** Gain a +2 bonus to create an advantage using Lore, whenever the situation has specifically to do with the supernatural or occult.
-- **Lead in the Air.** You really like emptying magazines. Any time you’re using a fully automatic weapon and you succeed at a Shoot attack, you automatically create a Fair (+2) opposition against movement in that zone until your next turn, because of all the lead in the air. (Normally, you’d need to take a separate action to set up this kind of interference, but with the stunt, it’s free.)
-- **Child of the Court.** Gain a +2 bonus to any attempt to overcome obstacles with Rapport when you’re at an aristocratic function, such as a royal ball.
+- __Arcane Expert.__ Gain a +2 bonus to create an advantage using Lore, whenever the situation has specifically to do with the supernatural or occult.
+- __Lead in the Air.__ You really like emptying magazines. Any time you’re using a fully automatic weapon and you succeed at a Shoot attack, you automatically create a Fair (+2) opposition against movement in that zone until your next turn, because of all the lead in the air. (Normally, you’d need to take a separate action to set up this kind of interference, but with the stunt, it’s free.)
+- __Child of the Court.__ Gain a +2 bonus to any attempt to overcome obstacles with Rapport when you’re at an aristocratic function, such as a royal ball.
 
 ---
 
@@ -1771,9 +1771,9 @@ The only limit to this is that a stunt can’t change any of the [basic rules](
 Here are some stunts that create rules exceptions:
 
 
-- **Ritualist.** Use Lore in place of another skill during a challenge, allowing you to use Lore twice in the same [challenge](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66).
-- **Hogtie.** When you use Crafts to create a Hogtied (or similar) advantage on someone, you can always actively oppose any overcome rolls to escape the hogtie (also using Crafts), even if you’re not there. (Normally, if you weren’t there, the escaping character would roll against passive opposition, making it a lot easier to escape.)
-- **Riposte.** If you succeed with style on a Fight defense, you can choose to inflict a 2-shift hit rather than take a boost.
+- __Ritualist.__ Use Lore in place of another skill during a challenge, allowing you to use Lore twice in the same [challenge](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66).
+- __Hogtie.__ When you use Crafts to create a Hogtied (or similar) advantage on someone, you can always actively oppose any overcome rolls to escape the hogtie (also using Crafts), even if you’re not there. (Normally, if you weren’t there, the escaping character would roll against passive opposition, making it a lot easier to escape.)
+- __Riposte.__ If you succeed with style on a Fight defense, you can choose to inflict a 2-shift hit rather than take a boost.
 
 ### Balancing Stunt Utility
 
@@ -1789,7 +1789,7 @@ You can also restrict a stunt by only allowing it to be used once in a certain p
 
 ---
 
-**FATE POINT-POWERED STUNTS**
+__FATE POINT-POWERED STUNTS__
 
 Another way to restrict how often a stunt comes into play is to have it cost a fate point to use. This is a good option if the desired stunt effect is very powerful, or there doesn’t seem to be a good way for you to change the wording of the stunt to make it come up less often in play.
 
@@ -1814,7 +1814,7 @@ Our best advice for determining what really powerful means is that it either goe
 > On Landon’s sheet, Lenny writes:
 
 
-- **My Blade Strikes True.** Once per conflict, you can force the opponent to use a mild consequence instead of a 2-point stress box on a successful Fight attack with your heirloom sword.
+- __My Blade Strikes True.__ Once per conflict, you can force the opponent to use a mild consequence instead of a 2-point stress box on a successful Fight attack with your heirloom sword.
 
 ---
 
@@ -1840,9 +1840,9 @@ Keep in mind that the upgraded stunt effectively replaces the original. You can 
 Here are some stunts that stack:
 
 
-- **Advanced Warmaster.** (requires [Warmaster](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#CYNERES-CHARACTER-SHEET).) When you’re fighting anyone who is armed with a sword, you get a further +2 bonus to creating an advantage using Warmaster.
-- **Scion of the Court.** (requires [Child of the Court](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-67).) When you overcome an obstacle with Child of the Court, you may additionally create a situation aspect that describes how the general attitude turns in your favor. If anyone wants to try and get rid of this aspect, they must overcome Fair (+2) opposition.
-- **Advanced Ritualist.** (requires [Ritualist](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-68).) You gain a +2 bonus when you use Lore in place of another skill during a challenge. This allows you to use Lore twice in the same challenge.
+- __Advanced Warmaster.__ (requires [Warmaster](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#CYNERES-CHARACTER-SHEET).) When you’re fighting anyone who is armed with a sword, you get a further +2 bonus to creating an advantage using Warmaster.
+- __Scion of the Court.__ (requires [Child of the Court](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-67).) When you overcome an obstacle with Child of the Court, you may additionally create a situation aspect that describes how the general attitude turns in your favor. If anyone wants to try and get rid of this aspect, they must overcome Fair (+2) opposition.
+- __Advanced Ritualist.__ (requires [Ritualist](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-68).) You gain a +2 bonus when you use Lore in place of another skill during a challenge. This allows you to use Lore twice in the same challenge.
 
 #### Branching Effects
 
@@ -1857,14 +1857,14 @@ As an example of how this works, let’s take a look at the Deceive skill. If yo
 So let’s make our first stunt something like this:
 
 
-- **Fast Talk.** You get a +2 to overcome obstacles with Deceive, provided you don’t have to talk to the person you’re trying to deceive for more than a few sentences before blowing past them.
+- __Fast Talk.__ You get a +2 to overcome obstacles with Deceive, provided you don’t have to talk to the person you’re trying to deceive for more than a few sentences before blowing past them.
 
 Here are some potential options for branching off of that stunt:
 
 
-- **Quick Disguise.** (requires Fast Talk.) You’re able to put together a convincing disguise in a heartbeat, using items from your surroundings. You can roll Deceive to create a disguise without any time to prepare, in nearly any situation.
-- **Instant Cover.** (requires Fast Talk.) You can whip up a cover story like no one’s business, even if you haven’t made an effort to establish it beforehand. Any time you overcome an obstacle in public using Deceive, automatically add a situation aspect representing your cover story, and stick a free invocation on it.
-- **Hey, What’s That?** (requires Fast Talk.) Gain a +2 bonus whenever you’re using Deceive to momentarily distract someone, as long as part of the distraction involves saying something.
+- __Quick Disguise.__ (requires Fast Talk.) You’re able to put together a convincing disguise in a heartbeat, using items from your surroundings. You can roll Deceive to create a disguise without any time to prepare, in nearly any situation.
+- __Instant Cover.__ (requires Fast Talk.) You can whip up a cover story like no one’s business, even if you haven’t made an effort to establish it beforehand. Any time you overcome an obstacle in public using Deceive, automatically add a situation aspect representing your cover story, and stick a free invocation on it.
+- __Hey, What’s That?__ (requires Fast Talk.) Gain a +2 bonus whenever you’re using Deceive to momentarily distract someone, as long as part of the distraction involves saying something.
 
 Every one of those stunts thematically relates to very quick, spontaneous uses of Deceive, but they each have a different flavor of awesome.
 
@@ -1876,7 +1876,7 @@ Here is a basic list of example skills for you to use in your Fate games along w
 
 Each skill description contains a list of game actions that you can use the skill for. This list is not necessarily exhaustive—see our guidelines for what to do with [edge cases](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-95).
 
-**Skill List**
+__Skill List__
 
 
 | Skill | Overcome | Create an Advantage | Attack | Defend  |
@@ -1902,7 +1902,7 @@ Each skill description contains a list of game actions that you can use the skil
 
 ---
 
-**CREATING SETTING WITH SKILLS**
+__CREATING SETTING WITH SKILLS__
 
 Skills are one of your primary mechanical ways to reinforce the setting you’re using or creating for your game. The skills provided in this list are deliberately generic so that they can be used in a variety of settings, and the stunts provided continue this trend by not being tied to any particular setting.
 
@@ -1922,13 +1922,13 @@ The Athletics skill represents your character’s general level of physical fitn
 
 Athletics is all but ubiquitous among every genre appropriate for Fate—it would only be unnecessary in a game that focused exclusively on interpersonal interaction and had no physical conflict.
 
-**Overcome:** Athletics allows you to overcome any obstacle that requires physical movement—jumping, running, climbing, swimming, etc. If it resembles something you’d do in the decathlon, you roll Athletics. You use overcome actions with Athletics to move between zones in a conflict if there’s a situation aspect or other obstacle in your way. You also roll Athletics to chase or race in any contests or challenges that rely on these types of activities.
+__Overcome:__ Athletics allows you to overcome any obstacle that requires physical movement—jumping, running, climbing, swimming, etc. If it resembles something you’d do in the decathlon, you roll Athletics. You use overcome actions with Athletics to move between zones in a conflict if there’s a situation aspect or other obstacle in your way. You also roll Athletics to chase or race in any contests or challenges that rely on these types of activities.
 
-**Create an Advantage:** When you’re creating an advantage with Athletics, you’re jumping to high ground, running faster than the opponent can keep up with, or performing dazzling acrobatic maneuvers in order to confound your foes.
+__Create an Advantage:__ When you’re creating an advantage with Athletics, you’re jumping to high ground, running faster than the opponent can keep up with, or performing dazzling acrobatic maneuvers in order to confound your foes.
 
-**Attack:** Athletics is not meant as an attack skill.
+__Attack:__ Athletics is not meant as an attack skill.
 
-**Defend:** Athletics is a catch-all skill to roll for defense in a physical conflict, against close-quarters and ranged attacks. You can also use it to defend against characters trying to move past you, if you’re in a position to physically interfere with whoever’s making the attempt.
+__Defend:__ Athletics is a catch-all skill to roll for defense in a physical conflict, against close-quarters and ranged attacks. You can also use it to defend against characters trying to move past you, if you’re in a position to physically interfere with whoever’s making the attempt.
 
 ---
 
@@ -1937,9 +1937,9 @@ You might decide that Athletics is inappropriate for defense against firearms or
 ### Athletics Stunts
 
 
-- **Sprinter.** You move two zones for free in a conflict without rolling, instead of one, provided there are no situation aspects restricting movement.
-- **Hardcore Parkour.** +2 to overcome actions with Athletics if you are in a chase across rooftops or a similarly precarious environment.
-- **Dazing Counter.** When you succeed with style on a defend action against an opponent’s Fight roll, you automatically counter with some sort of nerve punch or stunning blow. You get to attach theDazed situation aspect to your opponent with a free invoke, instead of just a boost.
+- __Sprinter.__ You move two zones for free in a conflict without rolling, instead of one, provided there are no situation aspects restricting movement.
+- __Hardcore Parkour.__ +2 to overcome actions with Athletics if you are in a chase across rooftops or a similarly precarious environment.
+- __Dazing Counter.__ When you succeed with style on a defend action against an opponent’s Fight roll, you automatically counter with some sort of nerve punch or stunning blow. You get to attach theDazed situation aspect to your opponent with a free invoke, instead of just a boost.
 
 ### Burglary
 
@@ -1947,39 +1947,39 @@ The Burglary skill covers your character’s aptitude for stealing things and ge
 
 In genres that rely on the use of a lot of technology, this skill also includes a proficiency in the related tech, allowing the character to hack security systems, disable alarm systems, and whatnot.
 
-**Overcome:** As stated above, Burglary allows you to overcome any obstacle related to theft or infiltration. Bypassing locks and traps, pickpocketing and filching, covering your tracks, and other such activities all fall under the purview of this skill.
+__Overcome:__ As stated above, Burglary allows you to overcome any obstacle related to theft or infiltration. Bypassing locks and traps, pickpocketing and filching, covering your tracks, and other such activities all fall under the purview of this skill.
 
-**Create an Advantage:** You can case a location with Burglary, to determine how hard it will be to break into and what kind of security you’re dealing with, as well as discover any vulnerabilities you might exploit. You can also examine the work of other burglars to determine how a particular heist was done, and create or discover aspects related to whatever evidence they may have left behind.
+__Create an Advantage:__ You can case a location with Burglary, to determine how hard it will be to break into and what kind of security you’re dealing with, as well as discover any vulnerabilities you might exploit. You can also examine the work of other burglars to determine how a particular heist was done, and create or discover aspects related to whatever evidence they may have left behind.
 
-**Attack:** Burglary isn’t used for attacks.
+__Attack:__ Burglary isn’t used for attacks.
 
-**Defend:** Same here. It’s not really a conflict skill, so there’s not a lot of opportunity to use it to defend
+__Defend:__ Same here. It’s not really a conflict skill, so there’s not a lot of opportunity to use it to defend
 
 #### Burglary Stunts
 
 
-- **Always a Way Out.** +2 on Burglary rolls made to create an advantage whenever you’re trying to escape from a location.
-- **Security Specialist.** You don’t have to be present to provide active opposition to someone trying to overcome security measures you put in place or worked on. (Normally, a character would roll against passive opposition for that.)
-- **Talk the Talk.** You can use Burglary in place of Contacts whenever you’re dealing specifically with other thieves and burglars.
+- __Always a Way Out.__ +2 on Burglary rolls made to create an advantage whenever you’re trying to escape from a location.
+- __Security Specialist.__ You don’t have to be present to provide active opposition to someone trying to overcome security measures you put in place or worked on. (Normally, a character would roll against passive opposition for that.)
+- __Talk the Talk.__ You can use Burglary in place of Contacts whenever you’re dealing specifically with other thieves and burglars.
 
 ### Contacts
 
 Contacts is the skill of knowing and making connections with people. It presumes proficiency with all means of networking available in the setting.
 
-**Overcome:** You use Contacts to overcome any obstacle related to finding someone you need to find. Whether that’s old-fashioned “man on the street” type of work, polling your information network, or searching archives and computer databases, you’re able to hunt down people or somehow get access to them.
+__Overcome:__ You use Contacts to overcome any obstacle related to finding someone you need to find. Whether that’s old-fashioned “man on the street” type of work, polling your information network, or searching archives and computer databases, you’re able to hunt down people or somehow get access to them.
 
-**Create an Advantage:** Contacts allows you to know who the perfect person to talk to is for anything you might need, or to decide that you know the perfect person already. It’s likely that you’ll create story details with this skill, represented by aspects. (“Hey, guys, my contacts tell me that Joe Steel is the Best Mechanic For A Thousand Miles—we should talk to him.”)
+__Create an Advantage:__ Contacts allows you to know who the perfect person to talk to is for anything you might need, or to decide that you know the perfect person already. It’s likely that you’ll create story details with this skill, represented by aspects. (“Hey, guys, my contacts tell me that Joe Steel is the Best Mechanic For A Thousand Miles—we should talk to him.”)
 
-You can also create an advantage that represents what the word on the street is about a particular individual, object, or location, based on what your contacts tell you. These aspects almost always deal with reputation more than fact, such as Known as a Mean Guy or Notorious Swindler. Whether that person lives up to their reputation is anybody’s guess, though that doesn’t invalidate the aspect—people often have misleading reputations that complicate their lives.Contacts could also be used to create aspects that represent using your information network to plant or acquire information.**Attack:** Contacts isn’t used for attacks; it’s hard to harm someone simply by knowing people.
+You can also create an advantage that represents what the word on the street is about a particular individual, object, or location, based on what your contacts tell you. These aspects almost always deal with reputation more than fact, such as Known as a Mean Guy or Notorious Swindler. Whether that person lives up to their reputation is anybody’s guess, though that doesn’t invalidate the aspect—people often have misleading reputations that complicate their lives.Contacts could also be used to create aspects that represent using your information network to plant or acquire information.__Attack:__ Contacts isn’t used for attacks; it’s hard to harm someone simply by knowing people.
 
-**Defend:** Contacts can be used to defend against people creating social advantages against you, provided your information network can be brought to bear in the situation. You might also use it to keep someone from using Deceive or Contacts to go “off the grid”, or to interfere with Investigate attempts to find you.
+__Defend:__ Contacts can be used to defend against people creating social advantages against you, provided your information network can be brought to bear in the situation. You might also use it to keep someone from using Deceive or Contacts to go “off the grid”, or to interfere with Investigate attempts to find you.
 
 #### Contacts Stunts
 
 
-- **Ear to the Ground.** Whenever someone initiates a conflict against you in an area where you’ve built a network of contacts, you use Contacts instead of Notice to determine turn order, because you got tipped off in time.
-- **Rumormonger.** +2 to create an advantage when you plant vicious rumors about someone else.
-- **The Weight of Reputation.** You can use Contacts instead of Provoke to create advantages based on the fear generated by the sinister reputation you’ve cultivated for yourself and all the shady associates you have. You should have an appropriate aspect to pair with this stunt.
+- __Ear to the Ground.__ Whenever someone initiates a conflict against you in an area where you’ve built a network of contacts, you use Contacts instead of Notice to determine turn order, because you got tipped off in time.
+- __Rumormonger.__ +2 to create an advantage when you plant vicious rumors about someone else.
+- __The Weight of Reputation.__ You can use Contacts instead of Provoke to create advantages based on the fear generated by the sinister reputation you’ve cultivated for yourself and all the shady associates you have. You should have an appropriate aspect to pair with this stunt.
 
 ### Crafts
 
@@ -1987,13 +1987,13 @@ Crafts is the skill of working with machinery, for good or ill.
 
 The default skill is called Crafts because it’s what we use in the examples, but this skill might vary a great deal depending on the setting and what kind of technology is available. In a modern or sci-fi setting, this might be Engineering or Mechanics instead.
 
-**Overcome:** Crafts allows you to build, break, or fix machinery, presuming you have the time and tools you need. Often, actions with Crafts happen as one component of a more complex situation, making it a popular skill for challenges. For example, if you’re just fixing a broken door, neither success nor failure is interesting; you should just succeed and move on. Now, if you’re trying to get your car to start while a pack of werewolves is hunting you…
+__Overcome:__ Crafts allows you to build, break, or fix machinery, presuming you have the time and tools you need. Often, actions with Crafts happen as one component of a more complex situation, making it a popular skill for challenges. For example, if you’re just fixing a broken door, neither success nor failure is interesting; you should just succeed and move on. Now, if you’re trying to get your car to start while a pack of werewolves is hunting you…
 
-**Create an Advantage:** You can use Crafts to create aspects representing features of a piece of machinery, pointing out useful features or strengths you can use to your advantage (Armor-Plated,Rugged Construction) or a vulnerability for you to exploit (Flaw in the Cross-Beam, Hasty Work).
+__Create an Advantage:__ You can use Crafts to create aspects representing features of a piece of machinery, pointing out useful features or strengths you can use to your advantage (Armor-Plated,Rugged Construction) or a vulnerability for you to exploit (Flaw in the Cross-Beam, Hasty Work).
 
-Creating Crafts advantages can also take the form of quick and dirty sabotage or jury-rigging on mechanical objects in the scene. For example, you might create a Makeshift Pulley to help you get to the platform above you, or throw something into the ballista that’s firing on you to give it a Jammed Pivoting Joint and make it harder to hit you.**Attack:** You probably won’t use Crafts to attack in a conflict, unless the conflict is specifically about using machinery, like with siege weaponry. GMs and players, talk over the likelihood of this happening in your game if you have someone who is really interested in taking this skill. Usually, weapons you craft are likely to be used with other skills to attack—a guy who makes a sword still needs Fight to wield it well!
+Creating Crafts advantages can also take the form of quick and dirty sabotage or jury-rigging on mechanical objects in the scene. For example, you might create a Makeshift Pulley to help you get to the platform above you, or throw something into the ballista that’s firing on you to give it a Jammed Pivoting Joint and make it harder to hit you.__Attack:__ You probably won’t use Crafts to attack in a conflict, unless the conflict is specifically about using machinery, like with siege weaponry. GMs and players, talk over the likelihood of this happening in your game if you have someone who is really interested in taking this skill. Usually, weapons you craft are likely to be used with other skills to attack—a guy who makes a sword still needs Fight to wield it well!
 
-**Defend:** As with attacking, Crafts doesn’t defend, unless you’re somehow using it as the skill to control a piece of machinery that you block with.
+__Defend:__ As with attacking, Crafts doesn’t defend, unless you’re somehow using it as the skill to control a piece of machinery that you block with.
 
 
 
@@ -2010,9 +2010,9 @@ If you’re going to do this, make sure that you have a reason for it besides pe
 #### Crafts Stunts
 
 
-- **Always Making Useful Things.** You don’t ever have to spend a fate point to declare that you have the proper tools for a particular job using Crafts, even in extreme situations (like being imprisoned and separated from all your stuff). This source of opposition is just off the table.
-- **Better than New!** Whenever you succeed with style on an overcome action to repair a piece of machinery, you can immediately give it a new situation aspect (with a free invoke) reflecting the improvements you’ve made, instead of just a boost.
-- **Surgical Strikes.** When using Crafts in a conflict involving machinery, you can filter out unwanted targets from whole-zone attacks without having to divide up your shifts ([normally, you’d need to divide your roll between your targets](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66)).
+- __Always Making Useful Things.__ You don’t ever have to spend a fate point to declare that you have the proper tools for a particular job using Crafts, even in extreme situations (like being imprisoned and separated from all your stuff). This source of opposition is just off the table.
+- __Better than New!__ Whenever you succeed with style on an overcome action to repair a piece of machinery, you can immediately give it a new situation aspect (with a free invoke) reflecting the improvements you’ve made, instead of just a boost.
+- __Surgical Strikes.__ When using Crafts in a conflict involving machinery, you can filter out unwanted targets from whole-zone attacks without having to divide up your shifts ([normally, you’d need to divide your roll between your targets](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66)).
 
 ---
 
@@ -2022,26 +2022,26 @@ If building constructs and creating items is a big part of your game, check out�
 
 Deceive is the skill about lying to and misdirecting people.
 
-**Overcome:** Use Deceive to bluff your way past someone, or to get someone to believe a lie, or to get something out of someone because they believe in one of your lies. For nameless NPCs, this is just an overcome roll, but for PCs or named NPCs, it requires a contest, and the target opposes with Empathy. Winning this contest could justify placing a situation aspect on your target, if buying into your lie could help you in a future scene.
+__Overcome:__ Use Deceive to bluff your way past someone, or to get someone to believe a lie, or to get something out of someone because they believe in one of your lies. For nameless NPCs, this is just an overcome roll, but for PCs or named NPCs, it requires a contest, and the target opposes with Empathy. Winning this contest could justify placing a situation aspect on your target, if buying into your lie could help you in a future scene.
 
-Deceive is the skill you use for determining if a disguise works, whether on yourself or others. You’ll need to have the time and supplies to create the desired effect. (Note: This is mainly a _Hearts of Steel_thing; in some games, this may not be appropriate for Deceive by default and should require a stunt.)You can also use Deceive to do small tricks of sleight-of-hand and misdirection.**Create an Advantage:** Use Deceive to create momentary distractions, cover stories, or false impressions. You could feint in a swordfight, putting an opponent Off-Balance and setting you up for an attack. You could do the whole, “What’s that over there!” trick to give you a Head Start when you run away. You could establish a Wealthy Noble Cover Story for when you attend a royal ball. You could trick someone into revealing one of their aspects or other information.
+Deceive is the skill you use for determining if a disguise works, whether on yourself or others. You’ll need to have the time and supplies to create the desired effect. (Note: This is mainly a _Hearts of Steel_thing; in some games, this may not be appropriate for Deceive by default and should require a stunt.)You can also use Deceive to do small tricks of sleight-of-hand and misdirection.__Create an Advantage:__ Use Deceive to create momentary distractions, cover stories, or false impressions. You could feint in a swordfight, putting an opponent Off-Balance and setting you up for an attack. You could do the whole, “What’s that over there!” trick to give you a Head Start when you run away. You could establish a Wealthy Noble Cover Story for when you attend a royal ball. You could trick someone into revealing one of their aspects or other information.
 
-**Attack:** Deceive is an indirect skill that creates a lot of opportunities you can capitalize on, but it doesn’t do direct harm to an individual.
+__Attack:__ Deceive is an indirect skill that creates a lot of opportunities you can capitalize on, but it doesn’t do direct harm to an individual.
 
-**Defend:** You can use Deceive to throw off Investigation attempts with false information and to defend against efforts made to discern your true motives with the Empathy skill.
+__Defend:__ You can use Deceive to throw off Investigation attempts with false information and to defend against efforts made to discern your true motives with the Empathy skill.
 
 
 
 #### Deceive Stunts
 
 
-- **Lies upon Lies.** +2 to create a Deceive advantage against someone who has believed one of your lies already during this session.
-- **Mind Games.** You can use Deceive in place of Provoke to make mental attacks, as long as you can make up a clever lie as part of the attack.
-- **One Person, Many Faces.** Whenever you meet someone new, you can spend a fate point to declare that you’ve met that person before, but under a different name and identity. Create a situation aspect to represent your cover story, and you can use Deceive in place of Rapport whenever interacting with that person.
+- __Lies upon Lies.__ +2 to create a Deceive advantage against someone who has believed one of your lies already during this session.
+- __Mind Games.__ You can use Deceive in place of Provoke to make mental attacks, as long as you can make up a clever lie as part of the attack.
+- __One Person, Many Faces.__ Whenever you meet someone new, you can spend a fate point to declare that you’ve met that person before, but under a different name and identity. Create a situation aspect to represent your cover story, and you can use Deceive in place of Rapport whenever interacting with that person.
 
 ---
 
-**SOCIAL SKILLS AND OTHER CHARACTERS**
+__SOCIAL SKILLS AND OTHER CHARACTERS__
 
 Many of the social skills have actions that let you change the emotional state of another character or make them accept some fact in the story (like believing one of your lies).
 
@@ -2063,7 +2063,7 @@ For example, a low-tech setting (like _Hearts of Steel_) might have Ride instea
 
 ---
 
-**DIFFERENT VEHICLES, DIFFERENT SKILLS**
+__DIFFERENT VEHICLES, DIFFERENT SKILLS__
 
 The advice is the same as for Crafts—don’t go nuts with reskinning this skill unless it makes a real, tangible difference in your game. Especially consider the option of having one skill that’s modified by stunts (see [Building Stunts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-76)).
 
@@ -2071,58 +2071,58 @@ The advice is the same as for Crafts—don’t go nuts with reskinning this skil
 
 
 
-**Overcome**: Drive is the equivalent of [Athletics](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-116) when you’re in a vehicle—you use it to successfully accomplish movement in the face of difficult circumstances, like rough terrain, small amounts of clearance, or stunt driving. Obviously, Drive is also ripe for contests, especially chases and races.**Create an Advantage:** You can use Drive to determine the best way to get somewhere in a vehicle, and a good enough roll might allow you to learn features of the route that get expressed as aspects, or declare that you know a Convenient Shortcut or something similar.******Create an Advantage:** You can use Drive to determine the best way to get somewhere in a vehicle, and a good enough roll might allow you to learn features of the route that get expressed as aspects, or declare that you know a Convenient Shortcut or something similar. You can also just read the Athletics description, and then make it about a vehicle. Advantages created using Drive often revolve around getting good positioning, doing a fancy maneuver (Did a Barrel Roll, anyone?), or putting your opponent in a bad spot.**Attack:** Drive isn’t usually used as an attack skill (though stunts can certainly alter this). If you want to ram a vehicle, you can attack with Drive, but you take the same shifts of harm you inflict.**Defend:** Avoiding damage to a vehicle in a physical conflict is one of the most common uses of Drive. You can also use it to defend against advantages being created against you or overcome actions of someone trying to move past you in a vehicle.#### Drive Stunts
+__Overcome__: Drive is the equivalent of [Athletics](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-116) when you’re in a vehicle—you use it to successfully accomplish movement in the face of difficult circumstances, like rough terrain, small amounts of clearance, or stunt driving. Obviously, Drive is also ripe for contests, especially chases and races.__Create an Advantage:__ You can use Drive to determine the best way to get somewhere in a vehicle, and a good enough roll might allow you to learn features of the route that get expressed as aspects, or declare that you know a Convenient Shortcut or something similar.______Create an Advantage:__ You can use Drive to determine the best way to get somewhere in a vehicle, and a good enough roll might allow you to learn features of the route that get expressed as aspects, or declare that you know a Convenient Shortcut or something similar. You can also just read the Athletics description, and then make it about a vehicle. Advantages created using Drive often revolve around getting good positioning, doing a fancy maneuver (Did a Barrel Roll, anyone?), or putting your opponent in a bad spot.__Attack:__ Drive isn’t usually used as an attack skill (though stunts can certainly alter this). If you want to ram a vehicle, you can attack with Drive, but you take the same shifts of harm you inflict.__Defend:__ Avoiding damage to a vehicle in a physical conflict is one of the most common uses of Drive. You can also use it to defend against advantages being created against you or overcome actions of someone trying to move past you in a vehicle.#### Drive Stunts
 
 
-- **Hard to Shake.** +2 to Drive whenever you’re pursuing another vehicle in a chase scene.
-- **Pedal to the Metal.** You can coax more speed out of your vehicle than seems possible. Whenever you’re engaged in any contest where speed is the primary factor (such as a chase or race of some kind) and you tie with your Drive roll, it’s considered a success.
-- **Ramming Speed!** When ramming another vehicle, you ignore two shifts of damage. So if you ram and hit for four shifts, you only take two yourself.
+- __Hard to Shake.__ +2 to Drive whenever you’re pursuing another vehicle in a chase scene.
+- __Pedal to the Metal.__ You can coax more speed out of your vehicle than seems possible. Whenever you’re engaged in any contest where speed is the primary factor (such as a chase or race of some kind) and you tie with your Drive roll, it’s considered a success.
+- __Ramming Speed!__ When ramming another vehicle, you ignore two shifts of damage. So if you ram and hit for four shifts, you only take two yourself.
 
 ### Empathy
 
 Empathy involves knowing and being able to spot changes in a person’s mood or bearing. It’s basically the emotional [Notice](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-108) skill.
 
-**Overcome:** You don’t really use Empathy to overcome obstacles directly—normally, you find out some information with it, and then use another skill to act. In some cases, though, you might use Empathy like you would Notice, to see if you catch a change in someone’s attitude or intent.
+__Overcome:__ You don’t really use Empathy to overcome obstacles directly—normally, you find out some information with it, and then use another skill to act. In some cases, though, you might use Empathy like you would Notice, to see if you catch a change in someone’s attitude or intent.
 
-**Cre****ate an Advantage:** You can use Empathy to read a person’s emotional state and get a general sense of who they are, presuming you have some kind of interpersonal contact with them. Most often, you’ll use this to assess the aspects on another character’s sheet, but sometimes you’ll also be able to create new aspects, especially on NPCs. If the target has some reason to be aware that you’re trying to read them, they can defend with Deceive or Rapport.
+__Cre____ate an Advantage:__ You can use Empathy to read a person’s emotional state and get a general sense of who they are, presuming you have some kind of interpersonal contact with them. Most often, you’ll use this to assess the aspects on another character’s sheet, but sometimes you’ll also be able to create new aspects, especially on NPCs. If the target has some reason to be aware that you’re trying to read them, they can defend with Deceive or Rapport.
 
-You can also use Empathy to discover what circumstances will allow you to make mental attacks on someone, figuring out their breaking points.**Attack:** Empathy can’t really be used in this capacity.
+You can also use Empathy to discover what circumstances will allow you to make mental attacks on someone, figuring out their breaking points.__Attack:__ Empathy can’t really be used in this capacity.
 
-**Defend:** This is the skill to go to in order to defend against Deceive actions, allowing you to pierce through lies and see through to someone’s true intent. You can also use it to defend against those creating social advantages against you in general.
+__Defend:__ This is the skill to go to in order to defend against Deceive actions, allowing you to pierce through lies and see through to someone’s true intent. You can also use it to defend against those creating social advantages against you in general.
 
-**Special:** Empathy is the main skill you use to help others [recover from consequences](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-102) that are mental in nature.
+__Special:__ Empathy is the main skill you use to help others [recover from consequences](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-102) that are mental in nature.
 
 #### Empathy Stunts
 
 
-- **Lie Whisperer.** +2 to all Empathy rolls made to discern or discover lies, whether they’re directed at you or someone else.
-- **Nose for Trouble.** You can use Empathy instead of Notice to determine your turn order in a conflict, provided you’ve gotten a chance to observe or speak to those involved for at least a few minutes beforehand during this scene.
-- **Psychologist.** Once per session you can reduce someone else’s consequence by one level of severity (severe to moderate, moderate to mild, mild to nothing at all) by succeeding on an Empathy roll with a difficulty of Fair (+2) for a mild consequence, Good (+3) for moderate, or Great (+4) for severe. You need to talk with the person you’re treating for at least half an hour in order for them to receive the benefits of this stunt, and you can’t use it on yourself. (Normally, this roll would only start the recovery process, instead of changing the consequence level.)
+- __Lie Whisperer.__ +2 to all Empathy rolls made to discern or discover lies, whether they’re directed at you or someone else.
+- __Nose for Trouble.__ You can use Empathy instead of Notice to determine your turn order in a conflict, provided you’ve gotten a chance to observe or speak to those involved for at least a few minutes beforehand during this scene.
+- __Psychologist.__ Once per session you can reduce someone else’s consequence by one level of severity (severe to moderate, moderate to mild, mild to nothing at all) by succeeding on an Empathy roll with a difficulty of Fair (+2) for a mild consequence, Good (+3) for moderate, or Great (+4) for severe. You need to talk with the person you’re treating for at least half an hour in order for them to receive the benefits of this stunt, and you can’t use it on yourself. (Normally, this roll would only start the recovery process, instead of changing the consequence level.)
 
 ### Fight
 
 The Fight skill covers all forms of close-quarters combat (in other words, within the same zone), both unarmed and using weapons. For the ranged weapons counterpart, see [Shoot](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-117).
 
-**Overcome:** Since you don’t really use Fight outside of a conflict, it’s not often used to overcome obstacles. You might use it to display your fighting prowess in a demonstration, or to participate in some kind of regulated bout or sport fighting, which would allow you to use this skill in a contest.
+__Overcome:__ Since you don’t really use Fight outside of a conflict, it’s not often used to overcome obstacles. You might use it to display your fighting prowess in a demonstration, or to participate in some kind of regulated bout or sport fighting, which would allow you to use this skill in a contest.
 
-**Create an Advantage:** You’ll probably use Fight for most of the advantages you create in a [physical conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-44). Any number of special moves can be covered with advantages: a targeted strike to stun, a “dirty move,” disarming, and so on. You could even use Fight to assess another fighter’s style, spotting weaknesses in his or her form that you can exploit.
+__Create an Advantage:__ You’ll probably use Fight for most of the advantages you create in a [physical conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-44). Any number of special moves can be covered with advantages: a targeted strike to stun, a “dirty move,” disarming, and so on. You could even use Fight to assess another fighter’s style, spotting weaknesses in his or her form that you can exploit.
 
-**Attack:** This is self-explanatory. You make physical attacks with Fight. Remember, this is for close-in work, so you have to be in the same [zone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) as your opponent
+__Attack:__ This is self-explanatory. You make physical attacks with Fight. Remember, this is for close-in work, so you have to be in the same [zone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) as your opponent
 
-**Defend:** You use Fight to defend against any other attack or create an advantage attempt made with Fight, as well as pretty much any action where violently interposing yourself could prevent it from happening. You can’t use this skill to defend against Shoot attacks, unless the setting is fantastical enough that you can catch missiles or swat them from the air or use laser swords to deflect blasters.
+__Defend:__ You use Fight to defend against any other attack or create an advantage attempt made with Fight, as well as pretty much any action where violently interposing yourself could prevent it from happening. You can’t use this skill to defend against Shoot attacks, unless the setting is fantastical enough that you can catch missiles or swat them from the air or use laser swords to deflect blasters.
 
 
 
 #### Fight Stunts
 
 
-- **Heavy Hitter.** When you succeed with style on a Fight attack and choose to reduce the result by one to gain a boost, you gain a full situation aspect with a free invocation instead.
-- **Backup Weapon.** Whenever someone’s about to hit you with a Disarmed situation aspect or something similar, spend a fate point to declare you have a backup weapon. Instead of a situation aspect, your opponent gets a boost, representing the momentary distraction you suffer having to switch.
-- **Killing Stroke.** Once per scene, when you force an opponent to take a consequence, you can spend a fate point to increase the consequence’s severity (so mild becomes moderate, moderate becomes severe). If your opponent was already going to take a severe consequence, he must either take a severe consequence _and_ a second consequence or be taken out.
+- __Heavy Hitter.__ When you succeed with style on a Fight attack and choose to reduce the result by one to gain a boost, you gain a full situation aspect with a free invocation instead.
+- __Backup Weapon.__ Whenever someone’s about to hit you with a Disarmed situation aspect or something similar, spend a fate point to declare you have a backup weapon. Instead of a situation aspect, your opponent gets a boost, representing the momentary distraction you suffer having to switch.
+- __Killing Stroke.__ Once per scene, when you force an opponent to take a consequence, you can spend a fate point to increase the consequence’s severity (so mild becomes moderate, moderate becomes severe). If your opponent was already going to take a severe consequence, he must either take a severe consequence _and_ a second consequence or be taken out.
 
 ---
 
-**THE ART(S) OF FIGHTING**
+__THE ART(S) OF FIGHTING__
 
 It’s a given that most games that you play with Fate will feature a decent amount of action and physical conflict. This is another area of emphasis, like with the Crafts skill, where the skills you choose to have for combat speak volumes on what your game’s about.
 
@@ -2136,20 +2136,20 @@ You could specialize even further if you wanted different classes of weapons to 
 
 Investigate is the skill you use to find things out. It’s a counterpart to Notice—whereas [Notice](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-108) revolves around situational alertness and surface observation, Investigate revolves around concentrated effort and in-depth scrutiny.
 
-**Overcome:** Investigate obstacles are all about information that’s hard to uncover for some reason. Analyzing a crime scene for clues, searching a cluttered room for the item you need, even poring over a musty old tome to try and find the passage that makes everything make sense.
+__Overcome:__ Investigate obstacles are all about information that’s hard to uncover for some reason. Analyzing a crime scene for clues, searching a cluttered room for the item you need, even poring over a musty old tome to try and find the passage that makes everything make sense.
 
-Racing against the clock to collect evidence before the cops show up or disaster occurs is a classic way to use Investigate in a [challenge](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66).**Create an Advantage:** Investigate is probably one of the most versatile skills you can use to create an advantage. As long as you’re willing to take the time, you can find out just about anything about anyone, discover nearly any detail about a place or object, or otherwise make up aspects about nearly anything in the game world that your character could reasonably unearth.
+Racing against the clock to collect evidence before the cops show up or disaster occurs is a classic way to use Investigate in a [challenge](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66).__Create an Advantage:__ Investigate is probably one of the most versatile skills you can use to create an advantage. As long as you’re willing to take the time, you can find out just about anything about anyone, discover nearly any detail about a place or object, or otherwise make up aspects about nearly anything in the game world that your character could reasonably unearth.
 
-If that sounds broad, consider the following as just a few of the possibilities for using Investigate: eavesdropping on a conversation, looking for clues at a crime scene, examining records, verifying the truth of a piece of information, conducting surveillance, and researching a cover story.**Attack:** Investigate isn’t used to make attacks.
+If that sounds broad, consider the following as just a few of the possibilities for using Investigate: eavesdropping on a conversation, looking for clues at a crime scene, examining records, verifying the truth of a piece of information, conducting surveillance, and researching a cover story.__Attack:__ Investigate isn’t used to make attacks.
 
-**Defend:** Same here.
+__Defend:__ Same here.
 
 #### Investigate Stunts
 
 
-- **Attention to Detail.** You can use Investigate instead of Empathy to defend against Deceive attempts. What others discover through gut reactions and intuition, you learn through careful observation of microexpressions.
-- **Eavesdropper.** On a successful Investigate roll to create an advantage by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn’t give you an extra free invocation).
-- **The Power of Deduction.** Once per scene you can spend a fate point (and a few minutes of observation) to make a special Investigate roll representing your potent deductive faculties. For _each_ shift you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.
+- __Attention to Detail.__ You can use Investigate instead of Empathy to defend against Deceive attempts. What others discover through gut reactions and intuition, you learn through careful observation of microexpressions.
+- __Eavesdropper.__ On a successful Investigate roll to create an advantage by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn’t give you an extra free invocation).
+- __The Power of Deduction.__ Once per scene you can spend a fate point (and a few minutes of observation) to make a special Investigate roll representing your potent deductive faculties. For _each_ shift you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.
 
 ### Lore
 
@@ -2157,41 +2157,41 @@ The Lore skill is about knowledge and education. As with some other skills, we c
 
 If your game has a reason to prioritize different fields of knowledge as being separate from one another, you might have several skills that follow the same basic template. For example, you might have a Lore skill that’s reserved for supernatural and arcane knowledge, and a Scholar skill for more traditional education.
 
-**Overcome:** You can use Lore to overcome any obstacle that requires applying your character’s knowledge to achieve a goal. For example, you might roll Lore to decipher some ancient language on a tomb wall, under the presumption that your character might have researched it at some point.
+__Overcome:__ You can use Lore to overcome any obstacle that requires applying your character’s knowledge to achieve a goal. For example, you might roll Lore to decipher some ancient language on a tomb wall, under the presumption that your character might have researched it at some point.
 
-Frankly, you can use Lore as a go-to skill any time you need to know if your character can answer a difficult question, where some tension exists in not knowing the answer.**Create an Advantage:** Like Investigate, Lore provides a lot of very flexible opportunities to create advantages, provided you can research the subject in question. More often than not, you’ll be using Lore to get a story detail, some obscure bit of information that you uncover or know already, but if that information gives you an edge in a future scene, it might take the form of an aspect. Likewise, you can use Lore to create advantages based on any subject matter your character might have studied, which gives you a fun way to add details to the setting.
+Frankly, you can use Lore as a go-to skill any time you need to know if your character can answer a difficult question, where some tension exists in not knowing the answer.__Create an Advantage:__ Like Investigate, Lore provides a lot of very flexible opportunities to create advantages, provided you can research the subject in question. More often than not, you’ll be using Lore to get a story detail, some obscure bit of information that you uncover or know already, but if that information gives you an edge in a future scene, it might take the form of an aspect. Likewise, you can use Lore to create advantages based on any subject matter your character might have studied, which gives you a fun way to add details to the setting.
 
-**Attack:** Lore isn’t used in conflicts.
+__Attack:__ Lore isn’t used in conflicts.
 
-(In our examples, the magic that Zird the Arcane uses is based on Lore, so that’s a unique exception to this—he could conceivably use Lore for magical attacks and defenses. See the [_Extras_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#EXTRAS) chapter for more details about ways to do magic and powers.)**Defend:** Lore isn’t used to defend.
+(In our examples, the magic that Zird the Arcane uses is based on Lore, so that’s a unique exception to this—he could conceivably use Lore for magical attacks and defenses. See the [_Extras_](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#EXTRAS) chapter for more details about ways to do magic and powers.)__Defend:__ Lore isn’t used to defend.
 
 
 
 #### Lore Stunts
 
 
-- **I’ve Read about That!** You’ve read hundreds—if not thousands—of books on a wide variety of topics. You can spend a fate point to use Lore in place of _any other skill_ for one roll or exchange, provided you can justify having read about the action you’re attempting.
-- **Shield of Reason.** You can use Lore as a defense against Provoke attempts, provided you can justify your ability to overcome your fear through rational thought and reason.
-- **Specialist.** Choose a field of specialization, such as herbology, criminology, or zoology. You get a +2 to all Lore rolls relating to that field of specialization.
+- __I’ve Read about That!__ You’ve read hundreds—if not thousands—of books on a wide variety of topics. You can spend a fate point to use Lore in place of _any other skill_ for one roll or exchange, provided you can justify having read about the action you’re attempting.
+- __Shield of Reason.__ You can use Lore as a defense against Provoke attempts, provided you can justify your ability to overcome your fear through rational thought and reason.
+- __Specialist.__ Choose a field of specialization, such as herbology, criminology, or zoology. You get a +2 to all Lore rolls relating to that field of specialization.
 
 ### Notice
 
 The Notice skill involves just that—noticing things. It’s a counterpart to [Investigate](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-111), representing a character’s overall perception, ability to pick out details at a glance, and other powers of observation. Usually, when you use Notice, it’s very quick compared to Investigate, so the kinds of details you get from it are more superficial, but you also don’t have to expend as much effort to find them.
 
-**Overcome: **You don’t really use Notice to overcome obstacles too often but when you do it’s used in a reactive way: noticing something in a scene, hearing a faint sound, spotting the concealed gun in that guy’s waistband.
+__Overcome: __You don’t really use Notice to overcome obstacles too often but when you do it’s used in a reactive way: noticing something in a scene, hearing a faint sound, spotting the concealed gun in that guy’s waistband.
 
-Note that this isn’t license for GMs to call for Notice rolls left and right to see how generally observant the players’ characters are; that’s boring. Instead, call for Notice rolls when succeeding would result in something interesting happening and failing would result in something just as interesting.**Create an Advantage:** You use Notice to create aspects based on direct observation—looking over a room for details that stand out, finding an escape route in a debris-filled building, noticing someone sticking out in a crowd, etc. When you’re watching people, Notice can tell you what’s going on with them _externally_; for internal changes, see Empathy. You might also use Notice to declare that your character spots something you can use to your advantage in a situation, such as a convenient Escape Route when you’re trying to get out of a building, or a Subtle Weakness in the enemy’s line of defense. For example, if you’re in a barroom brawl you could make a Notice roll to say that you spot a puddle on the floor, right next to your opponent’s feet that could cause him to slip.
+Note that this isn’t license for GMs to call for Notice rolls left and right to see how generally observant the players’ characters are; that’s boring. Instead, call for Notice rolls when succeeding would result in something interesting happening and failing would result in something just as interesting.__Create an Advantage:__ You use Notice to create aspects based on direct observation—looking over a room for details that stand out, finding an escape route in a debris-filled building, noticing someone sticking out in a crowd, etc. When you’re watching people, Notice can tell you what’s going on with them _externally_; for internal changes, see Empathy. You might also use Notice to declare that your character spots something you can use to your advantage in a situation, such as a convenient Escape Route when you’re trying to get out of a building, or a Subtle Weakness in the enemy’s line of defense. For example, if you’re in a barroom brawl you could make a Notice roll to say that you spot a puddle on the floor, right next to your opponent’s feet that could cause him to slip.
 
-**Attack:** Notice isn’t really used for attacks.
+__Attack:__ Notice isn’t really used for attacks.
 
-**Defend:** You can use Notice to defend against any uses of Stealth to get the drop on you or ambush you, or to discover that you’re being observed.
+__Defend:__ You can use Notice to defend against any uses of Stealth to get the drop on you or ambush you, or to discover that you’re being observed.
 
 #### Notice Stunts
 
 
-- **Danger Sense.** You have an almost preternatural capacity for detecting danger. Your Notice skill works unimpeded by conditions like total concealment, darkness, or other sensory impairments in situations where someone or something intends to harm you.
-- **Body Language Reader.** You can use Notice in place of Empathy to learn the aspects of a target through observation.
-- **Reactive Shot.** You can use Notice instead of Shoot to make quick, reactive shots that don’t involve a lot of aiming. However, because you’re having a knee-jerk reaction, you’re not allowed to concretely identify your target before using this stunt. So, for example, you might be able to shoot at someone you see moving in the bushes with this stunt, but you won’t be able to tell if it’s friend or foe before you pull the trigger. Choose carefully!
+- __Danger Sense.__ You have an almost preternatural capacity for detecting danger. Your Notice skill works unimpeded by conditions like total concealment, darkness, or other sensory impairments in situations where someone or something intends to harm you.
+- __Body Language Reader.__ You can use Notice in place of Empathy to learn the aspects of a target through observation.
+- __Reactive Shot.__ You can use Notice instead of Shoot to make quick, reactive shots that don’t involve a lot of aiming. However, because you’re having a knee-jerk reaction, you’re not allowed to concretely identify your target before using this stunt. So, for example, you might be able to shoot at someone you see moving in the bushes with this stunt, but you won’t be able to tell if it’s friend or foe before you pull the trigger. Choose carefully!
 
 ### Physique
 
@@ -2199,24 +2199,24 @@ The Physique skill is a counterpart to Athletics, representing the character’s
 
 In your game, you might not find this distinction necessary to make with separate skills—though you might still let players make that distinction with stunts and aspects.
 
-**Overcome:** You can use Physique to [overcome any obstacles](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) that require the application of brute force—most often to overcome a situation aspect on a zone—or any other physical impedance, like prison bars or locked gates. Of course, Physique is the classic skill for arm-wrestling matches and [other contests](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-125) of applied strength, as well as marathons or other endurance-based [challenges](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66).
+__Overcome:__ You can use Physique to [overcome any obstacles](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) that require the application of brute force—most often to overcome a situation aspect on a zone—or any other physical impedance, like prison bars or locked gates. Of course, Physique is the classic skill for arm-wrestling matches and [other contests](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-125) of applied strength, as well as marathons or other endurance-based [challenges](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-66).
 
-**Create an Advantage:** Physique has a lot of potential for advantages in physical conflict, usually related to grappling and holding someone in place, making them Pinned or Locked Down. You might also use it as a way of discovering physical impairments possessed by the target—grappling the old mercenary tells you that he has a Bum Leg or somesuch.
+__Create an Advantage:__ Physique has a lot of potential for advantages in physical conflict, usually related to grappling and holding someone in place, making them Pinned or Locked Down. You might also use it as a way of discovering physical impairments possessed by the target—grappling the old mercenary tells you that he has a Bum Leg or somesuch.
 
-**Attack:** Physique is not used to harm people directly—see the Fight skill for that.
+__Attack:__ Physique is not used to harm people directly—see the Fight skill for that.
 
-**Defend:** Though you don’t generally use Physique to defend against attacks, you can use it to provide active opposition to someone else’s movement, provided you’re in a small enough space that you can effectively use your body to block access. You might also interpose something heavy and brace it to stop someone from getting through.
+__Defend:__ Though you don’t generally use Physique to defend against attacks, you can use it to provide active opposition to someone else’s movement, provided you’re in a small enough space that you can effectively use your body to block access. You might also interpose something heavy and brace it to stop someone from getting through.
 
 
 
-**Special:** The Physique skill gives you additional physical [stress or consequence slots](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-41). Average (+1) or Fair (+2) gives you a 3-point stress box. Good (+3) or Great (+4) gives you a 3-point and a 4-point stress box. Superb (+5)and above give you an additional mild consequence slot along with the additional stress boxes. This slot can only be used for physical harm.
+__Special:__ The Physique skill gives you additional physical [stress or consequence slots](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-41). Average (+1) or Fair (+2) gives you a 3-point stress box. Good (+3) or Great (+4) gives you a 3-point and a 4-point stress box. Superb (+5)and above give you an additional mild consequence slot along with the additional stress boxes. This slot can only be used for physical harm.
 
 #### Physique Stunts
 
 
-- **Grappler.** +2 to Physique rolls made to create advantages on an enemy by wrestling or grappling with them.
-- **Take the Blow.** You can use Physique to defend against Fight attacks made with fists or blunt instruments, though you always take 1 shift of stress on a tie.
-- **Tough as Nails.** Once per session, at the cost of a fate point, you can reduce the severity of a moderate consequence that’s physical in nature to a mild consequence (if your mild consequence slot is free), or erase a mild consequence altogether.
+- __Grappler.__ +2 to Physique rolls made to create advantages on an enemy by wrestling or grappling with them.
+- __Take the Blow.__ You can use Physique to defend against Fight attacks made with fists or blunt instruments, though you always take 1 shift of stress on a tie.
+- __Tough as Nails.__ Once per session, at the cost of a fate point, you can reduce the severity of a moderate consequence that’s physical in nature to a mild consequence (if your mild consequence slot is free), or erase a mild consequence altogether.
 
 ### Provoke
 
@@ -2226,43 +2226,43 @@ To use Provoke, you need some kind of justification. That could come entirely fr
 
 This skill requires that your target can feel emotions—robots and zombies typically can’t be provoked.
 
-**Overcome:** You can Provoke someone into doing what you want in a fit of emotional pique. You might intimidate them for information, piss them off so badly that they act out, or scare them into running away. This will often happen when you’re going up against [nameless NPCs](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-119) or it isn’t worthwhile to play out the particulars. Against PCs or important NPCs, you’ll need to win a contest. They oppose with Will.
+__Overcome:__ You can Provoke someone into doing what you want in a fit of emotional pique. You might intimidate them for information, piss them off so badly that they act out, or scare them into running away. This will often happen when you’re going up against [nameless NPCs](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-119) or it isn’t worthwhile to play out the particulars. Against PCs or important NPCs, you’ll need to win a contest. They oppose with Will.
 
-**Create an Advantage:** You can create advantages representing momentary emotional states, like Enraged, Shocked, or Hesitant. Your target opposes with Will.
+__Create an Advantage:__ You can create advantages representing momentary emotional states, like Enraged, Shocked, or Hesitant. Your target opposes with Will.
 
-**Attack:** You can make mental attacks with Provoke, to do emotional harm to an opponent. Your relationship with the target and the circumstances you’re in figure a great deal into whether or not you can use this action.
+__Attack:__ You can make mental attacks with Provoke, to do emotional harm to an opponent. Your relationship with the target and the circumstances you’re in figure a great deal into whether or not you can use this action.
 
-**Defend:** Being good at provoking others doesn’t make you better at avoiding it yourself. You need Will for that.
+__Defend:__ Being good at provoking others doesn’t make you better at avoiding it yourself. You need Will for that.
 
 
 
 #### Provoke Stunts
 
 
-- **Armor of Fear.** You can use Provoke to defend against Fight attacks, but only until the first time you’re dealt stress in a conflict. You can make your opponents hesitate to attack, but when someone shows them that you’re only human your advantage disappears.
-- **Provoke Violence.** When you create an advantage on an opponent using Provoke, you can use your free invocation to become the target of that character’s next relevant action, drawing their attention away from another target.
-- **Okay, Fine!** You can use Provoke in place of Empathy to learn a target’s aspects, by bullying them until they reveal one to you. The target defends against this with Will. (If the GM thinks the aspect is particularly vulnerable to your hostile approach, you get a +2 bonus.)
+- __Armor of Fear.__ You can use Provoke to defend against Fight attacks, but only until the first time you’re dealt stress in a conflict. You can make your opponents hesitate to attack, but when someone shows them that you’re only human your advantage disappears.
+- __Provoke Violence.__ When you create an advantage on an opponent using Provoke, you can use your free invocation to become the target of that character’s next relevant action, drawing their attention away from another target.
+- __Okay, Fine!__ You can use Provoke in place of Empathy to learn a target’s aspects, by bullying them until they reveal one to you. The target defends against this with Will. (If the GM thinks the aspect is particularly vulnerable to your hostile approach, you get a +2 bonus.)
 
 ### Rapport
 
 The Rapport skill is all about making positive connections to people and eliciting positive emotion. It’s the skill of being liked and trusted.
 
-**Overcome:** Use Rapport to charm or inspire people to do what you want, or to establish a good connection with them. Charm your way past the guard, convince someone to take you into their confidence, or become the man of the hour at the local tavern. For nameless NPCs, this is just an overcome action, but you may have to enter a contest to sufficiently ingratiate yourself to a named NPC or PC.
+__Overcome:__ Use Rapport to charm or inspire people to do what you want, or to establish a good connection with them. Charm your way past the guard, convince someone to take you into their confidence, or become the man of the hour at the local tavern. For nameless NPCs, this is just an overcome action, but you may have to enter a contest to sufficiently ingratiate yourself to a named NPC or PC.
 
-**Create an Advantage:** Use Rapport to establish a positive mood on a target or in a scene or to get someone to confide in you out of a genuine sense of trust. You could pep talk someone into having Elevated Confidence, or stir a crowd into a Joyful Fervor, or simply make someone Talkative or Helpful.
+__Create an Advantage:__ Use Rapport to establish a positive mood on a target or in a scene or to get someone to confide in you out of a genuine sense of trust. You could pep talk someone into having Elevated Confidence, or stir a crowd into a Joyful Fervor, or simply make someone Talkative or Helpful.
 
-**Attack:** Rapport doesn’t cause harm, so you don’t use it for attacks.
+__Attack:__ Rapport doesn’t cause harm, so you don’t use it for attacks.
 
-**Defend:** Rapport defends against any skill used to damage your reputation, sour a mood you’ve created, or make you look bad in front of other people. It does not, however, defend against mental attacks. That requires [Will](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-60).
+__Defend:__ Rapport defends against any skill used to damage your reputation, sour a mood you’ve created, or make you look bad in front of other people. It does not, however, defend against mental attacks. That requires [Will](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-60).
 
 
 
 #### Rapport Stunts
 
 
-- **Best Foot Forward.** Twice per session, you may upgrade a boost you receive with Rapport into a full situation aspect with a free invocation.
-- **Demagogue.** +2 to Rapport when you’re delivering an inspiring speech in front of a crowd. (If there are named NPCs or PCs in the scene, [you may target them](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-133) all simultaneously with one roll rather than dividing up your shifts.)
-- **Popular.** If you’re in an area where you’re popular and well-liked, you can use Rapport in place of Contacts. You may be able to establish your popularity by spending a fate point to declare a story detail, or because of prior justification.
+- __Best Foot Forward.__ Twice per session, you may upgrade a boost you receive with Rapport into a full situation aspect with a free invocation.
+- __Demagogue.__ +2 to Rapport when you’re delivering an inspiring speech in front of a crowd. (If there are named NPCs or PCs in the scene, [you may target them](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-133) all simultaneously with one roll rather than dividing up your shifts.)
+- __Popular.__ If you’re in an area where you’re popular and well-liked, you can use Rapport in place of Contacts. You may be able to establish your popularity by spending a fate point to declare a story detail, or because of prior justification.
 
 ### Resources
 
@@ -2270,26 +2270,26 @@ Resources describes your character’s general level of material wealth in the g
 
 This skill is in the default list to give you a basic, easy way to handle wealth as an abstraction without getting into minutiae or bookkeeping. Some people might consider it odd to give a static skill rating for something that we’re used to seeing as a finite resource. If that bothers you, [see this sidebar](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-155) for ways to limit Resources.
 
-**Overcome:** You can use Resources to get yourself out of or past any situation where throwing money at the problem will help, such as committing bribery or acquiring rare and expensive things. Challenges or contests might involve auctions or bidding wars.
+__Overcome:__ You can use Resources to get yourself out of or past any situation where throwing money at the problem will help, such as committing bribery or acquiring rare and expensive things. Challenges or contests might involve auctions or bidding wars.
 
-**Create an Advantage:** You might use Resources to grease the wheels and make people more friendly, whether that represents an actual bribe (I Scratch Your Back...) or simply buying drinks for people (In Vino Veritas). You can also use Resources to declare that you have something you need on hand, or can quickly acquire it, which could give you an aspect representing the object.
+__Create an Advantage:__ You might use Resources to grease the wheels and make people more friendly, whether that represents an actual bribe (I Scratch Your Back...) or simply buying drinks for people (In Vino Veritas). You can also use Resources to declare that you have something you need on hand, or can quickly acquire it, which could give you an aspect representing the object.
 
-**Attack:** Resources isn’t used for attacks.
+__Attack:__ Resources isn’t used for attacks.
 
-**Defend:** Resources isn’t used to defend.
+__Defend:__ Resources isn’t used to defend.
 
 
 
 #### Resources Stunts
 
 
-- **Money Talks.** You can use Resources instead of Rapport in any situation where ostentatious displays of material wealth might aid your cause.
-- **Savvy Investor.** You get an additional free invoke when you create advantages with Resources, provided that they describe a monetary return on an investment you made in a previous session. (In other words, you can’t retroactively declare that you did it, but if it happened in the course of play, you get higher returns.)
-- **Trust Fund Baby.** Twice per session, you may take a boost representing a windfall or influx of cash.
+- __Money Talks.__ You can use Resources instead of Rapport in any situation where ostentatious displays of material wealth might aid your cause.
+- __Savvy Investor.__ You get an additional free invoke when you create advantages with Resources, provided that they describe a monetary return on an investment you made in a previous session. (In other words, you can’t retroactively declare that you did it, but if it happened in the course of play, you get higher returns.)
+- __Trust Fund Baby.__ Twice per session, you may take a boost representing a windfall or influx of cash.
 
 ---
 
-**LIMITING RESOURCES**
+__LIMITING RESOURCES__
 
 If someone is using the Resources skill a bit too often, or you just want to represent how continually tapping into your source of wealth provides diminishing returns, you can try one of the following ideas:
 
@@ -2307,72 +2307,72 @@ The counterpart to [Fight](http://www.faterpg.com/wp-content/uploads/2013/06/Fa
 
 Again, as with Fight, if it’s important to your setting to make a distinction between different types of ranged weaponry, you might separate this out into skills like Bows, Guns, Energy Weapons, etc. Don’t go nuts with this unless it’s key to your game.
 
-**Overcome:** Unless, for some reason, you need to demonstrate your Shoot ability in a non-conflict situation, you probably won’t be using this skill for normal obstacles much. Obviously, contests involving Shoot are a popular staple of adventure fiction, and we recommend you look for the opportunity to have them if you have a character who specializes in this.
+__Overcome:__ Unless, for some reason, you need to demonstrate your Shoot ability in a non-conflict situation, you probably won’t be using this skill for normal obstacles much. Obviously, contests involving Shoot are a popular staple of adventure fiction, and we recommend you look for the opportunity to have them if you have a character who specializes in this.
 
-**Create an Advantage:** In physical conflicts, Shoot can be used to perform a wide variety of moves, like trick shots, keeping someone under heavy fire, and the like. In cinematic games, you might even be able to disarm people and pin their sleeves to walls—pretty much anything you’ve seen in an action movie. You could also make the argument for creating aspects based on your knowledge of guns (like placing a Prone to Jams aspect on an opponent’s gun).
+__Create an Advantage:__ In physical conflicts, Shoot can be used to perform a wide variety of moves, like trick shots, keeping someone under heavy fire, and the like. In cinematic games, you might even be able to disarm people and pin their sleeves to walls—pretty much anything you’ve seen in an action movie. You could also make the argument for creating aspects based on your knowledge of guns (like placing a Prone to Jams aspect on an opponent’s gun).
 
-**Attack:** This skill makes physical attacks. You can make them from up to [two zones](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) away, unlike with Fight. (Sometimes the range will change with the weapon.)
+__Attack:__ This skill makes physical attacks. You can make them from up to [two zones](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) away, unlike with Fight. (Sometimes the range will change with the weapon.)
 
-**Defend:** Shoot is unique in that it doesn’t really have a defense component to it—you’d use Athletics for that. You _could_ use it to lay down some covering fire—which might act as a defense for your allies or provide opposition to someone else’s movement—though it could just as easily be represented by creating an advantage (Covering Fire or Hail of Bullets, for example).
+__Defend:__ Shoot is unique in that it doesn’t really have a defense component to it—you’d use Athletics for that. You _could_ use it to lay down some covering fire—which might act as a defense for your allies or provide opposition to someone else’s movement—though it could just as easily be represented by creating an advantage (Covering Fire or Hail of Bullets, for example).
 
 
 
 #### Shoot Stunts
 
 
-- **Called Shot.** During a Shoot attack, spend a fate point and declare a specific condition you want to inflict on a target, like Shot in the Hand. If you succeed, you place that as a situation aspect on them in addition to hitting them for stress.
-- **Quick on the Draw.** You can use Shoot instead of Notice to determine turn order in any physical conflict where shooting quickly would be useful.
-- **Uncanny Accuracy.** Once per conflict, stack an additional free invoke on an advantage you’ve created to represent the time you take to aim or line up a shot (like In My Sights).
+- __Called Shot.__ During a Shoot attack, spend a fate point and declare a specific condition you want to inflict on a target, like Shot in the Hand. If you succeed, you place that as a situation aspect on them in addition to hitting them for stress.
+- __Quick on the Draw.__ You can use Shoot instead of Notice to determine turn order in any physical conflict where shooting quickly would be useful.
+- __Uncanny Accuracy.__ Once per conflict, stack an additional free invoke on an advantage you’ve created to represent the time you take to aim or line up a shot (like In My Sights).
 
 ### Stealth
 
 The Stealth skill allows you to avoid detection, both when hiding in place and trying to move about unseen. It pairs well with the [Burglary](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-114) skill.
 
-**Overcome:** You can use Stealth to get past any situation that primarily depends on you not being seen. Sneaking past sentries and security, hiding from a pursuer, avoiding leaving evidence as you pass through a place, and any other such uses all fall under the purview of Stealth.
+__Overcome:__ You can use Stealth to get past any situation that primarily depends on you not being seen. Sneaking past sentries and security, hiding from a pursuer, avoiding leaving evidence as you pass through a place, and any other such uses all fall under the purview of Stealth.
 
-**Create an Advantage:** You’ll mainly use Stealth to create aspects on yourself, setting yourself in an ideal position for an attack or ambush in a conflict. That way, you can be Well-Hidden when the guards pass by and take advantage of that, or Hard to Pin Down if you’re fighting in the dark.
+__Create an Advantage:__ You’ll mainly use Stealth to create aspects on yourself, setting yourself in an ideal position for an attack or ambush in a conflict. That way, you can be Well-Hidden when the guards pass by and take advantage of that, or Hard to Pin Down if you’re fighting in the dark.
 
-**Attack:** Stealth isn’t used to make attacks.
+__Attack:__ Stealth isn’t used to make attacks.
 
-**Defend:** You can use this to foil Notice attempts to pinpoint you or seek you out, as well as to try to throw off the scent of an Investigate attempt from someone trying to track you.
+__Defend:__ You can use this to foil Notice attempts to pinpoint you or seek you out, as well as to try to throw off the scent of an Investigate attempt from someone trying to track you.
 
 
 
 #### Stealth Stunts
 
 
-- **Face in the Crowd.** +2 to any Stealth roll to blend into a crowd. What a “crowd” means will depend on the environment—a subway station requires more people to be crowded than a small bar.
-- **Ninja Vanish.** Once per scene, you can vanish while in plain sight by spending a fate point, using a smoke pellet or other mysterious technique. This places the Vanished boost on you. While you’re vanished, no one can attack or create an advantage on you until after they’ve succeeded at an overcome roll with Notice to suss out where you went (basically meaning they have to give up an exchange to try). This aspect goes away as soon as you invoke it, or someone makes that overcome roll.
-- **Slippery Target.** Provided you’re in darkness or shadow, you can use Stealth to defend against Shoot attacks from enemies that are at least [one zone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) away.
+- __Face in the Crowd.__ +2 to any Stealth roll to blend into a crowd. What a “crowd” means will depend on the environment—a subway station requires more people to be crowded than a small bar.
+- __Ninja Vanish.__ Once per scene, you can vanish while in plain sight by spending a fate point, using a smoke pellet or other mysterious technique. This places the Vanished boost on you. While you’re vanished, no one can attack or create an advantage on you until after they’ve succeeded at an overcome roll with Notice to suss out where you went (basically meaning they have to give up an exchange to try). This aspect goes away as soon as you invoke it, or someone makes that overcome roll.
+- __Slippery Target.__ Provided you’re in darkness or shadow, you can use Stealth to defend against Shoot attacks from enemies that are at least [one zone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-139) away.
 
 ### Will
 
 The Will skill represents your character’s general level of mental fortitude, the same way that [Physique](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-59) represents your physical fortitude.
 
-**Overcome:** You can use Will to pit yourself against obstacles that require mental effort. Puzzles and riddles can fall under this category, as well as any mentally absorbing task, like deciphering a code. Use Will when it’s only a matter of time before you overcome the mental challenge, and [Lore](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-120) if it takes something more than brute mental force to get past it. Many of the obstacles that you go up against with Will might be made part of challenges, to reflect the effort involved.
+__Overcome:__ You can use Will to pit yourself against obstacles that require mental effort. Puzzles and riddles can fall under this category, as well as any mentally absorbing task, like deciphering a code. Use Will when it’s only a matter of time before you overcome the mental challenge, and [Lore](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-120) if it takes something more than brute mental force to get past it. Many of the obstacles that you go up against with Will might be made part of challenges, to reflect the effort involved.
 
-Contests of Will might reflect particularly challenging games, like chess, or competing in a hard set of exams. In settings where magic or psychic abilities are common, contests of Will are popular occurrences.**Create an Advantage:** You can use Will to place aspects on yourself, representing a state of deep concentration or focus.
+Contests of Will might reflect particularly challenging games, like chess, or competing in a hard set of exams. In settings where magic or psychic abilities are common, contests of Will are popular occurrences.__Create an Advantage:__ You can use Will to place aspects on yourself, representing a state of deep concentration or focus.
 
-**Attack:** Will isn’t really used for attacks. That said, in settings where you allow psychic abilities, full-on psychic conflict might be something you can do with this skill. [That’s the sort of thing that would be added to Will by taking a stunt or extra](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-121).
+__Attack:__ Will isn’t really used for attacks. That said, in settings where you allow psychic abilities, full-on psychic conflict might be something you can do with this skill. [That’s the sort of thing that would be added to Will by taking a stunt or extra](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-121).
 
-**Defend:** Will is the main skill you use to defend against mental attacks from Provoke, representing your control over your reactions.
+__Defend:__ Will is the main skill you use to defend against mental attacks from Provoke, representing your control over your reactions.
 
-**Special:** The Will skill gives you additional mental [stress boxes or consequence slots](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-41). Average (+1) or Fair (+2) gives you a 3-point stress box. Good (+3) or Great (+4) gives you a 3-point and a 4-point stress box. Superb (+5) and above give you an additional mild consequence slot along with the additional stress boxes. This slot can only be used for mental harm.
+__Special:__ The Will skill gives you additional mental [stress boxes or consequence slots](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-41). Average (+1) or Fair (+2) gives you a 3-point stress box. Good (+3) or Great (+4) gives you a 3-point and a 4-point stress box. Superb (+5) and above give you an additional mild consequence slot along with the additional stress boxes. This slot can only be used for mental harm.
 
 #### Will Stunts
 
 
-- **Strength From Determination.** Use Will instead of Physique on any overcome rolls representing feats of strength.
-- **Hard Boiled.** You can choose to ignore a mild or moderate consequence for the duration of the scene. It can’t be compelled against you or invoked by your enemies. At the end of the scene it comes back worse, though; if it was a mild consequence it becomes a moderate consequence, and if it was already moderate, it becomes severe.
-- **Indomitable.** +2 to defend against Provoke attacks specifically related to intimidation and fear.
+- __Strength From Determination.__ Use Will instead of Physique on any overcome rolls representing feats of strength.
+- __Hard Boiled.__ You can choose to ignore a mild or moderate consequence for the duration of the scene. It can’t be compelled against you or invoked by your enemies. At the end of the scene it comes back worse, though; if it was a mild consequence it becomes a moderate consequence, and if it was already moderate, it becomes severe.
+- __Indomitable.__ +2 to defend against Provoke attacks specifically related to intimidation and fear.
 
-**6**
+__6__
 
 # ACTIONS AND OUTCOMES
 
 ## IT’S TIME FOR ACTION!
 
-**You roll the dice when there’s some kind of interesting opposition keeping you from achieving your goals.** If there’s no interesting opposition, you just accomplish whatever you say you’re trying to do.
+__You roll the dice when there’s some kind of interesting opposition keeping you from achieving your goals.__ If there’s no interesting opposition, you just accomplish whatever you say you’re trying to do.
 
 As we’ve said in prior chapters, characters in a Fate game solve their problems proactively. Players, during the game you’re going to do a lot—you might break into the bad guy’s fortress, pilot a starship past a minefield, rally a group of people into a protest, or poll a network of informants to get the latest word on the street.
 
@@ -2415,7 +2415,7 @@ As we said in The Basics, whenever you roll the dice, you’re comparing your r
 
 ---
 
-**FOR THE GM: ACTIVE OR PASSIVE?**
+__FOR THE GM: ACTIVE OR PASSIVE?__
 
 If a PC or a named NPC can reasonably interfere with whatever the action is, then you should give them the opportunity to roll active opposition. _This does not count as an action for the opposing character; it’s just a basic property of resolving actions_. In other words, a player doesn’t have to do anything special to earn the right to actively oppose an action, as long as the character is present and can interfere. If there’s any doubt, having an appropriate situation aspect helps justify why a character gets to actively oppose someone else.
 
@@ -2427,31 +2427,31 @@ Sometimes you’re going to run into edge cases, where something inanimate seems
 
 ## THE FOUR OUTCOMES
 
-**When you roll the dice, either you’re going to fail, tie, succeed, or succeed with style.**
+__When you roll the dice, either you’re going to fail, tie, succeed, or succeed with style.__
 
 Every roll you make in a Fate game results in one of four outcomes, generally speaking. The specifics may change a little depending on what kind of [action you’re taking](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-14), but all the game actions fit this general pattern.
 
 ### Fail
 
-**If you roll lower than your opposition, you****fail.**
+__If you roll lower than your opposition, you____fail.__
 
 This means one of several things: you don’t get what you want, you get what you want at a [serious cost](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-79), or you suffer some negative mechanical consequence. Sometimes, it means more than one of those. It’s the GM’s job to determine an appropriate cost. (See this [box](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#cost).)
 
 ### Tie
 
-**If you roll the same as your opposition, you****tie.**
+__If you roll the same as your opposition, you____tie.__
 
 This means you get what you want, but at a minor cost, or you get a lesser version of what you wanted.
 
 ### Succeed
 
-**If you roll higher than your opposition by 1 or 2 shifts, you****succeed.**
+__If you roll higher than your opposition by 1 or 2 shifts, you____succeed.__
 
 This means you get what you want at no cost.
 
-### ****Succeed with Style
+### ____Succeed with Style
 
-**If you roll higher than your opposition by 3 or more****shifts, you****succeed with style.**
+__If you roll higher than your opposition by 3 or more____shifts, you____succeed with style.__
 
 This means that you get what you want, but you also get an added benefit on top of that.
 
@@ -2495,7 +2495,7 @@ If you can think of at least one reason why the opposition sticks out, but other
 
 ## THE FOUR ACTIONS
 
-**When you make a skill roll, you’re taking one of four****actions: overcome, create an advantage, attack, or defend.**
+__When you make a skill roll, you’re taking one of four____actions: overcome, create an advantage, attack, or defend.__
 
 There are four types of actions you can take in a game of Fate. When you make a skill roll, you have to decide which of these you’re going to try. The [skill descriptions](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-39) tell you which actions are appropriate for that skill and under which circumstances. Usually, the action you need to take will be pretty obvious from the skill description, your intent, and the situation in play, but sometimes you might have to talk it over with the group to find out which is the most appropriate.
 
@@ -2505,7 +2505,7 @@ The four actions are: _overcome_, _create advantage_, _attack_, and _defend_
 
 ### Overcome
 
-**Use the****overcome action to achieve assorted goals appropriate to your skill.**
+__Use the____overcome action to achieve assorted goals appropriate to your skill.__
 
 Every skill has a certain niche of miscellaneous endeavors that fall under its purview, certain situations where it’s an ideal choice. A character with Burglary tries to jimmy a window, a character with Empathy tries to calm the crowd, and a character with Crafts tries to fix the broken axle on his wagon after a desperate chase.
 
@@ -2514,10 +2514,10 @@ When your character’s in one of these situations and there’s something betwe
 The opposition you have to beat might be active or passive, depending on the situation.
 
 
-- **When you fail an overcome action**, you have two options. You can simply fail, which means you don’t attain your goal or get what you were after, or you can succeed at a serious cost.
-- **When you tie an overcome action**, you attain your goal or get what you were after, but at a minor cost.
-- **When you succeed at an overcome action**, you attain your goal without any cost.
-- **When you succeed with style at an overcome action**, you get a boost in addition to attaining your goal.
+- __When you fail an overcome action__, you have two options. You can simply fail, which means you don’t attain your goal or get what you were after, or you can succeed at a serious cost.
+- __When you tie an overcome action__, you attain your goal or get what you were after, but at a minor cost.
+- __When you succeed at an overcome action__, you attain your goal without any cost.
+- __When you succeed with style at an overcome action__, you get a boost in addition to attaining your goal.
 
 ---
 
@@ -2547,7 +2547,7 @@ For example, on the overcome action it says you get a boost in addition to succe
 
 ### Create an Advantage
 
-**Use the****create an advantage action to make a****situation aspect that gives you a benefit, or to claim a benefit from any aspect you have access to.**
+__Use the____create an advantage action to make a____situation aspect that gives you a benefit, or to claim a benefit from any aspect you have access to.__
 
 The create an advantage action covers a broad range of endeavors, unified around the theme of using your skills to take advantage (hence the name) of the environment or situation you’re in.
 
@@ -2560,16 +2560,16 @@ Opposition might be active or passive, depending on the circumstances. If your t
 If you’re using create an advantage to make a new aspect…
 
 
-- **When you fail**, you either don’t create the aspect, or you create it but someone else gets the free invoke—whatever you end up doing works to someone else’s advantage instead. That could be your opponent in a conflict, or any character who could tangibly benefit to your detriment. You may have to reword the aspect to show that the other character benefits instead—work it out with the recipient in whichever way makes the most sense.
-- **When you tie**, you get a [boost](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-130) instead of the situation aspect you were going for. This might mean you have to rename the aspect a bit to reflect its temporary nature (Rough Terrain becomes Rocks on the Path).
-- **When you succeed**, you create a situation aspect with a free invocation.
-- **When you succeed with style**, you get a [situation aspect ](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-136)with two free invocations instead of one.
+- __When you fail__, you either don’t create the aspect, or you create it but someone else gets the free invoke—whatever you end up doing works to someone else’s advantage instead. That could be your opponent in a conflict, or any character who could tangibly benefit to your detriment. You may have to reword the aspect to show that the other character benefits instead—work it out with the recipient in whichever way makes the most sense.
+- __When you tie__, you get a [boost](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-130) instead of the situation aspect you were going for. This might mean you have to rename the aspect a bit to reflect its temporary nature (Rough Terrain becomes Rocks on the Path).
+- __When you succeed__, you create a situation aspect with a free invocation.
+- __When you succeed with style__, you get a [situation aspect ](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-136)with two free invocations instead of one.
 
 ---
 
 > While deep in the Caverns of Yarzuruk, Cynere is in the unfortunate position of having to fight some animated temple golems.
 
-> The first couple of [**exchanges**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-80) have not gone well, and she’s taken a couple of big hits already. Lily says, “Amanda, you said there was a lot of filigree and furnishings and stuff laying around, right?”
+> The first couple of [__exchanges__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-80) have not gone well, and she’s taken a couple of big hits already. Lily says, “Amanda, you said there was a lot of filigree and furnishings and stuff laying around, right?”
 
 > Amanda nods, and Lily asks, “Can I knock some of it over in order to trip these guys up a bit? I imagine if they’re big, clodhopping golems, they aren’t as agile as I am.”
 
@@ -2584,9 +2584,9 @@ If you’re using create an advantage to make a new aspect…
 If you’re using create an advantage on an existing aspect…
 
 
-- **When you fail**, you give a free invoke on that aspect to someone else instead. That could be your opponent in a conflict, or any character who could tangibly benefit to your detriment.
-- **When you tie or succeed**, you place a free invocation on the aspect.
-- **When you succeed with style**, you place two free invocations on the aspect.
+- __When you fail__, you give a free invoke on that aspect to someone else instead. That could be your opponent in a conflict, or any character who could tangibly benefit to your detriment.
+- __When you tie or succeed__, you place a free invocation on the aspect.
+- __When you succeed with style__, you place two free invocations on the aspect.
 
 ---
 
@@ -2614,7 +2614,7 @@ If you’re using create an advantage on an existing aspect…
 
 ### Attack
 
-**Use the****attack action to harm someone in a conflict or take them out of a scene.**
+__Use the____attack action to harm someone in a conflict or take them out of a scene.__
 
 The attack action is the most straightforward of the four actions—when you want to hurt someone in a conflict, it’s an attack. An attack isn’t always physical in nature; some skills allow you to hurt someone mentally as well.
 
@@ -2623,10 +2623,10 @@ Most of the time, your target will actively oppose your attack. Passive oppositi
 In addition, passive or not, the opposition always counts as a [defend](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-72) action so you can look at these two actions as being inexorably intertwined.
 
 
-- **When you fail at an attack**, you don’t cause any harm to your target. (It also means that your target succeeded on the defend action, which could get you saddled with other effects.)
-- **When you tie an attack**, you don’t cause any harm, but you gain a [boost](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-130).
-- **When you succeed on an attack**, you inflict a _hit_ on your target equal to the number of shifts you got. That forces the target to try and “buy off” the value of your hit by taking [stress](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-9) or consequences; if that’s not possible, your target gets taken out of the conflict.
-- **When you succeed with style on an attack**, it works like a normal success, but you also have the option to reduce the value of your hit by one to gain a boost as well.
+- __When you fail at an attack__, you don’t cause any harm to your target. (It also means that your target succeeded on the defend action, which could get you saddled with other effects.)
+- __When you tie an attack__, you don’t cause any harm, but you gain a [boost](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-130).
+- __When you succeed on an attack__, you inflict a _hit_ on your target equal to the number of shifts you got. That forces the target to try and “buy off” the value of your hit by taking [stress](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-9) or consequences; if that’s not possible, your target gets taken out of the conflict.
+- __When you succeed with style on an attack__, it works like a normal success, but you also have the option to reduce the value of your hit by one to gain a boost as well.
 
 ---
 
@@ -2648,21 +2648,21 @@ In addition, passive or not, the opposition always counts as a [defend](http://
 
 ### Defend
 
-**Use the****defend action to avoid an attack or prevent someone from creating an advantage against you.**
+__Use the____defend action to avoid an attack or prevent someone from creating an advantage against you.__
 
 Whenever someone attacks you in a conflict or tries to create an advantage on you, you always get a chance to defend. As with attacks, this isn’t always about avoiding physical sources of danger—some of the skills allow you to defend against attempts to harm your mind or damage your resolve.
 
 Because you roll to defend as a reaction, your opposition is almost always active. If you’re rolling a defend action against passive opposition, it’s because the environment is hostile to you somehow (like a blazing fire), or the attacking NPC isn’t important enough for the GM to bother with dice.
 
 
-- **When you fail at a defense**, you suffer the consequences of whatever you were trying to prevent. You might take a hit or have an advantage created on you.
-- **When you tie a defense**, you grant your opponent a [boost](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-130).
-- **When you succeed at a defense**, you successfully avoid the attack or the attempt to gain an advantage on you.
-- **When you succeed with style at a defense**, it works like a normal success, but you also gain a boost as you turn the tables momentarily.
+- __When you fail at a defense__, you suffer the consequences of whatever you were trying to prevent. You might take a hit or have an advantage created on you.
+- __When you tie a defense__, you grant your opponent a [boost](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-130).
+- __When you succeed at a defense__, you successfully avoid the attack or the attempt to gain an advantage on you.
+- __When you succeed with style at a defense__, it works like a normal success, but you also gain a boost as you turn the tables momentarily.
 
 ---
 
-**CAN I DEFEND AGAINST OVERCOME ACTIONS?**
+__CAN I DEFEND AGAINST OVERCOME ACTIONS?__
 
 Technically, no. The defend action is there to stop you from taking stress, consequences, or situation aspects—basically, to protect you against all the bad stuff we represent with mechanics.
 
@@ -2672,7 +2672,7 @@ But! You can roll active opposition if you’re in the way of _any_ action, as
 
 
 
-**NO STACKED EFFECTS!**
+__NO STACKED EFFECTS!__
 
 You’ll notice that the defend action has outcomes that mirror some of the outcomes in attack and create an advantage. For example, it says that when you tie a defense, you grant your opponent a boost. Under attack, it says that when you tie, you receive a boost.
 
@@ -2692,7 +2692,7 @@ That doesn’t mean the attacker gets two boosts—it’s the same result, just 
 
 ---
 
-**7**
+__7__
 
 # CHALLENGES, CONTESTS, AND CONFLICTS
 
@@ -2705,9 +2705,9 @@ Sometimes, however, you’ll be in a situation where you’re doing something re
 We have three ways for you to zoom in on the action in Fate:
 
 
-- **Challenges**, when one or more characters try to achieve something dynamic or complicated
-- **Contests**, when two or more characters are competing for a goal
-- **Conflicts**, when two or more characters are trying to directly harm each other
+- __Challenges__, when one or more characters try to achieve something dynamic or complicated
+- __Contests__, when two or more characters are competing for a goal
+- __Conflicts__, when two or more characters are trying to directly harm each other
 
 ## CHALLENGES
 
@@ -2715,7 +2715,7 @@ A single overcome action is sufficient to deal with a straightforward goal or ob
 
 Sometimes, however, things get complicated. It’s not enough to pick the lock, because you also have to hold off the hordes of attacking zombies and set up the magical ward that’s going to keep pursuers off your back. It’s not enough to disarm the bomb, because you also have to land the crashing blimp and keep the unconscious scientist you’re rescuing from getting hurt in said landing.
 
-**A****challenge is a series of****overcome actions that you use to resolve an especially complicated or dynamic situation.** Each overcome action uses a **different** skill to deal with one task or part of the situation, and you take the individual results as a whole to figure out how the situation resolves.
+__A____challenge is a series of____overcome actions that you use to resolve an especially complicated or dynamic situation.__ Each overcome action uses a __different__ skill to deal with one task or part of the situation, and you take the individual results as a whole to figure out how the situation resolves.
 
 GMs, when you’re trying to figure out if it’s appropriate to call for a challenge, ask yourself the following questions:
 
@@ -2777,7 +2777,7 @@ Because you’re always up against passive opposition in a challenge, you’ll n
 
 ## CONTESTS
 
-**Whenever two or more characters have mutually exclusive goals, but they aren’t trying to harm each other directly, they’re in a****contest**. Arm wrestling matches, races or other sports competitions, and public debates are all good examples of contests.
+__Whenever two or more characters have mutually exclusive goals, but they aren’t trying to harm each other directly, they’re in a____contest__. Arm wrestling matches, races or other sports competitions, and public debates are all good examples of contests.
 
 GMs, answer the following questions when you’re setting up a contest:
 
@@ -2810,14 +2810,14 @@ A contest proceeds in a series of _exchanges_. In an exchange, every participan
 Players, when you make a contest roll, compare your result to everyone else’s.
 
 
-- **If you got the highest result, you win the exchange**. If you’re rolling directly against the other participants, then that means you got the highest rank on the ladder out of everyone. If you’re all rolling against something in the environment, it means you got the most shifts out of everyone.
+- __If you got the highest result, you win the exchange__. If you’re rolling directly against the other participants, then that means you got the highest rank on the ladder out of everyone. If you’re all rolling against something in the environment, it means you got the most shifts out of everyone.
 
 Winning the exchange means you score a _victory_ (which you can just represent with a tally mark or check mark on scratch paper) and describe how you take the lead.
 
 
-- **If you succeed with style and no one else does**, then you get to mark _two_ victories.
-- **If there’s a tie for the highest result, no one gets a victory, and an unexpected twist occurs**. This could mean several things depending on the situation—the terrain or environment shifts somehow, the parameters of the contest change, or an unanticipated variable shows up and affects all the participants. GMs, you should create a new situation aspect reflecting this change.
-- **The first participant to achieve three victories wins the contest**.
+- __If you succeed with style and no one else does__, then you get to mark _two_ victories.
+- __If there’s a tie for the highest result, no one gets a victory, and an unexpected twist occurs__. This could mean several things depending on the situation—the terrain or environment shifts somehow, the parameters of the contest change, or an unanticipated variable shows up and affects all the participants. GMs, you should create a new situation aspect reflecting this change.
+- __The first participant to achieve three victories wins the contest__.
 
 ---
 
@@ -2841,7 +2841,7 @@ Winning the exchange means you score a _victory_ (which you can just represent
 
 During any exchange, you can try to create an advantage before you make your contest roll. If you’re targeting another participant, they get to defend normally. If someone can interfere with your attempt, they provide active opposition as normal.
 
-Doing this carries an additional risk—**failing to create an advantage means you forfeit your contest roll**, which means there’s no way you can make progress in the current exchange. If you at least tie, you get to make your contest roll normally.
+Doing this carries an additional risk—__failing to create an advantage means you forfeit your contest roll__, which means there’s no way you can make progress in the current exchange. If you at least tie, you get to make your contest roll normally.
 
 If you’re providing a bonus via the [Teamwork rules](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-126), failing to create an advantage means the lead character doesn’t benefit from your help this exchange.
 
@@ -2863,7 +2863,7 @@ If someone tries to attack in a contest, then they’re doing direct harm, and i
 
 ## CONFLICTS
 
-In a conflict, characters are actively trying to harm one another. It could be a fist fight, a shootout, or a sword duel. It could also be a tough interrogation, a psychic assault, or a shouting match with a loved one.**As long as the characters involved have both the intent and the ability to harm one another, then you’re in a conflict scene**.
+In a conflict, characters are actively trying to harm one another. It could be a fist fight, a shootout, or a sword duel. It could also be a tough interrogation, a psychic assault, or a shouting match with a loved one.__As long as the characters involved have both the intent and the ability to harm one another, then you’re in a conflict scene__.
 
 Conflicts are either physical or mental in nature, based on the kind of harm you’re at risk of suffering. In physical conflicts, you suffer bruises, scrapes, cuts, and other injuries. In mental conflicts, you suffer loss of confidence and self-esteem, loss of composure, and other psychological trauma.
 
@@ -2874,9 +2874,9 @@ Setting up a conflict is a little more involved than setting up contests or chal
 - Determine the [turn order](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-83).
 - Start the first [exchange](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-80):
 - 
-  + On your turn, take an action and then resolve it.
-  + On other people’s turns, defend or respond to their actions as necessary.
-  + At the [end](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-82) of everyone’s turn, start again with a new exchange.
+- On your turn, take an action and then resolve it.
+- On other people’s turns, defend or respond to their actions as necessary.
+- At the [end](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-82) of everyone’s turn, start again with a new exchange.
 
 
 
@@ -2919,7 +2919,7 @@ Good options for situation aspects include:
 
 ---
 
-**SITUATION ASPECTS AND ZONES IN MENTAL CONFLICTS**
+__SITUATION ASPECTS AND ZONES IN MENTAL CONFLICTS__
 
 In a mental conflict, it might not always make sense to use situation aspects and zones to describe a physical space. It’d make sense in an interrogation, for example, where the physical features of the space create fear, but not in a really violent argument with a loved one. Also, when people are trying to hurt each other emotionally, usually they’re using their target’s own weaknesses against them—in other words, their own aspects.
 
@@ -3034,7 +3034,7 @@ A successful attack lands a hit equivalent to its shift value on a target. So if
 
 If you get hit by an attack, one of two things happen: either you absorb the hit and stay in the fight, or you’re _taken out_.
 
-Fortunately, you have two options for absorbing hits to stay in the fight—you can take _stress_ and/or _consequences_. You can also [**concede** a conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-122) before you’re taken out, in order to preserve some control over what happens to your character.
+Fortunately, you have two options for absorbing hits to stay in the fight—you can take _stress_ and/or _consequences_. You can also [__concede__ a conflict](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-122) before you’re taken out, in order to preserve some control over what happens to your character.
 
 ---
 
@@ -3122,7 +3122,7 @@ Severe consequences go straight to the emergency room (or whatever the equivalen
 
 ---
 
-**WHAT SKILL DO I USE FOR RECOVERY?**
+__WHAT SKILL DO I USE FOR RECOVERY?__
 
 In _Hearts of Steel_, physical recovery can only happen through the use of a Lore stunt, which Zird the Arcane has taken. This makes physical fights dangerous and suggests that actual medical training is quite rare. For mental recovery, we use the Empathy skill.
 
@@ -3149,9 +3149,9 @@ Whether you change the consequence’s name or not—and sometimes it might not 
 Then, you just have to wait the time.
 
 
-- For a mild consequence, you only have to wait one whole [**scene**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-23) after the recovery action, and then you can remove the aspect and clear the slot.
-- For a moderate consequence, you have to wait one whole [**session**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-23) after the recovery action (which means if you do the recovery action in the middle of a session, you should recover sometime in the middle of next session).
-- For a severe consequence, you have to wait one whole [**scenario**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-23) after the recovery action.
+- For a mild consequence, you only have to wait one whole [__scene__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-23) after the recovery action, and then you can remove the aspect and clear the slot.
+- For a moderate consequence, you have to wait one whole [__session__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-23) after the recovery action (which means if you do the recovery action in the middle of a session, you should recover sometime in the middle of next session).
+- For a severe consequence, you have to wait one whole [__scenario__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-23) after the recovery action.
 
 ---
 
@@ -3163,7 +3163,7 @@ Then, you just have to wait the time.
 
 ---
 
-**POTIONS AND OTHER INSTA-HEALING**
+__POTIONS AND OTHER INSTA-HEALING__
 
 Many genres have some sort of mechanism by which characters can quickly recover from injuries. Fantasy settings have the ubiquitous healing potion or spell. Sci-fi has superscience dermal regenerators or biogel. Usually, these mechanisms exists because many games express injuries in terms of a constant numerical penalty that drastically affects a character’s effectiveness.
 
@@ -3175,9 +3175,9 @@ At best, powerful healing should simply eliminate the need to roll for a recover
 
 ##### Extreme Consequences
 
-In addition to the normal set of mild, moderate, and severe consequences, every PC also gets one last-ditch option to stay in a fight—the **extreme consequence**. Between major [milestones](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-53), you can only use this option once.
+In addition to the normal set of mild, moderate, and severe consequences, every PC also gets one last-ditch option to stay in a fight—the __extreme consequence__. Between major [milestones](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-53), you can only use this option once.
 
-An extreme consequence will absorb up to 8-shifts of a hit, but at a very serious cost—**you must replace one of your aspects (except the high concept, that’s off limits) with the extreme consequence**. That’s right, an extreme consequence is so serious that taking it literally changes who you are.
+An extreme consequence will absorb up to 8-shifts of a hit, but at a very serious cost—__you must replace one of your aspects (except the high concept, that’s off limits) with the extreme consequence__. That’s right, an extreme consequence is so serious that taking it literally changes who you are.
 
 Unlike other consequences, you can’t make a recovery action to diminish an extreme consequence—you’re stuck with it until your next [major milestone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-55). After that, you can rename the extreme consequence to reflect that you’re no longer vulnerable to the worst of it, as long as you don’t just switch it out for whatever your old aspect was. Taking an extreme consequence is a permanent character change; treat it as such.
 
@@ -3189,9 +3189,9 @@ When all else fails, you can also just give in. Maybe you’re worried that you 
 
 Concession gives the other person what they wanted from you, or in the case of more than two combatants, removes you as a concern for the opposing side. You’re out of the conflict, period.
 
-But it’s not all bad. First of all, **you get a****fate point for choosing to concede**. On top of that, if you’ve sustained any consequences in this conflict, you get an additional fate point for each consequence. These fate points may be used once this conflict is over.
+But it’s not all bad. First of all, __you get a____fate point for choosing to concede__. On top of that, if you’ve sustained any consequences in this conflict, you get an additional fate point for each consequence. These fate points may be used once this conflict is over.
 
-Second of all, **you get to avoid the worst parts of your fate**. Yes, you lost, and the narration has to reflect that. But you can’t use this privilege to undermine the opponent’s victory, either—what you say happens has to pass muster with the group.
+Second of all, __you get to avoid the worst parts of your fate__. Yes, you lost, and the narration has to reflect that. But you can’t use this privilege to undermine the opponent’s victory, either—what you say happens has to pass muster with the group.
 
 That can make the difference between, say, being mistakenly left for dead and ending up in the enemy’s clutches, in shackles, without any of your stuff—the sort of thing that can happen if you’re taken out instead. That’s not nothing.
 
@@ -3241,7 +3241,7 @@ At the very least, even if you’re in a hardcore group that invites the potenti
 
 In a conflict, it’s important to track where everyone is relative to one another, which is why we divide the environment where the conflict’s taking place into zones. Where you have zones, you have people trying to move around in them in order to get at one another or at a certain objective.
 
-Normally, it’s no big deal to move from one zone to another—**if there’s nothing preventing you from doing so, you can move one zone in addition to your action for the exchange**.
+Normally, it’s no big deal to move from one zone to another—__if there’s nothing preventing you from doing so, you can move one zone in addition to your action for the exchange__.
 
 If you want to move more than one zone (up to anywhere else on the map), if a situation aspect suggests that it might be difficult to move freely, or if another character is in your way, then you must make an [overcome](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-71) action using Athletics to move. This counts as your action for the exchange.
 
@@ -3273,7 +3273,7 @@ When you create an advantage in a conflict, think about how long you want that a
 
 ---
 
-**COVER FIRE AND OTHER IMPOSITIONS**
+__COVER FIRE AND OTHER IMPOSITIONS__
 
 When you’re trying to prevent someone else from getting attacked, the main way to do it is by creating an advantage. You can pass your buddy the invocation and make it harder to hit them.
 
@@ -3286,12 +3286,12 @@ If you want to defend other people without directly interposing yourself between
 In terms of options for advantages, the sky’s the limit. Pretty much any situational modifier you can think of can be expressed as an advantage. If you’re stuck for an idea, here are some examples:
 
 
-- **Temporary Blinding:** Throwing sand or salt in the enemy’s eyes is a classic action staple. This places a Blinded aspect on a target, which could require them to get rid of the aspect with an overcome action before doing anything dependent on sight. Blinded might also present opportunities for a compel, so keep in mind that your opponent can take advantage of this to replenish fate points.
-- **Disarming:** You knock an opponent’s weapon away, disarming them until they can recover it. The target will need an overcome action to recover their weapon.
-- **Positioning:** There are a lot of ways to use advantages to represent positioning, like High Ground or Cornered, which you can invoke to take advantage of that positioning as context demands.
-- **Winded and Other Minor Hurts:** Some strikes in a fight are debilitating because they’re painful, rather than because they cause injury. Nerve hits, groin shots, and a lot of other “dirty fighting” tricks fall into this category. You can use an advantage to represent these, sticking your opponent with Pain-Blindness or Stunned or whatever, then following up with an attack that exploits the aspect to do more lasting harm.
-- **Taking Cover:** You can use advantages to represent positions of cover and invoke them for your defense. This can be as general as Found Some Cover or as specific as Behind the Big Oak Bar.
-- **Altering the Environment:** You can use advantages to alter the environment to your benefit, creating barriers to movement by scattering Loose Junk everywhere, or setting things On Fire. That last one is a favorite in Fate.
+- __Temporary Blinding:__ Throwing sand or salt in the enemy’s eyes is a classic action staple. This places a Blinded aspect on a target, which could require them to get rid of the aspect with an overcome action before doing anything dependent on sight. Blinded might also present opportunities for a compel, so keep in mind that your opponent can take advantage of this to replenish fate points.
+- __Disarming:__ You knock an opponent’s weapon away, disarming them until they can recover it. The target will need an overcome action to recover their weapon.
+- __Positioning:__ There are a lot of ways to use advantages to represent positioning, like High Ground or Cornered, which you can invoke to take advantage of that positioning as context demands.
+- __Winded and Other Minor Hurts:__ Some strikes in a fight are debilitating because they’re painful, rather than because they cause injury. Nerve hits, groin shots, and a lot of other “dirty fighting” tricks fall into this category. You can use an advantage to represent these, sticking your opponent with Pain-Blindness or Stunned or whatever, then following up with an attack that exploits the aspect to do more lasting harm.
+- __Taking Cover:__ You can use advantages to represent positions of cover and invoke them for your defense. This can be as general as Found Some Cover or as specific as Behind the Big Oak Bar.
+- __Altering the Environment:__ You can use advantages to alter the environment to your benefit, creating barriers to movement by scattering Loose Junk everywhere, or setting things On Fire. That last one is a favorite in Fate.
 
 ### Other Actions in a Conflict
 
@@ -3301,7 +3301,7 @@ In order to do this, GMs, set the player up with a modified form of challenge. O
 
 ---
 
-**FREE ACTIONS**
+__FREE ACTIONS__
 
 Sometimes it just makes sense that your character is doing something else in conjunction with or as a step toward their action in an exchange. You quick-draw a weapon before you use it, you shout a warning before you kick in a door, or you quickly size up a room before you attack. These little bits of action are colorful description more than anything else, meant to add atmosphere to the scene.
 
@@ -3385,7 +3385,7 @@ When you stack advantages, each person takes a create an advantage action as us
 
 ---
 
-**8**
+__8__
 
 # RUNNING THE GAME
 
@@ -3407,11 +3407,11 @@ We have more advice on starting and ending scenes in the next chapter, [_Scenes
 
 ---
 
-**DRAMA IS BETTER THAN REALISM**
+__DRAMA IS BETTER THAN REALISM__
 
 In Fate, don’t get too bogged down trying to maintain absolute consistency in the world or adhere to a draconian sense of realism. The game operates by the rules of drama and fiction; use that to your advantage. There should be very few moments in the game where the PCs are free of conflicts or problems to deal with, even if it’d be more “realistic” for them to get a long breather.
 
-**When you’re trying to decide what happens, and the answer that makes the most sense is also kind of boring, go with something that’s more exciting than sensible!** You can always find a way later on to justify something that doesn’t make immediate sense.
+__When you’re trying to decide what happens, and the answer that makes the most sense is also kind of boring, go with something that’s more exciting than sensible!__ You can always find a way later on to justify something that doesn’t make immediate sense.
 
 ---
 
@@ -3455,7 +3455,7 @@ We provide some more tips on [judging the use of rules](http://www.faterpg.com/
 
 ---
 
-**YOU’RE THE CHAIRMAN, NOT GOD**
+__YOU’RE THE CHAIRMAN, NOT GOD__
 
 Approach your position as arbiter of the rules by thinking of yourself as “first among equals” in a committee, rather than as an absolute authority. If there’s a disagreement on the use of the rules, try encouraging a brief discussion and let everyone talk freely, rather than making a unilateral decision. A lot of times, you’ll find that the group is self-policing—if someone tries to throw out a compel that’s a real stretch, it’s just as likely that another player will bring it up before you do.
 
@@ -3504,8 +3504,8 @@ As laid out in that chapter, small-scale stories concern events closely connecte
 However, don’t be fooled into thinking the two are mutually exclusive. Here are a couple ways to combine them.
 
 
-- **Start Small and Grow:** This is the classic zero-to-hero story in which an unassuming individual with no pretensions to glory is suddenly swept up in events beyond the scope of his experience. Consider Luke Skywalker in _Star Wars: A New Hope_. He starts off a nobody moisture farmer, racing T-16s and getting up to the odd bit of mischief at Tosche Station. Then a pair of droids come into his life and inject a little mystery: Who’s this Obi-Wan Kenobi? Before he knows it, he’s consorting with smugglers, rescuing a princess, and striking a blow for the Rebellion. It’s a classic case of starting small-scale and expanding into a large-scale story.
-- **Peaks and Valleys:** Here, you’re alternating the large-scale with the small, using the latter almost as something of a breather. Typically, the large-scale storylines will deal with matters of state, the conquering of planets, the banishing of unthinkable Beings From Beyond, and the like, while the small-scale storylines will be of a more personal nature, with few if any connections to the earth-shaking events transpiring in the characters’ lives. For example, you might spend a session or two tussling with that Grand Emperor, then change focus to a character reconnecting with her father or coming to the aid of a friend in need. The small-scale sessions serve as something of a breather between all that epic action, and give the players a chance to delve into some unexplored corners of their characters. Plus, if you _want_ to connect the small- and large-scale stories down the line, you can—and the payoff will be all the more satisfying for the players.
+- __Start Small and Grow:__ This is the classic zero-to-hero story in which an unassuming individual with no pretensions to glory is suddenly swept up in events beyond the scope of his experience. Consider Luke Skywalker in _Star Wars: A New Hope_. He starts off a nobody moisture farmer, racing T-16s and getting up to the odd bit of mischief at Tosche Station. Then a pair of droids come into his life and inject a little mystery: Who’s this Obi-Wan Kenobi? Before he knows it, he’s consorting with smugglers, rescuing a princess, and striking a blow for the Rebellion. It’s a classic case of starting small-scale and expanding into a large-scale story.
+- __Peaks and Valleys:__ Here, you’re alternating the large-scale with the small, using the latter almost as something of a breather. Typically, the large-scale storylines will deal with matters of state, the conquering of planets, the banishing of unthinkable Beings From Beyond, and the like, while the small-scale storylines will be of a more personal nature, with few if any connections to the earth-shaking events transpiring in the characters’ lives. For example, you might spend a session or two tussling with that Grand Emperor, then change focus to a character reconnecting with her father or coming to the aid of a friend in need. The small-scale sessions serve as something of a breather between all that epic action, and give the players a chance to delve into some unexplored corners of their characters. Plus, if you _want_ to connect the small- and large-scale stories down the line, you can—and the payoff will be all the more satisfying for the players.
 
 ### Extras: Do You Need Them?
 
@@ -3520,7 +3520,7 @@ Now that you’ve gone through the process of game creation with the players, le
 Before we go into specifics, here’s our general Golden Rule of Fate:
 
 
-- **Decide what you’re trying to accomplish first, then consult the rules to help you do it.**
+- __Decide what you’re trying to accomplish first, then consult the rules to help you do it.__
 
 This might seem like common sense, but we call it out because the order is important. In other words, don’t look at the rules as a straitjacket or a hard limit on an action. Instead, use them as a variety of potential tools to model whatever you’re trying to do. Your intent, whatever it is, always takes precedence over the mechanics.
 
@@ -3530,9 +3530,9 @@ But sometimes, you’re going to get into situations where it’s not immediatel
 
 ---
 
-**THE SILVER RULE**
+__THE SILVER RULE__
 
-The corollary to the Golden Rule is as follows: **Never let the rules get in the way of what makes narrative sense**. If you or the players narrate something in the game and it makes sense to apply a certain rule outside of the normal circumstances where you would do so, go ahead and do it.
+The corollary to the Golden Rule is as follows: __Never let the rules get in the way of what makes narrative sense__. If you or the players narrate something in the game and it makes sense to apply a certain rule outside of the normal circumstances where you would do so, go ahead and do it.
 
 The most common example of this has to do with [consequences](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-11). The rules say that by default, a consequence is something a player chooses to take after getting hit by an attack in a conflict.
 
@@ -3572,7 +3572,7 @@ If you’re ever in doubt during play, come back to the Golden Rule and remember
 
 ### When to Roll Dice
 
-**Roll the dice when succeeding or failing at the action could each contribute something interesting to the game**.
+__Roll the dice when succeeding or failing at the action could each contribute something interesting to the game__.
 
 This is pretty easy to figure out in regards to success, most of the time—the PCs overcome a significant obstacle, win a conflict, or succeed at a goal, which creates fodder for the next thing. With failure, however, it’s a little more difficult, because it’s easy to look at failure in strictly negative terms—you fail, you lose, you don’t get what you want. If there’s nothing to build on after that failure, play can grind to a halt in a hurry.
 
@@ -3582,7 +3582,7 @@ If you can’t imagine an interesting outcome from both results, then don’t ca
 
 ---
 
-**SITUATION ASPECTS ARE YOUR FRIEND**
+__SITUATION ASPECTS ARE YOUR FRIEND__
 
 When you’re trying to figure out if there’s a good reason to ask the PCs to make an overcome roll, look at the aspects on your scene. If the existence of the aspect suggests some trouble or problem for the PC, call for an overcome roll. If not, and you can’t think of an interesting consequence for failure, don’t bother.
 
@@ -3594,17 +3594,17 @@ For example, if a character is trying to sprint quickly across a room, and you h
 
 If the PCs fail a roll in the game and you’re not sure how to make that interesting, try one of the following ideas.
 
-#### **Blame the Circumstances**
+#### __Blame the Circumstances__
 
 The PCs are extremely competent people (remember, that’s one of the things Fate is about). They aren’t supposed to look like fools on a regular or even semi-regular basis. Sometimes, all it takes is the right description to make failure into something dynamic—instead of narrating that the PC just borked things up, blame the failure on something that the PC couldn’t have prevented. There’s a secondary mechanism on that lock that initially looked simple (Burglary), or the contact broke his promise to show up on time (Contacts), or the ancient tome is too withered to read (Lore), or a sudden seismic shift throws off your run (Athletics).
 
 That way, the PCs still look competent and awesome, even though they don’t get what they want. More importantly, shifting the blame to the circumstances gives you an opportunity to suggest a new course of action, which allows the failure to create forward momentum in your story. The contact didn’t make his appointment? Where is he? Who was following him to the rendezvous? The ancient tome is withered? Maybe someone can restore it. That way, you don’t spend time dwelling on the failure and can move on to something new.
 
-#### **Succeed at a Cost**
+#### __Succeed at a Cost__
 
 You can also offer to give the PCs what they want, but at a price—in this case, the failed roll means they weren’t able to achieve their goals without consequence.
 
-A **minor cost** should complicate the PC’s life. Like the above suggestion, this focuses on using failure as a means to change up the situation a bit, rather than just negating whatever the PC wanted. Some suggestions:
+A __minor cost__ should complicate the PC’s life. Like the above suggestion, this focuses on using failure as a means to change up the situation a bit, rather than just negating whatever the PC wanted. Some suggestions:
 
 
 - Foreshadow some imminent peril. _“The lock opens with a soft click, but the same can’t be said for the vault door. If they didn’t know you were here before, they sure do now.”_
@@ -3614,7 +3614,7 @@ A **minor cost** should complicate the PC’s life. Like the above suggestion,
 - Give an NPC a boost. _“Nikolai surprises you a bit by agreeing to your offer, but he does so with a wry smile that makes you uneasy. Clearly,_Nikolai Has A Plan_.”_
 - Check one of the PC’s stress boxes. Careful with this one—it’s only a real cost if the PC’s likely to take more hits in the same scene. If you don’t think that’s going to happen, go with another choice.
 
-A **serious cost** does more than complicate the PC’s life or promise something worse to come—it takes a serious and possibly irrevocable toll, right now.
+A __serious cost__ does more than complicate the PC’s life or promise something worse to come—it takes a serious and possibly irrevocable toll, right now.
 
 One way you can do this is by taking a minor cost to the next level. Instead of suspecting that a guard heard them open the vault, a few guards burst in the room, weapons drawn. Instead of being merely cut off from their allies by a collapsing ceiling, one or more of those allies ends up buried in the debris. Instead of merely having to face an awkward situation with Berthold, he’s still angry and out for their blood.
 
@@ -3628,7 +3628,7 @@ Other options could include:
 
 If you’re stuck for just how serious a serious cost should be, you may want to use the margin of failure as a gauge. For instance, in the vault-opening example, above—the one where the guards hear the PC and burst in the room—if the player failed their Burglary roll by 1 or 2, the PCs outnumber the guards. Not a tough fight, but a fight nonetheless. If they failed it by 3 to 5, it’s an even match, one that’s likely to use up resources like fate points or consequences. But if they failed by 6 or more, they’re outnumbered and in real danger.
 
-#### **Let the Player Do the Work**
+#### __Let the Player Do the Work__
 
 You can also kick the question back to the players, and let them decide what the context of their own failure is. This is a great move to foster a collaborative spirit, and some players will be surprisingly eager to hose their own characters in order to further the story, especially if it means they can keep control of their own portrayal.
 
@@ -3675,9 +3675,9 @@ For others, it’s not so clear. What’s happens when you get a lot of shifts o
 Here are a few choice options.
 
 
-- **Go Gonzo with the Narration:** It might seem superfluous, but it’s important to celebrate a great roll with a suitable narration of over the top success. This is a great time to take the suggestions above for [Making Failure Awesome ](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-15)and applying them here. Let the success affect something else, in addition to what the PC was going for, and bring the player into the process of selling it by prompting them to make up cool details. “Three extra shifts on that Burglary roll—tell me, is anyone ever going to be able to lock that crypt again?” “So you got five shifts on that Contacts roll—tell me, where _does_ Nicky the Fink usually go when he’s running out on his wife, and what do you say when you find him there?”
-- **Add an Aspect:** You can express additional effects of a good roll by placing an aspect on the PC or on the scene, essentially letting them create an advantage for free. “So your Resources roll to bribe the guard succeeded with four shifts. She’ll let you through the gate all right, and she’ll also act as Available Backup if you should need some help later.”
-- **Reducing Time:** If it’s important to get something done fast, then you can [use extra shifts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-94) to decrease the time that it takes to do an action.
+- __Go Gonzo with the Narration:__ It might seem superfluous, but it’s important to celebrate a great roll with a suitable narration of over the top success. This is a great time to take the suggestions above for [Making Failure Awesome ](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-15)and applying them here. Let the success affect something else, in addition to what the PC was going for, and bring the player into the process of selling it by prompting them to make up cool details. “Three extra shifts on that Burglary roll—tell me, is anyone ever going to be able to lock that crypt again?” “So you got five shifts on that Contacts roll—tell me, where _does_ Nicky the Fink usually go when he’s running out on his wife, and what do you say when you find him there?”
+- __Add an Aspect:__ You can express additional effects of a good roll by placing an aspect on the PC or on the scene, essentially letting them create an advantage for free. “So your Resources roll to bribe the guard succeeded with four shifts. She’ll let you through the gate all right, and she’ll also act as Available Backup if you should need some help later.”
+- __Reducing Time:__ If it’s important to get something done fast, then you can [use extra shifts](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-94) to decrease the time that it takes to do an action.
 
 ### Dealing with Time
 
@@ -3688,12 +3688,12 @@ We recognize two kinds of time in Fate: _game time_ and _story time_.
 Game time is how we organize play in terms of the real players sitting at the table. Each unit of game time corresponds to a certain amount of real time. They are:
 
 
-- **Exchange:** The amount of time it takes all participants in a conflict to take a turn, which includes doing an action and responding to any action taken against them. This usually doesn’t take longer than a few minutes.
-- **Scene:** The amount of time it takes to resolve a conflict, deal with a single prominent situation, or accomplish a goal. Scenes vary in length, from a minute or two if it’s just a quick description and some dialogue, to a half hour or more in the case of a major setpiece battle against a [main NPC](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-124).
-- **Session:** The sum total of all the scenes you run through in a single sitting. A session ends when you and your friends pack it up for the night and go home. For most people, a session is about 2 to 4 hours, but there is no theoretical limit—if you have few obligations, then you’re only really limited by the need for food and sleep. A [minor milestone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-123) usually occurs after a session.
-- **Scenario:** One or more sessions of play, but usually no more than four. Most of the time, [the sessions that make up a scenario ](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-157)will definitively resolve some kind of problem or dilemma presented by the GM, or wrap up a storyline (see Scenes, Sessions, and Scenarios for more on scenarios). A [significant milestone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-99) usually occurs at the end of a scenario. You can look at this like an episode of a television show—the number of sessions it takes to tell one story.
-- **Arc:** Several scenarios, usually between two and four. An arc typically culminates in an event that brings great change to the game world, building up from the resolution of the scenarios. You can look at an arc like a season of a television show, where individual episodes lead to a tumultuous climax. You’re not always guaranteed to have a recognizable arc, just like not all TV shows have a plotline that carries through the whole season—it’s possible to bounce from situation to situation without having a defined plot structure. [Major milestones](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-55) usually happen at the end of an arc.
-- **Campaign:** The sum of all the time you’ve sat at a table playing this particular game of Fate—every session, every scenario, every arc. Technically, there’s no upper limit to how long a campaign can be. Some groups go for years; others get to the end of an arc and then stop. We presume that a typical group will go for a few arcs (or about ten scenarios) before having a grand finale and moving on to another game (hopefully another Fate game!). You might set up your campaign as a kind of “super-arc,” where there’s one massive conflict that everything else is a smaller part of, or it might simply consist of the smaller individual stories that you tell in your scenarios.
+- __Exchange:__ The amount of time it takes all participants in a conflict to take a turn, which includes doing an action and responding to any action taken against them. This usually doesn’t take longer than a few minutes.
+- __Scene:__ The amount of time it takes to resolve a conflict, deal with a single prominent situation, or accomplish a goal. Scenes vary in length, from a minute or two if it’s just a quick description and some dialogue, to a half hour or more in the case of a major setpiece battle against a [main NPC](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-124).
+- __Session:__ The sum total of all the scenes you run through in a single sitting. A session ends when you and your friends pack it up for the night and go home. For most people, a session is about 2 to 4 hours, but there is no theoretical limit—if you have few obligations, then you’re only really limited by the need for food and sleep. A [minor milestone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-123) usually occurs after a session.
+- __Scenario:__ One or more sessions of play, but usually no more than four. Most of the time, [the sessions that make up a scenario ](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-157)will definitively resolve some kind of problem or dilemma presented by the GM, or wrap up a storyline (see Scenes, Sessions, and Scenarios for more on scenarios). A [significant milestone](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-99) usually occurs at the end of a scenario. You can look at this like an episode of a television show—the number of sessions it takes to tell one story.
+- __Arc:__ Several scenarios, usually between two and four. An arc typically culminates in an event that brings great change to the game world, building up from the resolution of the scenarios. You can look at an arc like a season of a television show, where individual episodes lead to a tumultuous climax. You’re not always guaranteed to have a recognizable arc, just like not all TV shows have a plotline that carries through the whole season—it’s possible to bounce from situation to situation without having a defined plot structure. [Major milestones](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-55) usually happen at the end of an arc.
+- __Campaign:__ The sum of all the time you’ve sat at a table playing this particular game of Fate—every session, every scenario, every arc. Technically, there’s no upper limit to how long a campaign can be. Some groups go for years; others get to the end of an arc and then stop. We presume that a typical group will go for a few arcs (or about ten scenarios) before having a grand finale and moving on to another game (hopefully another Fate game!). You might set up your campaign as a kind of “super-arc,” where there’s one massive conflict that everything else is a smaller part of, or it might simply consist of the smaller individual stories that you tell in your scenarios.
 
 #### Story Time
 
@@ -3725,7 +3725,7 @@ If time is a factor, you should also be able to use invocations and compels to m
 
 ---
 
-**HOW MUCH TIME IS A SHIFT WORTH?**
+__HOW MUCH TIME IS A SHIFT WORTH?__
 
 Just like with any other roll, the number of shifts you get (or the amount you fail by) should serve as a barometer for just how severe the time jump is. So, how do you decide just how much to award or penalize?
 
@@ -3920,7 +3920,7 @@ Attacking a whole zone or everyone in a scene is something you’re going to hav
 
 ---
 
-**COMPELS AND MULTIPLE TARGETS**
+__COMPELS AND MULTIPLE TARGETS__
 
 Just a quick note: players who want to compel their way out of a conflict don’t get a free lunch on affecting multiple targets, whether it’s one aspect or several that justify the compel. A player must spend one fate point for each target they wish to compel. One fate point compels one individual, period.
 
@@ -4026,34 +4026,34 @@ On their own, nameless NPCs usually aren’t meant to provide much of a challeng
 
 For a nameless NPC, all you really need is two or three skills based on their role in the scene. Your average security guard might have Fight and Shoot, while your average clerk might only have Lore. They never get more than one or two aspects, because they just aren’t important enough. They only have one or two stress boxes, if any, to absorb both physical and mental hits. In other words, they’re no match for a typical PC.
 
-Nameless NPCs come in three varieties: **Average**, **Fair**, and **Good**.
+Nameless NPCs come in three varieties: __Average__, __Fair__, and __Good__.
 
-##### **Average**
-
-
-- **Competence:** Rank-and-file order-takers, local conscripts, and the like. When in doubt, a nameless NPC is Average.
-- **Purpose:** Mostly there to make the PCs look more awesome.
-- **Aspects:** One or two.
-- **Skills:** One or two Average (+1).
-- **Stress:** No stress boxes—a one shift hit is enough to take them out.
-
-##### **Fair**
+##### __Average__
 
 
-- **Competence:** Trained professionals, like soldiers and elite guards, or others whose role in the scene speaks to their experience, such as a sharp-tongued courtier or talented thief.
-- **Purpose:** Drain a few of the players’ resources (one or two fate points, stress boxes, possibly a mild consequence).
-- **Aspects:** One or two.
-- **Skills:** One Fair (+2), and one or two Average (+1).
-- **Stress:** One stress box—a two shift hit is enough to take them out.
+- __Competence:__ Rank-and-file order-takers, local conscripts, and the like. When in doubt, a nameless NPC is Average.
+- __Purpose:__ Mostly there to make the PCs look more awesome.
+- __Aspects:__ One or two.
+- __Skills:__ One or two Average (+1).
+- __Stress:__ No stress boxes—a one shift hit is enough to take them out.
+
+##### __Fair__
+
+
+- __Competence:__ Trained professionals, like soldiers and elite guards, or others whose role in the scene speaks to their experience, such as a sharp-tongued courtier or talented thief.
+- __Purpose:__ Drain a few of the players’ resources (one or two fate points, stress boxes, possibly a mild consequence).
+- __Aspects:__ One or two.
+- __Skills:__ One Fair (+2), and one or two Average (+1).
+- __Stress:__ One stress box—a two shift hit is enough to take them out.
 
 ##### Good
 
 
-- **Competence:** Tough opposition, especially in numbers.
-- **Purpose:** Drain the players’ resources—as Fair, but more so. Provide a decent stumbling block (in numbers) on the way to a more significant encounter.
-- **Aspects:** One or two.
-- **Skills:** One Good (+3), one Fair (+2), and one or two Average (+1).
-- **Stress:** Two stress boxes—a three shift hit is enough to take them out.
+- __Competence:__ Tough opposition, especially in numbers.
+- __Purpose:__ Drain the players’ resources—as Fair, but more so. Provide a decent stumbling block (in numbers) on the way to a more significant encounter.
+- __Aspects:__ One or two.
+- __Skills:__ One Good (+3), one Fair (+2), and one or two Average (+1).
+- __Stress:__ Two stress boxes—a three shift hit is enough to take them out.
 
 ##### Mobs
 
@@ -4118,8 +4118,8 @@ Supporting NPCs are made much like nameless NPCs, except they get to have a few 
 Skills for a supporting NPC should follow a [column distribution](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-40). Because you’re only going to define four or five skills, just treat it as one column. If your NPC has a skill at Great, fill in one skill at each positive step below it—so one Good, one Fair, and one Average skill.
 
 
-- **Skill Levels:** A supporting NPC’s top skill can exceed your best PC’s by one or two levels, but only if their role in the game is to provide serious opposition—supporting NPCs who are allied with the PCs should be their rough peers in skill level. (Another action-adventure trope is to make the “lieutenant” character better than the main villain at combat, contrasting brawn to the villain’s brain.)
-- **Concessions:** Supporting NPCs should not fight to the bitter end, given the option. Instead, have them concede conflicts often, especially early in a story, and especially if the concession is something like “They get away.” Conceding like this serves a few purposes. For one, it foreshadows a future, more significant encounter with the NPC. Because conceding comes with a reward of one or more fate points, it also makes them more of a threat the next time they show up. What’s more, it’s virtually guaranteed to pay off for the players in a satisfying way the next time the NPC makes an appearance. “So, Landon, we meet again! But this time it shall not go so easily for you.”
+- __Skill Levels:__ A supporting NPC’s top skill can exceed your best PC’s by one or two levels, but only if their role in the game is to provide serious opposition—supporting NPCs who are allied with the PCs should be their rough peers in skill level. (Another action-adventure trope is to make the “lieutenant” character better than the main villain at combat, contrasting brawn to the villain’s brain.)
+- __Concessions:__ Supporting NPCs should not fight to the bitter end, given the option. Instead, have them concede conflicts often, especially early in a story, and especially if the concession is something like “They get away.” Conceding like this serves a few purposes. For one, it foreshadows a future, more significant encounter with the NPC. Because conceding comes with a reward of one or more fate points, it also makes them more of a threat the next time they show up. What’s more, it’s virtually guaranteed to pay off for the players in a satisfying way the next time the NPC makes an appearance. “So, Landon, we meet again! But this time it shall not go so easily for you.”
 
 Finally, it implicitly demonstrates to the players that, when things are desperate, conceding a conflict is a viable course of action. A PC concession here and there can raise the stakes and introduce new complications organically, both of which make for a more dramatic, engaging story.
 
@@ -4204,7 +4204,7 @@ Your opposition will be way more interesting if they try to get at the PCs in mu
 
 For example, someone going after Landon probably doesn’t want to confront him physically, because Fight and Athletics are his highest skills. He’s not as well equipped to see through a clever deception, however, or handle a magical assault on his mind. Zird, on the other hand, is best threatened by the biggest, nastiest bruiser possible, someone who can strike at him before he has a chance to bring his magic to bear.
 
-**9**
+__9__
 
 # SCENES, SESSIONS, AND SCENARIOS
 
@@ -4230,7 +4230,7 @@ Once the problem is resolved (or it can no longer be resolved), the scenario is 
 
 ---
 
-**CREATING A SCENARIO: STEP BY STEP**
+__CREATING A SCENARIO: STEP BY STEP__
 
 
 - Find Problems
@@ -4242,7 +4242,7 @@ Once the problem is resolved (or it can no longer be resolved), the scenario is 
 
 ## FIND PROBLEMS
 
-Creating a scenario begins with finding a problem for the PCs to deal with. A good problem is **relevant to the PCs, cannot be resolved without their involvement, and cannot be ignored without dire consequences.**
+Creating a scenario begins with finding a problem for the PCs to deal with. A good problem is __relevant to the PCs, cannot be resolved without their involvement, and cannot be ignored without dire consequences.__
 
 That may seem like a tall order. Fortunately, you have a great storytelling tool to help you figure out appropriate problems for your game: aspects.
 
@@ -4256,7 +4256,7 @@ You can look at an aspect-related problem as a very large-scale kind of [event 
 
 ---
 
-**YOU DON’T ALWAYS HAVE TO DESTROY THE WORLD**
+__YOU DON’T ALWAYS HAVE TO DESTROY THE WORLD__
 
 As you will see from the examples, not all of our urgent, consequential problems necessarily involve the fate of the world or even a large portion of the setting. Interpersonal problems can have just as much of an impact on a group of PCs as stopping this week’s bad guy—winning someone’s respect or resolving an ongoing dispute between two characters can just as easily take the focus for a scenario as whatever grand scheme your badass villain is cooking up.
 
@@ -4309,7 +4309,7 @@ Ask yourself:
 
 ---
 
-**PUT A FACE ON IT**
+__PUT A FACE ON IT__
 
 While not all of your scenario problems have to be directly caused by an NPC who serves as a “master villain” for the PCs to take down, it’s often easier if they are. At the very least, you should be able to point directly to an NPC who benefits a great deal from the scenario problem not going the way the PCs want it to go.
 
@@ -4367,7 +4367,7 @@ Ask yourself:
 
 ---
 
-**HOW MANY PROBLEMS DO I NEED?**
+__HOW MANY PROBLEMS DO I NEED?__
 
 For a single scenario, one or two is sufficient, trust us. You’ll see below that even one problem can create enough material for two or three sessions. Don’t feel like you have to engage every PC with every scenario—rotate the spotlight around a little so that they each get some spotlight time, and then throw in an issue-related scenario when you want to concentrate on the larger “plot” of the game.
 
@@ -4698,11 +4698,11 @@ A scenario ends when you’ve run enough scenes to definitively answer most of t
 
 Don’t feel the need to answer every story question if you’ve brought things to a satisfying conclusion—you can either use unresolved story questions for future scenarios or let them lie if they didn’t get a whole lot of traction with the players.
 
-The end of a scenario usually triggers a [**significant milestone**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-99). When this happens, you should also see if the game [world needs advancing](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-100) too.
+The end of a scenario usually triggers a [__significant milestone__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-99). When this happens, you should also see if the game [world needs advancing](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-100) too.
 
 
 
-**10**
+__10__
 
 # THE LONG GAME
 
@@ -4832,7 +4832,7 @@ When you spend your skill point, it’s worth one step on the ladder. You can us
 
 During character creation, you organized your skills into a pyramid. You don’t have to stick to that for character advancement.
 
-However, there’s still a limitation you have to deal with, **skill columns.** This means **you can’t have more skills at a certain rank than you have at the rank below it**. So if you have three Good columns, you have at least three Average (+1) skills and at least three Fair (+2) skills to support your three Good (+3) skills.
+However, there’s still a limitation you have to deal with, __skill columns.__ This means __you can’t have more skills at a certain rank than you have at the rank below it__. So if you have three Good columns, you have at least three Average (+1) skills and at least three Fair (+2) skills to support your three Good (+3) skills.
 
 The pyramid follows this rule already, but when you’re adding skills, you need to make sure you don’t violate that limit. It’s easy to forget that if you use a skill point to upgrade one of your own skills, you might suddenly not have enough skills to “support” it at the new rank.
 
@@ -4908,7 +4908,7 @@ Most of all, a major milestone should signal that lots of things in the world of
 
 ---
 
-**BACK TO CHARACTER CREATION**
+__BACK TO CHARACTER CREATION__
 
 One way of looking at a major milestone is that it’s the equivalent of a season finale in a television show. Once you start the next session, a lot of things have the potential to be fundamentally different about your game—you might be focused on new problems, several characters will have aspects changed, there will be new threats in the setting, and so on.
 
@@ -5011,7 +5011,7 @@ With the latter, you allow the NPC to advance like the PCs have—you add new sk
 
 ---
 
-**11**
+__11__
 
 # EXTRAS
 
@@ -5031,13 +5031,13 @@ The tools in here will let you tailor extras to fit your game or provide materia
 
 We consider extras to be an extension of the character sheet, so whoever controls the character to whom the extra belongs also controls that extra. Most of the time, that’ll be the players, but NPCs may also have extras controlled by the GM.
 
-Extras require a [**permission** or **cost**](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-129) to own.
+Extras require a [__permission__ or __cost__](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-129) to own.
 
 ## THE BRONZE RULE, AKA THE FATE FRACTAL
 
 Before we go any further, here’s something important:
 
-**In Fate, you can treat anything in the game world like it’s a character. Anything can have aspects, skills, stunts, stress tracks, and consequences if you need it to.**
+__In Fate, you can treat anything in the game world like it’s a character. Anything can have aspects, skills, stunts, stress tracks, and consequences if you need it to.__
 
 We call this the Bronze Rule, but you may also have heard of it as the Fate Fractal if you pay attention to the Internet. We’ve already seen some examples of this earlier in the book; you give your game its own aspects during creation, you place [situation aspects](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-136) on the environment as well as on characters, and the GM can let [environmental hazards](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-118) attack as if they had skills.
 
@@ -5153,21 +5153,21 @@ Once you’ve got all the elements together, you can make a writeup for your ext
 
 ---
 
-#### **Extra: Collegia Arcana Magic**
+#### __Extra: Collegia Arcana Magic__
 
-**Permissions:** One aspect reflecting that you’ve been trained by the Collegia
+__Permissions:__ One aspect reflecting that you’ve been trained by the Collegia
 
-**Costs:** Skill ranks, specifically those invested in the Lore skill (Normally, you’d probably also charge points of refresh, because you’re adding new actions to a skill, but Amanda’s group is lazy and is handwaving it in favor of group consensus.)
+__Costs:__ Skill ranks, specifically those invested in the Lore skill (Normally, you’d probably also charge points of refresh, because you’re adding new actions to a skill, but Amanda’s group is lazy and is handwaving it in favor of group consensus.)
 
 People who are trained in Collegia magic are able to use their knowledge to perform supernatural effects, adding the following actions to the Lore skill:
 
-**Overcome:** Use Lore to prepare and perform magical rituals successfully, or to answer questions about arcane phenomena.
+__Overcome:__ Use Lore to prepare and perform magical rituals successfully, or to answer questions about arcane phenomena.
 
-**Create an Advantage:** Use Lore to alter the environment with magic or place mental and physical impediments on a target, such as Slowed Movement or A Foggy Head. Characters can defend against this with Will.
+__Create an Advantage:__ Use Lore to alter the environment with magic or place mental and physical impediments on a target, such as Slowed Movement or A Foggy Head. Characters can defend against this with Will.
 
-**Attack:** Use Lore to directly harm someone with magic, whether through conjuring of elements or mental assault. Targets can defend against this with Athletics or Will depending on the nature of the attack, or Lore if the target also has magical training.
+__Attack:__ Use Lore to directly harm someone with magic, whether through conjuring of elements or mental assault. Targets can defend against this with Athletics or Will depending on the nature of the attack, or Lore if the target also has magical training.
 
-**Defend:** Use Lore to defend against hostile magics or other supernatural effects.
+__Defend:__ Use Lore to defend against hostile magics or other supernatural effects.
 
 ## EXTRAS AND ADVANCEMENT
 
@@ -5190,7 +5190,7 @@ Several of the entries in this section refer to Weapon and Armor ratings. You ca
 
 A Weapon value adds to the shift value of a successful hit. So, if you have Weapon:2, it means that any hit is worth 2 more shifts than it would normally be. This counts for ties, so when you’re using a weapon, you inflict stress on a tie instead of getting a boost. That makes weapons very dangerous.
 
-An Armor value reduces the shifts of a successful hit. So, Armor:2 makes any hit worth 2 less than usual. **If you hit, but the target’s Armor reduces the shift value to 0 or below, you get a boost to use on your target but don’t do any harm.**
+An Armor value reduces the shifts of a successful hit. So, Armor:2 makes any hit worth 2 less than usual. __If you hit, but the target’s Armor reduces the shift value to 0 or below, you get a boost to use on your target but don’t do any harm.__
 
 We recommend setting a scale for Weapon damage from 1 to 4, keeping in mind that on a tie, a Weapon:4 hit will take out _four_ Average nameless NPCs. Then set your Armor ratings based on what you think you’d need to fully protect against the weapons on each level.
 
@@ -5200,13 +5200,13 @@ We recommend setting a scale for Weapon damage from 1 to 4, keeping in mind that
 
 > Extrapolating from there, she ends up with the following:
 
-> **Weapon:1** corresponds to items like brass knuckles and small saps, or most improvised weapons.**Armor:1** is padded clothes.
+> __Weapon:1__ corresponds to items like brass knuckles and small saps, or most improvised weapons.__Armor:1__ is padded clothes.
 
-> **Weapon:2** corresponds to short blades or clubs, such as a dagger or a truncheon. **Armor:2** is padding and mail.
+> __Weapon:2__ corresponds to short blades or clubs, such as a dagger or a truncheon. __Armor:2__ is padding and mail.
 
-> **Weapon:3** covers most swords, maces, and anything you use one-handed. **Armor:3** is mail and plate.
+> __Weapon:3__ covers most swords, maces, and anything you use one-handed. __Armor:3__ is mail and plate.
 
-> **Weapon:4** is reserved for large, two-handed melee weapons. **Armor:4** is full-plate.
+> __Weapon:4__ is reserved for large, two-handed melee weapons. __Armor:4__ is full-plate.
 
 ---
 
@@ -5240,7 +5240,7 @@ _These are all taken from a game called_ Chrome City_, home of Simon the Cyber-
 
 #### Extra: Energy Blast
 
-**Costs:** 2 points of refresh
+__Costs:__ 2 points of refresh
 
 You can use Shoot to blast other people with energy, without needing a gun or other implement. You have free rein to decide what your blast is like, whether it’s some elemental force or just undefined bolts of light. (This doesn’t cost refresh, because you can already use Shoot for attacks.)
 
@@ -5250,7 +5250,7 @@ You get +2 when using your energy blasts to make attacks or create advantages, a
 
 #### Extra: Super-Strength
 
-**Costs:** 2–6 points of refresh
+__Costs:__ 2–6 points of refresh
 
 Your Fight attacks are Weapon:2, and nearly all “raw strength” applications of Physique are at +2. Every additional 2 points of refresh you spend adds a +2 to all bonuses.
 
@@ -5258,7 +5258,7 @@ Your Fight attacks are Weapon:2, and nearly all “raw strength” applications 
 
 #### Extra: Super-Speed
 
-**Costs:** 3 points of refresh
+__Costs:__ 3 points of refresh
 
 You always go first in a conflict exchange. If someone else in the conflict has Super-Speed, compare skills as normal.
 
@@ -5270,7 +5270,7 @@ Except for absolute barriers like solid walls, you ignore all situation aspects 
 
 #### Extra: Super-Resilience
 
-**Costs:** 1–3 refresh
+__Costs:__ 1–3 refresh
 
 You have Armor:2 vs. any defense roll against physical damage. Each additional point of refresh adds 2 to that total.
 
@@ -5278,7 +5278,7 @@ You have Armor:2 vs. any defense roll against physical damage. Each additional p
 
 #### Extra: X-Ray Vision
 
-**Costs:** 2 refresh
+__Costs:__ 2 refresh
 
 You don’t roll Notice or Investigate actions if the object of your search is hidden behind an opaque object—just assume you automatically succeed.
 
@@ -5286,7 +5286,7 @@ This also helps you stay hidden, because you can see when people are looking for
 
 ---
 
-**POWERS AND SCALING**
+__POWERS AND SCALING__
 
 As you can see, “balancing” powers in Fate is more a matter of art than science. There are some rough equivalencies you can rely on, like 1 fate point = 1 invoke-equivalent or 1 stunt-equivalent, but when you get into writing rules exceptions like the one for X-Ray Vision, there’s no hard or fast rule for what’s too powerful. Everything is relative to your tastes, and Fate is hard to break.
 
@@ -5308,7 +5308,7 @@ We recommend against going overboard with this and giving every single item your
 
 ---
 
-#### **QUICK AND DIRTY STORY-BASED GEAR**
+#### __QUICK AND DIRTY STORY-BASED GEAR__
 
 If you don’t want to deal with extras, there’s a way to do gear that doesn’t require too much rigmarole: think of them as auto-created advantages that you bring into a scene. GMs, you already get to put stuff likeNarrow Alleys and Rough Terrain out there—you can also apply this to describe the situational advantages that characters get from gear.
 
@@ -5320,9 +5320,9 @@ In those rare situations where you have the absolutely ideal tool for a job, the
 
 #### Extra: Demonbane, The Enchanted Sword
 
-**Permissions:** Finding the sword during the game
+__Permissions:__ Finding the sword during the game
 
-**Costs:** None
+__Costs:__ None
 
 The sword Demonbane has an aspect called Slayer of Demon-Kind. If you are the sword’s bearer, you can invoke this aspect when fighting or opposing demons. You may also be subject to a compel due to the sword’s enchantment; it continually pushes its bearers to destroy demons with total abandon, and may cause you to lose sight of other objectives, prevent you from escaping a demon’s notice, or other complications.
 
@@ -5332,9 +5332,9 @@ In addition, invoking the sword’s aspect has another pair of special effects: 
 
 #### Extra: Brace Jovannich’s Dueling Pistol
 
-**Permissions:** Possessing the aspect The Legacy of Brace
+__Permissions:__ Possessing the aspect The Legacy of Brace
 
-**Costs:** One aspect slot (for the permission aspect) and one point of refresh
+__Costs:__ One aspect slot (for the permission aspect) and one point of refresh
 
 Brace Jovannich is the most feared, most respected gunfighter the world of Aedeann has ever known. His gun, known worldwide for the slaying and maiming of hundreds, is yours now. Only you know why you don’t just throw it in a canal and save yourself the trouble of its reputation.
 
@@ -5358,43 +5358,43 @@ Another potential use for custom skills is to set up really specific niches for 
 
 #### Extra: Interface
 
-**Permissions:** Possession of an interface package (assumed if you take the skill)
+__Permissions:__ Possession of an interface package (assumed if you take the skill)
 
-**Costs:** Skill ranks
+__Costs:__ Skill ranks
 
 The Interface skill allows you interact with computers and teched-up objects in a way that most people can’t. You can get inside the machine’s head, talk to it like most people would chat to a friend, and fight it like you’re in a bar brawl. Of course, that means the machine can also do that stuff to you.
 
-**Overcome:** Use Interface to fix a malfunctioning computer system, bypass security lockdowns and other obstacles by hacking your way through, force a piece of tech to trigger a programmed response, and keep a piece of tech from triggering a response.
+__Overcome:__ Use Interface to fix a malfunctioning computer system, bypass security lockdowns and other obstacles by hacking your way through, force a piece of tech to trigger a programmed response, and keep a piece of tech from triggering a response.
 
-**Create an Advantage:** Use Interface to learn about the properties of a particular piece of tech (i.e. learn its aspects), to diagnose malfunctions in a computer system, to plant fake signals or false information in a computer system, and to create disruptions.
+__Create an Advantage:__ Use Interface to learn about the properties of a particular piece of tech (i.e. learn its aspects), to diagnose malfunctions in a computer system, to plant fake signals or false information in a computer system, and to create disruptions.
 
-**Attack:** Use Interface to break down a computer system directly.
+__Attack:__ Use Interface to break down a computer system directly.
 
-**Defend:** Use Interface to defend against attacks from computer systems. Failed defense rolls will result in physical stress and consequences—a cyber-interface means your actual, physical brain is at stake.
+__Defend:__ Use Interface to defend against attacks from computer systems. Failed defense rolls will result in physical stress and consequences—a cyber-interface means your actual, physical brain is at stake.
 
 ---
 
 #### Extra: Media
 
-**Permissions:** Choosing “The Media” archetype at character creation
+__Permissions:__ Choosing “The Media” archetype at character creation
 
-**Costs:** Skill ranks and refresh, for associated stunts
+__Costs:__ Skill ranks and refresh, for associated stunts
 
 Others can spread gossip and rumors, but you have your finger on the pulse of broadcast media. At your word, the events of the day become news, whether it’s on television, radio, or the Internet.
 
-**Overcome:** Use Media to disseminate information to the public, with whatever spin you want to put on it. More obscure or local incidents will be harder to spread, and it’ll be harder to make your own spin prevalent if the story’s already been picked up by other outlets. Success means that generally, the public believes what you want them to believe about the incident, though named NPCs may have more complex opinions.
+__Overcome:__ Use Media to disseminate information to the public, with whatever spin you want to put on it. More obscure or local incidents will be harder to spread, and it’ll be harder to make your own spin prevalent if the story’s already been picked up by other outlets. Success means that generally, the public believes what you want them to believe about the incident, though named NPCs may have more complex opinions.
 
-**Create an Advantage:** Use Media to place aspects on an event or an individual reflecting the reputation they gain from your stories.
+__Create an Advantage:__ Use Media to place aspects on an event or an individual reflecting the reputation they gain from your stories.
 
-**Attack:** If you have sufficient leverage to psychologically harm someone through a smear campaign and/or media bullying, use this for attacks.
+__Attack:__ If you have sufficient leverage to psychologically harm someone through a smear campaign and/or media bullying, use this for attacks.
 
-**Defend:** Use Media to prevent damage to your own reputation or peace of mind from someone else using the Media skill.
+__Defend:__ Use Media to prevent damage to your own reputation or peace of mind from someone else using the Media skill.
 
 
 
-**Stunts:****Want Ads.** You may use Media for the same kind of Overcome rolls you’d use Contacts for, by summoning services you need through classifieds.
+__Stunts:____Want Ads.__ You may use Media for the same kind of Overcome rolls you’d use Contacts for, by summoning services you need through classifieds.
 
-**Mob Justice.** You can incite people in public to physical violence with Media, and gain the use of two Average (+1) nameless NPCs for that scene, who will attack people at your direction.---
+__Mob Justice.__ You can incite people in public to physical violence with Media, and gain the use of two Average (+1) nameless NPCs for that scene, who will attack people at your direction.---
 
 ### Wealth
 
@@ -5408,17 +5408,17 @@ You can also use something like this to model honor or reputation in a setting w
 
 #### Extra: Resources, Revisited
 
-**Permissions:** None, anyone can take the skill
+__Permissions:__ None, anyone can take the skill
 
-**Costs:** Skill ranks
+__Costs:__ Skill ranks
 
 At creation, all characters get a special mild (A 20-spot From a Friend), moderate (Payday Loan), and severe (They Want To Break My Kneecaps) consequence that they can take in wealth-related conflicts.
 
 Add the following actions to the Resources skill:
 
-**Attack:** You can make financial moves to destroy someone else’s resources or force them to overspend to deal with you, and thus inflict wealth stress and consequences. If you take someone out this way, it means some kind of permanent shift in their finances for the worse.
+__Attack:__ You can make financial moves to destroy someone else’s resources or force them to overspend to deal with you, and thus inflict wealth stress and consequences. If you take someone out this way, it means some kind of permanent shift in their finances for the worse.
 
-**Defend:** Use Resources to maintain your status in the face of attempts to destroy your capital.
+__Defend:__ Use Resources to maintain your status in the face of attempts to destroy your capital.
 
 ---
 
@@ -5438,23 +5438,23 @@ _In this game, the characters are given a handful of extra refresh, skill ranks,
 
 ---
 
-#### Extra: The _**Galerider**_
+#### Extra: The ___Galerider___
 
-**Permissions:** None; understood as part of the game’s conceit
+__Permissions:__ None; understood as part of the game’s conceit
 
-**Costs:** Skill ranks, refresh, and aspect slots, invested by several characters
+__Costs:__ Skill ranks, refresh, and aspect slots, invested by several characters
 
-**Aspects:**Fastest Ship in the Fleet, Hidden Cargo Compartments, Lord Tamarin Wants To Sink Her
+__Aspects:__Fastest Ship in the Fleet, Hidden Cargo Compartments, Lord Tamarin Wants To Sink Her
 
-**Skills:** (representing the ship’s crew; PCs can use their own skills if higher)
+__Skills:__ (representing the ship’s crew; PCs can use their own skills if higher)
 
 Good (+3) Notice
 
 Fair (+2) Shoot, Sail (equivalent to Drive)
 
-**Stunts:****Pour On The Speed.** The _Galerider_ gives +2 on any Sail rolls to win a contest of speed.
+__Stunts:____Pour On The Speed.__ The _Galerider_ gives +2 on any Sail rolls to win a contest of speed.
 
-**Boobytrapped:** For a fate point, any PC can have Weapon:2 on an attack or add 2 to the Weapon value of any Fight attack that happens on board, by triggering any of the nasty traps scattered across the deck and interiors as part of their action.
+__Boobytrapped:__ For a fate point, any PC can have Weapon:2 on an attack or add 2 to the Weapon value of any Fight attack that happens on board, by triggering any of the nasty traps scattered across the deck and interiors as part of their action.
 
 ---
 
@@ -5462,15 +5462,15 @@ This is for a game where every PC is the ruler of a separate nation state on a f
 
 #### Extra: The Plenary of Ghiraul
 
-**Permissions:** None; assumed as part of the game’s premise
+__Permissions:__ None; assumed as part of the game’s premise
 
-**Costs:** A special pool of aspects, skill ranks, and stunts
+__Costs:__ A special pool of aspects, skill ranks, and stunts
 
 This small nation-state is known for its vast spy network and laws which protect the rich and powerful, usually at the expense of the peasantry. You rule it; congrats. When acting against other nations, use the skills here rather than the ones on your character sheet. In this case, your skills represent the efforts of your spies, nobles, artisans, and armies, respectively.
 
-**Aspects:**We’re Watching You; The Rich Eat the Poor; Sharp Minds, Dull Blades
+__Aspects:__We’re Watching You; The Rich Eat the Poor; Sharp Minds, Dull Blades
 
-**Skills:** Great (+4) Investigate
+__Skills:__ Great (+4) Investigate
 
 Good (+3) Resources
 
@@ -5478,7 +5478,7 @@ Fair (+2) Crafts
 
 Average (+1) Fight
 
-**Stunts:****Counter-Intelligence.** The Plenary can use Investigate to defend against other nations’ attempts to learn its aspects. Succeeding with style on this defense allows the Plenary to feed the nation an aspect that contains false information instead.
+__Stunts:____Counter-Intelligence.__ The Plenary can use Investigate to defend against other nations’ attempts to learn its aspects. Succeeding with style on this defense allows the Plenary to feed the nation an aspect that contains false information instead.
 
 ---
 
@@ -5492,9 +5492,9 @@ _Lucas the Magic Cop is a PC in the Fate game_ Ancestral Affairs_, inspired by 
 
 #### Extra: Lucas’s Arts
 
-**Permissions:** None, anyone can commune with a spirit for power
+__Permissions:__ None, anyone can commune with a spirit for power
 
-**Costs:** Aspect slots, skill ranks, stress/consequences
+__Costs:__ Aspect slots, skill ranks, stress/consequences
 
 At creation, characters get an extra three slots for aspects that they can assign to describe their relationship with an ancestor spirit. The aspect should include context, so something like Sujan Has It In For Meor Dammar and I Share Respect is appropriate.
 
@@ -5508,15 +5508,15 @@ To use ancestral powers, you must take a new skill called Commune.
 
 This is the skill for becoming one with and manipulating the energy of ancestral spirits.
 
-**Overcome:** Use Commune to negate the energy of unformed, minor spirits (read: unnamed NPCs) or to impose your will on an ancestral spirit with whom you are not currently bound. Failing one of these rolls is likely to cause you karmic stress or consequences.
+__Overcome:__ Use Commune to negate the energy of unformed, minor spirits (read: unnamed NPCs) or to impose your will on an ancestral spirit with whom you are not currently bound. Failing one of these rolls is likely to cause you karmic stress or consequences.
 
-**Create an Advantage:** Use Commune to stack free invokes on your spirit aspects, or to retune the spiritual energy in an area to your favor.
+__Create an Advantage:__ Use Commune to stack free invokes on your spirit aspects, or to retune the spiritual energy in an area to your favor.
 
-**Attack:** Use Commune to temporarily dispel hostile spirits and demons. (Note: You cannot attack humans or other corporeal entities directly with this action.)
+__Attack:__ Use Commune to temporarily dispel hostile spirits and demons. (Note: You cannot attack humans or other corporeal entities directly with this action.)
 
-**Defend:** Use Commune to defend against hostile supernatural influences. Failing to defend from these attacks deals karmic stress. (Note: You cannot defend against supernaturally enhanced attacks from humans or other corporeal entities directly with this action.)
+__Defend:__ Use Commune to defend against hostile supernatural influences. Failing to defend from these attacks deals karmic stress. (Note: You cannot defend against supernaturally enhanced attacks from humans or other corporeal entities directly with this action.)
 
-**Special:** Commune adds stress and consequence slots to your karmic stress track, using the same rules for Physique and Will. Consequences from a karmic attack literally retune the universe around your character, so things like Poor Luck or Surrounded by Sadness are good candidates.
+__Special:__ Commune adds stress and consequence slots to your karmic stress track, using the same rules for Physique and Will. Consequences from a karmic attack literally retune the universe around your character, so things like Poor Luck or Surrounded by Sadness are good candidates.
 
 ---
 
@@ -5526,11 +5526,11 @@ Each of the ancestral spirits also gets a writeup, which describes their portfol
 
 #### Sujan, the Spirit of Warding
 
-**Portfolio:** Defense and protection
+__Portfolio:__ Defense and protection
 
-**Philosophy:** All life is worth guarding and preserving, even in the face of great adversity
+__Philosophy:__ All life is worth guarding and preserving, even in the face of great adversity
 
-**Benefits:**
+__Benefits:__
 
 
 - You may prevent any mundane calamity of fate once per scene—avert that car accident, stop someone just short of going over the cliff, or put someone just out of the reach of that explosion. There is no roll for this; it just happens. You can’t use this to retcon an action, only change its outcome.
@@ -5544,9 +5544,9 @@ _Here’s a build for a fantasy game with rigid schools of magic._
 
 #### Extra: Schools of Power
 
-**Permissions:** One aspect that names which order you belong to
+__Permissions:__ One aspect that names which order you belong to
 
-**Costs:** Aspect slot (for the permission), skill ranks (kind of), refresh
+__Costs:__ Aspect slot (for the permission), skill ranks (kind of), refresh
 
 Your aspect allows you to take membership in one of several arcane orders. Those orders have a mini-sheet of their own, with aspects, skills, and stunts. Having a membership in an order lets you “adopt” part of the order’s character sheet as your own.
 
@@ -5556,9 +5556,9 @@ You can only belong to one order at a time, and leaving an order to join another
 
 #### The Black League
 
-**Aspects:**Deception Is The Only Truth, The Dead Heed Us, Kill Your Betters Before They Kill You
+__Aspects:__Deception Is The Only Truth, The Dead Heed Us, Kill Your Betters Before They Kill You
 
-**Skills:** Great (+4) Learn
+__Skills:__ Great (+4) Learn
 
 Good (+3) Create
 
@@ -5566,11 +5566,11 @@ Fair (+2) Destroy
 
 Average (+1) Change
 
-**Stunts: Necromancy.** +2 to any use of the Black League’s skills to affect corpses.
+__Stunts: Necromancy.__ +2 to any use of the Black League’s skills to affect corpses.
 
-**Keeping Secrets.** Once per scene, you may reroll any Deceive skill roll and keep the best result.
+__Keeping Secrets.__ Once per scene, you may reroll any Deceive skill roll and keep the best result.
 
-**Shadow Play.** When using the Create skill, add an additional free invoke to any situation aspects you make involving darkness.
+__Shadow Play.__ When using the Create skill, add an additional free invoke to any situation aspects you make involving darkness.
 
 ---
 

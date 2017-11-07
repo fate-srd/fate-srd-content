@@ -12,7 +12,7 @@ Creating a new skill starts with a name. It doesn’t have to be the final name 
 
 Skill are defined in two ways: in terms of the _actions_ that you can take with the skill, and the _applications_ of its use. While there are only four actions, as discussed in _Fate Core_, the number of potential _applications_ is roughly infinite.
 
-A skill’s name provides context for its place in the story. Its actions tell you how it matters in game terms. The intersection of a skill’s context and its actions gives you its **applications**—the circumstances under which it can be used.
+A skill’s name provides context for its place in the story. Its actions tell you how it matters in game terms. The intersection of a skill’s context and its actions gives you its __applications__—the circumstances under which it can be used.
 
 For example, the context of a skill called Combat context is very likely going to be fighting, and the context of the _Fate Core_ skill Provoke is social interaction. Even if both skills have the attack action, they’ll apply it in different ways. Combat’s attack application involves inflicting physical harm with things like fists, guns, or other weapons, while Provoke’s attack application involves inflicting mental harm via threats and intimidation.
 
@@ -28,7 +28,7 @@ This distinction between “actions” and “applications” isn’t found in _
 
 The skill descriptions in _Fate Core_ go into a lot of helpful detail for each game action, but you don’t need to be so in-depth when making your own skills. A brief phrase for each application should suffice—just enough to remind yourself and the GM how it works. For example, “Overcome: Create believable illusions” or “Attack: Hallucinatory damage.”
 
-**Each skill starts at a cost of zero character points and has two free applications. For each application the skill has in excess of two, increase its cost by 1.**
+__Each skill starts at a cost of zero character points and has two free applications. For each application the skill has in excess of two, increase its cost by 1.__
 
 > Hallucinations has four applications, so it’ll cost 2 character points. Done!
 
@@ -48,81 +48,81 @@ Here are more detailed write-ups of a few standard _Fate Core_ skills. If a sing
 
 The Athletics skill represents your character’s general level of physical fitness, whether through training, natural gifts, or unusual means (like cybernetic enhancement or genetic alteration). It’s the skill that represents how good you are at moving your body.
 
-**Overcome:** Deal with an obstacle that requires physical movement—jumping, running, climbing, swimming, etc. If it resembles something you’d do in the decathlon, you should roll Athletics. You’d also roll to participate in any contests or challenges that rely on these types of activities. Note that conflicts aren’t obstacles; those are handled by Defend (see below).
+__Overcome:__ Deal with an obstacle that requires physical movement—jumping, running, climbing, swimming, etc. If it resembles something you’d do in the decathlon, you should roll Athletics. You’d also roll to participate in any contests or challenges that rely on these types of activities. Note that conflicts aren’t obstacles; those are handled by Defend (see below).
 
-**Create Advantage:** Maneuver to gain an edge, such as finding Higher Ground, forcing someone to be Cornered, or climbing a tree to get a Bird’s Eye View.
+__Create Advantage:__ Maneuver to gain an edge, such as finding Higher Ground, forcing someone to be Cornered, or climbing a tree to get a Bird’s Eye View.
 
-**Defend:** Dodge close-quarters or ranged attacks in a physical conflict.
+__Defend:__ Dodge close-quarters or ranged attacks in a physical conflict.
 
-**Defend:** Counter efforts to create an advantage against you, if you’re in a position to physically interfere with whomever’s making the attempt, or to keep someone from moving past a certain point.
+__Defend:__ Counter efforts to create an advantage against you, if you’re in a position to physically interfere with whomever’s making the attempt, or to keep someone from moving past a certain point.
 
 ### Combat (2 skill points)
 
 The Combat skill deals in all manner of violence, unarmed or armed, close-quarters or ranged.
 
-**Create Advantage:** Execute a maneuver or “special move” in combat, such as disarming your opponent, throwing sand in their eyes, striking nerve points, or laying down suppressive fire.
+__Create Advantage:__ Execute a maneuver or “special move” in combat, such as disarming your opponent, throwing sand in their eyes, striking nerve points, or laying down suppressive fire.
 
-**Attack:** Inflict some form of physical harm, whether hand-to-hand or ranged. Defend against Combat attacks with Combat or Athletics.
+__Attack:__ Inflict some form of physical harm, whether hand-to-hand or ranged. Defend against Combat attacks with Combat or Athletics.
 
-**Defend:** Counter hand-to-hand attacks in a physical conflict. Combat _cannot_ defend against ranged attacks, however; use Athletics for that.
+__Defend:__ Counter hand-to-hand attacks in a physical conflict. Combat _cannot_ defend against ranged attacks, however; use Athletics for that.
 
-**Defend:** Counter an attempt to create combat-oriented advantages.
+__Defend:__ Counter an attempt to create combat-oriented advantages.
 
 ### Contacts (2 skill points)
 
 Contacts is the skill of knowing people and making connections with them, especially in a pinch. The better you are with Contacts, the better your information network.
 
-**Overcome:** Poll your social networks for information. Whether that’s old-fashioned “man on the street” type of work or searching archives and computer databases, you’re able to hunt down information (or people). Note that in the case of finding a specific person, a successful roll doesn’t necessarily give you immediate access to them, depending on the situation. For example, if the research scientist in question is currently detained by the authorities, that’ll be a separate obstacle to overcome (maybe using Contacts, maybe using some other skill).
+__Overcome:__ Poll your social networks for information. Whether that’s old-fashioned “man on the street” type of work or searching archives and computer databases, you’re able to hunt down information (or people). Note that in the case of finding a specific person, a successful roll doesn’t necessarily give you immediate access to them, depending on the situation. For example, if the research scientist in question is currently detained by the authorities, that’ll be a separate obstacle to overcome (maybe using Contacts, maybe using some other skill).
 
-**Create Advantage:** Leverage your contacts to create a story detail or create/discover an aspect. “Hey, my contacts tell me that Joe Steel is the Best Mechanic For A Thousand Miles—we should talk to him.”
+__Create Advantage:__ Leverage your contacts to create a story detail or create/discover an aspect. “Hey, my contacts tell me that Joe Steel is the Best Mechanic For A Thousand Miles—we should talk to him.”
 
-**Create Advantage:** Get the word on the street about a particular individual, object, or location, based on what your contacts tell you. These aspects almost always deal with reputation more than fact, such as Known Sycophant or Notorious Swindler. Whether that person lives up to their reputation is anybody’s guess, though that doesn’t invalidate the aspect. (People often have misleading reputations about themselves that complicate their lives.) Similarly, you can also use your information network to plant information or get you information to help in the conflict.
+__Create Advantage:__ Get the word on the street about a particular individual, object, or location, based on what your contacts tell you. These aspects almost always deal with reputation more than fact, such as Known Sycophant or Notorious Swindler. Whether that person lives up to their reputation is anybody’s guess, though that doesn’t invalidate the aspect. (People often have misleading reputations about themselves that complicate their lives.) Similarly, you can also use your information network to plant information or get you information to help in the conflict.
 
-**Defend:** Counter an opponent’s attempts to create social advantages against you, provided your information network can be brought to bear in the situation.
+__Defend:__ Counter an opponent’s attempts to create social advantages against you, provided your information network can be brought to bear in the situation.
 
 ### Deceive (3 skill points)
 
 As might be expected, this is the skill of lies and misdirection. Whether spinning a convincing falsehood, crafting a disguise, or bluffing some poor dope who really ought to know better, it’s all Deceive.
 
-**Overcome:** Bluff or give a false impression. These are situations in which the stakes aren’t high enough for a contest or conflict, but you still want to roll to see if things get complicated or not. More complicated cons might involve a contest or a challenge, as you layer the deception to achieve your goal.
+__Overcome:__ Bluff or give a false impression. These are situations in which the stakes aren’t high enough for a contest or conflict, but you still want to roll to see if things get complicated or not. More complicated cons might involve a contest or a challenge, as you layer the deception to achieve your goal.
 
-**Overcome:** Create a convincing disguise, whether for yourself or others. You’ll need to have the time and supplies to create the desired effect.
+__Overcome:__ Create a convincing disguise, whether for yourself or others. You’ll need to have the time and supplies to create the desired effect.
 
-**Create Advantage:** Obtain information from someone who (falsely) believes you to be trustworthy. This is more likely to get you story details than an aspect, but if the information represents a tangible advantage, it might net you an aspect.
+__Create Advantage:__ Obtain information from someone who (falsely) believes you to be trustworthy. This is more likely to get you story details than an aspect, but if the information represents a tangible advantage, it might net you an aspect.
 
 By a similar token, the advantage might be an aspect you’re putting forward as a false impression. For example, if you’re undercover at a fancy corporate shindig, you might use Deceive to declare a Wealthy Industrialist Cover Story on the scene to help you mingle with the guests.
 
-**Create Advantage:** Distract or misdirect, similar to declaring a false impression above. This can also apply in physical conflicts for feints and fake-outs, allowing you to put an enemy Off-Balance.
+__Create Advantage:__ Distract or misdirect, similar to declaring a false impression above. This can also apply in physical conflicts for feints and fake-outs, allowing you to put an enemy Off-Balance.
 
-**Defend:** Counter efforts to discern your true motives. This includes someone using Empathy against you, as well as throwing off investigation attempts with false information.
+__Defend:__ Counter efforts to discern your true motives. This includes someone using Empathy against you, as well as throwing off investigation attempts with false information.
 
 ### Empathy (3 skill points)
 
 Empathy involves knowing and being able to spot changes in a person’s mood or bearing. It’s basically the Notice skill (see below), but for people.
 
-**Overcome:** Perceive a change in someone’s attitude or intent.
+__Overcome:__ Perceive a change in someone’s attitude or intent.
 
-**Overcome:** Remove mental consequences from yourself or others.
+__Overcome:__ Remove mental consequences from yourself or others.
 
-**Create Advantage:** Read a person’s emotional state and/or get a general sense of who they are. This presumes you have some kind of interpersonal contact with them. Most often, this will mean discovering their aspects, but you can also create new aspects for NPCs as well. If the target has some reason to be aware that you’re trying to read them, they can defend with Deceive or Rapport. This includes the use of Empathy to try and discover what circumstances will allow you to conduct mental attacks against the target by figuring out their breaking points.
+__Create Advantage:__ Read a person’s emotional state and/or get a general sense of who they are. This presumes you have some kind of interpersonal contact with them. Most often, this will mean discovering their aspects, but you can also create new aspects for NPCs as well. If the target has some reason to be aware that you’re trying to read them, they can defend with Deceive or Rapport. This includes the use of Empathy to try and discover what circumstances will allow you to conduct mental attacks against the target by figuring out their breaking points.
 
-**Defend:** See through lies and deceptions to someone’s true intent.
+__Defend:__ See through lies and deceptions to someone’s true intent.
 
-**Defend:** Counter someone’s attempt to create an advantage against you in a social context. Generally speaking, this usually requires direct contact with them. If you’re working through an intermediary, Contacts is probably a more appropriate skill to use.
+__Defend:__ Counter someone’s attempt to create an advantage against you in a social context. Generally speaking, this usually requires direct contact with them. If you’re working through an intermediary, Contacts is probably a more appropriate skill to use.
 
 ### Notice (1 skill point)
 
 The Notice skill represents a character’s overall perception, ability to pick out details at a glance, and other powers of observation.
 
-**Overcome:** Spotting or reacting to something in the environment, often in a timely manner. This includes hearing the faint sound of a twig snapping behind you, spotting a concealed gun in that mail carrier’s waistband, and searching a cluttered room for the evidence you need.
+__Overcome:__ Spotting or reacting to something in the environment, often in a timely manner. This includes hearing the faint sound of a twig snapping behind you, spotting a concealed gun in that mail carrier’s waistband, and searching a cluttered room for the evidence you need.
 
 Note that this isn’t license for the GM to call for Notice rolls left and right to see how generally observant a character is; that’s boring. Instead, call for a Notice roll when both success and failure would have equally interesting results.
 
-**Create Advantage:** Discover something new and advantageous in the environment via direct observation. You might look over a room for details that stand out, find an escape route in a debris-filled building, notice someone sticking out in a crowd, and so on. This advantage can often manifest as a situation aspect. For example, you might spy Hidden Handholds in a wall, find a Weak Point in a tank’s armor plating, or chance upon some Distinctive Spoor in the course of tracking a monster.
+__Create Advantage:__ Discover something new and advantageous in the environment via direct observation. You might look over a room for details that stand out, find an escape route in a debris-filled building, notice someone sticking out in a crowd, and so on. This advantage can often manifest as a situation aspect. For example, you might spy Hidden Handholds in a wall, find a Weak Point in a tank’s armor plating, or chance upon some Distinctive Spoor in the course of tracking a monster.
 
 When you’re watching people, Notice can tell you what’s going on with them externally; for subtler, more internal changes, use Empathy.
 
-**Defend:** Watch over an area to detect people trying to use Stealth or Burglary to infiltrate it.
+__Defend:__ Watch over an area to detect people trying to use Stealth or Burglary to infiltrate it.
 
 #### Example: Action-Science Skills
 
@@ -181,27 +181,27 @@ A character’s array of modes is the only way to add stress boxes.
 
 Here are the standard modes in our action-science setting, complete with the standard skills each contains (taken from those listed earlier).
 
-**Action:** Action-hero type stuff, like flying a plane, leaping over a chasm, or some good old-fashioned face punching. If you’re being overtly physical or tough, you’re making use of a skill in the Action mode.
+__Action:__ Action-hero type stuff, like flying a plane, leaping over a chasm, or some good old-fashioned face punching. If you’re being overtly physical or tough, you’re making use of a skill in the Action mode.
 
 
-- **Skills:** Athletics, Combat, Notice, Physique, Provoke, Vehicles
+- __Skills:__ Athletics, Combat, Notice, Physique, Provoke, Vehicles
 
-**Banter:** Interpersonal skills, polite and otherwise. This covers everything from reasoned persuasion to irrational intimidation and all points in between.
+__Banter:__ Interpersonal skills, polite and otherwise. This covers everything from reasoned persuasion to irrational intimidation and all points in between.
 
 
-- **Skills:** Contacts, Deceive, Empathy, Provoke, Rapport, Will
+- __Skills:__ Contacts, Deceive, Empathy, Provoke, Rapport, Will
 
-**Intrigue:** Subterfuge, subtlety, and ventures of questionable legality. Stealth, disguise,
+__Intrigue:__ Subterfuge, subtlety, and ventures of questionable legality. Stealth, disguise,
 
 and your standard B&E all fall under Intrigue.
 
 
-- **Skills:** Athletics, Burglary, Contacts, Deceive, Notice, Stealth
+- __Skills:__ Athletics, Burglary, Contacts, Deceive, Notice, Stealth
 
-**Science:** All fields of scientific endeavor, whether you’re hacking a mainframe, accelerating particles, or rebuilding a transmission on a ’69 Charger. If you’re pitting your brain against an inanimate object, you’re probably doing Science.
+__Science:__ All fields of scientific endeavor, whether you’re hacking a mainframe, accelerating particles, or rebuilding a transmission on a ’69 Charger. If you’re pitting your brain against an inanimate object, you’re probably doing Science.
 
 
-- **Skills:** Notice, Will, all sciences. (See _Science: It’s Special_ on page XX for more detail on the Science mode.)
+- __Skills:__ Notice, Will, all sciences. (See _Science: It’s Special_ on page XX for more detail on the Science mode.)
 
 Even with just four modes, the player’ choices of ratings allow for plenty of variety—and that’s not even accounting for skills and stunts, which offer even more differentiation between PCs.
 
@@ -212,10 +212,10 @@ Supplementing these are custom modes. Optional and usually player-defined, custo
 We’ll unpack what all that means later on in this chapter, but for now here are some examples of custom modes.
 
 
-- **Robot:** You’re a mechanical artificial intelligence of some kind. Robo himself is the most obvious example, but that doesn’t mean he has to be the only one.
-- **Mutant:** You’ve been altered by science into something more (or less) than human. 
-- **Secret Agent:** You’re an elite operative for a shadowy organization of one kind or another.
-- **Reporter:** You’re a professional journalist of the investigative variety who relies on a sharp eye and sharper instincts to get to the bottom of things.
+- __Robot:__ You’re a mechanical artificial intelligence of some kind. Robo himself is the most obvious example, but that doesn’t mean he has to be the only one.
+- __Mutant:__ You’ve been altered by science into something more (or less) than human. 
+- __Secret Agent:__ You’re an elite operative for a shadowy organization of one kind or another.
+- __Reporter:__ You’re a professional journalist of the investigative variety who relies on a sharp eye and sharper instincts to get to the bottom of things.
 
 Some of modes will have a bit of thematic overlap, like Intrigue and Secret Agent. That’s perfectly normal and nothing to worry about. No standard mode is wholly unique, and many custom modes will share something in common with one or more standard modes, or even another custom mode the character may have. It’s actually beneficial when they do.
 
@@ -226,7 +226,7 @@ The cost of a mode equals the total combined cost of its skills. The cost of an 
 For example, here are the costs of our standard action-adventure modes:
 
 
-| **Mode** | **Cost**  |
+| __Mode__ | __Cost__  |
 |-|-|
 | Action | 9  |
 | Banter | 9  |
@@ -271,7 +271,7 @@ Regardless of how many modes reinforce a skill, it should never appear more than
 Reinforcement isn’t the only way for a skill to be rated higher than its mode’s rating. You can also spend excess skill points, whether during character creation, during play, or after an appropriate milestone, to improve skills as well.
 
 
-| **Improvement** | **Cost**  |
+| __Improvement__ | __Cost__  |
 |-|-|
 | Focus a trained skill | 1  |
 | Specialize a focused skill | 2  |
@@ -291,9 +291,9 @@ You can improve any of these Science skills just like you’d improve any other 
 
 Every Science skill other than Notice and Will has the following actions and applications:
 
-**Overcome:** Know things and solve problems related to the scientific field in question.
+__Overcome:__ Know things and solve problems related to the scientific field in question.
 
-**Create Advantage:** Leverage your scientific knowledge to create or discover details or aspects related to your chosen field, whether by time-consuming research or by suddenly recalling vital information. This lets you do things like recalibrate complex machinery (Hyper-Sensitive Sensors), introduce a new algorithm to a robot’s programming to change its behavior (Human... Friend?), or add a volatile compound to a rocket’s fuel to improve its performance (Almost Too Much Thrust).
+__Create Advantage:__ Leverage your scientific knowledge to create or discover details or aspects related to your chosen field, whether by time-consuming research or by suddenly recalling vital information. This lets you do things like recalibrate complex machinery (Hyper-Sensitive Sensors), introduce a new algorithm to a robot’s programming to change its behavior (Human... Friend?), or add a volatile compound to a rocket’s fuel to improve its performance (Almost Too Much Thrust).
 
 ## Sample Custom Modes
 
@@ -305,7 +305,7 @@ Keep in mind that these custom modes are meant to be descriptive, not prescripti
 
 A paragon of self-discipline, physical training, and face-punching.
 
-**Skills:**
+__Skills:__
 
 
 - Athletics
@@ -319,7 +319,7 @@ A paragon of self-discipline, physical training, and face-punching.
 
 A trained, well-traveled pilot, professional or otherwise.
 
-**Skills:**
+__Skills:__
 
 
 - Contacts
@@ -330,7 +330,7 @@ A trained, well-traveled pilot, professional or otherwise.
 
 Someone who makes it their business to know other people’s business.
 
-**Skills**
+__Skills__
 
 
 - Contacts
@@ -340,11 +340,11 @@ Someone who makes it their business to know other people’s business.
 - Stealth
 - Will
 
-## **Robot**
+## __Robot__
 
 A generic robot, with no specific assumed function—your average automatic intelligence.
 
-**Skills:**
+__Skills:__
 
 
 - Athletics
@@ -355,7 +355,7 @@ A generic robot, with no specific assumed function—your average automatic inte
 
 A covert operative for a covert agency.
 
-**Skills:**
+__Skills:__
 
 
 - Burglary
@@ -369,7 +369,7 @@ A covert operative for a covert agency.
 
 A skilled combatant with a military background.
 
-**Skills:**
+__Skills:__
 
 
 - Athletics
@@ -396,80 +396,80 @@ Each stunt confers a single benefit listed below.
 
 _Gain a bonus in a narrow circumstance_
 
-**Benefit:** Gain a situational +2 bonus to one application of a skill.
+__Benefit:__ Gain a situational +2 bonus to one application of a skill.
 
 If you phrase this as “+2 to [action] with [skill] when [situation occurs],” you pretty much can’t go wrong.
 
-**Examples:**
+__Examples:__
 
 
-- **Friends in High Places:** +2 to overcome with Rapport when socializing at a fancy gathering, such as a ritzy corporate or government function.
+- __Friends in High Places:__ +2 to overcome with Rapport when socializing at a fancy gathering, such as a ritzy corporate or government function.
 
 Alternately, for a stunt with a little more breadth, you can split up that +2 bonus to one application into +1 bonus to _two_ applications. Those applications can both be for the same skill, or you can assign them to two separate skills strongly connected by a common theme.
 
-**Examples:**
+__Examples:__
 
 
-- **Expert Marksman:** +1 to attack or create an advantage with Combat when using a firearm.
-- **Martial Artist:** +1 to create an advantage with Combat or Athletics when fighting unarmed.
+- __Expert Marksman:__ +1 to attack or create an advantage with Combat when using a firearm.
+- __Martial Artist:__ +1 to create an advantage with Combat or Athletics when fighting unarmed.
 
 ### Add a New Action to a Skill
 
 _Use a skill in an unusual way_
 
-**Benefit:** Use a skill to do something it normally can’t by adding a new game action to the skill in certain situations. This new action can be one that’s already covered by another skill—effectively letting you use one skill in place of another for the specified circumstance—or one that’s just not available to any skill.
+__Benefit:__ Use a skill to do something it normally can’t by adding a new game action to the skill in certain situations. This new action can be one that’s already covered by another skill—effectively letting you use one skill in place of another for the specified circumstance—or one that’s just not available to any skill.
 
-**Examples:**
+__Examples:__
 
 
-- **Backstab:** Use Stealth instead of Combat to attack when the target isn’t aware of you.
-- **Let’s Take It Outside:** Use Physique to defend against intimidation.
+- __Backstab:__ Use Stealth instead of Combat to attack when the target isn’t aware of you.
+- __Let’s Take It Outside:__ Use Physique to defend against intimidation.
 
 ### Add a Rules Exception to a Skill
 
 _Bend the rules in your favor_
 
-**Benefit:** Make a single exception, in a narrow circumstance, for a single skill in a way that doesn’t precisely fit any existing action.
+__Benefit:__ Make a single exception, in a narrow circumstance, for a single skill in a way that doesn’t precisely fit any existing action.
 
 This is admittedly a pretty wibbly-wobbly rule of thumb, but some stunts simply can’t be classified neatly. For more dramatic effects, it’s a good idea to balance this benefit by requiring the character to spend a fate point, take a consequence, or sacrifice their next action, or limit the effect to once per session. Otherwise, you may find that instead of making the character cooler, the stunt just makes the game less fun. And that’s the opposite of what we’re going for.
 
-**Examples:**
+__Examples:__
 
 
-- **Riposte:** When you use Combat to defend in melee and succeed with style, spend a fate point to immediately inflict an attack on your opponent at the shift value of your defense. For example, if you get four shifts on your defense, you’d deal a 4-shift hit to the attacker. You can’t do this again until you have another “next action” to spend (after your skipped turn goes by).
-- **Mind Over Matter:** Once per scene, you may check a mental stress box to absorb physical harm.
+- __Riposte:__ When you use Combat to defend in melee and succeed with style, spend a fate point to immediately inflict an attack on your opponent at the shift value of your defense. For example, if you get four shifts on your defense, you’d deal a 4-shift hit to the attacker. You can’t do this again until you have another “next action” to spend (after your skipped turn goes by).
+- __Mind Over Matter:__ Once per scene, you may check a mental stress box to absorb physical harm.
 
 ### Have a Signature Aspect
 
 _Get a free invoke once per issue_
 
-**Benefit:** One of your character’s aspects is so important to your character, so _integral_, that, once per issue, you can invoke it for free.
+__Benefit:__ One of your character’s aspects is so important to your character, so _integral_, that, once per issue, you can invoke it for free.
 
 The flip side of this is that when the GM compels that aspect, she must offer you two fate points instead of one. However, should you want to refuse the compel, you have to match the GM’s offer, one-for-one. That means you’d have to spend _two_ fate points to refuse the initial compel.
 
 Mark the aspect with an asterisk, or write “Signature” in parentheses next to it, as a reminder that it works a bit differently.
 
-**Examples:**
+__Examples:__
 
 
-- **Signature Aspect:** Britain’s Most Dangerous Commando
-- **Signature Aspect:** Behold, the Power of Science!
+- __Signature Aspect:__ Britain’s Most Dangerous Commando
+- __Signature Aspect:__ Behold, the Power of Science!
 
 ### Personal Hardware
 
 _Own an important possession_
 
-**Benefit:** Your character has an iconic possession of some kind.
+__Benefit:__ Your character has an iconic possession of some kind.
 
 This benefit lets you pick from two of the options in the sidebar. If that’s not enough to properly represent your personal hardware, you can take this stunt (and gain its benefit) multiple times.
 
 In addition, your hardware includes any non-mechanical abilities that seem reasonable. For example, a two-way wristwatch radio gives you the ability to communicate over long distances, just as a jetpack gives you the ability to fly—no numbers or rolling required, unless doing so puts you at risk or in danger.
 
-**Examples:**
+__Examples:__
 
 
-- **Armored Jacket:** Armor:2
-- **Knuckledusters:** +1 to Combat to attack when unarmed, Weapon:2
+- __Armored Jacket:__ Armor:2
+- __Knuckledusters:__ +1 to Combat to attack when unarmed, Weapon:2
 
 #### Personal Hardware Options
 
@@ -489,7 +489,7 @@ In most respects, mega-stunts are like stunts, in that they let you bend the rul
 
 Moreover, unlike stunts, a single mega-stunt can provide more than one benefit.
 
-However, you can’t take a mega-stunt unless unless you have **permission**.
+However, you can’t take a mega-stunt unless unless you have __permission__.
 
 To have permission, your character needs a weird mode and an appropriate concept aspect. Both of these must suggest the sorts of benefits that mega-stunts can provide. In turn, your character’s mega-stunts must be logical extensions of the mode and aspect.
 
@@ -526,7 +526,7 @@ Each benefit provided by a mega-stunt takes one of four basic forms. It can give
 
 Get a 2-shift bonus to a successful attack or a 1-shift bonus to defend.
 
-**Benefit:** Gain Weapon:2 or Armor:1 due to some inherent quality.
+__Benefit:__ Gain Weapon:2 or Armor:1 due to some inherent quality.
 
 Normally, a Weapon or Armor rating is the result of special equipment, like from the Personal Hardware stunt (page XX). This benefit, however, is for characters who hit harder or are more resistant to damage simply because of their very nature.
 
@@ -538,7 +538,7 @@ You can select this stunt benefit more than once for a single mega-stunt. Its ef
 
 _Be superior to humans in one area_
 
-**Benefit:** Choose a skill. When using that skill for an overcome action, you can exceed what normal humans can accomplish. Under the specified conditions, that action is always considered a success, no roll required.
+__Benefit:__ Choose a skill. When using that skill for an overcome action, you can exceed what normal humans can accomplish. Under the specified conditions, that action is always considered a success, no roll required.
 
 You can’t apply this benefit to a skill without the overcome action, such as Combat. (In other words, no fair getting absolute accuracy with an attack.)
 
@@ -552,7 +552,7 @@ When you take this benefit, it always comes with a weakness or cost. (There’s 
 
 _Ignore a type of damage_
 
-**Benefit:** Bullets? They bounce off of you. So do conventional weapons less-powerful than bullets, like swords and vampire teeth. You have Armor:∞ against all of them.
+__Benefit:__ Bullets? They bounce off of you. So do conventional weapons less-powerful than bullets, like swords and vampire teeth. You have Armor:∞ against all of them.
 
 Roll for the attack and defense as normal. If the attack ties, succeeds, or succeeds with style, the attacker gets a boost. If the defense succeeds with style, the defender gets a boost.
 
@@ -572,17 +572,17 @@ Bulletproof is the most common type of “-proof” found in fiction, but you ca
 
 _Do what a stunt does_
 
-**Benefit:** Choose one of these stunts: Add a Bonus, Add a Game Action, Add a Rules Exception, Personal Hardware. Add that stunt’s benefit to the mega-stunt.
+__Benefit:__ Choose one of these stunts: Add a Bonus, Add a Game Action, Add a Rules Exception, Personal Hardware. Add that stunt’s benefit to the mega-stunt.
 
 Note that Personal Hardware confers bigger Weapon and Armor ratings than the Weapon and Armor Rating stunt benefit above does. That’s intentional
 
 ## Paying for Mega-Stunts
 
-**To recap:** Each mega-stunt takes up one stunt slot. A single stunt has a single benefit, but a single mega-stunt can have two or more benefits.
+__To recap:__ Each mega-stunt takes up one stunt slot. A single stunt has a single benefit, but a single mega-stunt can have two or more benefits.
 
 So if characters in your game have five stunt slots, one with five stunts and no mega-stunts will have a maximum of five benefits. But a character with mega-stunts can easily end up with _more_ than five benefits. For example, if a character has two stunts and three mega-stunts, and each of those mega-stunts has two benefits, that’s a total of eight benefits—three more than usual maximum of five.
 
-When a character has more than the usual maximum of stunt benefits from stunts and mega-stunts, **add one fate point to the GM’s reserve for each benefit in excess of the usual maximum**.
+When a character has more than the usual maximum of stunt benefits from stunts and mega-stunts, __add one fate point to the GM’s reserve for each benefit in excess of the usual maximum__.
 
 For example, that PC with the eight benefits? When he’s in a session, the GM gets another three fate points for her reserve. The mere presence of this character means things are harder for everyone.
 
@@ -600,7 +600,7 @@ The process of inventing involves one or more PCs figuring out what needs to be 
 | Note that these rules aren’t limited to actually “inventing” things—they apply equally well to recreating existing technology, whether strange or familiar.  |
 |-|
 
-We’ll refer to the thing you’re making as your **invention**, but don’t take that too literally. It could just as easily be a never-before-seen technological wonder as it could a recreation of an existing piece of tech. Whatever it is, broadly speaking, your invention is an item that makes you better at doing something or gives you a new capability. It consists of three basic parts:
+We’ll refer to the thing you’re making as your __invention__, but don’t take that too literally. It could just as easily be a never-before-seen technological wonder as it could a recreation of an existing piece of tech. Whatever it is, broadly speaking, your invention is an item that makes you better at doing something or gives you a new capability. It consists of three basic parts:
 
 
 - A function aspect
@@ -620,7 +620,7 @@ Creating an invention happens in five steps:
 
 This may seem like a given, but before anything else you need to ask yourself what the invention is meant to _do_. Think about what it’s going to make possible (or impossible) in the story, and how it’ll accomplish that. Based on your answer, come up with a short statement that addresses it, such as its intended purpose, a straightforward description, or even the invention’s expected role in the story. Whatever it is, keep it brief and focused—Retractable Hypo-Syringe is good. Secret Hidden Needle that has the Power to Poison or Heal is maybe not so good.
 
-Your answer to this question forms the basis of your invention’s **function aspect**.
+Your answer to this question forms the basis of your invention’s __function aspect__.
 
 ### Step Two: Define Its Capabilities
 
@@ -636,7 +636,7 @@ The difficulty for this roll starts at Mediocre (+0). Every stunt benefit the in
 
 Make a note of the roll’s outcome, whether it’s failure, a tie, a success, or a success with style. You’ll need it for the next step.
 
-**Failing this roll does not mean you’ll fail to make the thing**. You _cannot_ fail to make it. The skill roll determines not whether you can make it, but what hoops you’ll have to jump through to do so.
+__Failing this roll does not mean you’ll fail to make the thing__. You _cannot_ fail to make it. The skill roll determines not whether you can make it, but what hoops you’ll have to jump through to do so.
 
 #### Teamwork
 
@@ -653,22 +653,22 @@ Typically, a catch is some complication or condition that’ll have to be resolv
 Players render payment in two ways. One is increasing the GM’s fate point reserve. The other is accepting one or more catches. We’ll get to the former in a minute, but for now let’s concentrate on the latter. A catch can include:
 
 
-- **Attention:** The process of creating the invention will attract unwanted notice from someone or something whose notice you’d rather not attract. This unwelcome party will involve themselves in the events of the volume or otherwise complicate matters or hamper the PCs’ efforts in some way.
-- **Bug:** The invention has a glitch—either a weakness or a cost. (See _Mega-Stunts_ for more on weaknesses and costs.)
-- **Costly:** Access to the hardware comes at a steep price, whether in cash, information, or an equitable trade, to be paid to a gatekeeper of some kind. While money will usually be no object for well-funded PCs, large, clandestine transactions rarely go smoothly.
-- **Facilities:** Producing the invention requires a specialized facility, one to which you don’t normally have access. You may have to negotiate for that access, or you may gain it through more “creative” means.
-- **Help:** You can’t do it alone—you need assistance from an outside party, such as a notable expert in the field or another faction. They may require convincing, demand something in exchange for their involvement, or drag their own baggage into the project. _Note:_ Another PC isn’t “help.” That’s just another PC. (Although it’s a good way to bring in a _new_ PC, if a player’s looking for a character to play.) This catch means going outside your usual circle of reliable associates.
-- **Materials:** One of the invention’s components is something rare, under lock and key, or otherwise hard to acquire. Getting your hands on it may be an adventure in and of itself.
-- **Red Tape:** This generally involves paperwork—lots of paperwork—as well as follow-up calls, emails, office visits, or the like. This catch isn’t suited to all settings, but if it’s suited to yours, expect it to be a pain.
-- **Strings:** The promise “I owe you one” is ripe with the potential for further trouble. Unlike Costly, which involves immediate payment, or Help, which involves convincing someone to assist you, the Strings catch means ceding power to someone else for short-term gain. You may not know when or where or what they’ll want in return, but rest assured, they won’t forget. Or maybe they want concrete assurances right now—maybe even a contract.
-- **Time:** Producing the invention will take long enough that the situation will worsen and/or someone will gain an advantage against you. Whatever the case, you’ll still finish it in time for it to be useful.
+- __Attention:__ The process of creating the invention will attract unwanted notice from someone or something whose notice you’d rather not attract. This unwelcome party will involve themselves in the events of the volume or otherwise complicate matters or hamper the PCs’ efforts in some way.
+- __Bug:__ The invention has a glitch—either a weakness or a cost. (See _Mega-Stunts_ for more on weaknesses and costs.)
+- __Costly:__ Access to the hardware comes at a steep price, whether in cash, information, or an equitable trade, to be paid to a gatekeeper of some kind. While money will usually be no object for well-funded PCs, large, clandestine transactions rarely go smoothly.
+- __Facilities:__ Producing the invention requires a specialized facility, one to which you don’t normally have access. You may have to negotiate for that access, or you may gain it through more “creative” means.
+- __Help:__ You can’t do it alone—you need assistance from an outside party, such as a notable expert in the field or another faction. They may require convincing, demand something in exchange for their involvement, or drag their own baggage into the project. _Note:_ Another PC isn’t “help.” That’s just another PC. (Although it’s a good way to bring in a _new_ PC, if a player’s looking for a character to play.) This catch means going outside your usual circle of reliable associates.
+- __Materials:__ One of the invention’s components is something rare, under lock and key, or otherwise hard to acquire. Getting your hands on it may be an adventure in and of itself.
+- __Red Tape:__ This generally involves paperwork—lots of paperwork—as well as follow-up calls, emails, office visits, or the like. This catch isn’t suited to all settings, but if it’s suited to yours, expect it to be a pain.
+- __Strings:__ The promise “I owe you one” is ripe with the potential for further trouble. Unlike Costly, which involves immediate payment, or Help, which involves convincing someone to assist you, the Strings catch means ceding power to someone else for short-term gain. You may not know when or where or what they’ll want in return, but rest assured, they won’t forget. Or maybe they want concrete assurances right now—maybe even a contract.
+- __Time:__ Producing the invention will take long enough that the situation will worsen and/or someone will gain an advantage against you. Whatever the case, you’ll still finish it in time for it to be useful.
 
 For every stunt benefit an invention has, there’s a catch. For example, an invention with four stunt benefits will have four catches, selected from the list above.
 
 Who chooses these catches? That depends on the outcome of the skill roll from Step Three.
 
 
-| **Outcome** | **Who chooses?**  |
+| __Outcome__ | __Who chooses?__  |
 |-|-|
 | Fail | The GM chooses them all.  |
 | Tie | The GM and player take turns choosing, starting with the GM.  |
@@ -698,12 +698,12 @@ The standard invention rules assume that the PCs will only occasionally invent s
 If you’d rather just have one catch per invention, use these rules instead.
 
 
-- When a player’s roll **succeeds with style**, the players mark two victories.
-- When a player’s roll **succeeds**, the players mark one victory.
-- When a player’s roll **ties**, the players mark one victory and the GM marks one victory.
-- When a player’s roll **fails**, the GM marks two victories.
+- When a player’s roll __succeeds with style__, the players mark two victories.
+- When a player’s roll __succeeds__, the players mark one victory.
+- When a player’s roll __ties__, the players mark one victory and the GM marks one victory.
+- When a player’s roll __fails__, the GM marks two victories.
 
-If the players accumulate **three victories** before the GM does, the **players** decide what the catch is. Otherwise, the GM decides.
+If the players accumulate __three victories__ before the GM does, the __players__ decide what the catch is. Otherwise, the GM decides.
 
 #### Serious Catches
 
@@ -784,7 +784,7 @@ Next, all participants roll _simultaneously_ to create an advantage using a rele
 Whoever succeeds _and_ has the highest result (make a note of number) is the “winner.” The winner gets to do two things. First, they record one or more victories, depending on the margin of success.
 
 
-| **Margin** | **Result** | **Victories**  |
+| __Margin__ | __Result__ | __Victories__  |
 |-|-|-|
 | None | Fail | 0  |
 | 0 | Tie | 1, at a cost  |
@@ -865,7 +865,7 @@ The hypothesis becomes an aspect, like The Washington Monument Has Developed Art
 The number of free invocations on the hypothesis aspect (if any) depends on how many total victories were scored in the brainstorm, as shown on the table.
 
 
-| **Victories** | **Result**  |
+| __Victories__ | __Result__  |
 |-|-|
 | 0-2 | Failure—it’s a mystery!  |
 | 3 | Tie—hypothesis aspect  |
@@ -916,7 +916,7 @@ During a mission briefing, the players take turns inventing expected obstacles a
 
 ## Running a Mission Briefing
 
-Typical mission briefings occur in the following steps: **mission overview**, **expected obstacles**, and **resource allocation**.
+Typical mission briefings occur in the following steps: __mission overview__, __expected obstacles__, and __resource allocation__.
 
 ### Step One: Mission Overview
 
@@ -973,7 +973,7 @@ Don’t hold back on a serious cost. Make it something truly dangerous, like may
 
 ### The Mission Briefing in Play
 
-The fate points on the mission aspect are a communal supply to be spent by players when invoking an aspect—_any_ aspect—for a bonus or reroll, but **only when using a mission skill**. This is their only use—making the PCs more effective with the skills they’d anticipated would be crucial to the mission’s success. The mission aspect’s fate points can’t be spent to refuse compels, pay for stunts that require fate points to activate, or anything else that might be done with fate points during play.
+The fate points on the mission aspect are a communal supply to be spent by players when invoking an aspect—_any_ aspect—for a bonus or reroll, but __only when using a mission skill__. This is their only use—making the PCs more effective with the skills they’d anticipated would be crucial to the mission’s success. The mission aspect’s fate points can’t be spent to refuse compels, pay for stunts that require fate points to activate, or anything else that might be done with fate points during play.
 
 Once the mission aspect’s fate points are gone, they’re gone—preparation can only get you so far.
 

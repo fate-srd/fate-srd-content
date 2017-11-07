@@ -19,8 +19,8 @@ _Fate Accelerated Edition_ is a tabletop roleplaying game, where you and your f
 Here’s what you’ll need to play:
 
 
-- **Three to five people.** One of you will be the _gamemaster_, the others _players_. We’ll talk about what those mean later.
-- **Fate Dice™**, at least four, preferably four per person. These are a special kind of six-sided dice that are marked on two sides with a plus symbol [+], two sides with a minus symbol [-], and two sides are blank [ ]. You can get these dice from many hobby and game stores, often under their original name—Fudge dice. We call them Fate Dice in this book, but you can call them whatever you like. Evil Hat will offer Fate Dice for sale at [www.evilhat.com](http://www.evilhat.com/)later in 2013.
+- __Three to five people.__ One of you will be the _gamemaster_, the others _players_. We’ll talk about what those mean later.
+- __Fate Dice™__, at least four, preferably four per person. These are a special kind of six-sided dice that are marked on two sides with a plus symbol [+], two sides with a minus symbol [-], and two sides are blank [ ]. You can get these dice from many hobby and game stores, often under their original name—Fudge dice. We call them Fate Dice in this book, but you can call them whatever you like. Evil Hat will offer Fate Dice for sale at [www.evilhat.com](http://www.evilhat.com/)later in 2013.
 
 ---
 
@@ -28,12 +28,12 @@ If you don't want to use Fudge dice, you don't have to–any set of regular six-
 
 ---
 
-The **Deck of Fate** is an alternative to Fate Dice. It’s a deck of cards that mimics the probability of Fate Dice, and it’s designed to be used in the same way Fate Dice are. The Deck of Fate will be available from Evil Hat in 2013 or 2014.
+The __Deck of Fate__ is an alternative to Fate Dice. It’s a deck of cards that mimics the probability of Fate Dice, and it’s designed to be used in the same way Fate Dice are. The Deck of Fate will be available from Evil Hat in 2013 or 2014.
 
 
-- **Character sheets**, one for each player. You can download these from [www.evilhat.com](http://www.evilhat.com/).
-- **Index cards** or **sticky notes** or similar slips of paper.
-- **Tokens for fate points**. These can be poker chips, beads, pennies, or anything similar. Get a handful—about 30 or 40.
+- __Character sheets__, one for each player. You can download these from [www.evilhat.com](http://www.evilhat.com/).
+- __Index cards__ or __sticky notes__ or similar slips of paper.
+- __Tokens for fate points__. These can be poker chips, beads, pennies, or anything similar. Get a handful—about 30 or 40.
 
 Next, let’s talk about how to use_Fate Accelerated_to tell stories together. 
 
@@ -57,7 +57,7 @@ Well, first you need to figure out what kind of story you’re going to tell. Wh
 
 Next, it’s time to choose who will be the players, and who will be the gamemaster. Of the people around the table, all but one are referred to as _players_. Each player takes on the role of one _player character_ or _PC_ in the story, and puts themselves in their character’s shoes to make the decisions that their character would make. The remaining person is called the _gamemaster_ or _GM_. The GM’s job is to present challenges to the players and to portray all the characters that aren’t controlled by the players (_non-player characters_ or _NPCs_).
 
-Once you decide who the GM will be, and what the genre and framework of the story will be, it’s time for the players to make their characters—that’s in the **next chapter**.
+Once you decide who the GM will be, and what the genre and framework of the story will be, it’s time for the players to make their characters—that’s in the __next chapter__.
 
 ### Telling Stories “Together”? What Do You Mean?
 
@@ -87,7 +87,7 @@ Now it’s time to start writing stuff down. Grab a pencil and a copy of the cha
 
 An _aspect_ is a word, phrase, or sentence that describes something centrally important to your character. It can be a motto your character lives by, a personality quirk, a description of a relationship you have with another character, an important possession or bit of equipment your character has, or any other part of your character that is vitally important.
 
-Aspects allow you to change the story in ways that tie in with your character’s tendencies, skills, or problems. You can also use them to **establish facts about the setting**, such as the presence of magic or the existence of a useful ally, dangerous enemy, or secret organization.
+Aspects allow you to change the story in ways that tie in with your character’s tendencies, skills, or problems. You can also use them to __establish facts about the setting__, such as the presence of magic or the existence of a useful ally, dangerous enemy, or secret organization.
 
 Your character will have a handful of aspects (between three and five), including a _high concept_ and a _trouble_. We discuss aspects in detail in _Aspects and Fate Points_—but for now, this should help you get the idea.
 
@@ -127,7 +127,7 @@ Describe your character’s appearance and give them a name.
 
 ---
 
-**CREATING CHARACTERS: THE 30-SECOND VERSION**
+__CREATING CHARACTERS: THE 30-SECOND VERSION__
 
 
 - Write two aspects: a high concept and a trouble.
@@ -159,7 +159,7 @@ Each approach is rated with a bonus. Choose one at Good (+3), two at Fair (+2)
 
 
 
-**THE LADDER**
+__THE LADDER__
 
 In Fate, we use a ladder of adjectives and numbers to rate a character’s approaches, the result of a roll, difficulty ratings for simple checks, etc.
 
@@ -185,12 +185,12 @@ Here’s the ladder:
 Your approaches can say a lot about who you are. Here are some examples:
 
 
-- **The Brute:**    Forceful +3, Careful and Flashy +2, Sneaky and Quick +1, Clever +0
-- **The All-Star:**    Quick +3, Forceful and Flashy +2, Clever and Careful +1, Sneaky +0
-- **The Trickster:**    Clever +3, Sneaky and Flashy +2, Forceful and Quick +1, Careful +0
-- **The Guardian:**    Careful +3, Forceful and Clever +2, Sneaky and Quick +1, Flashy +0
-- **The Thief:**    Sneaky +3, Careful and Quick +2, Clever and Flashy +1, Forceful +0
-- **The Swashbuckler:**    Flashy +3, Quick and Clever +2, Forceful and Sneaky +1, Careful +0
+- __The Brute:__    Forceful +3, Careful and Flashy +2, Sneaky and Quick +1, Clever +0
+- __The All-Star:__    Quick +3, Forceful and Flashy +2, Clever and Careful +1, Sneaky +0
+- __The Trickster:__    Clever +3, Sneaky and Flashy +2, Forceful and Quick +1, Careful +0
+- __The Guardian:__    Careful +3, Forceful and Clever +2, Sneaky and Quick +1, Flashy +0
+- __The Thief:__    Sneaky +3, Careful and Quick +2, Clever and Flashy +1, Forceful +0
+- __The Swashbuckler:__    Flashy +3, Quick and Clever +2, Forceful and Sneaky +1, Careful +0
 
 ### Stunts and Refresh
 
@@ -200,7 +200,7 @@ Your _refresh_ is the number of fate points you begin each game session with�
 
 ---
 
-**HOW MANY STUNTS?**
+__HOW MANY STUNTS?__
 
 By default, FAE suggests choosing one stunt to start with.
 
@@ -220,15 +220,15 @@ How do you know if you’re successful? Often, you just succeed, because the act
 
 ---
 
-**TAKING ACTION: THE 30-SECOND VERSION**
+__TAKING ACTION: THE 30-SECOND VERSION__
 
 
-0. Describe what you want your character to do. See if someone or something can stop you.
-0. Decide what action you’re taking: create an advantage, overcome, attack, or defend.
-0. Decide on your approach.
-0. Roll dice and add your approach’s bonus.
-0. Decide whether to modify your roll with aspects.
-0. Figure out your outcome.
+- Describe what you want your character to do. See if someone or something can stop you.
+- Decide what action you’re taking: create an advantage, overcome, attack, or defend.
+- Decide on your approach.
+- Roll dice and add your approach’s bonus.
+- Decide whether to modify your roll with aspects.
+- Figure out your outcome.
 
 ---
 
@@ -236,9 +236,9 @@ How do you know if you’re successful? Often, you just succeed, because the act
 
 Part of determining your outcome is generating a random number, which is usually done in one of two ways: rolling four Fate Dice, or drawing a card from a Deck of Fate.
 
-**Fate Dice:** Fate Dice (sometimes called Fudge dice, after the game they were originally designed for) are one way to determine outcomes. You always roll Fate Dice in a set of four. Each die will come up as [+], [ ], or [-], and you add them together to get the total of the roll. For example:
+__Fate Dice:__ Fate Dice (sometimes called Fudge dice, after the game they were originally designed for) are one way to determine outcomes. You always roll Fate Dice in a set of four. Each die will come up as [+], [ ], or [-], and you add them together to get the total of the roll. For example:
 
--+0+ = +1+-00 = +++- = +2-000 = −1**Deck of Fate:** The Deck of Fate is a deck of cards that copies the statistical spread of Fate Dice. You can choose to use them instead of dice—either one works great.
+-+0+ = +1+-00 = +++- = +2-000 = −1__Deck of Fate:__ The Deck of Fate is a deck of cards that copies the statistical spread of Fate Dice. You can choose to use them instead of dice—either one works great.
 
 ---
 
@@ -249,10 +249,10 @@ These rules are written with the assumption that you’re rolling Fate Dice, but
 Once you roll your dice, add your approach bonus (we’ll talk about that in a moment) and any bonuses from aspects or stunts. Compare the total to a target number, which is either a fixed difficulty or the result of the GM’s roll for an NPC. Based on that comparison, your outcome is:
 
 
-- You **fail** if your total is _less than_ your opponent’s total.
-- It’s a **tie** if your total is _equal to_ your opponent’s total.
-- You **succeed** if your total is _greater than_ your opponent’s total.
-- You **succeed with style** if your total is at least _three greater than_ your opponent’s total.
+- You __fail__ if your total is _less than_ your opponent’s total.
+- It’s a __tie__ if your total is _equal to_ your opponent’s total.
+- You __succeed__ if your total is _greater than_ your opponent’s total.
+- You __succeed with style__ if your total is at least _three greater than_ your opponent’s total.
 
 Now that we’ve covered outcomes, we can talk about actions and how the outcomes work with them.
 
@@ -271,98 +271,98 @@ _Creating an advantage_ is anything you do to try to help yourself or one of yo
 - Discover an existing situation aspect or another character’s aspect that you didn’t know about.
 - Take advantage of an existing aspect.
 
-**If you’re creating a new aspect or discovering an existing one:**
+__If you’re creating a new aspect or discovering an existing one:__
 
 
 - 
-  + **If you fail:** Either you don’t create or discover the aspect at all, or you create or discover it but an_opponent_ gets to invoke the aspect for free. The second option works best if the aspect you create or discover is something that other people could take advantage of (like Rough Terrain). You may have to reword the aspect to show that it benefits the other character instead of you—work it out in whatever way makes the most sense with the player who gets the free invocation. You can still invoke the aspect if you’d like, but it’ll cost you a fate point.
-  + **If you tie:** If you’re creating a new aspect, you get a **boost**. Name it and invoke it once for free—after that, the boost goes away. If you’re trying to discover an existing aspect, treat this as a success (see below).
-  + If you succeed: You create or discover the aspect, and you or an ally may invoke it once for free. Write the aspect on an index card or sticky note and place it on the table.
-  + If you succeed with style: You create or discover the aspect, and you or an ally may invoke it _twice_for free. Usually you can’t invoke the same aspect twice on the same roll, but this is an exception; success with style gives you a BIG advantage!
+- __If you fail:__ Either you don’t create or discover the aspect at all, or you create or discover it but an_opponent_ gets to invoke the aspect for free. The second option works best if the aspect you create or discover is something that other people could take advantage of (like Rough Terrain). You may have to reword the aspect to show that it benefits the other character instead of you—work it out in whatever way makes the most sense with the player who gets the free invocation. You can still invoke the aspect if you’d like, but it’ll cost you a fate point.
+- __If you tie:__ If you’re creating a new aspect, you get a __boost__. Name it and invoke it once for free—after that, the boost goes away. If you’re trying to discover an existing aspect, treat this as a success (see below).
+- If you succeed: You create or discover the aspect, and you or an ally may invoke it once for free. Write the aspect on an index card or sticky note and place it on the table.
+- If you succeed with style: You create or discover the aspect, and you or an ally may invoke it _twice_for free. Usually you can’t invoke the same aspect twice on the same roll, but this is an exception; success with style gives you a BIG advantage!
 
 
 
-**If you’re trying to take advantage of an aspect you already know about:**
+__If you’re trying to take advantage of an aspect you already know about:__
 
 
-- **If you fail:** You don’t get any additional benefit from the aspect. You can still invoke it in the future if you’d like, at the cost of a fate point.
-- **If you tie or succeed:** You get one free invocation on the aspect for you or an ally to use later. You might want to draw a circle or a box on the aspect’s note card, and check it off when that invocation is used.
-- **If you succeed with style:** You get _two_ free invocations on the aspect, which you can let an ally use, if you wish.
+- __If you fail:__ You don’t get any additional benefit from the aspect. You can still invoke it in the future if you’d like, at the cost of a fate point.
+- __If you tie or succeed:__ You get one free invocation on the aspect for you or an ally to use later. You might want to draw a circle or a box on the aspect’s note card, and check it off when that invocation is used.
+- __If you succeed with style:__ You get _two_ free invocations on the aspect, which you can let an ally use, if you wish.
 
 ---
 
-**ACTIONS & OUTCOMES: THE 30-SECOND VERSION**
+__ACTIONS & OUTCOMES: THE 30-SECOND VERSION__
 
-**Create an Advantage when creating or discovering aspects:**
-
-
-- **Fail:** Don’t create or discover, or you do but your opponent (not you) gets a free invocation.
-- **Tie:** Get a boost if creating new, or treat as success if looking for existing.
-- **Succeed:** Create or discover the aspect, get a free invocation on it.
-- **Succeed with Style:**Create or discover the aspect, get two free invocations on it.
-
-**Create an Advantage on an aspect you already know about:**
+__Create an Advantage when creating or discovering aspects:__
 
 
-- **Fail:** No additional benefit.
-- **Tie**: Generate one free invocation on the aspect.
-- **Succeed:** Generate one free invocation on the aspect.
-- **Succeed with Style:** Generate two free invocations on the aspect.
+- __Fail:__ Don’t create or discover, or you do but your opponent (not you) gets a free invocation.
+- __Tie:__ Get a boost if creating new, or treat as success if looking for existing.
+- __Succeed:__ Create or discover the aspect, get a free invocation on it.
+- __Succeed with Style:__Create or discover the aspect, get two free invocations on it.
 
-**Overcome:**
-
-
-- ****Fail:****Fail, or succeed at a serious cost.
-- ****Tie:****Succeed at minor cost.
-- **Succeed:** You accomplish your goal.
-- **Succeed with Style:** You accomplish your goal and generate a boost.
-
-**Attack:**
+__Create an Advantage on an aspect you already know about:__
 
 
-- **Fail:** No effect.
-- ****Tie:****Attack doesn’t harm the target, but you gain a boost.
-- **Succeed:** Attack hits and causes damage.
-- ****Succeed with Style:****Attack hits and causes damage. May reduce damage by one to generate a boost.
+- __Fail:__ No additional benefit.
+- __Tie__: Generate one free invocation on the aspect.
+- __Succeed:__ Generate one free invocation on the aspect.
+- __Succeed with Style:__ Generate two free invocations on the aspect.
 
-**Defend:**
+__Overcome:__
 
 
-- **Fail:** You suffer the consequences of your opponent’s success.
-- **Tie:** Look at your opponent’s action to see what happens.
-- ****Succeed:****Your opponent doesn’t get what they want.
-- **Succeed with Style:** Your opponent doesn’t get what they want, and you get a boost.
+- ____Fail:____Fail, or succeed at a serious cost.
+- ____Tie:____Succeed at minor cost.
+- __Succeed:__ You accomplish your goal.
+- __Succeed with Style:__ You accomplish your goal and generate a boost.
+
+__Attack:__
+
+
+- __Fail:__ No effect.
+- ____Tie:____Attack doesn’t harm the target, but you gain a boost.
+- __Succeed:__ Attack hits and causes damage.
+- ____Succeed with Style:____Attack hits and causes damage. May reduce damage by one to generate a boost.
+
+__Defend:__
+
+
+- __Fail:__ You suffer the consequences of your opponent’s success.
+- __Tie:__ Look at your opponent’s action to see what happens.
+- ____Succeed:____Your opponent doesn’t get what they want.
+- __Succeed with Style:__ Your opponent doesn’t get what they want, and you get a boost.
 
 ---
 
 ### Overcome
 
-You use the **overcome**action when you have to get past something that’s between you and a particular goal—picking a lock, escaping from handcuffs, leaping across a chasm, flying a spaceship through an asteroid field. Taking some action to eliminate or change an inconvenient situation aspect is usually an overcome action; we’ll talk more about that in Aspects and Fate Points. The target of your action may get a chance to use the defend action to stop you.
+You use the __overcome__action when you have to get past something that’s between you and a particular goal—picking a lock, escaping from handcuffs, leaping across a chasm, flying a spaceship through an asteroid field. Taking some action to eliminate or change an inconvenient situation aspect is usually an overcome action; we’ll talk more about that in Aspects and Fate Points. The target of your action may get a chance to use the defend action to stop you.
 
 
-- **If you fail:** You have a tough choice to make. You can simply fail—the door is still locked, the thug still stands between you and the exit, the enemy spaceship is still On Your Tail. Or you can succeed, but at a serious cost—maybe you drop something vital you were carrying, maybe you suffer harm. The GM helps you figure out an appropriate cost.
-- **If you tie:** You attain your goal, but at some minor cost. The GM could introduce a complication, or present you with a tough choice (you can rescue one of your friends, but not the other), or some other twist. See “Succeed at a Cost” in Running the Game in _Fate Core_ for more ideas.
-- **If you succeed:** You accomplish what you were trying to do. The lock springs open, you duck around the thug blocking the door, you manage to lose the alien spaceship on your tail.
-- **If you succeed with style:** As success (above), but you also gain a boost.
+- __If you fail:__ You have a tough choice to make. You can simply fail—the door is still locked, the thug still stands between you and the exit, the enemy spaceship is still On Your Tail. Or you can succeed, but at a serious cost—maybe you drop something vital you were carrying, maybe you suffer harm. The GM helps you figure out an appropriate cost.
+- __If you tie:__ You attain your goal, but at some minor cost. The GM could introduce a complication, or present you with a tough choice (you can rescue one of your friends, but not the other), or some other twist. See “Succeed at a Cost” in Running the Game in _Fate Core_ for more ideas.
+- __If you succeed:__ You accomplish what you were trying to do. The lock springs open, you duck around the thug blocking the door, you manage to lose the alien spaceship on your tail.
+- __If you succeed with style:__ As success (above), but you also gain a boost.
 
 ### Attack
 
 Use an _attack_ when you try to hurt someone, whether physically or mentally—swinging a sword, shooting a blaster rifle, or yelling a blistering insult with the intent to hurt your target. (We’ll talk about this in Ouch! Damage, Stress, and Consequences, but the important thing is: If someone gets hurt too badly, they’re knocked out of the scene.) The target of your attack gets a chance to use the defend action to stop you.
 
 
-- **If you fail:** Your attack doesn’t connect. The target parries your sword, your shot misses, your target laughs off your insult.
-- **If you tie:** Your attack doesn’t connect strongly enough to cause any harm, but you gain a boost.
-- **If you succeed:** Your attack hits and you do damage. See _Ouch! Damage, Stress, and Consequences_.
-- **If you succeed with style:** You hit and do damage, plus you have the option to reduce the damage your hit causes by one and gain a boost.
+- __If you fail:__ Your attack doesn’t connect. The target parries your sword, your shot misses, your target laughs off your insult.
+- __If you tie:__ Your attack doesn’t connect strongly enough to cause any harm, but you gain a boost.
+- __If you succeed:__ Your attack hits and you do damage. See _Ouch! Damage, Stress, and Consequences_.
+- __If you succeed with style:__ You hit and do damage, plus you have the option to reduce the damage your hit causes by one and gain a boost.
 
 ### Defend
 
 Use _defend_ when you’re actively trying to stop someone from doing any of the other three actions—you’re parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed on_someone else’s turn_, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-attack actions, or to defend against an attack on someone else, if you can explain why you can. Usually it’s fine if most people at the table agree that it’s reasonable, but you can also point to an relevant situation aspect to justify it. When you do, you become the target for any bad results.
 
 
-- **If you fail:** You’re on the receiving end of whatever your opponent’s success gives them.
-- **If you tie or succeed:** Things don’t work out too badly for you; look at the description of your opponent’s action to see what happens.
-- **If you succeed with style:** Your opponent doesn’t get what they want, plus you gain a boost.
+- __If you fail:__ You’re on the receiving end of whatever your opponent’s success gives them.
+- __If you tie or succeed:__ Things don’t work out too badly for you; look at the description of your opponent’s action to see what happens.
+- __If you succeed with style:__ Your opponent doesn’t get what they want, plus you gain a boost.
 
 
 
@@ -375,12 +375,12 @@ An ally can help you perform your action. When an ally helps you, they give up t
 As we mentioned in Who Do You Want to Be?, there are six _approaches_ that describe how you perform actions.
 
 
-- **Careful:** A Careful action is when you pay close attention to detail and take your time to do the job right. Lining up a long-range arrow shot. Attentively standing watch. Disarming a bank’s alarm system.
-- **Clever:** A Clever action requires that you think fast, solve problems, or account for complex variables. Finding the weakness in an enemy swordsman’s style. Finding the weak point in a fortress wall. Fixing a computer.
-- **Flashy:** A Flashy action draws attention to you; it’s full of style and panache. Delivering an inspiring speech to your army. Embarrassing your opponent in a duel. Producing a magical fireworks display.
-- **Forceful:** A Forceful action isn’t subtle—it’s brute strength. Wrestling a bear. Staring down a thug. Casting a big, powerful magic spell.
-- **Quick:** A Quick action requires that you move quickly and with dexterity. Dodging an arrow. Getting in the first punch. Disarming a bomb as it ticks 3… 2… 1…
-- **Sneaky:** A Sneaky action is done with an emphasis on misdirection, stealth, or deceit. Talking your way out of getting arrested. Picking a pocket. Feinting in a sword fight.
+- __Careful:__ A Careful action is when you pay close attention to detail and take your time to do the job right. Lining up a long-range arrow shot. Attentively standing watch. Disarming a bank’s alarm system.
+- __Clever:__ A Clever action requires that you think fast, solve problems, or account for complex variables. Finding the weakness in an enemy swordsman’s style. Finding the weak point in a fortress wall. Fixing a computer.
+- __Flashy:__ A Flashy action draws attention to you; it’s full of style and panache. Delivering an inspiring speech to your army. Embarrassing your opponent in a duel. Producing a magical fireworks display.
+- __Forceful:__ A Forceful action isn’t subtle—it’s brute strength. Wrestling a bear. Staring down a thug. Casting a big, powerful magic spell.
+- __Quick:__ A Quick action requires that you move quickly and with dexterity. Dodging an arrow. Getting in the first punch. Disarming a bomb as it ticks 3… 2… 1…
+- __Sneaky:__ A Sneaky action is done with an emphasis on misdirection, stealth, or deceit. Talking your way out of getting arrested. Picking a pocket. Feinting in a sword fight.
 
 Each character has each approach rated with a bonus from +0 to +3. Add the bonus to your dice roll to determine how well your PC performs the action you described.
 
@@ -436,12 +436,12 @@ _Conflicts_ are used to resolve situations where characters are trying to harm 
 
 ---
 
-**CONFLICTS: THE 30-SECOND VERSION**
+__CONFLICTS: THE 30-SECOND VERSION__
 
 
-0. 1. Set the scene.
-0. 2. Determine turn order.
-0. 3. Start the first exchange.
+- 1. Set the scene.
+- 2. Determine turn order.
+- 3. Start the first exchange.
 
 
 - On your turn, take an action.
@@ -492,7 +492,7 @@ Then, one of two things happens:
 
 ---
 
-**STRESS & CONSEQUENCES: THE 30-SECOND VERSION**
+__STRESS & CONSEQUENCES: THE 30-SECOND VERSION__
 
 
 - Each character starts with three stress boxes.
@@ -546,13 +546,13 @@ Additionally, you get one fate point for conceding, and one fate point for each 
 At the end of each scene, clear all of your stress boxes. Recovery from a consequence is a bit more complicated; you need to explain how you recover from it—whether that’s an ER visit, taking a walk to calm down, or whatever makes sense with the consequence. You also need to wait an appropriate length of time.
 
 
-- **Mild consequence:** Clear it at the end of the scene, provided you get a chance to rest.
-- **Moderate consequence:** Clear it at the end of the next session, provided it makes sense within the story.
-- **Severe consequence:** Clear it at the end of the _scenario_, provided it makes sense within the story.
+- __Mild consequence:__ Clear it at the end of the scene, provided you get a chance to rest.
+- __Moderate consequence:__ Clear it at the end of the next session, provided it makes sense within the story.
+- __Severe consequence:__ Clear it at the end of the _scenario_, provided it makes sense within the story.
 
 ---
 
-**RENAMING MODERATE AND SEVERE CONSEQUENCES**
+__RENAMING MODERATE AND SEVERE CONSEQUENCES__
 
 Moderate and severe consequences stick around for a while. Therefore, at some point you may want to change the name of the aspect to better fit what’s going on in the story. For instance, after you get some medical help, Painful Broken Leg might make more sense if you change it to Hobbling on Crutches.
 
@@ -572,7 +572,7 @@ You _spend__fate points_—which you keep track of with pennies or glass beads 
 
 There’s an endless variety of aspects, but no matter what they’re called they all work pretty much the same way. The main difference is how long they stick around before going away.
 
-**Character Aspects:** These aspects are on your character sheet, such as your high concept and trouble. They describe personality traits, important details about your past, relationships you have with others, important items or titles you possess, problems you’re dealing with or goals you’re working toward, or reputations and obligations you carry. These aspects only change under very unusual circumstances; most never will.
+__Character Aspects:__ These aspects are on your character sheet, such as your high concept and trouble. They describe personality traits, important details about your past, relationships you have with others, important items or titles you possess, problems you’re dealing with or goals you’re working toward, or reputations and obligations you carry. These aspects only change under very unusual circumstances; most never will.
 
 ---
 
@@ -582,7 +582,7 @@ There’s an endless variety of aspects, but no matter what they’re called the
 
 
 
-**Situation Aspects:** These aspects describe the surroundings that the action is taking place in. This includes aspects you create or discover using the **create an advantage** action. A situation aspect usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situational element they represent lasts.
+__Situation Aspects:__ These aspects describe the surroundings that the action is taking place in. This includes aspects you create or discover using the __create an advantage__ action. A situation aspect usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situational element they represent lasts.
 
 ---
 
@@ -592,7 +592,7 @@ There’s an endless variety of aspects, but no matter what they’re called the
 
 To get rid of a situation aspect, you can attempt an overcome action to eliminate it, provided you can think of a way your character could accomplish it—dump a bucket of water on the Raging Fire, use evasive maneuvers to escape the enemy fighter that’s On Your Tail. An opponent may use a Defend action to try to preserve the aspect, if they can describe how they do it.
 
-**Consequences:** These aspects represent injuries or other lasting trauma that happen when you get hit by attacks. They go away slowly, as described in Ouch! Damage, Stress, and Consequences.
+__Consequences:__ These aspects represent injuries or other lasting trauma that happen when you get hit by attacks. They go away slowly, as described in Ouch! Damage, Stress, and Consequences.
 
 ---
 
@@ -600,7 +600,7 @@ To get rid of a situation aspect, you can attempt an overcome action to elimina
 
 ---
 
-**Boosts:** A boost is a temporary aspect that you get to use once (see “What Do You Do With Aspects?”next), then it vanishes. Unused boosts vanish when the scene they were created in is over or when the advantage they represent no longer exists. These represent very brief and fleeting advantages you get in conflicts with others.
+__Boosts:__ A boost is a temporary aspect that you get to use once (see “What Do You Do With Aspects?”next), then it vanishes. Unused boosts vanish when the scene they were created in is over or when the advantage they represent no longer exists. These represent very brief and fleeting advantages you get in conflicts with others.
 
 ---
 
@@ -608,13 +608,13 @@ To get rid of a situation aspect, you can attempt an overcome action to elimina
 
 ---
 
-**PVP**The only time that fate point might not go to the GM is when you’re in conflict with another player. If you are, and you invoke one of that player’s character aspects to help you out against them, they will get the fate point instead of the GM once the scene is over.
+__PVP__The only time that fate point might not go to the GM is when you’re in conflict with another player. If you are, and you invoke one of that player’s character aspects to help you out against them, they will get the fate point instead of the GM once the scene is over.
 
 ---
 
 ## What Do You Do With Aspects?
 
-There are three big things you can do with aspects: **invoke** aspects, **compel** aspects, and use aspects to **establish facts**.
+There are three big things you can do with aspects: __invoke__ aspects, __compel__ aspects, and use aspects to __establish facts__.
 
 ### Invoking Aspects
 
@@ -644,7 +644,7 @@ _Important:_ You can only invoke any aspect once on a given dice roll; you can�
 
 If you’re invoking an aspect to add a bonus or reroll your dice, wait until _after_ you’ve rolled to do it. No sense spending a fate point if you don’t need to!
 
-**Free invocations:**Sometimes you can invoke an aspect for free, without paying a fate point. If you create or discover an aspect through the **create an advantage** action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get _two_ freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A **boost** is a special kind of aspect that grants one free invocation, then it vanishes.
+__Free invocations:__Sometimes you can invoke an aspect for free, without paying a fate point. If you create or discover an aspect through the __create an advantage__ action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get _two_ freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A __boost__ is a special kind of aspect that grants one free invocation, then it vanishes.
 
 ### Compelling Aspects
 
@@ -652,15 +652,15 @@ If you’re in a situation where having or being around a certain aspect means y
 
 There are two types of compels.
 
-**Decision compels:** This sort of compel suggests the answer to a decision your character has to make. If your character is Princess of Alaria, for example, you may need to stay to lead the defense of the Royal Alarian Castle rather than fleeing to safety. Or if you have a Defiant Streak a Mile Wide, maybe you can’t help but mouth off to the Dean of Discipline when he questions you.
+__Decision compels:__ This sort of compel suggests the answer to a decision your character has to make. If your character is Princess of Alaria, for example, you may need to stay to lead the defense of the Royal Alarian Castle rather than fleeing to safety. Or if you have a Defiant Streak a Mile Wide, maybe you can’t help but mouth off to the Dean of Discipline when he questions you.
 
-**Event compels:** Other times a compel reflects something happening that makes life more complicated for you. If you have Strange Luck, of course that spell you’re working on in class accidentally turns the dour Potions Master’s hair orange. If you Owe Don Valdeon a Favor, then Don Valdeon shows up and demands that you perform a service for him just when it’s least convenient.
+__Event compels:__ Other times a compel reflects something happening that makes life more complicated for you. If you have Strange Luck, of course that spell you’re working on in class accidentally turns the dour Potions Master’s hair orange. If you Owe Don Valdeon a Favor, then Don Valdeon shows up and demands that you perform a service for him just when it’s least convenient.
 
 In any case, when an aspect is compelled against you, the person compelling it offers you a fate point and suggests that the aspect has a certain effect—that you’ll make a certain decision or that a particular event will occur. You can discuss it back and forth, proposing tweaks or changes to the suggested compel. After a moment or two, you need to decide whether to accept the compel. If you agree, you take the fate point and your character makes the suggested decision or the event happens. If you refuse, you must _pay_ a fate point from your own supply. Yes, this means that if you don’t have any fate points, you can’t refuse a compel!
 
 ---
 
-**How Many Fate Points Does the GM Get?**
+__How Many Fate Points Does the GM Get?__
 
 As GM, you don’t need to track fate points for each NPC, but that doesn’t mean you get an unlimited number. Start each scene with a pool of one fate point per PC that’s in the scene. Spend fate points from this pool to invoke aspects (and consequences) against the PCs. When it’s empty, you can’t invoke aspects against them.
 
@@ -712,17 +712,17 @@ There’s no definitive list of stunts that you pick from; much like aspects, ev
 
 The first type of stunt gives you a +2 bonus when you use a certain approach in a certain situation. Use this template:
 
-Because I **[describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome]**, I get a +2 when I **[pick one: Carefully, Cleverly, Flashily, Forcefully, Quickly, Sneakily]****[pick one: attack, defend, create advantages, overcome]** when **[describe a circumstance]**.
+Because I __[describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome]__, I get a +2 when I __[pick one: Carefully, Cleverly, Flashily, Forcefully, Quickly, Sneakily]____[pick one: attack, defend, create advantages, overcome]__ when __[describe a circumstance]__.
 
 For example:
 
 ---
 
 
-- Because I **am a Smooth Talker**, I get a +2 when I **Sneakily create advantages** when **I’m in conversation with someone**.
-- Because I **am a Lover of Puzzles**, I get a +2 when I **Cleverly overcome obstacles** when **I am presented with a puzzle, riddle, or similar conundrum**.
-- Because I **am a World-Class Duelist**, I get a +2 when I **Flashily attack** when **engaged in a one-on-one swordfight**.
-- Because I **have a Big Kite Shield**, I get a +2 when I **Forcefully defend** when **I use my shield in close combat**.
+- Because I __am a Smooth Talker__, I get a +2 when I __Sneakily create advantages__ when __I’m in conversation with someone__.
+- Because I __am a Lover of Puzzles__, I get a +2 when I __Cleverly overcome obstacles__ when __I am presented with a puzzle, riddle, or similar conundrum__.
+- Because I __am a World-Class Duelist__, I get a +2 when I __Flashily attack__ when __engaged in a one-on-one swordfight__.
+- Because I __have a Big Kite Shield__, I get a +2 when I __Forcefully defend__ when __I use my shield in close combat__.
 
 ---
 
@@ -730,16 +730,16 @@ Sometimes, if the circumstance is especially restrictive, you can apply the stun
 
 The second type of stunt lets you make something true, do something cool, or otherwise ignore the usual rules in some way. Use this template:
 
-Because I **[describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome]**, once per game session I can **[describe something cool you can do]**.
+Because I __[describe some way that you are exceptional, have a cool bit of gear, or are otherwise awesome]__, once per game session I can __[describe something cool you can do]__.
 
 For example:
 
 ---
 
 
-- Because I **am Well Connected**, once per game session I can **find a helpful ally in just the right place**.
-- Because I **am Quick on the Draw**, once per game session I can **choose to go first in a physical conflict**.
-- Because I **can Run Circles Around a Leopard**, once per game session I can **show up anywhere I want to, provided I could run there, no matter where I started**.
+- Because I __am Well Connected__, once per game session I can __find a helpful ally in just the right place__.
+- Because I __am Quick on the Draw__, once per game session I can __choose to go first in a physical conflict__.
+- Because I __can Run Circles Around a Leopard__, once per game session I can __show up anywhere I want to, provided I could run there, no matter where I started__.
 
 ---
 
@@ -783,7 +783,7 @@ In addition to the benefit of a minor milestone, you also gain _both_ of the f
 
 ---
 
-**RAISING APPROACH BONUSES**
+__RAISING APPROACH BONUSES__
 
 When you raise the bonus of an approach, there’s only one rule you need to remember: you can’t raise an approach bonus above Superb (+5).
 
@@ -813,13 +813,13 @@ A _campaign_ is a series of games you play with the same characters, where the
 ---
 
 
-  + Cat-people sky pirates in flying ships, always on the run from the Royal Navy trying to catch them.
-  + Magic-wielding desert townsfolk stand against the invading soldiers of the evil Steel Empire.
-  + Students at a boarding school for magical youth solve mysteries and uncover secrets of their ancient school.
+- Cat-people sky pirates in flying ships, always on the run from the Royal Navy trying to catch them.
+- Magic-wielding desert townsfolk stand against the invading soldiers of the evil Steel Empire.
+- Students at a boarding school for magical youth solve mysteries and uncover secrets of their ancient school.
 
 ---
 
-**LEARNING HOW TO BE A GM**
+__LEARNING HOW TO BE A GM__
 
 Being a GM and running games can seem intimidating and difficult at first. It’s a skill that takes some practice to master, so don’t worry—you’ll get better the more you do it. If you’d like to read more about the art of GMing Fate, there are several chapters in the Fate Core rules that you should check out: Running the Game, Scenes, Sessions, and Scenarios, and The Long Game are particularly helpful. Fate Core is available for free at [_www.evilhat.com_](http://www.evilhat.com).
 
@@ -835,9 +835,9 @@ A _scenario_ is one short story arc, the sort of thing you might see wrapped u
 
 A scenario needs two things: A bad guy with a goal, and a reason the PCs can’t ignore it.
 
-**Bad guy with a goal:** You’ve probably figured this out already. The campaign’s main opposition, or one of his allies, is probably your bad guy.
+__Bad guy with a goal:__ You’ve probably figured this out already. The campaign’s main opposition, or one of his allies, is probably your bad guy.
 
-**Something the PCs can’t ignore:** Now you have to give the PCs a reason to care. Make sure the bad guy’s goal is up in the PCs’ faces, where they need to do something about it or bad things will happen to them, or to people or things they value.
+__Something the PCs can’t ignore:__ Now you have to give the PCs a reason to care. Make sure the bad guy’s goal is up in the PCs’ faces, where they need to do something about it or bad things will happen to them, or to people or things they value.
 
 ### Running Game Sessions
 
@@ -846,12 +846,12 @@ Now that your bad guy is doing something the PCs will pay attention to, it’s t
 That said, there are a bunch of tasks the GM needs to perform to run the session:
 
 
-  + **Run scenes:** A session is made up of individual scenes. Decide where the scene begins, who’s there, and what’s going on. Decide when all the interesting things have played out and the scene’s over.
-  + **Adjudicate the rules:** When some question comes up about how to apply the rules, you get final say.
-  + **Set difficulties:** You decide how difficult tasks should be.
-  + **Play the NPCs:** Each player controls their own character, but you control all the rest, including the bad guys.
-  + **Keep things moving:** If the players don’t know what to do next, it’s your job to give them a nudge. Never let things get too bogged down in indecision or because they don’t have enough information—do something to shake things up.
-  + **Make sure everyone has a chance to be awesome:** Your goal isn’t to defeat the players, but to challenge them. Make sure every PC gets a chance to be the star once in a while, from the big bad warrior to the little sneaky thief.
+- __Run scenes:__ A session is made up of individual scenes. Decide where the scene begins, who’s there, and what’s going on. Decide when all the interesting things have played out and the scene’s over.
+- __Adjudicate the rules:__ When some question comes up about how to apply the rules, you get final say.
+- __Set difficulties:__ You decide how difficult tasks should be.
+- __Play the NPCs:__ Each player controls their own character, but you control all the rest, including the bad guys.
+- __Keep things moving:__ If the players don’t know what to do next, it’s your job to give them a nudge. Never let things get too bogged down in indecision or because they don’t have enough information—do something to shake things up.
+- __Make sure everyone has a chance to be awesome:__ Your goal isn’t to defeat the players, but to challenge them. Make sure every PC gets a chance to be the star once in a while, from the big bad warrior to the little sneaky thief.
 
 
 
@@ -859,19 +859,19 @@ That said, there are a bunch of tasks the GM needs to perform to run the sessio
 
 When another character is opposing a PC, their rolls provide the opposition in a conflict, contest, or challenge. But if there’s no active opposition, you have to decide how hard the task is.
 
-**Low difficulties** are best when you want to give the PCs a chance to show off and be awesome.**Difficulties near their approach ratings** are best when you want to provide tension but not overwhelm them. **High difficulties** are best when you want to emphasize how dire or unusual the circumstances are and make them pull out all the stops.
+__Low difficulties__ are best when you want to give the PCs a chance to show off and be awesome.__Difficulties near their approach ratings__ are best when you want to provide tension but not overwhelm them. __High difficulties__ are best when you want to emphasize how dire or unusual the circumstances are and make them pull out all the stops.
 
 ### Rules of Thumb:
 
 
-  + If the task isn’t very tough at all, give it a Mediocre (+0)—or just tell the player they succeed without a roll.
-  + If you can think of at least one reason why the task is tough, pick Fair (+2).
-  + If the task is extremely difficult, pick Great (+4).
-  + If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some fate points and get lots of help to succeed, but that’s fine.
+- If the task isn’t very tough at all, give it a Mediocre (+0)—or just tell the player they succeed without a roll.
+- If you can think of at least one reason why the task is tough, pick Fair (+2).
+- If the task is extremely difficult, pick Great (+4).
+- If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some fate points and get lots of help to succeed, but that’s fine.
 
 ---
 
-**OPTIONAL RULE: APPROACH-RELATED TARGET NUMBERS**
+__OPTIONAL RULE: APPROACH-RELATED TARGET NUMBERS__
 
 Sometimes being Careful makes things a lot easier; sometimes it just takes too long. The GM may wish to adjust the target number up or down by 1 or 2 depending on whether you choose a fitting or a problematic approach. This makes things a bit more complex, but for some groups it’s worth it.
 
@@ -881,63 +881,63 @@ Sometimes being Careful makes things a lot easier; sometimes it just takes too l
 
 When you make a bad guy, you can stat them out exactly like the PCs, with approaches, aspects, stress, and consequences. You should do this for important or recurring bad guys who are intended to give the PCs some real difficulties, but you shouldn’t need more than one or two of these in a scenario.
 
-**Mooks:** Other bad guys are _mooks_—unnamed thugs or monsters or goons that are there to make the PCs’ day a little more difficult, but they’re designed to be more or less easily swept aside, especially by powerful PCs. Here’s how you create their stats:
+__Mooks:__ Other bad guys are _mooks_—unnamed thugs or monsters or goons that are there to make the PCs’ day a little more difficult, but they’re designed to be more or less easily swept aside, especially by powerful PCs. Here’s how you create their stats:
 
 
-  + Make a list of what this mook is skilled at. They get a +2 to all rolls dealing with these things.
-  + Make a list of what this mook is bad at. They get a −2 to all rolls dealing with these things.
-  + Everything else gets a +0 when rolled.
-  + Give the mook an aspect or two to reinforce what they’re good and bad at, or if they have a particular strength or vulnerability. It’s okay if a mook’s aspects are really simple.
-  + Mooks have zero, one, or two boxes in their stress track, depending on how tough you imagine them to be.
-  + Mooks can’t take consequences. If they run out of stress boxes (or don’t have any), the next hit takes them down.
+- Make a list of what this mook is skilled at. They get a +2 to all rolls dealing with these things.
+- Make a list of what this mook is bad at. They get a −2 to all rolls dealing with these things.
+- Everything else gets a +0 when rolled.
+- Give the mook an aspect or two to reinforce what they’re good and bad at, or if they have a particular strength or vulnerability. It’s okay if a mook’s aspects are really simple.
+- Mooks have zero, one, or two boxes in their stress track, depending on how tough you imagine them to be.
+- Mooks can’t take consequences. If they run out of stress boxes (or don’t have any), the next hit takes them down.
 
 ---
 
-### **CYCLOPS HOUSE BULLY**
+### __CYCLOPS HOUSE BULLY__
 
 Cyclops House Bully, Cowardly Without Backup
 
-**Skilled (+2) at:** Frightening other students, weaseling out of trouble, breaking things
+__Skilled (+2) at:__ Frightening other students, weaseling out of trouble, breaking things
 
-**Bad (-2) at:** Planning, studying
+__Bad (-2) at:__ Planning, studying
 
-**Stress:** None (first hit takes them out)
+__Stress:__ None (first hit takes them out)
 
 ---
 
-### **STEEL ASSASSIN**
+### __STEEL ASSASSIN__
 
 Steel Assassin, The Night Is Ours
 
-**Skilled (+2) at:** Sneaking, ambushing
+__Skilled (+2) at:__ Sneaking, ambushing
 
-**Bad (-2) at:** Standing up to determined opposition
+__Bad (-2) at:__ Standing up to determined opposition
 
-**Stress: O**
+__Stress: O__
 
 ---
 
-### **SKY SHARK**
+### __SKY SHARK__
 
 I’m a Shark, Vulnerable Belly
 
-**Skilled (+2) at:** Flying, biting
+__Skilled (+2) at:__ Flying, biting
 
-**Bad (-2) at:** Anything that isn’t flying or biting
+__Bad (-2) at:__ Anything that isn’t flying or biting
 
-**Stress: OO**
+__Stress: OO__
 
 ---
 
 
 
-**Groups of Mooks:** If you have a lot of low-level bad guys facing the PCs, you can make your job easier by treating them as a group—or maybe a few groups. Instead of tracking a dozen bad guys, you track three groups of four bad guys each. Each of these groups acts like a single character and has a set of stats just like a single mook would: 
+__Groups of Mooks:__ If you have a lot of low-level bad guys facing the PCs, you can make your job easier by treating them as a group—or maybe a few groups. Instead of tracking a dozen bad guys, you track three groups of four bad guys each. Each of these groups acts like a single character and has a set of stats just like a single mook would: 
 
 
-  + Choose a couple of things they’re skilled at. You might designate “ganging up” as one of the things the group is good at.
-  + Choose a couple of things they’re not so good at.
-  + Give them an aspect. 
-  + Give them one stress box for every two individuals in the group. 
+- Choose a couple of things they’re skilled at. You might designate “ganging up” as one of the things the group is good at.
+- Choose a couple of things they’re not so good at.
+- Give them an aspect. 
+- Give them one stress box for every two individuals in the group. 
 
 ---
 
@@ -945,11 +945,11 @@ I’m a Shark, Vulnerable Belly
 
 Axe Handles & Crowbars
 
-**Skilled (+2) at:** Ganging up, scaring innocent people
+__Skilled (+2) at:__ Ganging up, scaring innocent people
 
-**Bad (-2) at:** Thinking ahead, fighting when outnumbered
+__Bad (-2) at:__ Thinking ahead, fighting when outnumbered
 
-**Stress: ****O****O**(4 thugs)
+__Stress: ____O____O__(4 thugs)
 
 ---
 
@@ -971,39 +971,39 @@ Reth is 14 years of age. He has dark brown skin and dark hair that he wears in t
 
 ### RETH
 
-**High Concept:**Suncaller of the Andral Desert
+__High Concept:__Suncaller of the Andral Desert
 
-**Trouble:**Steel Assassins Want Me Dead
+__Trouble:__Steel Assassins Want Me Dead
 
-**Other Aspects:**My Kung Fu Is The Strongest; Crush On Avasa; I Can Learn from Serio’s Experience
+__Other Aspects:__My Kung Fu Is The Strongest; Crush On Avasa; I Can Learn from Serio’s Experience
 
 ### APPROACHES
 
-**Careful:** Fair (+2)
+__Careful:__ Fair (+2)
 
-**Clever:** Average (+1)
+__Clever:__ Average (+1)
 
-**Flashy:** Mediocre (+0)
+__Flashy:__ Mediocre (+0)
 
-**Forceful:** Good (+3)
+__Forceful:__ Good (+3)
 
-**Quick:** Fair (+2)
+__Quick:__ Fair (+2)
 
-**Sneaky:** Average (+1)
+__Sneaky:__ Average (+1)
 
 ### STUNTS
 
-**Stance of the Defiant Sun:** Because I have perfected the Stance of the Defiant Sun, I gain a +2 to Forcefully defend in hand-to-hand combat. (May take two more stunts without reducing refresh!)
+__Stance of the Defiant Sun:__ Because I have perfected the Stance of the Defiant Sun, I gain a +2 to Forcefully defend in hand-to-hand combat. (May take two more stunts without reducing refresh!)
 
-### STRESS **O****O****O**
+### STRESS __O____O____O__
 
 ### CONSEQUENCES
 
-**Mild (2):**
+__Mild (2):__
 
-**Moderate (4):**
+__Moderate (4):__
 
-**Severe (6):**
+__Severe (6):__
 
 ### REFRESH: 3
 
@@ -1017,39 +1017,39 @@ Voltaire is captain of the _Cirrus Skimmer_, a skyship that roams a vast sea of
 
 ### VOLTAIRE
 
-**High Concept:**Feline Captain of Cirrus Skimmer
+__High Concept:__Feline Captain of Cirrus Skimmer
 
-**Trouble:***Yawn*
+__Trouble:__*Yawn*
 
-**Other Aspects:**That? Oh, That’s a Decoy; Martin Is a Big Cheat; Sanchez Is the Best First Mate a Ship Could Have
+__Other Aspects:__That? Oh, That’s a Decoy; Martin Is a Big Cheat; Sanchez Is the Best First Mate a Ship Could Have
 
 ### APPROACHES:
 
-**Careful:** Average (+1)
+__Careful:__ Average (+1)
 
-**Clever:** Average (+1)
+__Clever:__ Average (+1)
 
-**Flashy:** Good (+3)
+__Flashy:__ Good (+3)
 
-**Forceful:** Mediocre (+0)
+__Forceful:__ Mediocre (+0)
 
-**Quick:** Fair (+2)
+__Quick:__ Fair (+2)
 
-**Sneaky:** Fair (+2)
+__Sneaky:__ Fair (+2)
 
 ### STUNTS
 
-**Swashbuckling Swordswoman:** Because I am a Swashbuckling Swordswoman, I gain a +2 to Flashy attacks when crossing blades with a single opponent. (May take two more stunts without reducing refresh!)
+__Swashbuckling Swordswoman:__ Because I am a Swashbuckling Swordswoman, I gain a +2 to Flashy attacks when crossing blades with a single opponent. (May take two more stunts without reducing refresh!)
 
-### STRESS **O****O****O**
+### STRESS __O____O____O__
 
 ### CONSEQUENCES
 
-**Mild (2):**
+__Mild (2):__
 
-**Moderate (4):**
+__Moderate (4):__
 
-**Severe (6):**
+__Severe (6):__
 
 ### REFRESH: 3
 
@@ -1059,41 +1059,41 @@ Abigail is a student at the School of Sorcery, and a member of Hippogriff House.
 
 ---
 
-### **ABIGAIL ZHAO**
+### __ABIGAIL ZHAO__
 
-**High Concept:**Enchantment Specialist of Hippogriff House
+__High Concept:__Enchantment Specialist of Hippogriff House
 
-**Trouble:**Cast Now, Ask Questions Later
+__Trouble:__Cast Now, Ask Questions Later
 
-**Other Aspects:**I Hate Those Guys in          Cyclops House; Sarah Has My Back;Dexter Fitzwilliam Is Going Down
+__Other Aspects:__I Hate Those Guys in          Cyclops House; Sarah Has My Back;Dexter Fitzwilliam Is Going Down
 
 ### APPROACHES
 
-**Careful:** Mediocre (+0)
+__Careful:__ Mediocre (+0)
 
-**Clever:** Fair (+2)
+__Clever:__ Fair (+2)
 
-**Flashy:** Average (+1)
+__Flashy:__ Average (+1)
 
-**Forceful:** Fair (+2)
+__Forceful:__ Fair (+2)
 
-**Quick:** Average (+1)
+__Quick:__ Average (+1)
 
-**Sneaky:** Good (+3)
+__Sneaky:__ Good (+3)
 
 ### STUNTS
 
-**Teacher’s Favorite:** Because I am a Teacher’s Favorite, once per session I may declare that a helpful teacher arrives in the scene. (May take two more stunts without reducing refresh!)
+__Teacher’s Favorite:__ Because I am a Teacher’s Favorite, once per session I may declare that a helpful teacher arrives in the scene. (May take two more stunts without reducing refresh!)
 
-### STRESS **O****O****O**
+### STRESS __O____O____O__
 
 ### CONSEQUENCES
 
-**Mild (2):**
+__Mild (2):__
 
-**Moderate (4):**
+__Moderate (4):__
 
-**Severe (6):**
+__Severe (6):__
 
 ### REFRESH: 3
 
@@ -1107,41 +1107,41 @@ Dr. Flushing is a fellow at the Institute for Gravitical and Electro-Mechanical 
 
 ### BETHESDA FLUSHING
 
-**High Concept:**Chief Field Agent of IGEMA
+__High Concept:__Chief Field Agent of IGEMA
 
-**Trouble:**I’ll Get You, von Stendahl!
+__Trouble:__I’ll Get You, von Stendahl!
 
-**Other Aspects:**My Inventions Almost Always Work. Almost.; My Grad Students Come Through, Just Not How I Expect Them To; I Trust Dr. Alemieda’s Genius
+__Other Aspects:__My Inventions Almost Always Work. Almost.; My Grad Students Come Through, Just Not How I Expect Them To; I Trust Dr. Alemieda’s Genius
 
 ### APPROACHES
 
-**Careful:** Fair (+2)
+__Careful:__ Fair (+2)
 
-**Clever:** Good (+3)
+__Clever:__ Good (+3)
 
-**Flashy:** Average (+1)
+__Flashy:__ Average (+1)
 
-**Forceful:** Fair (+2)
+__Forceful:__ Fair (+2)
 
-**Quick:** Average (+1)
+__Quick:__ Average (+1)
 
-**Sneaky:** Mediocre (+0)
+__Sneaky:__ Mediocre (+0)
 
 ### STUNTS
 
-**Experimental Helo Pack:** When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly create an advantage or overcome an obstacle if flying would be both possible and helpful.
+__Experimental Helo Pack:__ When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly create an advantage or overcome an obstacle if flying would be both possible and helpful.
 
-**Gadgeteer:** Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one situation aspect. (May take one more stunt without reducing refresh!)
+__Gadgeteer:__ Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one situation aspect. (May take one more stunt without reducing refresh!)
 
-### STRESS **O****O****O**
+### STRESS __O____O____O__
 
 ### CONSEQUENCES
 
-**Mild (2):**
+__Mild (2):__
 
-**Moderate (4):**
+__Moderate (4):__
 
-**Severe (6):**
+__Severe (6):__
 
 ### REFRESH: 3
 

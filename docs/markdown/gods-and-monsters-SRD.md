@@ -8,7 +8,7 @@ This work is based on the Gods and Monsters SRD (found at http://www.faterpg.com
 
 At the start of the game, the world is a blank slate. Sketch a new one with the six basic regions. If anyone wants to add some additional details along the lines of “here there be monsters,” go right ahead, but you don’t have to. As you create your gods, you’ll add a few more details—places sacred to your gods and the people who worship them—but you’ll come up with most of the fine details as you play the game and tell the tales of your gods’ actions.
 
-At a minimum, your world starts with **sub-regions** equal to the number of player characters, along with one **community**.
+At a minimum, your world starts with __sub-regions__ equal to the number of player characters, along with one __community__.
 
 ## Regions
 
@@ -33,12 +33,12 @@ Generally, your god—and all others—can go anywhere in the world with minimal
 As part of shaping the world around them characters will often interact with _communities_: cohesive groups of people who can be led, manipulated or fought as a unit. When a community acts as a whole or you need some approximate stats for one of its members, use its community skills. Not all communities have all skills; if one is missing, assume it is Mediocre (+0). The community skills are:
 
 
-- **Culture** covers the appeal of the community’s arts and “ambience” to outsiders.
-- **Integrity** is used to resist the forces of change both internal and external. 
-- **Subtlety** reflects the level of skulduggery that the community engages in, including spying, stealth, and theft.
-- **Technology** is the overall level of technical advancement. Technology rarely begins at a rank higher than Average (+1), but it can change over the course of the game.
-- **Warfare** covers how many soldiers the community can round up and what level of training they have received. 
-- **Wealth** is self-explanatory: how rich does the community tend to be in material possessions? However, it says nothing about how those riches are distributed.
+- __Culture__ covers the appeal of the community’s arts and “ambience” to outsiders.
+- __Integrity__ is used to resist the forces of change both internal and external. 
+- __Subtlety__ reflects the level of skulduggery that the community engages in, including spying, stealth, and theft.
+- __Technology__ is the overall level of technical advancement. Technology rarely begins at a rank higher than Average (+1), but it can change over the course of the game.
+- __Warfare__ covers how many soldiers the community can round up and what level of training they have received. 
+- __Wealth__ is self-explanatory: how rich does the community tend to be in material possessions? However, it says nothing about how those riches are distributed.
 
 Communities also have a stress track and a set of consequences, used to resist raids, environmental destruction, depopulation by disease or misfortune, social pressure to change their ways, or other forces of change. Some communities also have stunts or other special powers, but these are rare.
 
@@ -95,12 +95,12 @@ Each god starts with 3 refresh and 3 free stunts. If you want to buy more stunts
 ### Example Stunts
 
 
-- Because I can see the **threads of destiny**, once per session I can arrive in a scene at a moment of great import, even if it would be impossible for me to get there in time (or at all).
-- Because I have buried a portion of myself **under the Rugged Peaks**, once per session I can bleed off excess intention into that region instead of my immediate environs.
-- Because I am the **inventor of archery**, once per session I can turn one of my missed ranged attacks into a 2-shift hit.
-- Because the blood in my veins is the **blood of the earth**, once per session when I take stress from a physical attack I can choose to spout lava everywhere, adding an appropriate situation aspect.
-- Because I live in symbiotic union with a **thorned vine**, once per session I can make a melee attack into an adjacent zone.
-- Because I am a **god of war**, I get a +2 bonus whenever a community opposes my actions with Warfare.
+- Because I can see the __threads of destiny__, once per session I can arrive in a scene at a moment of great import, even if it would be impossible for me to get there in time (or at all).
+- Because I have buried a portion of myself __under the Rugged Peaks__, once per session I can bleed off excess intention into that region instead of my immediate environs.
+- Because I am the __inventor of archery__, once per session I can turn one of my missed ranged attacks into a 2-shift hit.
+- Because the blood in my veins is the __blood of the earth__, once per session when I take stress from a physical attack I can choose to spout lava everywhere, adding an appropriate situation aspect.
+- Because I live in symbiotic union with a __thorned vine__, once per session I can make a melee attack into an adjacent zone.
+- Because I am a __god of war__, I get a +2 bonus whenever a community opposes my actions with Warfare.
 
 ## The Divine Mantle
 
@@ -136,13 +136,13 @@ These scales measure how far your god’s behavior is pulling them toward the di
 
 When you create your god, place a token, called an _intention token_, on the “1” space on the side of your god’s ascendant approach for each approach pair. The numbered spaces represent the _tiers_ of each approach pair. At the start of each tale, mark the positions of your intention tokens on the track itself.
 
-Your god’s intention will change as you play. **Every time you spend a fate point to affect a roll for an action**—whether to get a +2 bonus, to reroll, to power a stunt, or to do anything else—move the token one step toward the approach you are using on the appropriate track. 
+Your god’s intention will change as you play. __Every time you spend a fate point to affect a roll for an action__—whether to get a +2 bonus, to reroll, to power a stunt, or to do anything else—move the token one step toward the approach you are using on the appropriate track. 
 
 During a session, the positions of your intention tokens only matter if you push a token off its track, turning your god into a monster. At milestones, however, their positions determine your _milestone tier_, which affects your god’s _boons_ and _geas_. Upon creating your god, you begin at milestone tier 1.
 
 ### Stations
 
-A god’s mantle also starts with two _stations_, sacred places in the world which act as touchstones of power. The act of storing power in stations allows gods to delay transformation into monsters, and the power stored there can be used to fuel the boons of their mantle. There are two types of stations: **marked sub-regions** and **communities**. As you determine your stations, mark them on the map.
+A god’s mantle also starts with two _stations_, sacred places in the world which act as touchstones of power. The act of storing power in stations allows gods to delay transformation into monsters, and the power stored there can be used to fuel the boons of their mantle. There are two types of stations: __marked sub-regions__ and __communities__. As you determine your stations, mark them on the map.
 
 Your first station is a sub-region that you feel reflects your link to the world at large; you can choose the refinement aspect or leave it up to the GM. This sub-region begins play as marked by you, meaning you can use its regional stunt.
 
@@ -158,7 +158,7 @@ First, choose a low-level persistent benefit related to your god’s overall con
 
 Then, create a boon stunt following this template: 
 
-> Because I am **[something related to your god’s concept]**, I can spend a power point stored in my stations to get a +1 bonus when I **[pick one: Boldly, Subtly, Mightily, Swiftly, Wisely, Cleverly]****[pick one: attack, defend, overcome, create an advantage]** while **[describe a circumstance]**. 
+> Because I am __[something related to your god’s concept]__, I can spend a power point stored in my stations to get a +1 bonus when I __[pick one: Boldly, Subtly, Mightily, Swiftly, Wisely, Cleverly]____[pick one: attack, defend, overcome, create an advantage]__ while __[describe a circumstance]__. 
 
 This boon stunt is weaker than a stunt, but as your god grows in power, you will receive more powerful boon stunts. 
 
@@ -206,13 +206,13 @@ Intention is the main measure of a god’s power: The more they favor their stre
 
 This happens in the game when spending a fate point pushes your intention token off the end of one of the scales. At that point your character immediately succumbs to their power and becomes a monster, with deleterious consequences for everyone and everything nearby. 
 
-Fortunately, gods have two ways of managing the build-up of intention. They can **store the power** in their stations, or they can **blee****d it off** into the world.
+Fortunately, gods have two ways of managing the build-up of intention. They can __store the power__ in their stations, or they can __blee____d it off__ into the world.
 
 ### Storing Intention
 
 A god can store intention in their stations, using the metaphysical connection between themself and the world as a buffer. Even better, once grounded in the world like this, this “refined” intention can be used to fuel the god’s boons in a way that raw intention cannot. 
 
-Stored intention takes the form of _power points_, and a god can store 1 power point in each of their stations. Whenever you would move an intention token **toward a higher tier** of your ascendant approach, you can instead store 1 power point and keep the token where it is. If you have no empty stations, you must either move the token or bleed the intention into your surroundings. 
+Stored intention takes the form of _power points_, and a god can store 1 power point in each of their stations. Whenever you would move an intention token __toward a higher tier__ of your ascendant approach, you can instead store 1 power point and keep the token where it is. If you have no empty stations, you must either move the token or bleed the intention into your surroundings. 
 
 At the beginning of a tale, all your stations begin empty. Any stored intention vanishes between tales with no ill effects. 
 
@@ -373,11 +373,11 @@ When your tale has reached a conclusion, think back over everything that occurre
 
 When choosing an explanation, you have three broad options: something cosmetic with a global scope, something more potent but more local in effect, or something potent and global but that other parties will contest.
 
-**Cosmetic:** Cosmetic changes are things like why crows are black, why roses have thorns, or why people speak different languages in different places. These things might affect the background of the world, but aren’t significant enough to function as aspects, nor do they count as marking. On the plus side, these changes can have global scope; if you determine that crows are red because they got soaked in carrion following a huge battle, then all crows everywhere are now red. Alternatively, you could declare that only the crows of this particular region are red, while others remain black. It’s up to you.
+__Cosmetic:__ Cosmetic changes are things like why crows are black, why roses have thorns, or why people speak different languages in different places. These things might affect the background of the world, but aren’t significant enough to function as aspects, nor do they count as marking. On the plus side, these changes can have global scope; if you determine that crows are red because they got soaked in carrion following a huge battle, then all crows everywhere are now red. Alternatively, you could declare that only the crows of this particular region are red, while others remain black. It’s up to you.
 
-**Potent and Local:** The potent-but-local option makes a major change in a region or sub-region by creating or changing the region’s refinement aspect. The character most responsible for the change is considered to have marked the region, and gains access to its regional stunt. 
+__Potent and Local:__ The potent-but-local option makes a major change in a region or sub-region by creating or changing the region’s refinement aspect. The character most responsible for the change is considered to have marked the region, and gains access to its regional stunt. 
 
-**Global:** The “biggest” option is to create an aspect that applies to the entire world as a result of your actions, reflecting the outcome of your tale. Going forward, this aspect acts as a situation aspect in every scene, but it comes with two important conditions: First, this aspect doesn’t affect individual regions or sub-regions, so it doesn’t count as marking anything. Second, people will notice, and they won’t like it.
+__Global:__ The “biggest” option is to create an aspect that applies to the entire world as a result of your actions, reflecting the outcome of your tale. Going forward, this aspect acts as a situation aspect in every scene, but it comes with two important conditions: First, this aspect doesn’t affect individual regions or sub-regions, so it doesn’t count as marking anything. Second, people will notice, and they won’t like it.
 
 When you make a change this big, the next tale or two will focus on how others—gods, mortals, monsters, or some combination—attempt to undo your meddling. The tale after that will be about people seeking a new equilibrium in a changed world, and the problems it causes you. After that, the aspect you created fades into the background of “the way things are,” becoming just a fact of the world that people take for granted.
 
@@ -412,10 +412,10 @@ At the end of a tale, you can choose to bleed off all the intention your god has
 If you do this, count the number of steps on the track that each token moves, and note which approach the token moves _away from_. Bleeding off this energy has the usual effects—changing a region’s refinement aspect in an uncontrolled and negative way—but the intensity depends directly on the total number of steps the tokens moved:
 
 
-- **1–2 steps:** As normal. You mark the region, and the refinement aspect becomes something unpleasant based on the approaches you’ve bled off.
-- **3–4 steps:** This is bad. The refinement aspect on the region jumps straight to something hostile—coming here in future is going to be difficult and dangerous, and the mortal population will be starkly affected.
-- **5–6 steps:** Really bad. It’s just like 3–4 steps, except that either you affect a very large sub-region, or you hit multiple smaller sub-regions. Also, the power you create in the sub-region hates you and anything that reminds it of you.
-- **7+ steps:** Grossly irresponsible. Your drive to avoid the consequences of your actions by pouring your power back into the world causes numerous large sub-regions to spring up all over the region you affect and any other similar regions in the world—all forests, all oceans, all mountain ranges, and so on. All these sub-regions have the same hostile refinement aspect, and the creatures they spawn bear a special hatred for you and anything like you. Nice work.
+- __1–2 steps:__ As normal. You mark the region, and the refinement aspect becomes something unpleasant based on the approaches you’ve bled off.
+- __3–4 steps:__ This is bad. The refinement aspect on the region jumps straight to something hostile—coming here in future is going to be difficult and dangerous, and the mortal population will be starkly affected.
+- __5–6 steps:__ Really bad. It’s just like 3–4 steps, except that either you affect a very large sub-region, or you hit multiple smaller sub-regions. Also, the power you create in the sub-region hates you and anything that reminds it of you.
+- __7+ steps:__ Grossly irresponsible. Your drive to avoid the consequences of your actions by pouring your power back into the world causes numerous large sub-regions to spring up all over the region you affect and any other similar regions in the world—all forests, all oceans, all mountain ranges, and so on. All these sub-regions have the same hostile refinement aspect, and the creatures they spawn bear a special hatred for you and anything like you. Nice work.
 
 This list is only guidance, of course. If you have a better idea of how to ruin a god’s day with the unintended consequences of their reckless use of power, go with that.
 
@@ -435,7 +435,7 @@ There is one exception: do not change the community’s refinement aspect if it 
 
 ## Changing Yourself
 
-The gods in _Gods and Monsters_ are fluid entities, stabilized by their connection to the world and their careful management of their own power. Change is less something they choose to do and more something that happens to them as they exercise their will on the world. **At every milestone**, in addition to gaining the usual benefits of the milestone, reassess your god’s mantle and the locations of their intention tokens. 
+The gods in _Gods and Monsters_ are fluid entities, stabilized by their connection to the world and their careful management of their own power. Change is less something they choose to do and more something that happens to them as they exercise their will on the world. __At every milestone__, in addition to gaining the usual benefits of the milestone, reassess your god’s mantle and the locations of their intention tokens. 
 
 First, slide each token that isn’t on a numbered space toward the tier 0 space until it arrives on a numbered tier space, where it stops.
 
@@ -467,18 +467,18 @@ Whatever the reason, talk to the GM and the rest of the group and adjust your go
 
 # Intention in 30 Seconds
 
-**At the start of the tale**, mark the current locations of your intention markers.
+__At the start of the tale__, mark the current locations of your intention markers.
 
-**Every time you spend a fate point to affect a roll****, choose one:**
+__Every time you spend a fate point to affect a roll____, choose one:__
 
 
 - If you are using an ascendant approach, imbue one of your stations with a power point.
 - Bleed off the intention into the environment.
 - Move your intention token one step toward the approach rolled.
 
-**If moving your token would push it off the end of the track**, you must store the intention in a station, bleed it off, or turn into a monster and end the scene.
+__If moving your token would push it off the end of the track__, you must store the intention in a station, bleed it off, or turn into a monster and end the scene.
 
-**At every milestone****, in addition to the regular parts of that milestone, do the following:**
+__At every milestone____, in addition to the regular parts of that milestone, do the following:__
 
 1. Move your intention tokens not covering a numbered tier space toward tier 0 until it covers the numbered space of the next lowest tier.
 
@@ -486,5 +486,5 @@ Whatever the reason, talk to the GM and the rest of the group and adjust your go
 
 3. Check if your highest tier, now your milestone tier, has changed. If so, adjust your boons and geas as appropriate.
 
-**At the end of the tale**, you can choose to return your intention tokens to where they were at the start of the tale by bleeding off all the excess intention in one go. The more you bleed off, the worse things get.
+__At the end of the tale__, you can choose to return your intention tokens to where they were at the start of the tale by bleeding off all the excess intention in one go. The more you bleed off, the worse things get.
 

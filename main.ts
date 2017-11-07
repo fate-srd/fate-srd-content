@@ -88,7 +88,7 @@ function emphasis(content: string): string {
 }
 
 function strong(content: string): string {
-    return `**${content}**`;
+    return `__${content}__`;
 }
 
 function strike(content: string): string {
@@ -121,19 +121,12 @@ function span(node: AST.Default.Element): string {
 }
 
 function item(node: AST.Default.Element): string {
-    const lists: Array<"ol" | "ul"> = [];
     let curr = node;
-    while (isElement(curr)) {
+    while (isElement(curr) && curr.tagName !== "ol" && curr.tagName === "ul") {
         curr = curr.parentNode as AST.Default.Element;
-        const tagName = curr.tagName;
-        if (tagName === "ol" || tagName === "ul") {
-            lists.push(tagName);
-        }
     }
-    const depth = lists.length - 1;
-    const ordered = lists[depth] === "ol";
-    const bullet = ordered ? `${depth}.` : depth % 2 === 0 ? "-" : "+";
-    return `\n${"  ".repeat(depth)}${bullet} ${traverse(node)}`;
+    const ordered = curr.tagName === "ol";
+    return `\n${ordered ? "1." : "-"} ${traverse(node)}`;
 }
 
 function table(node: AST.Default.Element): string {

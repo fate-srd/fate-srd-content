@@ -88,7 +88,7 @@ Mechanically, an aspect effect should be worth the fate point you’re spending�
 
 ---
 
-**HOW MANY EFFECTS?**
+__HOW MANY EFFECTS?__
 
 Speaking of character complexity, gms need to decide how many of these effects each player character gets. the simplest way to use this rule is to allow each player to add a special effect to her high concept, since that’s the aspect that’s most likely to be big and character-defining. you can give pcs more aspect effects, but give them too many and it’s like having too many stunts—they’re not all going to get used and the volume of choices can lead to analysis paralysis.
 
@@ -100,17 +100,17 @@ In both cases, it’s best to limit the number of aspect effects per character t
 
 In terms of cost, it’s okay for PCs to have one or even two of these effects for free. They’re on par with a normal invocation in terms of power, and they’re more situational so they’re less likely to be used often. GMs, more than that and you’re within your rights to ask PCs to spend refresh on additional effects.
 
-**Aspect:**Always Armed
+__Aspect:__Always Armed
 
-**Effect:** Spend a fate point to reveal a small, concealable weapon—like a knife or a holdout pistol—secreted away on your person somewhere, even if you’ve recently been disarmed.
+__Effect:__ Spend a fate point to reveal a small, concealable weapon—like a knife or a holdout pistol—secreted away on your person somewhere, even if you’ve recently been disarmed.
 
-**Aspect:**Ninja of the Serpent Clan
+__Aspect:__Ninja of the Serpent Clan
 
-**Effect:** Spend a fate point to vanish from sight, even if people are looking at you. This gives you justification to make a Stealth roll to hide.
+__Effect:__ Spend a fate point to vanish from sight, even if people are looking at you. This gives you justification to make a Stealth roll to hide.
 
-**Aspect:**Sharp-Eyed Elvish Scout
+__Aspect:__Sharp-Eyed Elvish Scout
 
-**Effect:** Spend a fate point to be able to see distant things—up to a mile away—clearly and in great detail, even at night.
+__Effect:__ Spend a fate point to be able to see distant things—up to a mile away—clearly and in great detail, even at night.
 
 ### Scaled Invocation
 
@@ -146,7 +146,7 @@ This is a sweeping change to all aspects in the game, and it’s good for emulat
 
 If you want to allow the PCs to get multiple aspect bonuses in certain situations, consider tying such things to a stunt, such as:
 
-**Keen Senses:** When you invoke aspects on a Notice roll, you can invoke any number of aspects, provided you have the fate points to cover the cost.
+__Keen Senses:__ When you invoke aspects on a Notice roll, you can invoke any number of aspects, provided you have the fate points to cover the cost.
 
 ### Quest Aspects
 
@@ -314,13 +314,13 @@ Ideally, you want between four and eight modes—enough for variety, but few eno
 
 > Ben is planning a classic fantasy game of dungeon-delving, treasure-grabbing, and the occasional dragon-slaying. This game’s skills are Athletics, Burglary, Contacts, Deceit, Empathy, Intimidation, Melee, Missile, Physique, Rapport, Stealth, Survival, and Will. Based on that list, he comes up with four modes:
 
-> **Battle:** Athletics, Intimidation, Melee, Missile, Physique
+> __Battle:__ Athletics, Intimidation, Melee, Missile, Physique
 
-> **Talk:** Contacts, Deceit, Empathy, Rapport, Will
+> __Talk:__ Contacts, Deceit, Empathy, Rapport, Will
 
-> **Thievery:** Athletics, Burglary, Receit, Notice, Stealth
+> __Thievery:__ Athletics, Burglary, Receit, Notice, Stealth
 
-> **Woodcraft:** Atketics, Lore, Notice, Stealth, Survival
+> __Woodcraft:__ Atketics, Lore, Notice, Stealth, Survival
 
 > 
 
@@ -378,13 +378,13 @@ Some modes offer access to _extras_—either because it contains a skill extra, 
 
 > Ben adds four modes to his list: Arcana and The Gods, for two different kinds of magic, and Dwarf and Elf, for…dwarves and elves. The first two have two extras each—a skill and an aspect, both related to magic—and the second two only have one—an aspect.
 
-> **Arcana:** Lore, Magic, Will, _Skill Extra_, _Aspect Extra_
+> __Arcana:__ Lore, Magic, Will, _Skill Extra_, _Aspect Extra_
 
-> **The Gods:** Favor, Lore, Will, _Skill Extra_, _Aspect Extra_
+> __The Gods:__ Favor, Lore, Will, _Skill Extra_, _Aspect Extra_
 
-> **Dwarf:** Intimidation, Lore, Melee, Physique, _Aspect Extra_
+> __Dwarf:__ Intimidation, Lore, Melee, Physique, _Aspect Extra_
 
-> **Elf:** Athletics, Lore, Missile, Notice, _Aspect Extra_
+> __Elf:__ Athletics, Lore, Missile, Notice, _Aspect Extra_
 
 # 4: Stunts
 
@@ -396,11 +396,11 @@ Stunts as presented in _Fate Core_ provide numerous ways to customize your chara
 
 This is the easiest option to implement, as it’s merely a shift in how you think about stunts. In _Fate Core_, stunts are tied explicitly to skills. What if you want your stunts to be skill-agnostic, or tied to multiple skills, or tied to something else entirely different, like an aspect or piece of gear or a stress track? Some examples:
 
-**Ally’s Shield:** You can invoke Dwarven Shield-Maiden when a nearby ally suffers an attack. When you do, redirect that attack to yourself. Your defense is Average (+1) against that attack.
+__Ally’s Shield:__ You can invoke Dwarven Shield-Maiden when a nearby ally suffers an attack. When you do, redirect that attack to yourself. Your defense is Average (+1) against that attack.
 
-**Berserk Rage:** When you suffer a physical consequence, you can invoke that consequence for free on your next attack. If you suffer multiple physical consequences, you get a free invocation for each.
+__Berserk Rage:__ When you suffer a physical consequence, you can invoke that consequence for free on your next attack. If you suffer multiple physical consequences, you get a free invocation for each.
 
-**Useful Little Things:** Your pockets are full of useful little things. Whenever you need something, you have it, provided it’s not something _too_ unusual (like a map to Jimmy Hoffa’s body) or too large to fit in a pocket, belt pouch, or backpack. When you say you have something, the GM should be likely to agree.
+__Useful Little Things:__ Your pockets are full of useful little things. Whenever you need something, you have it, provided it’s not something _too_ unusual (like a map to Jimmy Hoffa’s body) or too large to fit in a pocket, belt pouch, or backpack. When you say you have something, the GM should be likely to agree.
 
 This isn’t really a mechanical change, just a shift in how you approach stunt design. Any of the above three examples could be tied to a skill—Provoke, Fighting, or Resources, for instance—but not thinking about which skill to tie your stunt to frees you up to be a bit more creative with your design, moving beyond +2s and skill swaps.
 
@@ -408,19 +408,19 @@ This isn’t really a mechanical change, just a shift in how you approach stunt 
 
 For stunts which are tied to aspects, you might view some of their effects as narrowly defined free invocations. Other aspected stunts might require an invocation, as Ally’s Shield (above) does, but give something extra or particularly unusual when the aspect is invoked. Such effects should be more potent than a “vanilla” invocation. You could even design a stunt that triggers under particular kinds of compels­—just be careful you don’t end up neutering the downside with the resulting benefit.
 
-**Charge Like Ox:** Because you are Strong Like Ox, once per scene, as a single action, you may move two zones in a straight line then make a physical attack.
+__Charge Like Ox:__ Because you are Strong Like Ox, once per scene, as a single action, you may move two zones in a straight line then make a physical attack.
 
-**Teflon Troublemaker:** When your Can’t Keep His Big Mouth Shut aspect is compelled to make you the target of an attack, you may immediately clear any mild consequences you currently have, instead of taking a fate point.
+__Teflon Troublemaker:__ When your Can’t Keep His Big Mouth Shut aspect is compelled to make you the target of an attack, you may immediately clear any mild consequences you currently have, instead of taking a fate point.
 
 ### Triggered Effects
 
 When you use this stunt mechanic, you create stunts that trigger under a specific narrative condition, require a skill roll, and have a specific effect as a result. Stunts like this are a great way to encourage players to do the kinds of things you want to see them do in the game, as those stunts directly reward doing those things.
 
-**A Friend in Every Port:** Whenever you enter a settlement, you may declare you’ve visited it before and roll Contacts against Fair (+2) opposition. If you succeed, you have a friend there who owes you one favor—nothing costly or life threatening. If you succeed with style, your friend will do any one thing for you that is within his power.
+__A Friend in Every Port:__ Whenever you enter a settlement, you may declare you’ve visited it before and roll Contacts against Fair (+2) opposition. If you succeed, you have a friend there who owes you one favor—nothing costly or life threatening. If you succeed with style, your friend will do any one thing for you that is within his power.
 
-**Not to Be Trifled With:** When you make it clear how dangerous you are, roll Provoke against your target’s Will. If you succeed, that target will not attack you or willingly come near you unless you take action against him first. If you succeed with style, neither will anyone with a lower Will than your target.
+__Not to Be Trifled With:__ When you make it clear how dangerous you are, roll Provoke against your target’s Will. If you succeed, that target will not attack you or willingly come near you unless you take action against him first. If you succeed with style, neither will anyone with a lower Will than your target.
 
-**Whirlwind Step:** When you assume the stance of the whirlwind, roll Athletics against Fair (+2) opposition. If you succeed, you may run on vertical surfaces and leap unlikely distances without making rolls to do so, until your next turn ends. If you succeed with style, you may instead gain these benefits for the rest of the scene.
+__Whirlwind Step:__ When you assume the stance of the whirlwind, roll Athletics against Fair (+2) opposition. If you succeed, you may run on vertical surfaces and leap unlikely distances without making rolls to do so, until your next turn ends. If you succeed with style, you may instead gain these benefits for the rest of the scene.
 
 You probably noticed that none of these stunts say what happens when you tie or fail; this is deliberate. These triggered effects tend to be powerful, so their drawbacks should be equally so. A tie should be similar to a success, but at some sort of minor cost. On a failure, feel free to apply appropriate repercussions.
 
@@ -482,7 +482,7 @@ Anyone who’s played fantasy RPGs is at least passingly familiar with these ide
 
 ---
 
-**THE WORD “RACE”**
+__THE WORD “RACE”__
 
 The term “race” is both inaccurate and problematic in this context. We’re not describing a race as modern people use the word; what we’re describing is more akin to a species. When you’re making a race in _Fate_, what you’re really doing is making rules for a type of being other than human, not a nationality or ethnicity.
 
@@ -496,11 +496,11 @@ A race in _Fate_ provides a number of aspects; choose at least one but not more 
 
 ---
 
-**Profession: Thief**Aspects: Acquisition Specialist, Cunning Swindler, Guild Thief, Knife in the Dark, Second-Story Man/Woman.
+__Profession: Thief__Aspects: Acquisition Specialist, Cunning Swindler, Guild Thief, Knife in the Dark, Second-Story Man/Woman.
 
-**Skills**Great (+4): Deceive or StealthGood (+3): Athletics or Provoke, one otherFair (+2): Fight or Shoot, two othersAverage (+1): Any four skills
+__Skills__Great (+4): Deceive or StealthGood (+3): Athletics or Provoke, one otherFair (+2): Fight or Shoot, two othersAverage (+1): Any four skills
 
-**Stunts**
+__Stunts__
 
 Backstab: When you can surprise an enemy or attack from a place of hiding, you can attack with Stealth. If you succeed, you create a boost. If you succeed with style, you get to invoke that boost for free twice.
 
@@ -512,9 +512,9 @@ Not a Threat: Choose Deceive or Stealth when you take this stunt. When you creat
 
 ---
 
-**Race: Elf**Aspects: The Experience of Centuries, “I Know These Woods.”, The Long Game, Magic in the Blood, Perfection in Everything.
+__Race: Elf__Aspects: The Experience of Centuries, “I Know These Woods.”, The Long Game, Magic in the Blood, Perfection in Everything.
 
-**Racial Skill (Elf)**
+__Racial Skill (Elf)__
 
 You may use the Elf skill to recognize useful flora and fauna, know your way through the woods, or notice hidden dangers. In addition, pick one of the following flavors; you may pick more at the cost of one stunt or refresh each.
 
@@ -524,9 +524,9 @@ Perfection in Battle: Choose Shoot or Fight. When you’re using the traditional
 
 ---
 
-**Race: Orc**Aspects: Blood and Glory, Everyone Fears the Horde, “Pain Is for the Weak.”, The Spirits Guide Me, Warrior of the Seven Clans.
+__Race: Orc__Aspects: Blood and Glory, Everyone Fears the Horde, “Pain Is for the Weak.”, The Spirits Guide Me, Warrior of the Seven Clans.
 
-**Racial Skill (Orc)**
+__Racial Skill (Orc)__
 
 You may use Orc to resist pain, call upon the spirits for aid, or perform feats of brute strength. In addition, pick one of the following flavors; you can pick more at the cost of one stunt or refresh each.
 
@@ -757,25 +757,25 @@ For most attempts to modify NPC motivations or instincts, the PCs will need to m
 
 Stress boxes have a pretty specific purpose and use in Fate Core, but that’s hardly the only way to go. Here are some other options.
 
-**One-Shift Boxes:** Every stress box absorbs only one shift of harm, but check as many as you want at a time. This option makes characters significantly more fragile.
+__One-Shift Boxes:__ Every stress box absorbs only one shift of harm, but check as many as you want at a time. This option makes characters significantly more fragile.
 
-**Check Two:** Check up to two boxes at once, add their values together, and reduce the hit by that many shifts. This option makes characters significantly tougher—a character with five stress boxes can take up to 9 shifts of harm in a scene without resorting to a consequence.
+__Check Two:__ Check up to two boxes at once, add their values together, and reduce the hit by that many shifts. This option makes characters significantly tougher—a character with five stress boxes can take up to 9 shifts of harm in a scene without resorting to a consequence.
 
-**Step Down:** Stress goes away gradually rather than all at once. Instead of clearing a stress box automatically at the end of a scene, erase it and check the box to its left (assuming there is one).
+__Step Down:__ Stress goes away gradually rather than all at once. Instead of clearing a stress box automatically at the end of a scene, erase it and check the box to its left (assuming there is one).
 
-**Bonus Only:** Characters have zero stress boxes to start, but still get bonus boxes from skills like Physique and Will. This makes characters more fragile and emphasizes consequences.
+__Bonus Only:__ Characters have zero stress boxes to start, but still get bonus boxes from skills like Physique and Will. This makes characters more fragile and emphasizes consequences.
 
-**Extra Effort:** Voluntarily check a box anytime for a bonus on a roll. The bonus equals the value of the checked box. This can have unpredictable effects on your game. Not only can it result in some swingy rolls, it can also partially supplant the usual fate point economy. When combined with any of the above options, though, it becomes a little more viable.
+__Extra Effort:__ Voluntarily check a box anytime for a bonus on a roll. The bonus equals the value of the checked box. This can have unpredictable effects on your game. Not only can it result in some swingy rolls, it can also partially supplant the usual fate point economy. When combined with any of the above options, though, it becomes a little more viable.
 
-**Stress-Free:** Characters have no stress boxes and don’t receive bonus boxes from skills. Instead, those skills grant one bonus mild consequence (physical or mental) at Good (+3) or two at Great (+4). This is the most dangerous and dynamic option—every hit results in a consequence and has narrative impact—but can potentially mean an unmanageable number of aspects in play.
+__Stress-Free:__ Characters have no stress boxes and don’t receive bonus boxes from skills. Instead, those skills grant one bonus mild consequence (physical or mental) at Good (+3) or two at Great (+4). This is the most dangerous and dynamic option—every hit results in a consequence and has narrative impact—but can potentially mean an unmanageable number of aspects in play.
 
 ## Consequences
 
 Just like stress, consequences can serve a variety of roles in your game, apart from the default presented in _Fate Core_.
 
-**Extreme Effort:** Voluntarily take a consequence anytime for a bonus on a roll equal to the consequence’s value—mild grants +2, moderate +4, or severe +6. This can be dangerous, both to the PC and to the fate point economy, as with Extra Effort, above.
+__Extreme Effort:__ Voluntarily take a consequence anytime for a bonus on a roll equal to the consequence’s value—mild grants +2, moderate +4, or severe +6. This can be dangerous, both to the PC and to the fate point economy, as with Extra Effort, above.
 
-**Group Consequences:** Instead of tracking them individually, supporting and main NPCs share a _pool_ of _group consequences_. This gives you the option to “sacrifice” a supporting NPC now to make a main NPC more challenging later. For every two supporting NPCs you expect to include in the scenario, add two mild and one moderate group consequences, to a maximum of three moderate group consequences. For each main NPC, add another mild, moderate, and severe group consequence. If a supporting or main NPC concedes, base the concession reward on the total number of consequences that NPC used during that scene.
+__Group Consequences:__ Instead of tracking them individually, supporting and main NPCs share a _pool_ of _group consequences_. This gives you the option to “sacrifice” a supporting NPC now to make a main NPC more challenging later. For every two supporting NPCs you expect to include in the scenario, add two mild and one moderate group consequences, to a maximum of three moderate group consequences. For each main NPC, add another mild, moderate, and severe group consequence. If a supporting or main NPC concedes, base the concession reward on the total number of consequences that NPC used during that scene.
 
 ---
 
@@ -787,7 +787,7 @@ Just like stress, consequences can serve a variety of roles in your game, apart 
 
 ---
 
-**Collateral Consequences:** In addition to their usual complement of consequences, the players can also make use of three communal consequences, one of each degree of severity. These represent damage to the environment or new complications in the story, such as Injured Bystanders or Anti-Mutant Hysteria. Players can effectively use them to offload harm from themselves onto the world around them. A _collateral consequence_ can be cleared just like a regular one, using an overcome action with whatever skill seems most appropriate, with two exceptions. One, it must be done during the scene in which the consequence is incurred. Two, there’s no delay—with a good enough skill roll it clears immediately. This option is best suited for genres, such as supers, in which the PCs are likely to care a great deal about the world around them.
+__Collateral Consequences:__ In addition to their usual complement of consequences, the players can also make use of three communal consequences, one of each degree of severity. These represent damage to the environment or new complications in the story, such as Injured Bystanders or Anti-Mutant Hysteria. Players can effectively use them to offload harm from themselves onto the world around them. A _collateral consequence_ can be cleared just like a regular one, using an overcome action with whatever skill seems most appropriate, with two exceptions. One, it must be done during the scene in which the consequence is incurred. Two, there’s no delay—with a good enough skill roll it clears immediately. This option is best suited for genres, such as supers, in which the PCs are likely to care a great deal about the world around them.
 
 ## Zones
 
@@ -813,11 +813,11 @@ Not all conflicts happen in the physical world; _Fate_ characters are often draw
 
 If you want to build more character development into your game, you can let characters devote a scene to activating their refresh, adding some drama in between the scenes of exciting action. Refresh scenes might be:
 
-**Flashback scenes:** Whenever appropriate, a player can declare that an event triggers a flashback scene. With help from the group, the player narrates a flashback to their character’s past, revealing a surprising or interesting detail that connects to the present, renewing the character’s focus or giving them the strength to keep going.
+__Flashback scenes:__ Whenever appropriate, a player can declare that an event triggers a flashback scene. With help from the group, the player narrates a flashback to their character’s past, revealing a surprising or interesting detail that connects to the present, renewing the character’s focus or giving them the strength to keep going.
 
-**Recovery scenes:** At the GM’s discretion, the group’s characters step out of their normal active lives to rest and recuperate, splitting up to pursue their own interests and refocus their energies. These are fantastic scenes for the GM to add new NPCs to the story.
+__Recovery scenes:__ At the GM’s discretion, the group’s characters step out of their normal active lives to rest and recuperate, splitting up to pursue their own interests and refocus their energies. These are fantastic scenes for the GM to add new NPCs to the story.
 
-**Reflection scenes:** One player declares a reflection scene and the other characters ask questions that reveal important and interesting information about the reflecting character’s backstory. These are perfect for action-filled stories where actual time away from the adventure is unrealistic.
+__Reflection scenes:__ One player declares a reflection scene and the other characters ask questions that reveal important and interesting information about the reflecting character’s backstory. These are perfect for action-filled stories where actual time away from the adventure is unrealistic.
 
 These scenes can get PCs additional fate points in the middle of a session to keep things exciting or to replace the start-of-session refresh completely. Feel free to use one type exclusively, or open up all of them to your players to use.
 
@@ -910,7 +910,7 @@ How to apply these effects depends on what makes sense in context.
 
 Of course, if the conflict is between two entities of roughly equivalent size or scale, then none of these effects applies. They only come into play when the scale is _unequal_.
 
-**Scale as an Extra:** Most things in your setting will have a scale rating just based on what they are as a matter of common sense—all small gangs are Local, for example—but you can give players the chance to alter the scale of their characters, possessions, or holdings as an extra they can take, if it fits with their high concept.
+__Scale as an Extra:__ Most things in your setting will have a scale rating just based on what they are as a matter of common sense—all small gangs are Local, for example—but you can give players the chance to alter the scale of their characters, possessions, or holdings as an extra they can take, if it fits with their high concept.
 
 ## Sidekicks vs. Allies
 
@@ -982,11 +982,11 @@ Armor aspects are similarly divided into light, medium, and heavy, and also allo
 
 If you have at least three colors of Fate dice and want something that isn’t quite so predictable for your weapons and armor, you can use Red and Blue dice in place of Weapon and Armor ratings. We’re using “Red” and “Blue” here for convenience—you can use any two colors of dice you want, as long as they don’t get used for anything else.
 
-**Red is for weapons:** The more Red your weapon has, the bigger and/or deadlier it is. A Red:1 weapon could be a dagger, a goblin’s claws, or a very low-caliber pistol, while a Red:4 weapon could be a greatsword, a dragon’s bite, or a close-range blast from a combat shotgun.
+__Red is for weapons:__ The more Red your weapon has, the bigger and/or deadlier it is. A Red:1 weapon could be a dagger, a goblin’s claws, or a very low-caliber pistol, while a Red:4 weapon could be a greatsword, a dragon’s bite, or a close-range blast from a combat shotgun.
 
 When you attack, for every point of Red your weapon has, replace one of your usual Fate dice with a Red Fate die. If your attack outcome is a tie or better, each of your Red dice that comes up [+] increases the hit by +1 shift of harm.
 
-**Blue is for armor:** The more Blue armor your armor has, the more protective it is. Light armor, like cured leather or tough hide, is Blue:1. Heavy armor, like a mail hauberk or plate armor, is Blue:2 or 3.
+__Blue is for armor:__ The more Blue armor your armor has, the more protective it is. Light armor, like cured leather or tough hide, is Blue:1. Heavy armor, like a mail hauberk or plate armor, is Blue:2 or 3.
 
 When you defend, for every point of Blue your armor has, replace one of your usual Fate dice with a Blue Fate die. If your defend outcome is a failure or a tie, each of your Blue dice that comes up a [+] absorbs 1 shift of harm.
 
@@ -1047,11 +1047,11 @@ There’s no single answer to that, and while that’s rather the point, it’s 
 You’d still be missing things, but for ease of application we’re going to seize upon a few key threads and boil it down to these five factors:
 
 
-- •**Tone:** Is magic a neutral force, a flavored force, or something with opinions?
-- •**Cost:** Does magic demand a price, a risk, or neither?
-- •**Limits:** Does magic follow strict rules? Is it flexible and open-ended? What are the limits on magic?
-- •**Availability:** Is magic universally available, so everyone in a setting might have it? Is it rare enough that only some people have it, possibly including all the PCs? Or is it rare enough that only one or two PCs might have access to it?
-- •**Source:** Where does magic come from?
+- •__Tone:__ Is magic a neutral force, a flavored force, or something with opinions?
+- •__Cost:__ Does magic demand a price, a risk, or neither?
+- •__Limits:__ Does magic follow strict rules? Is it flexible and open-ended? What are the limits on magic?
+- •__Availability:__ Is magic universally available, so everyone in a setting might have it? Is it rare enough that only some people have it, possibly including all the PCs? Or is it rare enough that only one or two PCs might have access to it?
+- •__Source:__ Where does magic come from?
 
 #### Tone
 
@@ -1111,7 +1111,7 @@ Aspects are also a great way to represent the effects of magic. At the simplest 
 
 #### Stunts as Magic
 
-Stunts can absolutely serve as the basis of a magic system, especially if stunts simply do explicit things. More often, however, this is a good model for a **powers** system. This is a pointed difference, but powers are better suited to monsters and superheroes. Still, stunts can be a useful way to jazz up a magic system, but cost must be carefully considered. Often, a magic system has an intrinsic refresh cost, which makes picking up stunts dangerous. Either the cost should be adjusted or the stunts should really be worth it.
+Stunts can absolutely serve as the basis of a magic system, especially if stunts simply do explicit things. More often, however, this is a good model for a __powers__ system. This is a pointed difference, but powers are better suited to monsters and superheroes. Still, stunts can be a useful way to jazz up a magic system, but cost must be carefully considered. Often, a magic system has an intrinsic refresh cost, which makes picking up stunts dangerous. Either the cost should be adjusted or the stunts should really be worth it.
 
 #### Extras as Magic
 
@@ -1163,45 +1163,45 @@ The Storm aspects are obviously useful when making Stormcaller skill rolls, but 
 Earthquake topples mountains and thrusts new ones into the sky. To tap the Earthquake requires a deep core of personal stability, and while this can promote strength, it also can make it a little hard to pick up momentum.
 
 
-- •**Passive Effect:** Character never loses their footing, no matter how precarious, unless actively knocked down.
-- •**Invoke:** Endure—Any action depending on patience, resolve or endurance can benefit from the Earthquake.
-- •**Compel:** Delay—When quick action is called for, the Earthquake can compel a delay.
+- •__Passive Effect:__ Character never loses their footing, no matter how precarious, unless actively knocked down.
+- •__Invoke:__ Endure—Any action depending on patience, resolve or endurance can benefit from the Earthquake.
+- •__Compel:__ Delay—When quick action is called for, the Earthquake can compel a delay.
 
 ###### Flood
 
 The Flood cannot be contained. It strikes from every direction with overwhelming force, subtlety, or infinite patience, always conforming to the needs of the situation. Nothing can stand against the Flood, and the only hope is to go along with it and hope for the best. Those attuned to its power share some of that flexibility.
 
 
-- •**Passive Effect:** So long as swimming is possible, the character can easily stay afloat as long as necessary, even sleeping in the water.
-- •**Invoke:** Flexibility—When doing something outside of the box, such as using a skill for something bizarre, use this for a bonus.
-- •**Compel:** Messy—Water is subtle and potent, but it also makes a mess. Compel to leave traces of passage when most inconvenient.
+- •__Passive Effect:__ So long as swimming is possible, the character can easily stay afloat as long as necessary, even sleeping in the water.
+- •__Invoke:__ Flexibility—When doing something outside of the box, such as using a skill for something bizarre, use this for a bonus.
+- •__Compel:__ Messy—Water is subtle and potent, but it also makes a mess. Compel to leave traces of passage when most inconvenient.
 
 ###### Glacier
 
 Where earth stands, Glacier pushes ever on, inevitable and unyielding, shattering itself a thousand times until it breaks the thing in its path. Attunement to the Glacier gives the Stormcaller a portion of that inevitability.
 
 
-- •**Passive Effect:** Cold temperatures within the normal range do not bother the character.
-- •**Invoke:** Push—Whether it is to open a door or brush aside an underling, the character benefits when moving forward and pushing things out of his path.
-- •**Compel:** Overcommit—The Glacier does not corner well, and a Stormcaller of Ice may find himself staying too long with a given course of action.
+- •__Passive Effect:__ Cold temperatures within the normal range do not bother the character.
+- •__Invoke:__ Push—Whether it is to open a door or brush aside an underling, the character benefits when moving forward and pushing things out of his path.
+- •__Compel:__ Overcommit—The Glacier does not corner well, and a Stormcaller of Ice may find himself staying too long with a given course of action.
 
 ###### Inferno
 
 The Inferno consumes. Its appetite is endless, and there is nothing that is not fuel for its endless, roiling flames.
 
 
-- •**Passive Effect:** Hot temperatures within the normal range do not bother the character.
-- •**Invoke:** Destroy—Not fight or hurt, destroy. The Inferno is interested in nothing less.
-- •**Compel:** Consume—Resources, food, good opinions, and fortune, an Infernocaller has a bad habit of using them up without thinking about it.
+- •__Passive Effect:__ Hot temperatures within the normal range do not bother the character.
+- •__Invoke:__ Destroy—Not fight or hurt, destroy. The Inferno is interested in nothing less.
+- •__Compel:__ Consume—Resources, food, good opinions, and fortune, an Infernocaller has a bad habit of using them up without thinking about it.
 
 ###### Thunder
 
 Those who distinguish between the Thunder and the lightning reveal they do not understand. Thunder is the sudden, powerful expression of force, be it the bolt that cuts the sky or the clap that makes it ring. Its callers share in that potency.
 
 
-- •**Passive Effect:** Your voice carries. If you can see someone well enough to identify them, you can shout loudly enough to be heard by them—and anyone in between—no matter the conditions.
-- •**Invoke:** Act Decisively—When quick action is called for due to a change in circumstances—not just round-to-round in a fight—then invoke this for a bonus.
-- •**Compel:** Overwhelm—Sometimes, delicacy, restraint, and precision are called for. Sometimes, a Stormcaller underestimates that.
+- •__Passive Effect:__ Your voice carries. If you can see someone well enough to identify them, you can shout loudly enough to be heard by them—and anyone in between—no matter the conditions.
+- •__Invoke:__ Act Decisively—When quick action is called for due to a change in circumstances—not just round-to-round in a fight—then invoke this for a bonus.
+- •__Compel:__ Overwhelm—Sometimes, delicacy, restraint, and precision are called for. Sometimes, a Stormcaller underestimates that.
 
 #### The Stormcaller Skill
 
@@ -1209,25 +1209,25 @@ The Stormcaller skill is used to summon the power of the storm to do all manner 
 
 While there are specific rules and limitations on what Stormcalling does based on which storm is called, they share some basics in common.
 
-In each case, the force that is summoned must be expressed **externally** to the character doing the summoning in a **literal** fashion. That means Stormcalling **does not** allow a user to give himself the “Strength of Earth” to land a mighty blow, but it does let him hit something REALLY hard with a rock. Any description of effect must be couched in terms of how summoning, projecting, and crudely shaping the force in question can get said effect.
+In each case, the force that is summoned must be expressed __externally__ to the character doing the summoning in a __literal__ fashion. That means Stormcalling __does not__ allow a user to give himself the “Strength of Earth” to land a mighty blow, but it does let him hit something REALLY hard with a rock. Any description of effect must be couched in terms of how summoning, projecting, and crudely shaping the force in question can get said effect.
 
-**[Overcome] Overcome:** Stormcalling tends to be a bit crude for all but the most direct of overcome actions, such as knocking something down. But it definitely excels at that.
+__[Overcome] Overcome:__ Stormcalling tends to be a bit crude for all but the most direct of overcome actions, such as knocking something down. But it definitely excels at that.
 
-**[Create] Create an Advantage:** The creation of advantages is a common effect of Stormcalling, summoning up walls of fire or opening up pits in the floor. The more concrete storms—Earthquake and Glacier—tend to be strongest at this sort of effect, as their efforts tend to be more durable.
+__[Create] Create an Advantage:__ The creation of advantages is a common effect of Stormcalling, summoning up walls of fire or opening up pits in the floor. The more concrete storms—Earthquake and Glacier—tend to be strongest at this sort of effect, as their efforts tend to be more durable.
 
 Most effects can be treated as a normal roll to create an advantage, using an aspect on the scene to reflect that advantage, but there are some special cases. Specifically, Stormcalling can be used to create a barrier of the appropriate element. In this case, the caller picks two zones and makes a check against a difficulty of 0. The result of the roll indicates the difficulty to bypass the created barrier.
 
 Other advantage effects depend on the specific element invoked.
 
-**[Attack] Attack:** All the Storms are good at this. As a rule of thumb you can make an attack in-zone at no penalty, -1 per zone distance. These are normal attacks, but may have additional effects based on the Storm used.
+__[Attack] Attack:__ All the Storms are good at this. As a rule of thumb you can make an attack in-zone at no penalty, -1 per zone distance. These are normal attacks, but may have additional effects based on the Storm used.
 
-**[Defend] Defend:** Elements may also be used to defend against attacks, parrying with weapons of ice or throwing up a momentary wall of water to intercept a blow. Specifics depend on the Storm used.
+__[Defend] Defend:__ Elements may also be used to defend against attacks, parrying with weapons of ice or throwing up a momentary wall of water to intercept a blow. Specifics depend on the Storm used.
 
 ---
 
 BARRIERS
 
-**Barrier** is a shorthand term for some kind of obstacle between one zone and the next, such as a wall of ice. When a character attempts to penetrate, circumvent, or destroy a barrier, the value of the barrier is the difficulty to do so.
+__Barrier__ is a shorthand term for some kind of obstacle between one zone and the next, such as a wall of ice. When a character attempts to penetrate, circumvent, or destroy a barrier, the value of the barrier is the difficulty to do so.
 
 In general, a barrier exists between two zones, but it is possible that a barrier might be longer, even completely encircling a zone. The creation of a barrier is a special case of creating an advantage using the Stormcaller skill. It creates a barrier equal to the result of the Stormcaller’s roll. So, if the character rolls a Good (+3), then the barrier has a value of 3. A character who rolls less than a +1 fails to generate a substantial barrier. Specific storms may modify this roll, or offer extra options.
 
@@ -1241,57 +1241,57 @@ One other important note: Barriers cut both ways, and the creator gets no specia
 
 #### Earthquake
 
-**[Overcome] Overcome:** If what’s being overcome is a physical barrier, and the caller beats the target to overcome by 2, then the barrier may be removed.
+__[Overcome] Overcome:__ If what’s being overcome is a physical barrier, and the caller beats the target to overcome by 2, then the barrier may be removed.
 
-**[Create] Create an Advantage:** Gain a +1 to rolls to create any barriers using the Earthquake. When creating a barrier, you may opt to take a -4 to the roll—making it a net total of -3—to create a barrier that completely surrounds a zone. Take an additional -1 if you also want to seal the top.
+__[Create] Create an Advantage:__ Gain a +1 to rolls to create any barriers using the Earthquake. When creating a barrier, you may opt to take a -4 to the roll—making it a net total of -3—to create a barrier that completely surrounds a zone. Take an additional -1 if you also want to seal the top.
 
-**[Attack] Attack:** You may only attack targets that are on or near the ground—low level fliers can still be struck with debris, so anything a standing person could hit with his hands is fair game. You may take a -1 to your attack to attack all targets in your zone (except yourself). For an additional -2, you may attack all targets in your zone and one adjacent zone. You may extend this effect indefinitely, so long as it is contiguous and you keep taking -2s.
+__[Attack] Attack:__ You may only attack targets that are on or near the ground—low level fliers can still be struck with debris, so anything a standing person could hit with his hands is fair game. You may take a -1 to your attack to attack all targets in your zone (except yourself). For an additional -2, you may attack all targets in your zone and one adjacent zone. You may extend this effect indefinitely, so long as it is contiguous and you keep taking -2s.
 
-**[Defend] Defend:** Earth is slow to respond, and is at a -1 to all defense actions.
+__[Defend] Defend:__ Earth is slow to respond, and is at a -1 to all defense actions.
 
 #### Flood
 
-**[Overcome] Overcome:** Receive a +1 to any attempt to overcome a physical barrier.
+__[Overcome] Overcome:__ Receive a +1 to any attempt to overcome a physical barrier.
 
-**[Create] Create an Advantage:** Any barrier created with water diminishes by 1 per exchange unless the caller concentrates on it, taking -1 to all subsequent actions so long as the barrier is maintained.
+__[Create] Create an Advantage:__ Any barrier created with water diminishes by 1 per exchange unless the caller concentrates on it, taking -1 to all subsequent actions so long as the barrier is maintained.
 
-**[Attack] Attack:** Damage from your attacks ignores any armor. You may take -2 to the attack and attack all targets in a zone (excluding yourself).
+__[Attack] Attack:__ Damage from your attacks ignores any armor. You may take -2 to the attack and attack all targets in a zone (excluding yourself).
 
-**[Defend] Defend:** No special rules.
+__[Defend] Defend:__ No special rules.
 
 #### Glacier
 
-**[Overcome] Overcome:** If what’s being overcome is a physical barrier, and the caller beats the target to overcome by 2, then remove the barrier completely.
+__[Overcome] Overcome:__ If what’s being overcome is a physical barrier, and the caller beats the target to overcome by 2, then remove the barrier completely.
 
-**[Create] Create an Advantage:** Gain a +1 to rolls to create any barriers using the Glacier. When you create a barrier, you may actually create multiple contiguous barriers. Each additional length of the barrier—a “length” being a barrier between any two zones—reduces its rating by 1. So, if you got a +6, and wanted to create a 3-length barrier, it would have a rating of 4 (6 – 2, remembering the first one’s free).
+__[Create] Create an Advantage:__ Gain a +1 to rolls to create any barriers using the Glacier. When you create a barrier, you may actually create multiple contiguous barriers. Each additional length of the barrier—a “length” being a barrier between any two zones—reduces its rating by 1. So, if you got a +6, and wanted to create a 3-length barrier, it would have a rating of 4 (6 – 2, remembering the first one’s free).
 
-**[Attack] Attack:** You can opt to do half damage, rounded up, to freeze the target in place. This creates a barrier to their movement with a difficulty to overcome equal to the damage dealt.
+__[Attack] Attack:__ You can opt to do half damage, rounded up, to freeze the target in place. This creates a barrier to their movement with a difficulty to overcome equal to the damage dealt.
 
-**[Defend] Defend:** If you succeed with style on defense, you may forgo the boost to increase any of your active barriers by 1.
+__[Defend] Defend:__ If you succeed with style on defense, you may forgo the boost to increase any of your active barriers by 1.
 
 #### Inferno
 
-**[Overcome] Overcome:** If you overcome a physical barrier, reduce it by 1.
+__[Overcome] Overcome:__ If you overcome a physical barrier, reduce it by 1.
 
-**[Create]  Create an Advantage:** Any barrier created with the Inferno diminishes by 2 per exchange unless the caller concentrates on it, taking -1 to all subsequent actions so long as the barrier is maintained. Anyone who fails to overcome an inferno barrier has the option to force their way through, taking damage equal to the number of additional shifts that a successful roll would have required.
+__[Create]  Create an Advantage:__ Any barrier created with the Inferno diminishes by 2 per exchange unless the caller concentrates on it, taking -1 to all subsequent actions so long as the barrier is maintained. Anyone who fails to overcome an inferno barrier has the option to force their way through, taking damage equal to the number of additional shifts that a successful roll would have required.
 
-**[Attack] Attack:** You may take -1 to the attack and attack all targets in a zone (excepting yourself).
+__[Attack] Attack:__ You may take -1 to the attack and attack all targets in a zone (excepting yourself).
 
-**[Defend] Defend:** No special rules.
+__[Defend] Defend:__ No special rules.
 
 #### Thunder
 
-**[Overcome] Overcome:** No special rules.
+__[Overcome] Overcome:__ No special rules.
 
-**[Create]  Create an Advantage:** Any barrier created with Thunder vanishes after 1 exchange unless the caller concentrates on it, taking -1 to all subsequent actions so long as the barrier is maintained.
+__[Create]  Create an Advantage:__ Any barrier created with Thunder vanishes after 1 exchange unless the caller concentrates on it, taking -1 to all subsequent actions so long as the barrier is maintained.
 
-**[Attack] Attack:** Thunder actually has two modes of attack:
+__[Attack] Attack:__ Thunder actually has two modes of attack:
 
 Chain Lighting: Bolts arc from target to target with precision. For each -1 you take, you may add an additional target to the attack. Range penalty is determined by the most distant target, -1 per zone from the starting zone.
 
 Thunderbolt: When hitting a single target, thunder claps as lightning strikes. If you gain a boost on your attack, you generate an extra boost of Stunned.
 
-**[Defend] Defend:** No special rules.
+__[Defend] Defend:__ No special rules.
 
 ### Variations and Options
 
@@ -1351,12 +1351,12 @@ Don’t want to read it all and just want to wing it? Do the following:
 - • Pick which Vizier you’re marked by (Eye, Giant, Shadow, Soldier, Steward, or Villager) and take the aspect Marked by [Vizier] (as in Marked by the Giant).
 - • Describe where the physical mark is on your character’s body.
 - • When you use a skill associated with that mark, your efforts are magical, more like deeds out of legend than mundane efforts. This does not translate into a bonus, but it just means a generally more awesome outcome, depending on the situation.
-- •**Eye:** Investigation, Lore, Notice
-- •**Giant:** Athletics, Physique, Will
-- •**Shadow:** Burglary, Deceive, Stealth
-- •**Soldier:** Fight, Ride, Shoot
-- •**Steward:** Provoke, Rapport, Resources
-- •**Villager:** Contacts, Crafts, Empathy
+- •__Eye:__ Investigation, Lore, Notice
+- •__Giant:__ Athletics, Physique, Will
+- •__Shadow:__ Burglary, Deceive, Stealth
+- •__Soldier:__ Fight, Ride, Shoot
+- •__Steward:__ Provoke, Rapport, Resources
+- •__Villager:__ Contacts, Crafts, Empathy
 
 #### Mechanics
 
@@ -1390,15 +1390,15 @@ The blessings themselves are self-contained rules elements. Characters choose tw
 
 #### The Eye
 
-**Virtue:** Observant
+__Virtue:__ Observant
 
-**Vice:** Inaction
+__Vice:__ Inaction
 
-**Also Called:** The Auditor, The Inquisitor, The Sage, The Spy, or the Watcher.
+__Also Called:__ The Auditor, The Inquisitor, The Sage, The Spy, or the Watcher.
 
-**Often Depicted As:** A genderless robed figure, a male magistrate, a female wise woman, a female librarian, an owl, or an eye.
+__Often Depicted As:__ A genderless robed figure, a male magistrate, a female wise woman, a female librarian, an owl, or an eye.
 
-**Domains:** Investigation, Lore, and Notice.
+__Domains:__ Investigation, Lore, and Notice.
 
 The Eye observes and reports to the Empress. He sees all, and gives others the knowledge and insight they need to act appropriately. The Eye himself rarely acts directly. In some stories, it is because he is an agent of law—an investigator—who solves a mystery so that the appropriate authorities may act. In others, he is paralyzed by a desire to maintain his neutrality, or by knowledge of the potential harm of his own actions.
 
@@ -1406,37 +1406,37 @@ The Eye observes and reports to the Empress. He sees all, and gives others the k
 
 ###### Investigation
 
-**The Pieces of the Puzzle:** When you take a few minutes to study a particular item and its position, you can reasonably reconstruct the chain of events that led to it being there. This reconstruction will be accurate, though it will not reveal any more than the necessary details. For example, it might reveal that it was carried by hand at some point, but not by whom.
+__The Pieces of the Puzzle:__ When you take a few minutes to study a particular item and its position, you can reasonably reconstruct the chain of events that led to it being there. This reconstruction will be accurate, though it will not reveal any more than the necessary details. For example, it might reveal that it was carried by hand at some point, but not by whom.
 
-**The Vault of the Eye:** You may look at a scene and recall it in perfect detail. In practice, this allows you to ask the GM questions about that memory long after the fact, and take your time performing Investigation rolls. This includes _anything_ you might ask about if you were still in the same place and time, such as the contents of containers. If the answer to the question would require a skill roll—such as picking a lock to see a chest’s contents—you may try normally, as if you were still there.
+__The Vault of the Eye:__ You may look at a scene and recall it in perfect detail. In practice, this allows you to ask the GM questions about that memory long after the fact, and take your time performing Investigation rolls. This includes _anything_ you might ask about if you were still in the same place and time, such as the contents of containers. If the answer to the question would require a skill roll—such as picking a lock to see a chest’s contents—you may try normally, as if you were still there.
 
 You may keep more than one scene in memory, but the cost of doing so is one fate point per scene already memorized.
 
 ###### Lore
 
-**The Blessing of a Thousand Tongues:** You may learn any language quickly. With tutelage, it takes only a day. With only the opportunity to read or listen, it takes a week. If the source material is especially sparse, it may take as long as a month.
+__The Blessing of a Thousand Tongues:__ You may learn any language quickly. With tutelage, it takes only a day. With only the opportunity to read or listen, it takes a week. If the source material is especially sparse, it may take as long as a month.
 
-**The Eye Sees All Paths:** You may not know everything, but you always know how to find out. When looking for a fairly specific piece of information, you may give the GM a fate point to be told the closest place you can go to find out, no matter how obscure or lost the information is. In short, you can never hit a wall when trying to find something out.
+__The Eye Sees All Paths:__ You may not know everything, but you always know how to find out. When looking for a fairly specific piece of information, you may give the GM a fate point to be told the closest place you can go to find out, no matter how obscure or lost the information is. In short, you can never hit a wall when trying to find something out.
 
 There are no guarantees of how easy it will be to get the knowledge, but that’s what adventure is for.
 
 ###### Notice
 
-**The Eye Gazes in All Directions:** You are never surprised. Even if it’s only by a moment, you are always forewarned of the unexpected.
+__The Eye Gazes in All Directions:__ You are never surprised. Even if it’s only by a moment, you are always forewarned of the unexpected.
 
-**Stars Illuminate the Night:** So long as there is the faintest amount of light, you can see as if it were a bright day. In the rare case of utter darkness, you can see as well as if you had a light source.
+__Stars Illuminate the Night:__ So long as there is the faintest amount of light, you can see as if it were a bright day. In the rare case of utter darkness, you can see as well as if you had a light source.
 
 #### The Giant
 
-**Virtue:** Strength
+__Virtue:__ Strength
 
-**Vice:** Rage
+__Vice:__ Rage
 
-**Also Called:** The Earthshaker, The Laborer, The Pillar, The Titan.
+__Also Called:__ The Earthshaker, The Laborer, The Pillar, The Titan.
 
-**Often Depicted As:** A stone statue, a frost maiden, an ogre, an elephant, or an ox.
+__Often Depicted As:__ A stone statue, a frost maiden, an ogre, an elephant, or an ox.
 
-**Domains:** Athletics, Physique, and Will.
+__Domains:__ Athletics, Physique, and Will.
 
 The Giant represents strong hands put to good effort, but also represents strength going unchecked. Most often this strength is physical, but it goes deeper than that. It is said that it is the Giant who sets the heavens in motion at the behest of the Empress. In tales, the Giant is often portrayed as well intentioned and powerful, but not always in control of the power in those great hands. He is often in a secondary role to another Vizier—often the Steward or the Eye—acting in the service of greater discernment.
 
@@ -1444,33 +1444,33 @@ The Giant represents strong hands put to good effort, but also represents streng
 
 ###### Athletics
 
-**By My Hand, Set the World in Motion:** Through a combination of speed, dexterity, and uncanny timing, you always have a path forward. In a static environment, this means that you are capable of crazy parkour-like movement to get almost anywhere that could be physically accessed. In a more fluid environment you are impossible to pin down or fence in, as you’ll always find the gap.
+__By My Hand, Set the World in Motion:__ Through a combination of speed, dexterity, and uncanny timing, you always have a path forward. In a static environment, this means that you are capable of crazy parkour-like movement to get almost anywhere that could be physically accessed. In a more fluid environment you are impossible to pin down or fence in, as you’ll always find the gap.
 
-**Strides of the Giant:** You run as fast as a horse, have a vertical jump equal to your own height, and can run for a day and night without stopping for rest—though you need to crash hard and eat a lot when you’re done.
+__Strides of the Giant:__ You run as fast as a horse, have a vertical jump equal to your own height, and can run for a day and night without stopping for rest—though you need to crash hard and eat a lot when you’re done.
 
 ###### Physique
 
-**Giant’s Appetite:** You can eat _anything_ without harm. Not just foodstuffs—if you can chew and swallow it, or drink it, you can safely consume it, and even gain sustenance from it. You may casually ignore poisons, decay, shards of glass, and similar inconveniences. As a bonus, flavors are very distinctive and memorable to you, which allows for disgusting tricks like comparing the taste of blood samples to see if they’re from the same source, as well as more useful tricks like identifying a familiar poison.
+__Giant’s Appetite:__ You can eat _anything_ without harm. Not just foodstuffs—if you can chew and swallow it, or drink it, you can safely consume it, and even gain sustenance from it. You may casually ignore poisons, decay, shards of glass, and similar inconveniences. As a bonus, flavors are very distinctive and memorable to you, which allows for disgusting tricks like comparing the taste of blood samples to see if they’re from the same source, as well as more useful tricks like identifying a familiar poison.
 
-**None May Bind The Giant:** If you are restrained or shackled, you may break those bonds, so long as they are natural or manufactured. No door or lock may withstand more than a single blow from you. Barriers with no opening take longer, but you are effectively an entire sapping team with nothing more than fists and feet and anything else you can bring to bear.
+__None May Bind The Giant:__ If you are restrained or shackled, you may break those bonds, so long as they are natural or manufactured. No door or lock may withstand more than a single blow from you. Barriers with no opening take longer, but you are effectively an entire sapping team with nothing more than fists and feet and anything else you can bring to bear.
 
 ###### Will
 
-**The Mind Is the Greatest Mountain:** So far as social skills are concerned, you do not exist. You cannot be swayed, befriended, intimidated, or otherwise moved. Your speech reveals nothing about you or the veracity of your words. For purposes of the Villager’s ability, your Deceive score is higher than the Villager’s Empathy.
+__The Mind Is the Greatest Mountain:__ So far as social skills are concerned, you do not exist. You cannot be swayed, befriended, intimidated, or otherwise moved. Your speech reveals nothing about you or the veracity of your words. For purposes of the Villager’s ability, your Deceive score is higher than the Villager’s Empathy.
 
-**Never Broken:** You gain a -8 physical consequence which recovers in the same way a -2 consequence does.
+__Never Broken:__ You gain a -8 physical consequence which recovers in the same way a -2 consequence does.
 
 #### The Shadow
 
-**Virtue:** Secrecy
+__Virtue:__ Secrecy
 
-**Vice:** Greed
+__Vice:__ Greed
 
-**Also Called:** The Assassin, the Spy, the Taker, the Thief, the Trickster.
+__Also Called:__ The Assassin, the Spy, the Taker, the Thief, the Trickster.
 
-**Often Depicted As:** A cloaked figure of either gender, the night wind, a humanoid shadow, a snake, a rat, or a raven.
+__Often Depicted As:__ A cloaked figure of either gender, the night wind, a humanoid shadow, a snake, a rat, or a raven.
 
-**Domains:** Burglary, Deceive, and Stealth.
+__Domains:__ Burglary, Deceive, and Stealth.
 
 Depending on the time and place, the Shadow is either a roguish trickster or an ominous threat, and both views have some truth to them. The hidden hand of the Empress, the Shadow encompasses needful things best left unspoken. The place for such things is always uncertain, and unwelcome until the day they are needed, when their welcome is deep indeed.
 
@@ -1478,15 +1478,15 @@ Depending on the time and place, the Shadow is either a roguish trickster or an 
 
 ###### Burglary
 
-**The Accounting of Small Things:** Once you have successfully stolen something small enough to fit in a pocket, it is gone until you choose to reveal it again. No amount of searching—or even stripping—will reveal the purloined item. You may only have one such item at a time hidden in this fashion.
+__The Accounting of Small Things:__ Once you have successfully stolen something small enough to fit in a pocket, it is gone until you choose to reveal it again. No amount of searching—or even stripping—will reveal the purloined item. You may only have one such item at a time hidden in this fashion.
 
-**The Supplication of Locks:** You need only whisper your name into a lock to attempt to pick it, as if using a full set of tools. If successful, the attempt takes only a moment. If unsuccessful, you may try again the old-fashioned way.
+__The Supplication of Locks:__ You need only whisper your name into a lock to attempt to pick it, as if using a full set of tools. If successful, the attempt takes only a moment. If unsuccessful, you may try again the old-fashioned way.
 
 ###### Deceive
 
-**Corroboration of Coincidence:** Fate favors your lies with minor coincidences and circumstantial evidence that seem to lend them credence. You may apply a boost to the scene **before** you roll Deceive, so long as you can describe how it helps you look more honest. If successful, the boost turns into an aspect on the scene.
+__Corroboration of Coincidence:__ Fate favors your lies with minor coincidences and circumstantial evidence that seem to lend them credence. You may apply a boost to the scene __before__ you roll Deceive, so long as you can describe how it helps you look more honest. If successful, the boost turns into an aspect on the scene.
 
-**The Name Is a Mask to the World:** Any time after you hear someone’s name from their own lips, you may duplicate their face, voice, and manner until the sun has risen twice. You may never mimic the same person twice.
+__The Name Is a Mask to the World:__ Any time after you hear someone’s name from their own lips, you may duplicate their face, voice, and manner until the sun has risen twice. You may never mimic the same person twice.
 
 ---
 
@@ -1498,21 +1498,21 @@ THE POWER OF NAMESEven those who don’t fully understand the nature of the Shad
 
 ###### Stealth
 
-**Only the Wind Will See Me Go:** At the cost of a fate point, you may exit a scene, passing from sight.
+__Only the Wind Will See Me Go:__ At the cost of a fate point, you may exit a scene, passing from sight.
 
-**Stealing Words from the Wind:** You make no noise you do not wish to be heard. Not only does this allow you to move in absolute silence, but you can also use it selectively, such as speaking so only one person can hear you.
+__Stealing Words from the Wind:__ You make no noise you do not wish to be heard. Not only does this allow you to move in absolute silence, but you can also use it selectively, such as speaking so only one person can hear you.
 
 #### The Soldier
 
-**Virtue:** Discipline
+__Virtue:__ Discipline
 
-**Vice:** Servitude
+__Vice:__ Servitude
 
-**Also Called:** The Horseman, the Sword, the Warlord.
+__Also Called:__ The Horseman, the Sword, the Warlord.
 
-**Often Depicted As:** A culturally appropriate warrior of either gender, a weapon, a lion, or a tiger.
+__Often Depicted As:__ A culturally appropriate warrior of either gender, a weapon, a lion, or a tiger.
 
-**Domains:** Fight, Ride, and Shoot.
+__Domains:__ Fight, Ride, and Shoot.
 
 The Soldier serves through violence and war, with virtues of steel. The Soldier values cunning, bravery, and loyalty, but is perhaps a bit too easily led. Heroic stories of the Soldier tell of battles fought and won, but other stories put him on the other side from heroes for no reason other than blind adherence to an order.
 
@@ -1520,33 +1520,33 @@ The Soldier serves through violence and war, with virtues of steel. The Soldier 
 
 ###### Fight
 
-**Army on the Edge of My Blade:** You take no penalty—and grant no bonus—for being outnumbered, no matter how preposterous the numbers.
+__Army on the Edge of My Blade:__ You take no penalty—and grant no bonus—for being outnumbered, no matter how preposterous the numbers.
 
-**Spears of Green Wood:** You may train a body of troops—unnamed characters in a group of up to approximately 100—for a week and increase their Fight Skill by +1. You can repeat this multiple times, improving any given unit to a maximum of your Fight -2.
+__Spears of Green Wood:__ You may train a body of troops—unnamed characters in a group of up to approximately 100—for a week and increase their Fight Skill by +1. You can repeat this multiple times, improving any given unit to a maximum of your Fight -2.
 
 ###### Ride
 
-**Only the Wind Beneath Us:** So long as you maintain a good clip, any steed you ride may ride across water as if it were solid land, and may even ride across open air for a few hundred yards—after which the descent is akin to riding down a gentle slope.
+__Only the Wind Beneath Us:__ So long as you maintain a good clip, any steed you ride may ride across water as if it were solid land, and may even ride across open air for a few hundred yards—after which the descent is akin to riding down a gentle slope.
 
-**We Ride as One:** You fight and act on horseback without penalty, and nothing can knock you off. Any time you would take a physical consequence, you can opt for the horse to take it instead—the horse having a similar consequence track to your character.
+__We Ride as One:__ You fight and act on horseback without penalty, and nothing can knock you off. Any time you would take a physical consequence, you can opt for the horse to take it instead—the horse having a similar consequence track to your character.
 
 ###### Shoot
 
-**To the Horizon:** Anything you can see is effectively one zone from you when you shoot.
+__To the Horizon:__ Anything you can see is effectively one zone from you when you shoot.
 
-**To the Stars:** Any missile fired into the air can land any place you know or near anyone you can name. Messages and small items can be delivered in this fashion. This cannot be used to launch an attack directly, but if fired with ill intent, it is entirely possible to kill a horse or unnamed NPC nearby.
+__To the Stars:__ Any missile fired into the air can land any place you know or near anyone you can name. Messages and small items can be delivered in this fashion. This cannot be used to launch an attack directly, but if fired with ill intent, it is entirely possible to kill a horse or unnamed NPC nearby.
 
 #### The Steward
 
-**Virtue:** Leadership
+__Virtue:__ Leadership
 
-**Vice:** Stubborn
+__Vice:__ Stubborn
 
-**Also Called:** Grandfather or Grandmother.
+__Also Called:__ Grandfather or Grandmother.
 
-**Often Depicted As:** A wise elder of either gender, a mastiff, or a snake.
+__Often Depicted As:__ A wise elder of either gender, a mastiff, or a snake.
 
-**Domains:** Provoke, Rapport, and Resources.
+__Domains:__ Provoke, Rapport, and Resources.
 
 The Steward is the ear that everyone speaks to and the voice that everyone listens to. While the Empress may rule the stars, the Steward is the one who makes things go on a daily basis. In stories, he’s an advisor or leader more often than a hero, though at times the Steward falls into the role of the wise traveller, teaching the community he visits lessons they should have already known.
 
@@ -1554,33 +1554,33 @@ The Steward is the ear that everyone speaks to and the voice that everyone liste
 
 ###### Provoke
 
-**Crown of Menace:** You are too terrifying to be attacked. Until you make a physical attack in a scene, characters with a Will lower than Good (+3) simply cannot attack you. Those with sufficient Will to attack still flinch on their first attack, though, automatically missing.
+__Crown of Menace:__ You are too terrifying to be attacked. Until you make a physical attack in a scene, characters with a Will lower than Good (+3) simply cannot attack you. Those with sufficient Will to attack still flinch on their first attack, though, automatically missing.
 
-**Walking with Storms:** The mood of a town—or similar-sized locale—is what you want it to be.
+__Walking with Storms:__ The mood of a town—or similar-sized locale—is what you want it to be.
 
 ###### Rapport
 
-**All Things in Their Place:** You always know the power dynamic in the room, and you may insert yourself within it anywhere you desire. Use this with caution—while it impacts how people interact with you, it does not equate to actual authority, and placing yourself too highly—especially over people not used to being anything but top dog—can inspire an unpleasant response.
+__All Things in Their Place:__ You always know the power dynamic in the room, and you may insert yourself within it anywhere you desire. Use this with caution—while it impacts how people interact with you, it does not equate to actual authority, and placing yourself too highly—especially over people not used to being anything but top dog—can inspire an unpleasant response.
 
-**The Truth of Who You Are:** Every two minutes of conversation you have with someone reveals one of their aspects. However, for every two aspects you learn, you reveal one of your own to that person and anyone listening. Round down, so the first one you learn is free.
+__The Truth of Who You Are:__ Every two minutes of conversation you have with someone reveals one of their aspects. However, for every two aspects you learn, you reveal one of your own to that person and anyone listening. Round down, so the first one you learn is free.
 
 ###### Resources
 
-**Rivers of Gold:** Money is just a detail to you. Stripped naked and cast on a desert island, and you’ll be living in luxury in short order. Cast into prison, and you’ll be bribing guards in no time. No situation will restrict your access to your Resources skill.
+__Rivers of Gold:__ Money is just a detail to you. Stripped naked and cast on a desert island, and you’ll be living in luxury in short order. Cast into prison, and you’ll be bribing guards in no time. No situation will restrict your access to your Resources skill.
 
-**War of Papers:** You can take action against organizations through indirect measures. Effectively you can fight on the level of any organization smaller than a nation without the need to recruit allies or have any organization of your own. Yes, this means you can effectively “kill” a city, or even an army, given enough time.
+__War of Papers:__ You can take action against organizations through indirect measures. Effectively you can fight on the level of any organization smaller than a nation without the need to recruit allies or have any organization of your own. Yes, this means you can effectively “kill” a city, or even an army, given enough time.
 
 #### The Villager
 
-**Virtue:** Endurance
+__Virtue:__ Endurance
 
-**Vice:** Short-Sighted
+__Vice:__ Short-Sighted
 
-**Also Called:** The Peon or the Citizen.
+__Also Called:__ The Peon or the Citizen.
 
-**Often Depicted As:** A farmer, a milkmaid, a rower, a hammer, a plow, a mule, or a monkey.
+__Often Depicted As:__ A farmer, a milkmaid, a rower, a hammer, a plow, a mule, or a monkey.
 
-**Domains:** Contacts, Crafts, and Empathy.
+__Domains:__ Contacts, Crafts, and Empathy.
 
 While the Steward is a wise leader, the Villager represents the wisdom and virtues of common citizens. His stories are those of the seeming fool who ends up triumphing in the end through simple, common values. His is the strength of the community.
 
@@ -1588,21 +1588,21 @@ While the Steward is a wise leader, the Villager represents the wisdom and virtu
 
 ###### Contacts
 
-**The Bonds of Man Stretch to the Horizon:** There is no place where you do not know someone, including places you have never been before. You will find a friend wherever you go.
+__The Bonds of Man Stretch to the Horizon:__ There is no place where you do not know someone, including places you have never been before. You will find a friend wherever you go.
 
-**The Strength of One Becomes the Strength of Many:** Once you begin a contacting effort, it becomes self-sustaining, as people you talk to talk to other people, who talk to others in turn. In effect, you will always get an answer; it is only a matter of time.
+__The Strength of One Becomes the Strength of Many:__ Once you begin a contacting effort, it becomes self-sustaining, as people you talk to talk to other people, who talk to others in turn. In effect, you will always get an answer; it is only a matter of time.
 
 ###### Crafts
 
-**The Conjunction of Form:** You may combine materials in impossible ways, giving one the attribute of another. You may make paper with the strength of steel, or steel with the weight of paper. Doing so requires the two aspects—one for the material, one for the additional attribute—to be invoked simultaneously on the Crafts roll to create the finished product.
+__The Conjunction of Form:__ You may combine materials in impossible ways, giving one the attribute of another. You may make paper with the strength of steel, or steel with the weight of paper. Doing so requires the two aspects—one for the material, one for the additional attribute—to be invoked simultaneously on the Crafts roll to create the finished product.
 
-**The Tools Are Lesser than the Hand:** You can produce master-craftsman-level work with the crudest of tools. With a proper workshop, you can create impossibly amazing devices in the finest da Vinci style.
+__The Tools Are Lesser than the Hand:__ You can produce master-craftsman-level work with the crudest of tools. With a proper workshop, you can create impossibly amazing devices in the finest da Vinci style.
 
 ###### Empathy
 
-**Architecture of the Heart:** Reading a room is a triviality to you. Even more, you can spot the emotional lynchpins in a room and easily understand how actions would impact the mood. If you roll Empathy to read a room—difficulty Mediocre (+0)—count how many shifts you accrue. Over the course of the scene, you may ask the GM to tell you how people would react to any hypothetical scenario. You can do this a number of times equal to the number of shifts generated.
+__Architecture of the Heart:__ Reading a room is a triviality to you. Even more, you can spot the emotional lynchpins in a room and easily understand how actions would impact the mood. If you roll Empathy to read a room—difficulty Mediocre (+0)—count how many shifts you accrue. Over the course of the scene, you may ask the GM to tell you how people would react to any hypothetical scenario. You can do this a number of times equal to the number of shifts generated.
 
-**The Inner Eye Sees Inner Truth:** Without rolling, you can tell if another character is lying so long as the target’s Deceive is equal to or lower than your Empathy. In the case of high Deceive, you will know that you cannot tell, but will never receive a “false positive.”
+__The Inner Eye Sees Inner Truth:__ Without rolling, you can tell if another character is lying so long as the target’s Deceive is equal to or lower than your Empathy. In the case of high Deceive, you will know that you cannot tell, but will never receive a “false positive.”
 
 #### Advancement
 
@@ -1671,11 +1671,11 @@ This system adds one skill: Magic. Its description follows.
 
 Magic is the skill of placing blessings and curses upon a person or place. While the skill itself is generic, its specific manifestations are not. A practitioner must have a set of rules and trappings that they follow to use magic. Those rules may be based on a real-world practice, be totally made up, or anywhere in between, but they must be consistent and they always demand time, effort, and ritual. There are other limitations listed below.
 
-**[Overcome] ****Overcome:** There are few useful obstacles that magic may overcome, though many practitioners think otherwise. It’s a common misperception that the Magic skill can be used to “detect” magical workings, but this is really no more reliable than guessing.
+__[Overcome] ____Overcome:__ There are few useful obstacles that magic may overcome, though many practitioners think otherwise. It’s a common misperception that the Magic skill can be used to “detect” magical workings, but this is really no more reliable than guessing.
 
 The one concrete use for overcome is to overcome the skepticism of others. The Magic skill also represents how well you “sell” the idea of magic, or at least your belief. This works like a very specific sort of use of the Deceive skill—even if the character doesn’t feel he’s deceiving anyone.
 
-**[Create] ****Create an Advantage:** The primary activity with the Magic skill is creating an advantage. Assuming a single target—a person, or a thing perhaps as large as a house—about a half hour’s time, and the appropriate ritual trappings, the roll is made against a difficulty of Average. So long as the character gets a success, then the target gains the aspect of the blessing or curse—see below for details—for three days and three nights. Further modifications follow:
+__[Create] ____Create an Advantage:__ The primary activity with the Magic skill is creating an advantage. Assuming a single target—a person, or a thing perhaps as large as a house—about a half hour’s time, and the appropriate ritual trappings, the roll is made against a difficulty of Average. So long as the character gets a success, then the target gains the aspect of the blessing or curse—see below for details—for three days and three nights. Further modifications follow:
 
 
 - • If the target is not present, then the difficulty is increased from between +1 to +3. +3 if the target is merely named, +1 if a powerful symbolic tie to the target is present—their blood, a treasured possession—and if it’s not clearly either, then a +2 is appropriate.
@@ -1686,9 +1686,9 @@ The one concrete use for overcome is to overcome the skepticism of others. The M
 - • Some blessings and curses have their own additional modifiers.
 - • A spell on an area effectively creates a scene aspect that can be used normally by anyone in the location.
 
-**[Attack] ****Attack:** There is no such thing as a magical attack.
+__[Attack] ____Attack:__ There is no such thing as a magical attack.
 
-**[Defend] ****Defend:** There is no such thing as a magical defense.
+__[Defend] ____Defend:__ There is no such thing as a magical defense.
 
 ##### Spells
 
@@ -1696,39 +1696,39 @@ Aspects put on a target are generally referred to as blessings or curses, depend
 
 For clarity, the _target_ of a spell is the person, place or thing it’s being cast on. Sometimes a spell will also have a _subject_, a person, place or thing which will be the focus of the spell’s effect on the target. For example, a love spell to make Jake fall for Andy would be cast on Jake (the target) focused on Andy (the subject).
 
-**Annoyance:** The target rubs people the wrong way. If the spell has a subject, then the target of the spell is more easily annoyed by that subject.
+__Annoyance:__ The target rubs people the wrong way. If the spell has a subject, then the target of the spell is more easily annoyed by that subject.
 
-**Charisma:** While related to love, this turns it on its head by improving the target’s general presence and demeanor. It’s sometimes a subject of ridicule—specifically, ridiculing those who would need such a spell—but it sees a lot of quiet use.
+__Charisma:__ While related to love, this turns it on its head by improving the target’s general presence and demeanor. It’s sometimes a subject of ridicule—specifically, ridiculing those who would need such a spell—but it sees a lot of quiet use.
 
-**Clarity:** Popular among those who fancy themselves sophisticated magi, for many this spell is their morning cup of coffee, sharpening their thoughts and senses. It’s also a popular “counterspell,” used to remove curses.
+__Clarity:__ Popular among those who fancy themselves sophisticated magi, for many this spell is their morning cup of coffee, sharpening their thoughts and senses. It’s also a popular “counterspell,” used to remove curses.
 
-**Clumsiness:** You know those days where you dropped a glass, spilled your coffee in your lap, and ripped your shirt on a latch? This makes for that kind of day.
+__Clumsiness:__ You know those days where you dropped a glass, spilled your coffee in your lap, and ripped your shirt on a latch? This makes for that kind of day.
 
-**Confusion:** People tend to misunderstand the target—or get easily lost if it’s a place.
+__Confusion:__ People tend to misunderstand the target—or get easily lost if it’s a place.
 
-**Love:** One of the most well known but also most contentious spells, especially when used with a subject. Without a subject, it simply makes the target more friendly towards the world, but with a subject, it inclines the subject toward the target. A lot of people view this as skeezy at best, and date rape at worst. It’s a touchy topic, and a number of magicians get around this by explicitly casting dud spells.
+__Love:__ One of the most well known but also most contentious spells, especially when used with a subject. Without a subject, it simply makes the target more friendly towards the world, but with a subject, it inclines the subject toward the target. A lot of people view this as skeezy at best, and date rape at worst. It’s a touchy topic, and a number of magicians get around this by explicitly casting dud spells.
 
-**Health:** The magical equivalent of fizzy tablets with vitamin C and zinc.
+__Health:__ The magical equivalent of fizzy tablets with vitamin C and zinc.
 
-**Luck:** This is the most common spell in circulation, and it can take the form of good or bad luck.
+__Luck:__ This is the most common spell in circulation, and it can take the form of good or bad luck.
 
-**Obscurity:** The target is easily overlooked—by the subject, if appropriate. Whether this is a blessing or a curse depends a lot on your perspective.
+__Obscurity:__ The target is easily overlooked—by the subject, if appropriate. Whether this is a blessing or a curse depends a lot on your perspective.
 
-**Prosperity:** Another popular blessing, financial things fall the target’s way. It’s rare that this turns into a large windfall, but it can show up as a loan extension or a free beer.
+__Prosperity:__ Another popular blessing, financial things fall the target’s way. It’s rare that this turns into a large windfall, but it can show up as a loan extension or a free beer.
 
-**Rage:** Small things annoy the target more than usual, as if they’d woken up on the wrong side of the bed. If the spell has a subject, then the target of the spell is more easily enraged by that subject.
+__Rage:__ Small things annoy the target more than usual, as if they’d woken up on the wrong side of the bed. If the spell has a subject, then the target of the spell is more easily enraged by that subject.
 
-**Safety:** Keeps the target—or area—safer than it would be.
+__Safety:__ Keeps the target—or area—safer than it would be.
 
 These are not all the spells available, but they should provide some insight into the tone of any additions.
 
 ##### Magic Stunts
 
-**By Rote:** You may pick three spells that you know well enough that you don’t need to consult your notes to cast.
+__By Rote:__ You may pick three spells that you know well enough that you don’t need to consult your notes to cast.
 
-**Evil Eye:** You can attempt to put Bad Luck on a target with nothing more than an obvious gesture. This lasts only a day.
+__Evil Eye:__ You can attempt to put Bad Luck on a target with nothing more than an obvious gesture. This lasts only a day.
 
-**Interior Decorator:** You may call it _feng shui_ on your invoices, but it’s all just decor. If you put a spell on a place, you may arrange the furniture and decorations just so. If you do, the effect lasts for up to a season—or until someone rearranges the furnishings.
+__Interior Decorator:__ You may call it _feng shui_ on your invoices, but it’s all just decor. If you put a spell on a place, you may arrange the furniture and decorations just so. If you do, the effect lasts for up to a season—or until someone rearranges the furnishings.
 
 #### Variations and Options
 
@@ -1798,29 +1798,29 @@ Conjuration is the art of summoning elementals from the Five Storms. It is a slo
 
 Anyone may take the Conjuration skill with no refresh cost.
 
-**[Overcome] ****Overcome:** Conjuration can be used as a Lore skill related to the creatures of the Five Storms. It can also be used to renew the bond of an already-summoned elemental without the time and effort spent on the initial summoning. This simply requires an overcome roll against the rating of the creature—see the elemental summary table on the next page.
+__[Overcome] ____Overcome:__ Conjuration can be used as a Lore skill related to the creatures of the Five Storms. It can also be used to renew the bond of an already-summoned elemental without the time and effort spent on the initial summoning. This simply requires an overcome roll against the rating of the creature—see the elemental summary table on the next page.
 
 
-- •**Fail:** The creature is immediately released, and it will flee or fight, depending on the situation and how it has been treated.
-- •**Tie:** The bond is not renewed, and will expire normally.
-- •**Success:** Renew the bond for a week.
-- •**Success With Style:** Renew the bond for a month.
+- •__Fail:__ The creature is immediately released, and it will flee or fight, depending on the situation and how it has been treated.
+- •__Tie:__ The bond is not renewed, and will expire normally.
+- •__Success:__ Renew the bond for a week.
+- •__Success With Style:__ Renew the bond for a month.
 
 A Conjuror can also dismiss a bound elemental at will, so long as it is within his presence.
 
-**[Create] ****Create an Advantage:** Summoning an elemental is a specific sort of advantage creation. Doing so requires a summoning circle and an amount and type of sacrifice based on the being to be summoned. For a Wisp, a handful of interesting material will suffice, but an Attendant will be much more demanding.
+__[Create] ____Create an Advantage:__ Summoning an elemental is a specific sort of advantage creation. Doing so requires a summoning circle and an amount and type of sacrifice based on the being to be summoned. For a Wisp, a handful of interesting material will suffice, but an Attendant will be much more demanding.
 
 Roll against a difficulty based on the type of creature being summoned—see the next page.
 
 
-- •**Fail:** The creature is summoned, but immediately breaks free. Wisps and Drudges tend to run for it—causing problems elsewhere—while Servitors and Attendants may turn on the Conjuror if they sense an opportunity.
-- •**Tie:** The elemental appears, but will only perform a single service taking less than a night.
-- •**Success:** The elemental appears and is bound to your service for a week.
-- •**Success With Style:** the elemental appears and is bound for a month.
+- •__Fail:__ The creature is summoned, but immediately breaks free. Wisps and Drudges tend to run for it—causing problems elsewhere—while Servitors and Attendants may turn on the Conjuror if they sense an opportunity.
+- •__Tie:__ The elemental appears, but will only perform a single service taking less than a night.
+- •__Success:__ The elemental appears and is bound to your service for a week.
+- •__Success With Style:__ the elemental appears and is bound for a month.
 
-**[Attack] ****Attack:** Conjuration may be used as an attack skill against summoned creatures, with “damage” serving as progress towards banishment.
+__[Attack] ____Attack:__ Conjuration may be used as an attack skill against summoned creatures, with “damage” serving as progress towards banishment.
 
-**[Defend] ****Defend:** Conjuration may be used to defend against attacks by summoned creatures. This defense may be enhanced by staying within a circle, with the value ranging from +1 to a hastily drawn circle of dirt or salt to +4 for a mathematically perfect circle of precious metal covered in ancient runes of power.
+__[Defend] ____Defend:__ Conjuration may be used to defend against attacks by summoned creatures. This defense may be enhanced by staying within a circle, with the value ranging from +1 to a hastily drawn circle of dirt or salt to +4 for a mathematically perfect circle of precious metal covered in ancient runes of power.
 
 The character’s rating in Conjuration is also the limit on the number of elementals that he may have bound at any one time. Their combined difficulties cannot exceed his conjuration score, so a Great (+4) Conjuror could control four Wisps, or one Wisp and one Servitor, or some other combination totaling up to four. It is common—if noisy—for a Conjuror to have multiple elementals summoned at a time.
 
@@ -1928,12 +1928,12 @@ Battle wisps start with 2 stress boxes, one mild consequence, and 4 skills at Av
 Wisps may earn advances by winning battles, or through training. Exactly how advances are earned depends on the situation, but each advance may be spent to:
 
 
-- •**Increase a skill.** All skills can be increased to Good (+3). One skill can be increased to Great (+4) and one may be increased to Superb (+5).
-- •**Increase resilience.** An advance can be spent to add a -2 consequence, increase a -2 consequence to a -4, or increase a -4 to a -6. The maximum consequences for a Battle Wisp are -2/-4/-6.
-- •**Buy an upgrade.** Upgrades include:
-- ˏ**Shell:** +1 Armor.
-- ˏ**Tough Shell:** (Requires Shell and Good Toughness) +1 Armor.
-- ˏ**Breath Attack:** Can attack two targets at once.
+- •__Increase a skill.__ All skills can be increased to Good (+3). One skill can be increased to Great (+4) and one may be increased to Superb (+5).
+- •__Increase resilience.__ An advance can be spent to add a -2 consequence, increase a -2 consequence to a -4, or increase a -4 to a -6. The maximum consequences for a Battle Wisp are -2/-4/-6.
+- •__Buy an upgrade.__ Upgrades include:
+- ˏ__Shell:__ +1 Armor.
+- ˏ__Tough Shell:__ (Requires Shell and Good Toughness) +1 Armor.
+- ˏ__Breath Attack:__ Can attack two targets at once.
 
 There are many more upgrade possibilities. In general, treat them as a simple sort of stunt.
 
@@ -2053,7 +2053,7 @@ And maybe that’s awesome. That may be exactly what you want to see in play—i
 
 #### Creatures and Powers
 
-And here’s the harsh reality—there is no way to fully catalog all the possible expressions of these horrible things. We’re going to provide a lot of examples, but the reality is that for this, you should look at _every__Fate_ build you can for ideas. These are all one-offs, and if the rules for a particular creature don’t work with the rest of the game, this will be one context where that **makes sense**. This is your opportunity to go absolutely nuts.
+And here’s the harsh reality—there is no way to fully catalog all the possible expressions of these horrible things. We’re going to provide a lot of examples, but the reality is that for this, you should look at _every__Fate_ build you can for ideas. These are all one-offs, and if the rules for a particular creature don’t work with the rest of the game, this will be one context where that __makes sense__. This is your opportunity to go absolutely nuts.
 
 The only limiter is that you want to include some checks to prevent a total party kill as soon as the nasty thing gets loose. This may mean limiting the range of bad things to ones that can be dealt with. It may mean making sure your characters have certain defenses. It’s just something to be mindful of.
 
@@ -2061,7 +2061,7 @@ The only limiter is that you want to include some checks to prevent a total part
 
 ###### Wound-Eating Beetles
 
-**Summoning Difficulty:** Fair (+1)
+__Summoning Difficulty:__ Fair (+1)
 
 Alittle bit longer than a man’s thumb, these beetles have white, soft shells, like they’ve just emerged from some cycle of growth, but it never hardens. To use it, simply let it walk around on your skin for a while—it’s gross for a few moments, but then you won’t even notice it’s there. Literally. Unless you really, actively put some effort into trying to find it, you’re simply not aware of it, no matter where it crawls. If you don’t know to expect it, it’s just one of those creepy momentary sensations that passes quickly.
 
@@ -2075,7 +2075,7 @@ Beetles are not a huge threat on their own—even an unchecked infection rarely 
 
 ##### Lightning Worms
 
-**Summoning Difficulty:** Good (+2)
+__Summoning Difficulty:__ Good (+2)
 
 There’s a longer name for this thing, but it’s a mouthful. It looks like a cross between a lightning bolt and a centipede that never slows down enough so you can get a good look. It cannot sustain itself for long in stasis, though it can be kept in a properly prepared glass jar. Released, it is a flash and a bang, dangerous as a lightning strike, then gone.
 
@@ -2089,7 +2089,7 @@ The worms can be rough to spot, but completely cutting off the electricity kills
 
 ###### Lazarus Eyes
 
-**Summoning Difficulty:** Good (+2)
+__Summoning Difficulty:__ Good (+2)
 
 A white sphere, roughly the size of an egg, this creature is harmless and inert much of the time. If, however, it is put in the eye socket of a recently deceased person, it will extend tendrils into the brain and cause the body to begin regenerating. Provided that the flesh—and most importantly, the brain—is largely intact, then over the course of the next 12 hours, the person will be restored to life. If the brain is not intact, then the body will reanimate and just shamble about until it starves and dies again. Creepy, but mostly harmless. But if the brain is intact, then the person is really back—personality, memory, the works. The only different is that the Lazarus Eye can never quite match the original eye color, so the eyes are mismatched.
 
@@ -2101,7 +2101,7 @@ If the Eye isn’t fed regularly—once a month at the outset, but more and more
 
 ###### Freet
 
-**Summoning Difficulty:** Great (+3)
+__Summoning Difficulty:__ Great (+3)
 
 A corruption of ifrit, these beings look like toads made of fire, but their fire rots and darkens as it burns, the opposite of purifying flame. As beings of energy, they are hard to physically harm, but are damaged or dispersed by clean water. It has no stress boxes or consequences, but it ignores any damage except immersion or heavy splashing, like a fire hose—it’s akin to putting out a bonfire (albeit one that’s trying to eat your face), though doing so will profoundly pollute the environs. When summoned, a Freet is usually sent after a target to kill them. Freets have effectively Great (+4) Fight and Stealth skills. If they successfully attack a target, they inflict a Burning Rot aspect on the target—a terrible, painful infection that slowly consumes the target. Until the aspect is removed, the character takes 1 stress every day, and cannot naturally recover stress or consequences. The only way to remove the aspect is to destroy the Freet and any spawn.
 
@@ -2109,7 +2109,7 @@ Speaking of spawn, Freet lay their eggs in fires, little sparks that add a bit o
 
 ###### The Dapper Gent
 
-**Summoning Difficulty:** Poor (-1)
+__Summoning Difficulty:__ Poor (-1)
 
 He goes by many names, and summoning him is simply a matter of saying the right one in the right context. He will, however, only appear on his timetable, and once you have summoned him, he may visit you any time you’re alone.
 
@@ -2125,7 +2125,7 @@ And that is something the Dapper Gent is happy to provide. No one knows what hap
 
 ###### Mineo Toadstool
 
-**Summoning Difficulty:** Good (+3)
+__Summoning Difficulty:__ Good (+3)
 
 When summoned, it’s a remarkably ugly, pustule-covered toadstool, perhaps a foot high. Rest your hand on it, and a similar pustule will appear on your hand – painless but disgusting. Lay that hand upon a sick person—or yourself—and the sickness will leave them, as the pustule seals up, and a smaller Toadstool grows on the back of your hand. It may be removed—painfully—and planted, where it will eventually grow as large as the first. So long as the Toadstool is planted and remains healthy, the disease remains in remission, though the health of all subsequent toadstools depends on the health of the first.
 
@@ -2193,7 +2193,7 @@ Obviously, the more tightly you constrain the power, the less you need to worry 
 
 Voidcallers is a great illustration of a magic system balanced against the setting. Note that there are very few mechanical checks on the use of magic in Voidcallers—it’s almost all setting elements, both in terms of the behavior of practitioners and the impact of powers. Anyone can use the power, so practitioners put up hurdles to keep others from using it, and in doing so, hide information about their numbers and proficiency. The impacts of the power are all pretty terrible, but are—so far—held in check by luck or good intent. Change that, and you change the power.
 
-**Pro tip**: Want to shake up a game idea? Look at the answers to your setting balance questions and change one of them, and see what it does. For example, there’s no large-scale result of power in Voidcallers by default, but what if you change that? What if something ate Manhattan? Something so big and awful that it could not be covered up or hidden? What changes then?
+__Pro tip__: Want to shake up a game idea? Look at the answers to your setting balance questions and change one of them, and see what it does. For example, there’s no large-scale result of power in Voidcallers by default, but what if you change that? What if something ate Manhattan? Something so big and awful that it could not be covered up or hidden? What changes then?
 
 ### Balance in Play
 
@@ -2261,15 +2261,15 @@ A lot of these make reference to rolling a magic skill, but take that with a gra
 
 Whether it’s because the hat is magical or because its wearer has talent is unimportant—the key is that the wearer reaches into the hat and pulls out something. The rules for it are straightforward:
 
-**Effect 1:** At no cost, the character can pull out useless, color items. If the character spends an action pulling out useless things, they get a +1 bonus on any roll related to practical conjuration on their next action.
+__Effect 1:__ At no cost, the character can pull out useless, color items. If the character spends an action pulling out useless things, they get a +1 bonus on any roll related to practical conjuration on their next action.
 
-**Effect 2:** At a cost of 1 MP, the character can produce something useful but unexceptional, such as a weapon or the right tool for the job at hand. There’s no skill roll associated with this, it’s just an enabler for subsequent skill rolls.
+__Effect 2:__ At a cost of 1 MP, the character can produce something useful but unexceptional, such as a weapon or the right tool for the job at hand. There’s no skill roll associated with this, it’s just an enabler for subsequent skill rolls.
 
-**Effect 3:** At a cost of 2MP, the character may pull out something large, dangerous, or strange, which allows him to use his magic skill in lieu of another skill so long as he can physically describe how the object allows for the specific roll. For example, a giant hammer might make an attack, a spring might allow a jump, a cloud of smoke might allow for stealth, and so on. If you’ve used a particular trick before, take a –2 to the roll.
+__Effect 3:__ At a cost of 2MP, the character may pull out something large, dangerous, or strange, which allows him to use his magic skill in lieu of another skill so long as he can physically describe how the object allows for the specific roll. For example, a giant hammer might make an attack, a spring might allow a jump, a cloud of smoke might allow for stealth, and so on. If you’ve used a particular trick before, take a –2 to the roll.
 
-**Effect 4:** At a cost of 3MP or more the character can draw out a creature or automaton capable of independent action. This is a skill-based extra—the caster selects the form of the creature and its primary skill, and the GM fills in any secondary skills as needed. At 3MP, this creature will have a Fair (+2) apex skill, which can be increased on a one-for-one basis by spending extra MP. Once the level is settled on, the caster makes a magic roll with a difficulty equal to the level of the creature. If the caster fails, the creature is still summoned, but it has a number of unexpected complications equal to the margin of failure. One or two complications might be inconvenient, but three or more is likely to produce an out-of-control threat or other big problem.
+__Effect 4:__ At a cost of 3MP or more the character can draw out a creature or automaton capable of independent action. This is a skill-based extra—the caster selects the form of the creature and its primary skill, and the GM fills in any secondary skills as needed. At 3MP, this creature will have a Fair (+2) apex skill, which can be increased on a one-for-one basis by spending extra MP. Once the level is settled on, the caster makes a magic roll with a difficulty equal to the level of the creature. If the caster fails, the creature is still summoned, but it has a number of unexpected complications equal to the margin of failure. One or two complications might be inconvenient, but three or more is likely to produce an out-of-control threat or other big problem.
 
-**Effect 5:** A character may also spend all remaining MP (minimum 1) and make a “blind grab.” This pulls out something big, dramatic, and one way or another, it ends the current scene, but the GM determines the exact details. When this happens, the GM secretly rolls a single dF. On a [+], the resolution works out in the player’s favor—a whirlwind carries them to safety, her enemies are turned to frogs, and so on. On a [-], it works out against the player in some way—she ends up capturing herself, or making the situation worse. On a [ ], the situation changes dramatically, though not necessarily for the better or worse—enemies are turned into different kinds of enemies, the landscape turns into candy, and so on.
+__Effect 5:__ A character may also spend all remaining MP (minimum 1) and make a “blind grab.” This pulls out something big, dramatic, and one way or another, it ends the current scene, but the GM determines the exact details. When this happens, the GM secretly rolls a single dF. On a [+], the resolution works out in the player’s favor—a whirlwind carries them to safety, her enemies are turned to frogs, and so on. On a [-], it works out against the player in some way—she ends up capturing herself, or making the situation worse. On a [ ], the situation changes dramatically, though not necessarily for the better or worse—enemies are turned into different kinds of enemies, the landscape turns into candy, and so on.
 
 #### Tweaks
 
@@ -2285,17 +2285,17 @@ With a change in color, this also becomes an excellent system to handle certain 
 
 Contrary to the crude suggestion, the six profanities are actually the names of six of the greatest devils of hell. Their names cannot be sufficiently encompassed by tongue or pen, but each has a distinct icon that can grant a fraction of their dark power. The power is easy to use—it need only be permanently inscribed onto living skin via tattoo, branding, or scarification to grant the power—but the knowledge of such marks is wrapped in secrecy. It is rumored that only the devils themselves know the secret, and they take the form of mortals to share it, in the hopes of snaring souls. The profanities have many names, most unprintable—we’ll use the more common names here, though that does not guarantee that everyone will call them that.
 
-**Arrow** allows the user to perform line-of-light teleportation to a maximum range of about 100 feet (3 or 4 zones). The character’s body needs to be able to traverse the distance, so the teleportation may go up, or over a pit, but it cannot go through a wall or grating, and will stop short of hitting an obstacle. This process only requires one to take a step, so a character may actually cover great distance by “skipping” along multiple jumps in sequence. Each jump costs one MP.
+__Arrow__ allows the user to perform line-of-light teleportation to a maximum range of about 100 feet (3 or 4 zones). The character’s body needs to be able to traverse the distance, so the teleportation may go up, or over a pit, but it cannot go through a wall or grating, and will stop short of hitting an obstacle. This process only requires one to take a step, so a character may actually cover great distance by “skipping” along multiple jumps in sequence. Each jump costs one MP.
 
-**Ironskin** provides protection from physical harm. When the character takes physical damage, he may retroactively spend MP to gain armor equal to the number of MP spent. Additionally, if the character knows a blow is coming with more than a moment’s notice, he may spend 3 MP to steel himself against it and ignore all damage. While this is of no use in a fight, it can be useful for hard landings or staying the executioner’s blow, but beware that the protection only lasts for a heartbeat. He may survive the impact of an oncoming train, but that doesn’t guarantee he’ll survive the landing as it knocks him off the tracks, or worse, drags him under the train.
+__Ironskin__ provides protection from physical harm. When the character takes physical damage, he may retroactively spend MP to gain armor equal to the number of MP spent. Additionally, if the character knows a blow is coming with more than a moment’s notice, he may spend 3 MP to steel himself against it and ignore all damage. While this is of no use in a fight, it can be useful for hard landings or staying the executioner’s blow, but beware that the protection only lasts for a heartbeat. He may survive the impact of an oncoming train, but that doesn’t guarantee he’ll survive the landing as it knocks him off the tracks, or worse, drags him under the train.
 
-**Pomp** grants the power, for 1MP, to converse with any dead body that is still in good enough physical shape to speak. Convincing the corpse to do anything other than scream is a different problem entirely.
+__Pomp__ grants the power, for 1MP, to converse with any dead body that is still in good enough physical shape to speak. Convincing the corpse to do anything other than scream is a different problem entirely.
 
-**Rider** allows a character to spend 1 MP to “jump” into the mind of any mammal in her line of sight. While in its mind, she has no access to its thoughts nor control of its actions, but she has access to its senses, and may ride along for about two minutes. The player may opt to spend an additional MP to perform another “jump” to another target within her line of sight. This also extends the ride for another 2 minutes. Additional 2-minute periods cost 1 MP each. While this is happening, the character’s body stands helplessly, staring into space, making her easy prey.
+__Rider__ allows a character to spend 1 MP to “jump” into the mind of any mammal in her line of sight. While in its mind, she has no access to its thoughts nor control of its actions, but she has access to its senses, and may ride along for about two minutes. The player may opt to spend an additional MP to perform another “jump” to another target within her line of sight. This also extends the ride for another 2 minutes. Additional 2-minute periods cost 1 MP each. While this is happening, the character’s body stands helplessly, staring into space, making her easy prey.
 
-**Sight** grants awareness of supernatural phenomena, though it’s erratic. When magic is afoot, the character gets a tingle, and may spend 1 MP to get details regarding what is going on. The sight can also carry prophetic visions or dreams, though those are usually more disturbing than useful.
+__Sight__ grants awareness of supernatural phenomena, though it’s erratic. When magic is afoot, the character gets a tingle, and may spend 1 MP to get details regarding what is going on. The sight can also carry prophetic visions or dreams, though those are usually more disturbing than useful.
 
-**Terror** generates an aura of terror around the character for 1 MP. The aura lasts for the duration of the scene, and the character’s attacks may inflict physical or mental stress, as desired. Animals with any level of self-preservation will not enter the same zone, and will do whatever they can to leave it. For an additional MP, the character may look a thinking target in the eye and use intimidation to create a Fear of [Character] aspect on them. If successful, he may freely invoke that aspect for the remainder of the scene.
+__Terror__ generates an aura of terror around the character for 1 MP. The aura lasts for the duration of the scene, and the character’s attacks may inflict physical or mental stress, as desired. Animals with any level of self-preservation will not enter the same zone, and will do whatever they can to leave it. For an additional MP, the character may look a thinking target in the eye and use intimidation to create a Fear of [Character] aspect on them. If successful, he may freely invoke that aspect for the remainder of the scene.
 
 If a character doesn’t have enough MP to use a power, they can still do so, but at risk to their soul. Pick an aspect and underline it—the character gets the MP they need, but that aspect is now tainted. In the fiction, this means it twists in dark ways when it comes up, and mechanically it no longer produces fate points when compelled, instead granting one MP. Such tainted aspects offer up dark compulsions at times, so the power that comes with the taint comes at a great risk.
 
@@ -2303,17 +2303,17 @@ If a character doesn’t have enough MP to use a power, they can still do so, bu
 
 There may be more powerful versions of each mark, though what is required to get them is best not discussed.
 
-**Arrow:** For 2 MP, range can be increased as far as can be clearly seen.
+__Arrow:__ For 2 MP, range can be increased as far as can be clearly seen.
 
-**Ironskin:** Unarmed blows now strike like a metal weapon, and the character may add +2 per MP spent to any feat of pure strength.
+__Ironskin:__ Unarmed blows now strike like a metal weapon, and the character may add +2 per MP spent to any feat of pure strength.
 
-**Pomp:** For 3 MP the character may animate any body in physically good enough shape to move for a scene. It will follow basic instruction, and while it’s not much in a fight, it’s pretty freaking creepy.
+__Pomp:__ For 3 MP the character may animate any body in physically good enough shape to move for a scene. It will follow basic instruction, and while it’s not much in a fight, it’s pretty freaking creepy.
 
-**Rider:** At a cost of 3 MP per jump, the character’s physical body disappears. It reappears behind the last subject.
+__Rider:__ At a cost of 3 MP per jump, the character’s physical body disappears. It reappears behind the last subject.
 
-**Sight:** For 1 MP, a character may discover something hidden about a person or thing. There is no guarantee it’s what she wants to know, and it’s only one use per target.
+__Sight:__ For 1 MP, a character may discover something hidden about a person or thing. There is no guarantee it’s what she wants to know, and it’s only one use per target.
 
-**Terror:** By spending an additional 1 MP (2 MP total), the character can increase the intensity of his aura of fear. He now inflicts mental damage equal to any physical damage he inflicts when he attacks.
+__Terror:__ By spending an additional 1 MP (2 MP total), the character can increase the intensity of his aura of fear. He now inflicts mental damage equal to any physical damage he inflicts when he attacks.
 
 ## Pieces of Power
 
@@ -2511,21 +2511,21 @@ For a more mechanically robust version, use the stunt system to create moves. Yo
 
 Here’s an example of a kung fu stunt tree, for the Drunken Fist Style of kung fu.
 
-**The Drunkard’s Stagger:** You sway and stagger on your feet, evading enemy blows seemingly by chance. When you succeed in a defensive Athletics roll using this technique, you gain +1 on your next attack against the opponent who tried to hit you. If you succeed with style, gain +2.
+__The Drunkard’s Stagger:__ You sway and stagger on your feet, evading enemy blows seemingly by chance. When you succeed in a defensive Athletics roll using this technique, you gain +1 on your next attack against the opponent who tried to hit you. If you succeed with style, gain +2.
 
-**The Drunken Shove:** Your rude and artless push contains a greater power than seems possible. You gain +2 to use Physique to create an advantage on an opponent by knocking them off balance.
+__The Drunken Shove:__ Your rude and artless push contains a greater power than seems possible. You gain +2 to use Physique to create an advantage on an opponent by knocking them off balance.
 
-**Drinking from the Jug:** You pause to take a swig of wine from your jug, fortifying yourself for the battle. When you have a drink during a fight, clear your lowest stress box. This requires you to take an entire action drinking.
+__Drinking from the Jug:__ You pause to take a swig of wine from your jug, fortifying yourself for the battle. When you have a drink during a fight, clear your lowest stress box. This requires you to take an entire action drinking.
 
-**The Falling Drunkard:** (Requires Drunkard’s Stagger) When an enemy attacks, you lose your balance and fall to the ground, rolling back to your feet quickly, but your enemy now finds himself dangerously overextended. Roll Athletics to dodge. On a success, place a boost on your opponent such as Overextended or Off-Balance that anyone may use against him. On a success with style, place a second boost on your opponent.
+__The Falling Drunkard:__ (Requires Drunkard’s Stagger) When an enemy attacks, you lose your balance and fall to the ground, rolling back to your feet quickly, but your enemy now finds himself dangerously overextended. Roll Athletics to dodge. On a success, place a boost on your opponent such as Overextended or Off-Balance that anyone may use against him. On a success with style, place a second boost on your opponent.
 
-**The Drunkard Swings Wide:** (Requires Drunken Shove) Your blows are crude and telegraphed, but in dodging, your opponent seems to be struck by an elbow or a knee by accident. Make your Fight roll as normal. If you strike your opponent, you do stress as normal. If you miss or tie, your opponent takes one physical stress anyway.
+__The Drunkard Swings Wide:__ (Requires Drunken Shove) Your blows are crude and telegraphed, but in dodging, your opponent seems to be struck by an elbow or a knee by accident. Make your Fight roll as normal. If you strike your opponent, you do stress as normal. If you miss or tie, your opponent takes one physical stress anyway.
 
-**Pouring Wine:** (Requires Drinking from the Jug) You take out a cup and pour a drink from your jug. This elaborate and difficult task causes a pause in the battle. No one may attack you while you pour, and you remove your lowest stress mark. This technique requires an entire action, and you may not perform the technique more than once in a row.
+__Pouring Wine:__ (Requires Drinking from the Jug) You take out a cup and pour a drink from your jug. This elaborate and difficult task causes a pause in the battle. No one may attack you while you pour, and you remove your lowest stress mark. This technique requires an entire action, and you may not perform the technique more than once in a row.
 
-**The Drunkard Stumbles:** (Requires Falling Drunkard) You stagger and stumble without control, but your enemy always seems to miss you and strike a nearby obstacle, causing damage to themselves. When you dodge a blow with Athletics, your opponent takes one stress, or two stress if you succeed with style.
+__The Drunkard Stumbles:__ (Requires Falling Drunkard) You stagger and stumble without control, but your enemy always seems to miss you and strike a nearby obstacle, causing damage to themselves. When you dodge a blow with Athletics, your opponent takes one stress, or two stress if you succeed with style.
 
-**Steady the Drunkard:** (Requires Drunkard Swings Wide) You stagger and seem about to fall, so you reach out and grab your opponent’s arm to steady yourself. This seemingly unintentional grip blocks chi and paralyzes your opponent. You may place a Chi Blocked situation aspect with a free invocation on your opponent. Your opponent may not use any kung fu stunts until they remove this aspect.
+__Steady the Drunkard:__ (Requires Drunkard Swings Wide) You stagger and seem about to fall, so you reach out and grab your opponent’s arm to steady yourself. This seemingly unintentional grip blocks chi and paralyzes your opponent. You may place a Chi Blocked situation aspect with a free invocation on your opponent. Your opponent may not use any kung fu stunts until they remove this aspect.
 
 ## Cyberware
 
@@ -2543,7 +2543,7 @@ These augs need a power source, something beyond the normal bio-electric energy 
 
 This means two things in-game. First, it means that you _must_ tie at least one of your aspects to the fact that you’re a cyborg. You’ve willingly transcended your human limitations—that’s a defining feature of any person who chooses this path. The second mechanical cost is that you must reduce your refresh by 1, in exchange for the following aug.
 
-**Cyber-Heart:** You can install and use other cyber-augs. The heart also acts as a backup for your natural heart and filters impurities and toxins from your blood. If you’re subject to a poison or toxin, spend a fate point to ignore it. If you’re ever killed by something the cyber-heart could conceivably save you from, spend a fate point to concede instead of being taken out.
+__Cyber-Heart:__ You can install and use other cyber-augs. The heart also acts as a backup for your natural heart and filters impurities and toxins from your blood. If you’re subject to a poison or toxin, spend a fate point to ignore it. If you’re ever killed by something the cyber-heart could conceivably save you from, spend a fate point to concede instead of being taken out.
 
 ### Types of Augs
 
@@ -2555,26 +2555,26 @@ A _major aug_ requires major surgery and replacing a large part of your body. Li
 
 ### Example Augs
 
-**Cyber-Eye (minor):** You get a +1 bonus to sight-based Notice rolls. In addition, choose one of the following aspects. Adding an additional aspect is another minor aug.
+__Cyber-Eye (minor):__ You get a +1 bonus to sight-based Notice rolls. In addition, choose one of the following aspects. Adding an additional aspect is another minor aug.
 
 Image Filtering • Low-Light Vision • Sonar Imaging • Targeting Interface
 
 Thermal Imaging • Visual Net Interface • Zoom Magnification
 
-**Cyber-Legs (major):** Both of your legs have been replaced by much more powerful cybernetic legs. You can move two zones as a free action, and you get a +2 to Athletics rolls made to run or jump. In addition, pick one of the following add-ons. Additional add-ons are each a minor aug.
+__Cyber-Legs (major):__ Both of your legs have been replaced by much more powerful cybernetic legs. You can move two zones as a free action, and you get a +2 to Athletics rolls made to run or jump. In addition, pick one of the following add-ons. Additional add-ons are each a minor aug.
 
 
-- •**Hidden Compartment:** You’ve got a compartment where you can hide things, like a hand gun or a brick of cocaine.
-- •**Magnetic Grip:** If you’re standing on a metallic surface, you can’t be knocked down. You can also walk up steep or even vertical metallic surfaces, albeit clumsily.
-- •**Pneumatic Kick:** If you kick someone, your kick is Weapon:2.
+- •__Hidden Compartment:__ You’ve got a compartment where you can hide things, like a hand gun or a brick of cocaine.
+- •__Magnetic Grip:__ If you’re standing on a metallic surface, you can’t be knocked down. You can also walk up steep or even vertical metallic surfaces, albeit clumsily.
+- •__Pneumatic Kick:__ If you kick someone, your kick is Weapon:2.
 
-**Neural Interface (major):** You can access the Net from anywhere, with a thought. You can hack low-security systems automatically—they just do what you want them to do. Even high-security systems are easy—you get a +2 to Computers rolls to get through them.
+__Neural Interface (major):__ You can access the Net from anywhere, with a thought. You can hack low-security systems automatically—they just do what you want them to do. Even high-security systems are easy—you get a +2 to Computers rolls to get through them.
 
-**Razor Nails (minor):** You’ve got one-inch, razor-sharp blades that pop out of your finger tips; you can retract them at will. These blades are Weapon:1.
+__Razor Nails (minor):__ You’ve got one-inch, razor-sharp blades that pop out of your finger tips; you can retract them at will. These blades are Weapon:1.
 
-**Subdermal Plating (major):** You can oppose most physical attacks using Physique—fists, blades, truncheons, and small arms fire have trouble getting through the plating beneath your skin. In addition, once per scene you may ignore any one mild or moderate physical consequence from such an attack.
+__Subdermal Plating (major):__ You can oppose most physical attacks using Physique—fists, blades, truncheons, and small arms fire have trouble getting through the plating beneath your skin. In addition, once per scene you may ignore any one mild or moderate physical consequence from such an attack.
 
-**Thermoptic Camouflage (minor):** You can spend a fate point to become invisible to the visual and thermal spectrums, for as long as you don’t move.
+__Thermoptic Camouflage (minor):__ You can spend a fate point to become invisible to the visual and thermal spectrums, for as long as you don’t move.
 
 ### The Downside of Augs
 
@@ -2655,9 +2655,9 @@ Monsters are distinct from other NPCs because their abilities tend to challenge 
 Some examples of interesting monster abilities:
 
 
-- •**Hard to Kill:** Monsters can survive much more damage than other characters, either because of longer stress tracks—like Frankenstein’s monster—or because they can regenerate quickly—like the Hydra.
-- •**Immune to Damage:** Monsters are often immune to all damage save one type—such as vulnerability to silver—or until a specific condition has been met—such as destroying a specific magic item.
-- •**Prone to Change:** Monsters tend to transform themselves—like vampires who turn into bats to flee—or the environment—such as summoning additional minions in the middle of a fight.
+- •__Hard to Kill:__ Monsters can survive much more damage than other characters, either because of longer stress tracks—like Frankenstein’s monster—or because they can regenerate quickly—like the Hydra.
+- •__Immune to Damage:__ Monsters are often immune to all damage save one type—such as vulnerability to silver—or until a specific condition has been met—such as destroying a specific magic item.
+- •__Prone to Change:__ Monsters tend to transform themselves—like vampires who turn into bats to flee—or the environment—such as summoning additional minions in the middle of a fight.
 
 While it’s easy to see how these traits could be turned into stunts, they are often too powerful to be activated without spending a fate point. However, if you add such a cost, the players can grind down an enemy like the Hydra, waiting for you to run out of fate points. In addition to making your monsters weak, such costs make conflicts a drag. Who wants to play until the GM runs out of fate points?
 
@@ -2740,51 +2740,51 @@ If you want to emphasize the squad over the individual characters, reduce your c
 
 The Operations skill measures your unit’s ability to work together on the battlefield, eliminating enemy units and securing key strategic positions.
 
-**[Overcome] Overcome:** Operations allows you to overcome obstacles as a unit, such as when you lay down cover fire to reach a wounded soldier safely or work together to climb over a wall.
+__[Overcome] Overcome:__ Operations allows you to overcome obstacles as a unit, such as when you lay down cover fire to reach a wounded soldier safely or work together to climb over a wall.
 
-**[Create] Create an Advantage:** When you create an advantage with Operations, your unit is setting traps (Ambush!) or charging directly at the barricades (Panicked Grunts).
+__[Create] Create an Advantage:__ When you create an advantage with Operations, your unit is setting traps (Ambush!) or charging directly at the barricades (Panicked Grunts).
 
-**[Attack] Attack:** Operations allows your squad to launch coordinated attacks against targets and should be rolled instead of an individual character’s Fight or Shoot whenever the squad acts as a unit.
+__[Attack] Attack:__ Operations allows your squad to launch coordinated attacks against targets and should be rolled instead of an individual character’s Fight or Shoot whenever the squad acts as a unit.
 
-**[Defend] Defend:** Operations is rolled for defense when your unit attempts to retreat from the larger combat zone or otherwise avoid an enemy attack as a group.
+__[Defend] Defend:__ Operations is rolled for defense when your unit attempts to retreat from the larger combat zone or otherwise avoid an enemy attack as a group.
 
 #### Operations Sample Stunts
 
-**Hard to Pin Down:** Take a +2 on any Overcome roll made to retreat from a combat zone.
+__Hard to Pin Down:__ Take a +2 on any Overcome roll made to retreat from a combat zone.
 
-**Blitzkrieg:** Your squad is fast, light, and deadly. Take +2 on all Operation rolls in which your attack focuses on catching the enemy off-guard.
+__Blitzkrieg:__ Your squad is fast, light, and deadly. Take +2 on all Operation rolls in which your attack focuses on catching the enemy off-guard.
 
 ### Equipment
 
 The Equipment skill represents the resources your squad has available to pursue its objectives.
 
-**[Overcome] Overcome:** Like the Resources skill, Equipment can be used to get the squad through a situation that requires some additional gear. The squad might call in some trucks to carry them over rough terrain or even call in a bombing run.
+__[Overcome] Overcome:__ Like the Resources skill, Equipment can be used to get the squad through a situation that requires some additional gear. The squad might call in some trucks to carry them over rough terrain or even call in a bombing run.
 
 
 
-**[Create] Create an Advantage:** Your squad might use Equipment to get some high-powered weaponry for a particular mission (Flamethrowers!) or to procure resources that are crucial for navigation (Topographical Maps).
+__[Create] Create an Advantage:__ Your squad might use Equipment to get some high-powered weaponry for a particular mission (Flamethrowers!) or to procure resources that are crucial for navigation (Topographical Maps).
 
-**[Attack] **[Defend]**Attack / Defend:**Equipment isn’t used to attack or defend.
+__[Attack] __[Defend]__Attack / Defend:__Equipment isn’t used to attack or defend.
 
 #### Equipment Sample Stunts
 
-**Hi-Tech Gear:** You can use Equipment instead of Operations in any situation where raw technological superiority would win the day.
+__Hi-Tech Gear:__ You can use Equipment instead of Operations in any situation where raw technological superiority would win the day.
 
-**Well-Stocked:** You gain a +2 on all Equipment rolls made to create an advantage when you are accessing your preexisting supplies.
+__Well-Stocked:__ You gain a +2 on all Equipment rolls made to create an advantage when you are accessing your preexisting supplies.
 
 ### Recon
 
-**[Overcome] Overcome:** Recon isn’t used often to overcome obstacles, but it can be used, like Notice, to give the squad a chance to head off ambushes or traps.
+__[Overcome] Overcome:__ Recon isn’t used often to overcome obstacles, but it can be used, like Notice, to give the squad a chance to head off ambushes or traps.
 
-**[Create] Create Advantage:** Your squad can use Recon during a battle to pierce the fog of war, gathering information beyond your immediate location.
+__[Create] Create Advantage:__ Your squad can use Recon during a battle to pierce the fog of war, gathering information beyond your immediate location.
 
-****[Attack] **[Defend] Attack / Defend:** Recon isn’t used to attack or defend.
+____[Attack] __[Defend] Attack / Defend:__ Recon isn’t used to attack or defend.
 
 #### Recon Sample Stunts
 
-**Codebreakers:** On a successful Recon roll to create an advantage while monitoring enemy communications, you can discover or create one additional aspect (though this doesn’t give you an extra free invocation).
+__Codebreakers:__ On a successful Recon roll to create an advantage while monitoring enemy communications, you can discover or create one additional aspect (though this doesn’t give you an extra free invocation).
 
-**Counterprogramming:** You can use Recon instead of Operations to set a trap when you use the enemy’s communications system against them.
+__Counterprogramming:__ You can use Recon instead of Operations to set a trap when you use the enemy’s communications system against them.
 
 ### Rolling Squad Skills
 
@@ -2829,7 +2829,7 @@ YOU WILL NEED:
 
 ### Basic Training
 
-Combatants are _units_ on a _battlefield_ made up of **zones**. All three of these are fairly abstract concepts, mutable enough to suit your particular game and conflict.
+Combatants are _units_ on a _battlefield_ made up of __zones__. All three of these are fairly abstract concepts, mutable enough to suit your particular game and conflict.
 
 Units are built like characters, with skills, aspects, and consequences, but no stress boxes or stunts. A unit might consist of a few battleships, a dozen biplanes, or a thousand shrieking orcs, but they all act as one in battle.
 
@@ -2855,19 +2855,19 @@ Regardless, no unit can take the same action twice in a turn, and attacking alwa
 
 This can take the form of scouting the terrain, intimidating another unit, using the environment, or anything else that makes sense in context. Here are some specific ways to use this action to make your battles more dynamic.
 
-**Ambushing:** A unit can use Stealth to put a situation aspect like It’s a Trap! into play. This can’t be attempted if the unit has an enemy in its zone.
+__Ambushing:__ A unit can use Stealth to put a situation aspect like It’s a Trap! into play. This can’t be attempted if the unit has an enemy in its zone.
 
-**Intimidating:** A unit can use Provoke to put a situation aspect into play, such as Frenzied Berserkers, The Might of the Imperial Fleet, or Hesitant.
+__Intimidating:__ A unit can use Provoke to put a situation aspect into play, such as Frenzied Berserkers, The Might of the Imperial Fleet, or Hesitant.
 
-**Pinned Down:** Use Shoot to put a Pinned Down situation aspect on one enemy unit. A unit with this aspect can’t move into another zone unless it succeeds on an overcome action opposed by the attacker’s Shoot skill. The aspect goes away if the defender successfully moves or if the attacker doesn’t use an action to maintain it from turn to turn.
+__Pinned Down:__ Use Shoot to put a Pinned Down situation aspect on one enemy unit. A unit with this aspect can’t move into another zone unless it succeeds on an overcome action opposed by the attacker’s Shoot skill. The aspect goes away if the defender successfully moves or if the attacker doesn’t use an action to maintain it from turn to turn.
 
-**Scouting:** A unit can use Notice to put a new zone aspect in play in an adjacent zone that doesn’t already have a unit in it. The difficulty is Fair (+2), +2 for each aspect the zone already has. For example, if a zone has the aspect Tangled Woods, the difficulty to give it a second aspect would be Great (+4).
+__Scouting:__ A unit can use Notice to put a new zone aspect in play in an adjacent zone that doesn’t already have a unit in it. The difficulty is Fair (+2), +2 for each aspect the zone already has. For example, if a zone has the aspect Tangled Woods, the difficulty to give it a second aspect would be Great (+4).
 
-**Surrounded:** A unit can put a Surrounded into play if it has more allies than enemies in its zone. Each allied unit in the zone gets a +1 to its attacks as long as this aspect remains in play.
+__Surrounded:__ A unit can put a Surrounded into play if it has more allies than enemies in its zone. Each allied unit in the zone gets a +1 to its attacks as long as this aspect remains in play.
 
 #### [Overcome] Overcome
 
-**Use a skill to move into a zone with an obstacle or enemy unit:**
+__Use a skill to move into a zone with an obstacle or enemy unit:__
 
 If the zone has an aspect that would hinder movement, such as Dense Forest or Asteroid Field, the difficulty equals twice the number of hindering aspects. For example, the difficulty to enter a zone with Rocky Terrain and a Raging River would be Great (+4).
 
@@ -2875,7 +2875,7 @@ If the zone contains one or more enemy units, one of them can actively oppose th
 
 Either way, use the usual outcomes for overcome to resolve the action.
 
-**Use a skill to move one or two additional obstacle-free zones:**
+__Use a skill to move one or two additional obstacle-free zones:__
 
 On a tie or success, move one zone (with a minor cost, in the case of a tie). On a success with style, the unit can forgo the boost to move a second zone instead.
 
@@ -2892,9 +2892,9 @@ Depending on the venue of the battle, you may want to tweak the way defenses wor
 A unit’s quality—Average, Fair, or Good—determines how many skills, aspects, and consequences it has.
 
 
-- •**Average:** Conscripts. One Average (+1) skill. One aspect. No consequences—a single hit takes out an Average unit.
-- •**Fair:** Grunts. One Fair (+2) skill, two Average (+1) skills. Two aspects. One mild consequence.
-- •**Good:** Elites. One Good (+3) skill, two Fair (+2) skills, three Average (+1) skills. Three aspects. One mild consequence, one moderate consequence.
+- •__Average:__ Conscripts. One Average (+1) skill. One aspect. No consequences—a single hit takes out an Average unit.
+- •__Fair:__ Grunts. One Fair (+2) skill, two Average (+1) skills. Two aspects. One mild consequence.
+- •__Good:__ Elites. One Good (+3) skill, two Fair (+2) skills, three Average (+1) skills. Three aspects. One mild consequence, one moderate consequence.
 
 ---
 
@@ -2930,13 +2930,13 @@ Each player gets a “battle chest” of build points for the battle—the hig
 
 ---
 
-**Average unit:** 1 build point
+__Average unit:__ 1 build point
 
-**Fair unit:** 2 build points
+__Fair unit:__ 2 build points
 
-**Good unit:** 3 build points
+__Good unit:__ 3 build points
 
-**Fate point:** 3 build points
+__Fate point:__ 3 build points
 
 ---
 
@@ -3094,7 +3094,7 @@ Vehicles don’t have stress, but _can_ take consequences—usually to turn a 
 
 #### Vehicle Stunts
 
-**Car Thief:** When stealing a car, use Drive in lieu of Burglary.
+__Car Thief:__ When stealing a car, use Drive in lieu of Burglary.
 
 ## SUPERS
 
@@ -3158,13 +3158,13 @@ That’s the Fate-plus-horror paradox. This is how we solve it.
 
 ### The Elements of Horror
 
-Horror is really all about the visceral, emotional response the players have to the game. System is absolutely able to drive this, with your help. For our toolkit purposes, horror is a combination of **oppressive atmosphere**, **impossible circumstances**, and **stark desperation**.
+Horror is really all about the visceral, emotional response the players have to the game. System is absolutely able to drive this, with your help. For our toolkit purposes, horror is a combination of __oppressive atmosphere__, __impossible circumstances__, and __stark desperation__.
 
 #### Oppressive Atmosphere
 
-**Compels Aplenty:** While compels aren’t tools for _forcing_ outcomes, they are tools for _making things go wrong_. So make them abundant. Place aspects on the scene, the story, the campaign—and compel them to make things go wrong for everyone. Simply dropping Death Comes for Everyone onto the story and compelling it at the exact worst time (for the players) to make things that much worse will get lots of traction. Yeah, the players affected will walk away with some fate points—which they’ll need in order to survive—but they’ll also feel the emotional gut-punch of the moment—and will wonder when the next compel is going to land. Make them hurt. Make them worry.
+__Compels Aplenty:__ While compels aren’t tools for _forcing_ outcomes, they are tools for _making things go wrong_. So make them abundant. Place aspects on the scene, the story, the campaign—and compel them to make things go wrong for everyone. Simply dropping Death Comes for Everyone onto the story and compelling it at the exact worst time (for the players) to make things that much worse will get lots of traction. Yeah, the players affected will walk away with some fate points—which they’ll need in order to survive—but they’ll also feel the emotional gut-punch of the moment—and will wonder when the next compel is going to land. Make them hurt. Make them worry.
 
-**Every Path a Dark One:** Aspects aren’t the only way to evoke atmosphere. You can deliver, too, with obstacles and zones. It’s never easy to run away from horror, so clutter the path to salvation with obstacles. (Read more on obstacles, below.) And when you’re drawing your zone maps, make it all more claustrophobic than usual: more zones covering less space. While the physical distances aren’t any different, it’s just plain harder to get away from the dangerous places in horror—in a regular house, the front door might just be a zone away. In a haunted house? Try more like five or ten… and _never_ let them sprint the full length.
+__Every Path a Dark One:__ Aspects aren’t the only way to evoke atmosphere. You can deliver, too, with obstacles and zones. It’s never easy to run away from horror, so clutter the path to salvation with obstacles. (Read more on obstacles, below.) And when you’re drawing your zone maps, make it all more claustrophobic than usual: more zones covering less space. While the physical distances aren’t any different, it’s just plain harder to get away from the dangerous places in horror—in a regular house, the front door might just be a zone away. In a haunted house? Try more like five or ten… and _never_ let them sprint the full length.
 
 #### Impossible Circumstances
 
@@ -3183,9 +3183,9 @@ All of this drives towards a feeling of desperation. And so…
 Desperation arises from threatened, sparse resources and hard choices made under pressure. A player character’s finite resources include fate points, stress, and consequences. Limit these without making them absent. Consider:
 
 
-- •**Low refresh:** If the players only have a few fate points, those fate points will feel precious. They’ll need to spend them if they want to succeed cleanly—or at all. The tension in this choice heightens anxiety.
-- •**Minimal stress tracks:** Don’t give them more than a box or two, if you give them any. In horror, characters shouldn’t have much of a buffer before they start to break and bleed. Additionally, if you use a mental or sanity stress track, lasting trauma, terror, and madness are just moments away.
-- •**Weaker consequences:** Consider making consequences soak less damage. The default dial is -2/-4/-6 for mild, moderate, and severe, which is pretty hefty. For horror, think about halving all those numbers, or trying -1/-2/-4. It won’t take much of a hit to really hurt the characters, making any kind of conflict all the more dangerous.
+- •__Low refresh:__ If the players only have a few fate points, those fate points will feel precious. They’ll need to spend them if they want to succeed cleanly—or at all. The tension in this choice heightens anxiety.
+- •__Minimal stress tracks:__ Don’t give them more than a box or two, if you give them any. In horror, characters shouldn’t have much of a buffer before they start to break and bleed. Additionally, if you use a mental or sanity stress track, lasting trauma, terror, and madness are just moments away.
+- •__Weaker consequences:__ Consider making consequences soak less damage. The default dial is -2/-4/-6 for mild, moderate, and severe, which is pretty hefty. For horror, think about halving all those numbers, or trying -1/-2/-4. It won’t take much of a hit to really hurt the characters, making any kind of conflict all the more dangerous.
 
 Pair your system design with hard choices for the characters that they’ll have to make under pressure. This will take away clean, easy victories. After all, the PCs themselves are finite resources: they can’t be in two places at once. And pressure arises from a lack of time. Time is the final finite resource that you as the GM can control. In horror, there should never be enough time.
 

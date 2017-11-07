@@ -12,37 +12,37 @@ The Burglary, Lore, and Stealth skills are not used. In their place, we add Infi
 
 Infiltrate combines Burglary and Stealth from _Fate Core_. While being sneaky is useful, it’s not enough of a focus that characters should need to invest in two skills to be good at different kinds of being sneaky.
 
-**Overcome:** Use Infiltrate to overcome obstacles related to avoiding the notice of observers, getting into secured areas, and sneaking around or generally being where you aren’t supposed to be.
+__Overcome:__ Use Infiltrate to overcome obstacles related to avoiding the notice of observers, getting into secured areas, and sneaking around or generally being where you aren’t supposed to be.
 
-**Create an Advantage:** Infiltrate can be used to create advantages related to being or remaining unseen, the element of surprise, knowledge of a secured area or security measures, or other things.
+__Create an Advantage:__ Infiltrate can be used to create advantages related to being or remaining unseen, the element of surprise, knowledge of a secured area or security measures, or other things.
 
-**Attack:** Infiltrate isn’t normally used to attack.
+__Attack:__ Infiltrate isn’t normally used to attack.
 
-**Defend:** Infiltrate is rolled to oppose attempts to Notice you while you’re being sneaky, or to investigate your infiltration. You can also roll it to defend against attempts to create advantages related to highlighting you, drawing attention to you, or otherwise making you conspicuous.
+__Defend:__ Infiltrate is rolled to oppose attempts to Notice you while you’re being sneaky, or to investigate your infiltration. You can also roll it to defend against attempts to create advantages related to highlighting you, drawing attention to you, or otherwise making you conspicuous.
 
 ### Mythology
 
 Mythology covers abstract, general knowledge of spirits and the otherworld. It’s perfectly possible to get by without this skill, so not all mediums will have a high Mythology, or even any at all. It’s of little use in direct interaction with spirits, which is governed by the common skill set. It’s most useful for noticing or taking advantage of hidden characteristics of the otherworld—common properties that happen to be present, clues to its nature, or weaknesses an upset spirit might be trying to hide.
 
-**Overcome:** Discover or recall hidden or obscure facts about the otherworld and spirits, along with their applicability to present circumstance.
+__Overcome:__ Discover or recall hidden or obscure facts about the otherworld and spirits, along with their applicability to present circumstance.
 
-**Create an Advantage:** Capitalize on hidden or obscure facts about or properties of the otherworld or spirits that are relevant to the current circumstance.
+__Create an Advantage:__ Capitalize on hidden or obscure facts about or properties of the otherworld or spirits that are relevant to the current circumstance.
 
-**Attack:** Mythology isn’t normally used to attack.
+__Attack:__ Mythology isn’t normally used to attack.
 
-**Defend:** Mythology isn’t normally used to defend.
+__Defend:__ Mythology isn’t normally used to defend.
 
 ### Science
 
 Science covers…science. The observational study and description of the material world, and the application of that knowledge. Science is of no help when dealing with the otherworld, or with the actions or effects of spirits or spiritual interference. Science can rule out natural explanations or help with fixing the consequences of a spirit’s meddling, but that’s as far as it goes.
 
-**Overcome:** Apply scientific knowledge to remove an obstacle. While flexible, Science always requires tools specialized for the task at hand, unlike more personal skills such as Athletics and Physique, and using Science to solve problems often takes a lot of time.
+__Overcome:__ Apply scientific knowledge to remove an obstacle. While flexible, Science always requires tools specialized for the task at hand, unlike more personal skills such as Athletics and Physique, and using Science to solve problems often takes a lot of time.
 
-**Create an Advantage:** Science is much more suited to creating advantages. This usually means making an observation about the material world and drawing some conclusion about it, which can then be leveraged by using another skill.
+__Create an Advantage:__ Science is much more suited to creating advantages. This usually means making an observation about the material world and drawing some conclusion about it, which can then be leveraged by using another skill.
 
-**Attack:** Science isn’t normally used to attack.
+__Attack:__ Science isn’t normally used to attack.
 
-**Defend:** Science isn’t normally used to defend.
+__Defend:__ Science isn’t normally used to defend.
 
 # Stunts
 
@@ -55,38 +55,38 @@ Every medium has at least one means of accessing the otherworld. You never need 
 A ritual stunt is either a _channeling_ ritual or _projection_ ritual. Each type grants a different means of accessing the otherworld, with different applications, so your group will want a mix. Each of your ritual stunts can be used once per session. 
 
 
-- **Channeling** lets you reach out to a spirit on the other side and allow it to contact the material world. It’s less risky than projection, but it’s also much more specific. You can only reach one spirit-facet with it per ritual, and you must be within the territory of the spirit whose facet you are attempting to reach. It’s most useful for making initial contact with a spirit or following up.
-- **Projection** lets you and others who engage in the ritual with you journey through the otherworld with your minds. It’s potentially dangerous, and can result in permanent harm, but allows for longer and deeper engagement than channeling. You can spend hours immersed in the otherworld, seeking and speaking to facets of a spirit, and you can even travel short distances to the territories of neighboring spirits by descending into deeper layers of the otherworld and then traveling back up.
+- __Channeling__ lets you reach out to a spirit on the other side and allow it to contact the material world. It’s less risky than projection, but it’s also much more specific. You can only reach one spirit-facet with it per ritual, and you must be within the territory of the spirit whose facet you are attempting to reach. It’s most useful for making initial contact with a spirit or following up.
+- __Projection__ lets you and others who engage in the ritual with you journey through the otherworld with your minds. It’s potentially dangerous, and can result in permanent harm, but allows for longer and deeper engagement than channeling. You can spend hours immersed in the otherworld, seeking and speaking to facets of a spirit, and you can even travel short distances to the territories of neighboring spirits by descending into deeper layers of the otherworld and then traveling back up.
 
 To use a ritual stunt, you need two things: the ritual itself and the right circumstance.
 
 
-- **The ritual** is some specific act or ceremony you undertake to invoke the otherworld. A ritual provides a standard set of steps, a succinct description, that bridges the gap between the normal everyday and the world of the spirits. The purpose of the ritual is not to be difficult, risky, or challenging, but to clearly demarcate the borderline, to call attention to the crossover into the mystical world. It’s not something you can do by accident or while doing something else. It’s something you have to do deliberately, with purpose, on its own.
-- **The circumstance** is some precondition to contacting the other otherworld. It provides a foundation for your ritual, setting the stage for the steps that follow. It should have thematic ties to the ritual it enables, and should be outside of normal experience. It should be the kind of thing you need to seek out, or to specifically set up or prepare for, rather than something that can just happen.
+- __The ritual__ is some specific act or ceremony you undertake to invoke the otherworld. A ritual provides a standard set of steps, a succinct description, that bridges the gap between the normal everyday and the world of the spirits. The purpose of the ritual is not to be difficult, risky, or challenging, but to clearly demarcate the borderline, to call attention to the crossover into the mystical world. It’s not something you can do by accident or while doing something else. It’s something you have to do deliberately, with purpose, on its own.
+- __The circumstance__ is some precondition to contacting the other otherworld. It provides a foundation for your ritual, setting the stage for the steps that follow. It should have thematic ties to the ritual it enables, and should be outside of normal experience. It should be the kind of thing you need to seek out, or to specifically set up or prepare for, rather than something that can just happen.
 
 Once you choose your ritual and circumstance, write down your ritual stunt like this:
 
-> Once per session, you can **[channel spirits from**or**project into]** the otherworld by **[description of ritual]** when **[description of circumstance]**.
+> Once per session, you can __[channel spirits from__or__project into]__ the otherworld by __[description of ritual]__ when __[description of circumstance]__.
 
 #### Example Rituals
 
-**Deep meditation.** Possibly the simplest ritual, and commonly used for both projection and channeling. It involves a long period of stillness and concentration, focusing on a single point. Incense, the recitation of mantras, or other olfactory or auditory aids may be incorporated.
+__Deep meditation.__ Possibly the simplest ritual, and commonly used for both projection and channeling. It involves a long period of stillness and concentration, focusing on a single point. Incense, the recitation of mantras, or other olfactory or auditory aids may be incorporated.
 
-**Dance.** Practically the opposite of meditation in every way, involving strenuous physical activity. It’s almost always accompanied by music, and might also require ceremonial costumes. Dance is more commonly used for projection than channeling, with the dancers journeying into the spirit world as they collapse at the conclusion of the dance.
+__Dance.__ Practically the opposite of meditation in every way, involving strenuous physical activity. It’s almost always accompanied by music, and might also require ceremonial costumes. Dance is more commonly used for projection than channeling, with the dancers journeying into the spirit world as they collapse at the conclusion of the dance.
 
-**Divination.** A form of channeling, unique in that it communicates with a spirit indirectly. Rather than allowing the spirit to speak, the divination channels the spirit’s responses into material objects or creatures: cards, bones or straw, the behavior of a holy animal or familiar. There’s a multitude of divination methods, and all can work for the right person in the right circumstances.
+__Divination.__ A form of channeling, unique in that it communicates with a spirit indirectly. Rather than allowing the spirit to speak, the divination channels the spirit’s responses into material objects or creatures: cards, bones or straw, the behavior of a holy animal or familiar. There’s a multitude of divination methods, and all can work for the right person in the right circumstances.
 
-**Offering.** Burning, dissolving, or leaving out some significant plant or animal remnant. For some mediums, the offerings they provide are always the same and substitutions don’t work for them at all, which can lead to trouble when a spirit finds that offering abhorrent. Other mediums must offer something that holds significance to the spirit they seek to contact or whose territory they’re in. Offering rituals provide the clearest indication of the power of the spirits, as the offering vanishes at the culmination of the ritual.
+__Offering.__ Burning, dissolving, or leaving out some significant plant or animal remnant. For some mediums, the offerings they provide are always the same and substitutions don’t work for them at all, which can lead to trouble when a spirit finds that offering abhorrent. Other mediums must offer something that holds significance to the spirit they seek to contact or whose territory they’re in. Offering rituals provide the clearest indication of the power of the spirits, as the offering vanishes at the culmination of the ritual.
 
 #### Example Conditions
 
-**Near deep water.** Given the conceptual ties between bodies of water and the otherworld, this is a common circumstance for rituals, especially projection rituals. This is often coupled with rituals that involve bathing in, wading into, or immersion in the water.
+__Near deep water.__ Given the conceptual ties between bodies of water and the otherworld, this is a common circumstance for rituals, especially projection rituals. This is often coupled with rituals that involve bathing in, wading into, or immersion in the water.
 
-**At noon.** Or dusk, or dawn, or midnight. Significant moments during the daily cycle represent moments of balance (for noon or midnight) or transition (for dusk or dawn), forming a firm foundation for ritual.
+__At noon.__ Or dusk, or dawn, or midnight. Significant moments during the daily cycle represent moments of balance (for noon or midnight) or transition (for dusk or dawn), forming a firm foundation for ritual.
 
-**Up high.** Or down low. Peaks, cliffs, caves, and pits all represent isolation from the everyday world—whether by lifting above all else or by surrounding with walls of stone—which cuts the practitioner off from the norm and opens the way to further ritual.
+__Up high.__ Or down low. Peaks, cliffs, caves, and pits all represent isolation from the everyday world—whether by lifting above all else or by surrounding with walls of stone—which cuts the practitioner off from the norm and opens the way to further ritual.
 
-**In a holy place.** This might seem self-explanatory, but isn’t always suitable for all mediums. Not only can such a place be tricky to find, but many mediums also report feeling like they generate “interference.” Those who _can_ use them effectively generally prefer the area around a spirit’s idol or a long-established temple, though the latter is extremely rare on a colony.
+__In a holy place.__ This might seem self-explanatory, but isn’t always suitable for all mediums. Not only can such a place be tricky to find, but many mediums also report feeling like they generate “interference.” Those who _can_ use them effectively generally prefer the area around a spirit’s idol or a long-established temple, though the latter is extremely rare on a colony.
 
 ### High Technology
 
@@ -95,10 +95,10 @@ Each character can have at most one stunt representing a piece of “space opera
 In the interest of maintaining tone and a sense of place, there are some limits on what high technology can do:
 
 
-- **No self-reproducing or self-repairing machines.** High technology is limited because it’s beyond the colonists’ ability to construct and difficult to maintain. Devices that can copy or maintain themselves would be essentially unlimited in their availability.
-- **No matter-energy converters or replicators.** The settlement effort is driven by the need to grow food, exploit resources, and establish an industrial base. Being able to create material or food out of thin air sabotages these drives.
-- **No modern communication.** Telecommunications infrastructure is slow, unreliable, and inconvenient. Most communities are dependent on a handful of overburdened satellites. Characters cannot have portable devices that permit real-time video or voice communication or remote information access from anywhere on the planet. Telecommunications devices must be local, stationary, or asynchronous—something that lets you leave a message rather than chatting, in essence.
-- **No teleportation.** Beaming people or objects around trivializes any kind of travel or logistical obstacle. It’s a little bit too clean, and undercuts the local concerns and scale of the game. Teleporters might be a thing elsewhere, or they might not. Either way, they’re not viable on a new colony world.
+- __No self-reproducing or self-repairing machines.__ High technology is limited because it’s beyond the colonists’ ability to construct and difficult to maintain. Devices that can copy or maintain themselves would be essentially unlimited in their availability.
+- __No matter-energy converters or replicators.__ The settlement effort is driven by the need to grow food, exploit resources, and establish an industrial base. Being able to create material or food out of thin air sabotages these drives.
+- __No modern communication.__ Telecommunications infrastructure is slow, unreliable, and inconvenient. Most communities are dependent on a handful of overburdened satellites. Characters cannot have portable devices that permit real-time video or voice communication or remote information access from anywhere on the planet. Telecommunications devices must be local, stationary, or asynchronous—something that lets you leave a message rather than chatting, in essence.
+- __No teleportation.__ Beaming people or objects around trivializes any kind of travel or logistical obstacle. It’s a little bit too clean, and undercuts the local concerns and scale of the game. Teleporters might be a thing elsewhere, or they might not. Either way, they’re not viable on a new colony world.
 
 Write a stunt describing how your high technology helps you exercise your skills. Often this gives you a rules exception or a new action for a skill, but it could be a bonus. Your technology isn’t a panacea, though—it can only be used in certain situations. 
 
@@ -106,15 +106,15 @@ Your gear has an aspect as well, which can be invoked or compelled based on its 
 
 #### Examples of High Technology Stunts 
 
-**Ray Gun:** Using your ray gun, you get +2 to Shoot attacks against targets at least one zone away.
+__Ray Gun:__ Using your ray gun, you get +2 to Shoot attacks against targets at least one zone away.
 
-**Sonic Excavator:** Using your sonic excavator, you can carve a path through inanimate material with Science.
+__Sonic Excavator:__ Using your sonic excavator, you can carve a path through inanimate material with Science.
 
-**Aircar:** Using your aircar, you can fly very quickly at tree-top height. You can transport up to four other people and a small amount of cargo, but can’t fly with anything really heavy.
+__Aircar:__ Using your aircar, you can fly very quickly at tree-top height. You can transport up to four other people and a small amount of cargo, but can’t fly with anything really heavy.
 
-**Autodoc:** When using your autodoc to treat wounds or disease with Science, once per session you can improve the outcome by one step: failure to tie, tie to success, or success to success with style. If you initially succeeded with style, you can create an aspect with one free invocation instead of gaining a boost.
+__Autodoc:__ When using your autodoc to treat wounds or disease with Science, once per session you can improve the outcome by one step: failure to tie, tie to success, or success to success with style. If you initially succeeded with style, you can create an aspect with one free invocation instead of gaining a boost.
 
-**Handheld Expert System:** Once per session, you can use your handheld expert system to automatically succeed on creating an advantage with Science against passive opposition equal to or less than your Science rank.
+__Handheld Expert System:__ Once per session, you can use your handheld expert system to automatically succeed on creating an advantage with Science against passive opposition equal to or less than your Science rank.
 
 ## Immanence
 
@@ -148,7 +148,7 @@ Start with your game’s issues—the problems that dog your world and character
 
 Imagine the location central to the adventure and those nearby. What were they like before people came here, and what are they like now? Pick out symbols, concepts, and trends that seem significant, and consider how your game’s issues might challenge them. Is the action of a current issue changing the concrete form of a symbol, or challenging it by bringing in contrary concepts? What about the activity that aims to bring about an impending issue, or that presages or foreshadows it? If you can see how an issue and a concept are opposed, add that as an aspect to the spirit’s portfolio. Otherwise, set it aside and move on.
 
-**You don’t need to tie a portfolio aspect to every issue, but try to wind up with about one portfolio aspect per issue.** Some issues might even challenge two or even three portfolio aspects. More than three is risky—at any given time, you’ll likely have two active campaign issues, between two and four location issues, and possibly one or two other issues floating around. Having multiple portfolio aspects that interact with different issues will create a situation that’s more challenging to mediate than a single portfolio aspect that’s impinged upon by a variety of issues.
+__You don’t need to tie a portfolio aspect to every issue, but try to wind up with about one portfolio aspect per issue.__ Some issues might even challenge two or even three portfolio aspects. More than three is risky—at any given time, you’ll likely have two active campaign issues, between two and four location issues, and possibly one or two other issues floating around. Having multiple portfolio aspects that interact with different issues will create a situation that’s more challenging to mediate than a single portfolio aspect that’s impinged upon by a variety of issues.
 
 Don’t throw away the portfolio aspects you set aside. Pick a few of them—about as many as those you’ve already picked—and make them part of the spirit’s portfolio too. Those with some superficial similarity to aspects linked to an issue give you opportunities to complicate your mediums’ failures with confusion and misunderstanding. Others provide additional detail, or offer hooks that your mediums can use to persuade or reign in a spirit.
 
@@ -157,9 +157,9 @@ Don’t throw away the portfolio aspects you set aside. Pick a few of them—abo
 A spirit’s facets are, for the most part, built as any other NPC. Choose whether they are a nameless, supporting, or main NPC, allocate their skills, and create any appropriate stunts.
 
 
-- **Nameless facets** are the least parts of a spirit’s being, those closest to the mundane world. They’re extremely likely to appear during any kind of immanent episode. As each facet is so weak, it represents a focused, specific slice of the spirit’s being. These facets are typically servants and workers for more potent facets, stamped-out copies with very little to distinguish them. They can only make small changes to the material world but can do so very easily, so they spend most of their time making tweaks throughout a spirit’s domain.
-- **Supporting facets** are comparable to ordinary people, with complex, individual personalities, quirks, and breadth of ability. It takes a more significant episode of immanence to admit them to the material world, but their impact is commensurately greater. Being more complicated, a supporting facet partakes of more of its parent’s nature, potentially creating a strong drive or internal conflict. Some appear as otherworldly versions of ordinary people or animals, while others have entirely unfamiliar forms. Fairies, imps, and other mythical mischief-makers are common forms, with personalities to match.
-- **Main facets** are the deepest form of spirit that mediums are capable of interacting with. They rarely appear during episodes of immanence—they must be deliberately sought out. They inherit a wide swath of a spirit’s being, and consequently wield a great deal of power. Their forms are fantastic—giant animals, animate landscapes, and mythological beings.
+- __Nameless facets__ are the least parts of a spirit’s being, those closest to the mundane world. They’re extremely likely to appear during any kind of immanent episode. As each facet is so weak, it represents a focused, specific slice of the spirit’s being. These facets are typically servants and workers for more potent facets, stamped-out copies with very little to distinguish them. They can only make small changes to the material world but can do so very easily, so they spend most of their time making tweaks throughout a spirit’s domain.
+- __Supporting facets__ are comparable to ordinary people, with complex, individual personalities, quirks, and breadth of ability. It takes a more significant episode of immanence to admit them to the material world, but their impact is commensurately greater. Being more complicated, a supporting facet partakes of more of its parent’s nature, potentially creating a strong drive or internal conflict. Some appear as otherworldly versions of ordinary people or animals, while others have entirely unfamiliar forms. Fairies, imps, and other mythical mischief-makers are common forms, with personalities to match.
+- __Main facets__ are the deepest form of spirit that mediums are capable of interacting with. They rarely appear during episodes of immanence—they must be deliberately sought out. They inherit a wide swath of a spirit’s being, and consequently wield a great deal of power. Their forms are fantastic—giant animals, animate landscapes, and mythological beings.
 
 #### Facet Aspects
 
@@ -186,9 +186,9 @@ Taking out a recalcitrant facet might seem like a potent mediation technique, an
 Just as people can’t normally access the otherworld, spirits and their facets can’t normally access the material world. Some facets can only take advantage of moments of immanence to affect the material world, and must wait for these moments—or encourage other, more capable spirit-facets to create them. Other facets are able to use a _manifestation stunt_ to work around their normal limits and affect the real world and people in it. Think of manifestation stunts like ritual stunts in reverse: given some circumstance, a spirit-facet can affect something in the material world. Here are some examples.
 
 
-- **Dream Invasion:** The facet can intrude on the dreams of anyone who’s been in the vicinity of things that represent all its portfolio aspects during the past day. While there, it can interact socially with the target, creating advantages or even engaging in social conflict. The target is not automatically aware of the invasion, though they might be able to discover it through an overcome action with Notice or Empathy, or even through a careless comment by the invader. If the subject becomes aware, they can end the invasion by winning a contest of Will opposed by Will.
-- **Poltergeist:** The facet can interact with material objects using Physique during a scene where each of the facet’s portfolio aspects is embodied by an aspect on anything in the scene. It can attack or create advantages, but cannot be attacked. This costs one fate point per exchange, and the manifestation ends if any of the requisite aspects are removed.
-- **Chain of Coincidence:** The facet can affect the material world by causing twists of fate or chance. If its portfolio aspects are well represented, the coincidences are generally positive or helpful. If representations of its portfolio aspects are missing or have been turned against its aspects, the coincidences are negative or harmful. Over the course of a few hours, these coincidences can build up to a significant effect, allowing the facet to create an advantage or effect change by overcoming an obstacle. Roll Rapport for positive changes and Provoke for negative. Actively opposing Chain of Coincidence requires several hours of work to combat a seemingly endless tide of happenstance.
+- __Dream Invasion:__ The facet can intrude on the dreams of anyone who’s been in the vicinity of things that represent all its portfolio aspects during the past day. While there, it can interact socially with the target, creating advantages or even engaging in social conflict. The target is not automatically aware of the invasion, though they might be able to discover it through an overcome action with Notice or Empathy, or even through a careless comment by the invader. If the subject becomes aware, they can end the invasion by winning a contest of Will opposed by Will.
+- __Poltergeist:__ The facet can interact with material objects using Physique during a scene where each of the facet’s portfolio aspects is embodied by an aspect on anything in the scene. It can attack or create advantages, but cannot be attacked. This costs one fate point per exchange, and the manifestation ends if any of the requisite aspects are removed.
+- __Chain of Coincidence:__ The facet can affect the material world by causing twists of fate or chance. If its portfolio aspects are well represented, the coincidences are generally positive or helpful. If representations of its portfolio aspects are missing or have been turned against its aspects, the coincidences are negative or harmful. Over the course of a few hours, these coincidences can build up to a significant effect, allowing the facet to create an advantage or effect change by overcoming an obstacle. Roll Rapport for positive changes and Provoke for negative. Actively opposing Chain of Coincidence requires several hours of work to combat a seemingly endless tide of happenstance.
 
 > A domestic spirit-facet is upset that the burrows and nests of local wildlife have been disturbed for a commercial development. The spirit goes to work, and the building’s plumbing just happens to spring leaks near areas opportune for mold colonization, the spores just happen to get picked up by the HVAC, and soon the building gains the Sick Building aspect, sending a handful of workers home, having come down with respiratory diseases. Now the facet turns its attention to the perplexed maintenance workers. Hopefully the mediums they’ve called in are able to help them sort things out…
 
