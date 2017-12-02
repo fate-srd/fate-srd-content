@@ -5,7 +5,7 @@
 # Types of Adversaries
 
 
-As we talk about adversaries in this book, keep in mind the Fate Fractal: everything is a character (<em>Fate Core</em>, page 270). An adversary is not necessarily a person, monster, or other kind of creature you can punch.
+As we talk about adversaries in this book, keep in mind the Fate Fractal: everything is a character (_Fate Core_, page 270). An adversary is not necessarily a person, monster, or other kind of creature you can punch.
 Rather, it’s a thing that exists to hinder, challenge, or oppose the players.
 
 There are three main types of adversaries: enemies, obstacles, and constraints.
@@ -17,13 +17,13 @@ the PCs do: they have skills, they have at least one aspect, and the more import
 
 There are four types of enemies: threats, hitters, bosses, and fillers.
 
-- <em>Threats</em> exist to soak up hits. They look big and dangerous, they get in the PCs’ faces, and they absorb both stress and attention. Threats have large stress tracks, and can usually absorb at least a mild consequence. Their
+- _Threats_ exist to soak up hits. They look big and dangerous, they get in the PCs’ faces, and they absorb both stress and attention. Threats have large stress tracks, and can usually absorb at least a mild consequence. Their
 skills tend to be defensive, and their stunts usually let them grab the PCs’ attention and hold it.
-- <em>Hitters</em> deal damage. They can’t take much punishment, but they hit really hard. Their peak skill is usually Fight, Shoot, or a setting-specific equivalent. Their stress tracks are small, and they can rarely absorb consequences.
+- _Hitters_ deal damage. They can’t take much punishment, but they hit really hard. Their peak skill is usually Fight, Shoot, or a setting-specific equivalent. Their stress tracks are small, and they can rarely absorb consequences.
 Their stunts focus on hurting the PCs.
-- <em>Bosses</em> are the lynchpins of an organization. You’ll typically include one or two at most in a conflict, and they’re often powerful. They have multiple high skills, can always absorb at least a mild consequence, and always
+- _Bosses_ are the lynchpins of an organization. You’ll typically include one or two at most in a conflict, and they’re often powerful. They have multiple high skills, can always absorb at least a mild consequence, and always
 have stunts. Their stunts’ uses depend on their purpose in the fight. Some might be built to deal damage, others to avoid attention.
-- <em>Fillers</em> are everyone else. These are paper people, enemies who exist as color, fragile minions who let the PCs look cool while taking them down. They never have consequences and rarely have a stress track with more than
+- _Fillers_ are everyone else. These are paper people, enemies who exist as color, fragile minions who let the PCs look cool while taking them down. They never have consequences and rarely have a stress track with more than
 two boxes. They can act and be taken down as groups, don’t have stunts, and typically are good at only one thing.
 
 
@@ -34,10 +34,10 @@ they have to be endured or avoided.
 
 There are three types of enemies: hazards, blocks, and distractions.
 
-- <em>Hazards</em> hurt the players or threaten to do so—fire jets, spinning fan blades, or bombs that might explode at any second. A hazard has a skill and an aspect that define its purpose.
-- <em>Blocks</em> get in the PCs’ way. They can do damage, but mostly they deny access. A steel door with a complex keypad, a sophisticated AI counter-hacking measure, a magical force field: all of these are blocks. A block has a
+- _Hazards_ hurt the players or threaten to do so—fire jets, spinning fan blades, or bombs that might explode at any second. A hazard has a skill and an aspect that define its purpose.
+- _Blocks_ get in the PCs’ way. They can do damage, but mostly they deny access. A steel door with a complex keypad, a sophisticated AI counter-hacking measure, a magical force field: all of these are blocks. A block has a
 skill and an aspect that define its purpose.
-- <em>Distractions</em> exist to make the PCs think about what they need to accomplish in a scene. Distractions give them a difficult choice: the villain is getting away, but there’s a bus full of innocent civilians about to go off
+- _Distractions_ exist to make the PCs think about what they need to accomplish in a scene. Distractions give them a difficult choice: the villain is getting away, but there’s a bus full of innocent civilians about to go off
 the cliff! Distractions don’t always have stats. When they do, it’s typically just an aspect and passive opposition to roll against. Distractions are more about narrative challenge than mechanical challenge.
 
 
@@ -47,15 +47,15 @@ While enemies and obstacles are distinct types of adversaries, constraints are m
 
 There are three types of constraints: countdowns, limitations, and resistances.
 
-- <em>Countdowns</em> create urgency. The bomb will blow in thirty seconds! The stagecoach will go off the cliff in two exchanges! The ritual will finish in one hour! You decide what unit of time you’ll use to create that urgency,
+- _Countdowns_ create urgency. The bomb will blow in thirty seconds! The stagecoach will go off the cliff in two exchanges! The ritual will finish in one hour! You decide what unit of time you’ll use to create that urgency,
 but countdowns typically work in days, hours, minutes, or exchanges. The important thing is that there must be a consequence for the clock striking zero. It could be the arrival of more enemies or obstacles, someone’s death or transformation,
 or some sort of dramatic change to the status quo, making a new aspect.
-- <em>Limitations</em> prevent the PCs from taking certain actions. It’s not an out-and-out restriction, though; a PC should always be free to take the limited action if she wants to deal with the consequences of doing so. Maybe the
+- _Limitations_ prevent the PCs from taking certain actions. It’s not an out-and-out restriction, though; a PC should always be free to take the limited action if she wants to deal with the consequences of doing so. Maybe the
 PCs are fighting in a nuclear reactor, and firing off gunshots could be disastrous. Maybe the monster is actually a PC’s brother, transformed. Maybe the villain has a dead-man switch. Again, it’s all about consequence: if you engage in this action,
 this will happen.
-- <em>Resistances</em> make other adversaries hard to handle in a particular way. The dragon’s scales are impervious to mortal weaponry. The mob boss is protected by dirty cops. The bomb is so complex that disarming it using conventional
+- _Resistances_ make other adversaries hard to handle in a particular way. The dragon’s scales are impervious to mortal weaponry. The mob boss is protected by dirty cops. The bomb is so complex that disarming it using conventional
 means will almost certainly detonate it. Resistances force the PCs to vary their tactics, to come up with a Plan B. A really good resistance fuels the bulk of the session: because the dragon’s scales are immune to mortal weaponry, we must go on
-a quest to find the one sword that <em>will</em> hurt it.
+a quest to find the one sword that _will_ hurt it.
 
 
 
@@ -66,13 +66,13 @@ Building adversaries is a lot like building anything else in Fate. All of the ad
 others just have one or two. Most fall somewhere in between.
 
 When you’re creating adversaries and you’re faced with the choice of using rules in this book or another Fate book, use whichever feels better. Use whichever does the job the way you want it done. There’s no need to stick with a choice, either. You
-might be playing <em>Shadow of the Century</em> and decide that throwing in some mooks and a lieutenant from that book is appropriate for one fight, while in the next you’ll use some threats, hitters, and a boss from this
+might be playing _Shadow of the Century_ and decide that throwing in some mooks and a lieutenant from that book is appropriate for one fight, while in the next you’ll use some threats, hitters, and a boss from this
 book. That’s fine. Heck, throw them into the same fight if you want to!
 
-The bottom line is that everything in this book is Fate, and you can use it with—or instead of—other Fate books with little to no tweaking. If you’re playing something like <em>Fate Accelerated</em> or <em>The Dystopian Universe RPG</em>,
+The bottom line is that everything in this book is Fate, and you can use it with—or instead of—other Fate books with little to no tweaking. If you’re playing something like _Fate Accelerated_ or _The Dystopian Universe RPG_,
 you might want to swap out skills for approaches or means, but that’s easy enough and everything else should work just fine.
 
-You can also combine the advice in this chapter with the rules in other Fate books. If you want to run a straight-up <em>Atomic Robo RPG</em> or <em>Dresden Files Accelerated Edition</em> game without
+You can also combine the advice in this chapter with the rules in other Fate books. If you want to run a straight-up _Atomic Robo RPG_ or _Dresden Files Accelerated Edition_ game without
 any of the rules presented here, you can still use the advice in this book to help you use those rules more effectively.
 
 Have fun.
@@ -81,7 +81,7 @@ Have fun.
 
 Enemies have one thing in common: you can punch them. Or more accurately, you can defeat them by attacking them. All enemies have aspects, skills, and stress tracks. Some have stunts, and some have consequences.
 
-Enemies are the most familiar type of adversary because they are the most similar to player characters. The NPCs opposing the PCs are typically enemies, but enemies don’t <em>have</em> to be people (or robots, or gorillas, or
+Enemies are the most familiar type of adversary because they are the most similar to player characters. The NPCs opposing the PCs are typically enemies, but enemies don’t _have_ to be people (or robots, or gorillas, or
 whatever). It might be an idol in a magic circle that pulses with malevolent energy—as long as you can defeat it by dealing it stress, it’s an enemy. A fire raging out of control could be an enemy; it’ll attack nearby PCs and take stress whenever
 they hose it down or combat it with other firefighting techniques.
 
@@ -155,7 +155,7 @@ PCs tossed out of the palace. Threats get in the way of the PCs’ plans; they e
 ### Hitters
 
 
-Hitters are often easily overlooked, but they’re able to strike with devastating effect. They don’t necessarily hit hard <em>every</em> time, but under optimal circumstances, they can really make the PCs hurt.
+Hitters are often easily overlooked, but they’re able to strike with devastating effect. They don’t necessarily hit hard _every_ time, but under optimal circumstances, they can really make the PCs hurt.
 
 That said, hitters can dish it out but typically can’t take it. Often, the PCs won’t know that a hitter is a threat until it’s done some damage, but once the PCs know about it, they should be able to take it down fairly quickly. Hitters are glass
 cannons.
@@ -171,7 +171,7 @@ Set the hitter’s apex skill to one step above the PCs’ highest-rated skill o
 further, give her three more skills rated one step below that.
 
 Prioritize skills that deal stress to the PCs. For physical hitters, Fight or Shoot are the most important. Other skills should focus on mobility or keeping attention elsewhere; Sneak, Deceive, and Athletics are all good choices. For social hitters,
-Provoke, Deceive, and Rapport could all be used to good effect. Other important skills are Empathy, Notice, and Contacts. Don’t give hitters skills like Physique or Will. If an enemy is both tough <em>and</em> hits really hard,
+Provoke, Deceive, and Rapport could all be used to good effect. Other important skills are Empathy, Notice, and Contacts. Don’t give hitters skills like Physique or Will. If an enemy is both tough _and_ hits really hard,
 it’s a boss, not a hitter.
 
 #### Stunts
@@ -192,7 +192,7 @@ Most hitters will have the bare minimum stress track. If you want a hitter to be
 
 #### Using Hitters
 
-Where threats are all about relentless assault, using a hitter effectively is a game of patience and opportunity. At first, the PCs might not even clearly see there <em>is</em> a hitter in the scene. Keep your hitter unseen or
+Where threats are all about relentless assault, using a hitter effectively is a game of patience and opportunity. At first, the PCs might not even clearly see there _is_ a hitter in the scene. Keep your hitter unseen or
 unnoticed, maneuver her into position, and then strike without remorse. Don’t be afraid to spend a fate point or two to make a hitter’s attack count; she may not get a second chance. Once the PCs start focusing on your hitter, don’t spend a lot
 of resources trying to protect her. Let the PCs feel awesome. Hitters are meant to be fragile, and protecting them generally isn’t worth it, especially once they’ve pulled their trick off.
 
@@ -209,15 +209,15 @@ adventure, the antagonists that hound the PCs at every turn.
 
 #### Aspects
 
-Bosses have a full spread of five aspects. Give your boss a high concept that drives home what she’s all about. Is she the <em class="aspect">Corrupt Police Captain</em>? The <em class="aspect">Necromancer General</em>? Your boss’s trouble
+Bosses have a full spread of five aspects. Give your boss a high concept that drives home what she’s all about. Is she the <em class="aspect">Corrupt Police Captain_? The <em class="aspect">Necromancer General_? Your boss’s trouble
 should be a closely guarded secret that the PCs can exploit if they find out about it.
 
-For the other three aspects, come up with some unique shticks that your boss relies on, things that’ll make her memorable. Maybe the corrupt police captain is an <em class="aspect">Expert Martial Artist</em>, or maybe the necromancer general carries
-the <em class="aspect">All-Seeing </em><em class="aspect">Staff</em>.
+For the other three aspects, come up with some unique shticks that your boss relies on, things that’ll make her memorable. Maybe the corrupt police captain is an <em class="aspect">Expert Martial Artist_, or maybe the necromancer general carries
+the <em class="aspect">All-Seeing _<em class="aspect">Staff_.
 
 #### Skills
 
-A good boss has highly rated skills, and lots of them. Bosses are far more versatile than either hitters or threats and, unlike those two types of enemies, it’s entirely within your purview to make a boss who’s both good at dealing damage <em>and</em>good at taking it.
+A good boss has highly rated skills, and lots of them. Bosses are far more versatile than either hitters or threats and, unlike those two types of enemies, it’s entirely within your purview to make a boss who’s both good at dealing damage _and_good at taking it.
 
 First, look at the highest-rated PC skill. Either give your boss one skill rated at two steps higher, or two skills rated at one step higher. If your boss has one apex skill, give her two skills rated at one step lower, then three rated at one step
 below that, and so on until you’ve filled out every step of the ladder down to Fair (+2). If the boss has two apex skills, give her three rated at one step below, then four, and so on down until Fair (+2). All of her other skills are Average
@@ -248,9 +248,9 @@ Bosses have stress tracks of varying lengths based on their skills, but all boss
 
 #### Using Bosses
 
-All bosses are memorable, with personalities and goals of their own. To that end, taking a boss down should always be a big deal, and probably shouldn’t happen every session. You can let the PCs <em>fight</em> a boss frequently,
+All bosses are memorable, with personalities and goals of their own. To that end, taking a boss down should always be a big deal, and probably shouldn’t happen every session. You can let the PCs _fight_ a boss frequently,
 but be careful with your bosses—don’t be afraid to concede. They’re not as disposable as other kinds of enemies are, so it’s a viable tactic to concede, so the boss can threaten the PCs later. But don’t rob the PCs of their victory, either. When
-the PCs <em>do</em> defeat a boss, make it a big deal, and reward them accordingly.
+the PCs _do_ defeat a boss, make it a big deal, and reward them accordingly.
 
 Most fights with a boss contain only one, though you could have two or even three in a really climactic encounter. That should be the exception rather than the rule, though, and it’s often useful to call out which boss is a bigger deal than the others.
 In an encounter, use your boss’s personality to inform how she behaves. An aggressive, combative boss will get right up in the PCs’ faces, while a cautious, politically oriented boss will hide behind minions.
@@ -264,7 +264,7 @@ take down hordes of bad guys.
 
 #### Aspects
 
-Give your filler enemy a name that encapsulates its function in the scene, like <em class="aspect">Mob Enforcer</em>, <em class="aspect">Crazed Velociraptor</em>, or <em class="aspect">Flamethrower Turret</em>. A filler’s name is
+Give your filler enemy a name that encapsulates its function in the scene, like <em class="aspect">Mob Enforcer_, <em class="aspect">Crazed Velociraptor_, or <em class="aspect">Flamethrower Turret_. A filler’s name is
 an aspect, and its only aspect.
 
 #### Skills
@@ -276,12 +276,12 @@ First, decide on your filler’s quality: Average, Fair, or Good:
 - A Good filler has one Good (+3) skill and one Average (+1) skill.
 
 
-You can use skills from <em>Fate Core</em> or whatever Fate game you’re playing, or you can make up brand-new skills specific to your fillers. Those mob enforcers might have Fair (+2) Tommy Guns, while the crazed velociraptors
+You can use skills from _Fate Core_ or whatever Fate game you’re playing, or you can make up brand-new skills specific to your fillers. Those mob enforcers might have Fair (+2) Tommy Guns, while the crazed velociraptors
 might have Good (+3) Claws &amp; Fangs and Average (+1) Dodge. If a filler enemy ever does something that isn’t covered by its skills, it rolls at Mediocre (+0) or it automatically fails (if that would be simpler).
 
 #### Stunts
 
-Fillers don’t get stunts. They exist to be simple, and stunts make them more complex than they need to be. You can, at your option, make them <em>dangerous fillers</em>, giving them Weapon:1.
+Fillers don’t get stunts. They exist to be simple, and stunts make them more complex than they need to be. You can, at your option, make them _dangerous fillers_, giving them Weapon:1.
 
 #### Stress and Consequences
 
@@ -322,7 +322,7 @@ must be circumvented, endured, or rendered irrelevant.
 While most obstacles are features of the environment, some might be characters that can’t be taken out using conventional methods. The dragon might be a boss, but it might just as easily be a hazard obstacle. The animate statue keeping you from getting
 to the evil wizard might be a threat, but it could also be a block or a distraction. It all depends on the adversary’s function in the scene, and how PCs must deal with it.
 
-In general, obstacles don’t appear in every scene. They serve to accent enemies in the scene, to make them more threatening or memorable, but overuse of obstacles can be frustrating to the PCs, particularly those focused on combat. You <em>can</em>use them to give less combative PCs something to do during a fight, though.
+In general, obstacles don’t appear in every scene. They serve to accent enemies in the scene, to make them more threatening or memorable, but overuse of obstacles can be frustrating to the PCs, particularly those focused on combat. You _can_use them to give less combative PCs something to do during a fight, though.
 
 There are three types of obstacles: hazards (
 
@@ -338,11 +338,11 @@ skill rating should be at least as high as the PCs’ highest skill rating, if n
 
 Here are some examples:
 
-> Great (+4) <em class="aspect">Machine-Gun Turret</em>, Weapon:3
+> Great (+4) <em class="aspect">Machine-Gun Turret_, Weapon:3
 
-Fantastic (+6) <em class="aspect">Whirling Spike Apparatus</em>, Weapon:2
+Fantastic (+6) <em class="aspect">Whirling Spike Apparatus_, Weapon:2
 
-Superb (+5) <em class="aspect">Distant Sniper</em>, Weapon:4
+Superb (+5) <em class="aspect">Distant Sniper_, Weapon:4
 
 A hazard acts in the initiative just like the PCs and their enemies do. If your rules require everyone to roll for initiative, hazards will roll with their rating.
 
@@ -352,12 +352,12 @@ acles.
 
 If a player wants to overcome or create an advantage against a hazard, they’ll face passive opposition equal to the hazard’s rating.
 
-> Joan is near the window, and there’s a <em class="aspect">Distant Sniper</em> out there, a hazard with a Superb (+5) rating and Weapon:4. At the beginning of the conflict, the sniper used its Superb (+5) rating to determine its initiative. Now
+> Joan is near the window, and there’s a <em class="aspect">Distant Sniper_ out there, a hazard with a Superb (+5) rating and Weapon:4. At the beginning of the conflict, the sniper used its Superb (+5) rating to determine its initiative. Now
 that it has a chance to act, it attacks Joan, rolling an Epic (+6) result! That’s a tough attack to defend against, and if Joan can’t, the sniper’s Weapon:4 will deal a lot of stress to her.
 
 #### Which Weapon Rating?
 
-Which Weapon rating you choose depends on how lethal you want to make your hazard. A hazard with a very high skill rating <em>and</em> a very high Weapon rating will likely take out a PC or two. You could also make a hazard with
+Which Weapon rating you choose depends on how lethal you want to make your hazard. A hazard with a very high skill rating _and_ a very high Weapon rating will likely take out a PC or two. You could also make a hazard with
 a lower skill rating but a high Weapon rating, making for something that doesn’t hit often but hits hard when it does. Reversing that makes for a hazard that hits frequently but doesn’t do much damage—more of a nuisance than a hazard, but that might
 be what you want.
 
@@ -366,49 +366,49 @@ be what you want.
 Hazards, like enemies, can attack the PCs, and they’re very simple to run, so you might be tempted to use them often. This isn’t necessarily a bad instinct, but keep this in mind: hazards can’t be attacked or taken out like enemies can. This might
 mean that the hazard stays in play for the entire scene, continually causing the PCs stress that they can’t mitigate effectively. There are a few ways you can offset this, should you wish to.
 
-First, you could make a hazard situational. The <em class="aspect">Machine-Gun Turret</em> will attack, but only when the PCs are in the hallway. The <em class="aspect">Lone Sniper</em> will try to pick people
-off, but there’s a lot of cover that can confound her sight lines. Giving the PCs actions they can take to avoid being attacked by hazards can make for interesting, complex tactical scenes, particularly when the PCs must <em>leave</em>their safe spots in order to accomplish their goals. Difficult decisions can be a lot of fun.
+First, you could make a hazard situational. The <em class="aspect">Machine-Gun Turret_ will attack, but only when the PCs are in the hallway. The <em class="aspect">Lone Sniper_ will try to pick people
+off, but there’s a lot of cover that can confound her sight lines. Giving the PCs actions they can take to avoid being attacked by hazards can make for interesting, complex tactical scenes, particularly when the PCs must _leave_their safe spots in order to accomplish their goals. Difficult decisions can be a lot of fun.
 
-Second, you could let the PCs overcome a hazard. Maybe they can shut off the <em class="aspect">Machine-Gun Turret</em> by getting to the control panel. Perhaps that <em class="aspect">Whirling Spike Apparatus</em>will stop whirling if they jam a giant piece of metal in it. To disable a hazard, you must first take a risk, putting yourself (or someone else) in some kind of danger, and then roll an overcome action against passive opposition equal to the hazard’s
+Second, you could let the PCs overcome a hazard. Maybe they can shut off the <em class="aspect">Machine-Gun Turret_ by getting to the control panel. Perhaps that <em class="aspect">Whirling Spike Apparatus_will stop whirling if they jam a giant piece of metal in it. To disable a hazard, you must first take a risk, putting yourself (or someone else) in some kind of danger, and then roll an overcome action against passive opposition equal to the hazard’s
 rating. So, you have to run down the hallway guarded by the machine guns in order to get to the control panel you can use to shut them off, or you have to get dangerously close to the whirling spikes in order to jam the hunk of metal into the apparatus.
 
 Third, you could let the PCs turn a hazard into an enemy under the right circumstances. This requires a risk, and often requires time or an overcome roll. Maybe the PCs just really
-want to blow up that <em class="aspect">Machine-Gun Turret</em>, but the turret is behind a metal shield. Hacking a console to disable the shield—a console that’s in the hallway it’s firing on—could transform the machine gun from hazard into
-threat, letting the PCs attack it. If a PC is willing to run right at that <em class="aspect">Distant Sniper</em>, spending an exchange and drawing her fire, he could actually attack her in single combat, as a hitter rather than a hazard. This
+want to blow up that <em class="aspect">Machine-Gun Turret_, but the turret is behind a metal shield. Hacking a console to disable the shield—a console that’s in the hallway it’s firing on—could transform the machine gun from hazard into
+threat, letting the PCs attack it. If a PC is willing to run right at that <em class="aspect">Distant Sniper_, spending an exchange and drawing her fire, he could actually attack her in single combat, as a hitter rather than a hazard. This
 is similar to simply disabling a hazard, but requires the PCs to take an extra step. It can be more exciting, but it takes more time and effort on the PCs’ part.
 
 
 ### Blocks
 
 
-Where hazards exist to hurt the PCs, blocks prevent them from doing things they want to do. Blocks <em>can</em> cause stress, though they don’t always. The chief difference between blocks and hazards is that blocks don’t take
+Where hazards exist to hurt the PCs, blocks prevent them from doing things they want to do. Blocks _can_ cause stress, though they don’t always. The chief difference between blocks and hazards is that blocks don’t take
 actions, while hazards do. Blocks provide passive opposition in certain circumstances, and can threaten or cause harm if not heeded.
 
 Like hazards, blocks have a name and a skill rating, and the name is both a skill and an aspect. Unlike hazards, a block’s skill rating shouldn’t be much higher than one step above the PCs’ highest skill rating; otherwise, things can get frustrating
 quickly. A block can have a Weapon rating as high as 4, but it doesn’t need to have one. Here are some examples:
 
-> Fair (+2) <em class="aspect">Chain Link</em><em class="aspect"> Fence</em>
+> Fair (+2) <em class="aspect">Chain Link_<em class="aspect"> Fence_
 
 
-Good (+3) <em class="aspect">Vat of Acid</em>, Weapon:4
+Good (+3) <em class="aspect">Vat of Acid_, Weapon:4
 
-Great (+4) <em class="aspect">Animate Statue</em>, Weapon:1
+Great (+4) <em class="aspect">Animate Statue_, Weapon:1
 
-Blocks only come into play under specific circumstances. A <em class="aspect">Vat of Acid</em> only matters when someone tries to cross it or gets thrown into it. A <em class="aspect">Chain Link Fence</em> only affects someone who tries to
-get past it. The <em class="aspect">Animate Statue</em> only prevents entry into a specific room.
+Blocks only come into play under specific circumstances. A <em class="aspect">Vat of Acid_ only matters when someone tries to cross it or gets thrown into it. A <em class="aspect">Chain Link Fence_ only affects someone who tries to
+get past it. The <em class="aspect">Animate Statue_ only prevents entry into a specific room.
 
 Blocks don’t attack and don’t have a turn in the initiative order. Instead, whenever a block would interfere with someone’s action, they’ll have to roll against the block’s rating as passive opposition. If the block can’t cause harm, like if it’s
-a <em class="aspect">Chain Link Fence</em>, it simply prevents the PC from taking the action they wanted to. If it can cause harm—like if it’s a <em class="aspect">Vat of Acid</em>—and the PC fails to overcome the block, the PC takes a hit
+a <em class="aspect">Chain Link Fence_, it simply prevents the PC from taking the action they wanted to. If it can cause harm—like if it’s a <em class="aspect">Vat of Acid_—and the PC fails to overcome the block, the PC takes a hit
 as if the block attacked the PC, and the PC failed to defend by the same margin by which it failed to overcome the block.
 
-Also, characters can try to force someone into a block as an attack. If you do this, you’ll roll to attack as normal, but add a Weapon rating equal to half the block’s Weapon rating (rounded down, minimum 1). So, anyone trying to cross the <em class="aspect">Vat of Acid</em>would need to beat Good (+3) opposition. If someone tried to force you into the acid, they’d attack you with Physique and, if they succeeded, add Weapon:2.
+Also, characters can try to force someone into a block as an attack. If you do this, you’ll roll to attack as normal, but add a Weapon rating equal to half the block’s Weapon rating (rounded down, minimum 1). So, anyone trying to cross the <em class="aspect">Vat of Acid_would need to beat Good (+3) opposition. If someone tried to force you into the acid, they’d attack you with Physique and, if they succeeded, add Weapon:2.
 
-Finally, some blocks can be used as cover or as armor. This is situational—for some blocks, it simply won’t make sense. You can’t hide behind a <em class="aspect">Vat of Acid</em>, and a <em class="aspect">Chain Link Fence</em> won’t stop
-a bullet. But that <em class="aspect">Chain Link Fence</em> <em>is</em> effective protection against a baseball bat, probably preventing the attack altogether. And if the evil wizard is hiding behind the <em class="aspect">Animate Statue</em>,
+Finally, some blocks can be used as cover or as armor. This is situational—for some blocks, it simply won’t make sense. You can’t hide behind a <em class="aspect">Vat of Acid_, and a <em class="aspect">Chain Link Fence_ won’t stop
+a bullet. But that <em class="aspect">Chain Link Fence_ _is_ effective protection against a baseball bat, probably preventing the attack altogether. And if the evil wizard is hiding behind the <em class="aspect">Animate Statue_,
 it might soak up some damage.
 
 When someone’s using a block as cover, decide whether it mitigates or negates the attack. If it negates it, the attack simply isn’t possible. If it mitigates it, the defender gets an Armor rating equal to half the block’s skill rating (rounded down,
-minimum 1). So, if the evil wizard used the <em class="aspect">Animate Statue</em> as cover, he’d get Armor:2.
+minimum 1). So, if the evil wizard used the <em class="aspect">Animate Statue_ as cover, he’d get Armor:2.
 
 #### Using Blocks
 
@@ -419,11 +419,11 @@ them the option to disable it somehow.
 
 To disable a block, removing it from the scene, you must take a risk, putting yourself (or someone else) in danger, and make an overcome roll. The overcome roll is against passive opposition rated two steps higher than the block’s rating.
 
-> Hailey wants to remove the threat of falling into the Good (+3) <em class="aspect">Vat of Acid</em>, so she decides to try to drop the vat’s lid down on it.
+> Hailey wants to remove the threat of falling into the Good (+3) <em class="aspect">Vat of Acid_, so she decides to try to drop the vat’s lid down on it.
 
 > “You’re going to have scramble over the vat to get to the lid,” says the GM. “Give me a Superb (+5) Athletics roll. If you fail, you’re going to fall in.”
 
-> Josh is facing down a Great (+4) <em class="aspect">Animate Statue</em>, an enemy he can’t seem to damage but that has no problem attacking him. He needs to get rid of it. He knows that etching a rune in the statue’s forehead might disable it,
+> Josh is facing down a Great (+4) <em class="aspect">Animate Statue_, an enemy he can’t seem to damage but that has no problem attacking him. He needs to get rid of it. He knows that etching a rune in the statue’s forehead might disable it,
 but to do that he needs to get pretty close.
 
 > “Okay,” says the GM. “Give me a Fantastic (+6) Fight roll to get close enough to etch the rune without getting clobbered.”
@@ -437,21 +437,21 @@ make the scene mechanically harder. Rather, they present the PCs with difficult 
 
 Here are the distraction’s parts:
 
-- A distraction’s <em>name</em> is a brief, punchy representation of what it is. It can be an aspect, if you need or want it to be.
-- A distraction’s <em>choice</em> is a simple question that codifies the decision it gives to the PCs.
-- A distraction’s <em>repercussion</em> is what happens to the PCs if they don’t deal with the distraction. Some distractions might have multiple repercussions.
-- A distraction’s <em>opposition</em> is its passive opposition against PCs rolling to deal with it. Not every distraction needs to provide opposition.
+- A distraction’s _name_ is a brief, punchy representation of what it is. It can be an aspect, if you need or want it to be.
+- A distraction’s _choice_ is a simple question that codifies the decision it gives to the PCs.
+- A distraction’s _repercussion_ is what happens to the PCs if they don’t deal with the distraction. Some distractions might have multiple repercussions.
+- A distraction’s _opposition_ is its passive opposition against PCs rolling to deal with it. Not every distraction needs to provide opposition.
 
 
 Here are some examples:
 
-##### <em class="aspect">Sinister </em><em class="aspect">Ritual</em>
+##### <em class="aspect">Sinister _<em class="aspect">Ritual_
 
 Choice: Do you deal with the enemies attacking you, or do you stop the ritual?
 
 Repercussion: The cultists complete the ritual and summon the vile demon.
 
-##### <em class="aspect">Bus Full of Civ</em><em class="aspect">ilians</em>
+##### <em class="aspect">Bus Full of Civ_<em class="aspect">ilians_
 
 Opposition: Good (+3)
 
@@ -461,7 +461,7 @@ Repercussion (leave them): All of the civilians on the bus die.
 
 Repercussion (save them): The villain gets away!
 
-##### <em class="aspect">The Glitteri</em><em class="aspect">ng Gem</em>
+##### <em class="aspect">The Glitteri_<em class="aspect">ng Gem_
 
 Choice: Will you take the gem from the pedestal?
 
@@ -474,7 +474,7 @@ Repercussion (take the gem): You activate the traps in the temple.
 Distractions are a great way to put more pressure on a scene. If you’re afraid the PCs will deal handily with a fight you’ve got in store, adding a distraction or two can force them to decide whether it’s more important to trounce the bad guys or
 deal with the distractions.
 
-Dealing with a distraction should always have a clear benefit or, failing that, not dealing with a distraction should always have a clear consequence. That said, you don’t <em>have</em> to let them know about any negative outcomes
+Dealing with a distraction should always have a clear benefit or, failing that, not dealing with a distraction should always have a clear consequence. That said, you don’t _have_ to let them know about any negative outcomes
 of dealing with the distraction.
 
 ## Constraints
@@ -497,11 +497,11 @@ call in reinforcements, countdowns force the PCs to act quickly or face a worse 
 
 Countdowns have three components: a countdown track, one or more triggers, and an outcome.
 
-The <em>countdown track</em> looks a lot like a stress track: it’s a row of boxes that you mark from left to right. Every time you check off a box, the countdown gets closer to being over.
+The _countdown track_ looks a lot like a stress track: it’s a row of boxes that you mark from left to right. Every time you check off a box, the countdown gets closer to being over.
 
-A <em>trigger</em> is an event that marks a box on the countdown track. It can be as simple as “a minute/hour/day/exchange elapses” or as specific as “the evil villain takes a consequence or gets taken out.”
+A _trigger_ is an event that marks a box on the countdown track. It can be as simple as “a minute/hour/day/exchange elapses” or as specific as “the evil villain takes a consequence or gets taken out.”
 
-When you mark the last box, the countdown ends and the <em>outcome</em> happens, whatever it is.
+When you mark the last box, the countdown ends and the _outcome_ happens, whatever it is.
 
 You can give your countdown more than one trigger if you want; perhaps the countdown proceeds at a predictable pace until something happens that accelerates it. You could also give a different trigger to each box on the countdown track, if you want
 a specific series of events to set off the outcome.
@@ -510,7 +510,7 @@ You can find some examples of countdowns attached to enemies and obstacles start
 
 
 
-##### <em class="aspect"></em>Ticking Tim<em class="aspect">e Bomb</em>
+##### <em class="aspect">_Ticking Tim<em class="aspect">e Bomb_
 
 
 Obstacle
@@ -532,9 +532,9 @@ number of other effects.)
 
 Aspects
 
-<em class="aspect">Loyal Agent of the Empire</em>;
+<em class="aspect">Loyal Agent of the Empire_;
 
-<em class="aspect">Better Part of Valor</em>
+<em class="aspect">Better Part of Valor_
 
 Skills
 
@@ -570,7 +570,7 @@ Outcome: Reinforcements arrive.
 
 Aspects
 
- <em class="aspect">Dark Lord of Crime; “My intellect is unparalleled!”; Fearsome Death Ray; Wanted in Sixteen Countries; “I’ll rule this city one day.”</em>
+ <em class="aspect">Dark Lord of Crime; “My intellect is unparalleled!”; Fearsome Death Ray; Wanted in Sixteen Countries; “I’ll rule this city one day.”_
 
 Skills
 
@@ -637,20 +637,20 @@ Limitations are fictional elements that alter how PCs must deal with a particula
 doing when he’s a werewolf. Maybe the mob boss is protected from on high by powerful politicians, and the direct approach is untenable. Maybe the reactor that’s in meltdown is nearly impossible to repair because it vaporizes any organic material
 that comes near.
 
-When you create a limitation, give it either an aspect or a <em>fact</em>. A fact is a true thing: the reactor vaporizes organic material when it comes near. If you want to make a limitation more concrete and mechanical, use an aspect
+When you create a limitation, give it either an aspect or a _fact_. A fact is a true thing: the reactor vaporizes organic material when it comes near. If you want to make a limitation more concrete and mechanical, use an aspect
 instead. Aspects are always true, just like facts, but you can invoke and compel them.
 
 But be wary of giving something too many aspects. For most adversaries, you can just add the aspect and be fine. For adversaries that already have five aspects or are really complex, you may want to replace an existing aspect with the limitation a
 spect.
 
 
-You can also give a limitation a Weapon rating. For example, if the PCs are battling on the edge of a pool filled with carnivorous fish, you might impose a limitation of <em class="aspect">Filled with Piranha</em> with Weapon:3. There’s no roll
+You can also give a limitation a Weapon rating. For example, if the PCs are battling on the edge of a pool filled with carnivorous fish, you might impose a limitation of <em class="aspect">Filled with Piranha_ with Weapon:3. There’s no roll
 involved with getting attacked by the piranha; instead, entering the pool of water acts as a special sort of compel. In this case, you’d offer the player a fate point, and if they accept it—piranha, damn your luck!—they’d take stress equal to the
 Weapon rating (in this case, 3). In this way, you can create situation aspects that have hard mechanical consequences attached to their compels.
 
 #### Using Limitations
 
-Limitations don’t outright forbid actions; they simply discourage them. There’s nothing saying that the PC <em>can’t</em> kill her werewolf son to stop the threat to the town, but she’s unlikely to because she cares deeply about
+Limitations don’t outright forbid actions; they simply discourage them. There’s nothing saying that the PC _can’t_ kill her werewolf son to stop the threat to the town, but she’s unlikely to because she cares deeply about
 him, and because he doesn’t actually realize what he’s doing.
 
 When you add a limitation to an adversary, you’re doing two things: First, you’re creating an interesting wrinkle that the players have to deal with. Limitations are best when you reveal them unexpectedly; they work well as surprise twists. Second,
@@ -659,40 +659,40 @@ making it more important in the fiction. They might spend a few extra exchanges 
 works.
 
 Try not to use more than one or two limitations in an adventure. If too many issues need to be dealt with in atypical ways, you’ll risk frustrating players with characters built for handling regular tasks. If you’ve got an engineer character, but
-every machine the PCs encounter is biomechanical and requires knowledge of advanced xenobiology knowledge to handle, the engineer is going to feel pretty useless. If only <em>one</em> such machine exists, though, the engineer
+every machine the PCs encounter is biomechanical and requires knowledge of advanced xenobiology knowledge to handle, the engineer is going to feel pretty useless. If only _one_ such machine exists, though, the engineer
 gets to keep doing his thing, and that one machine becomes a focal point of the adventure.
 
 
 ### Resistances
 
 
-Resistances are similar to limitations, except that they <em>do</em> effectively forbid a particular course of action. The dragon is immune to the weapons of mortals, so you can’t fight it in physical combat. The alien does not
+Resistances are similar to limitations, except that they _do_ effectively forbid a particular course of action. The dragon is immune to the weapons of mortals, so you can’t fight it in physical combat. The alien does not
 understand Earthly communication, so you cannot reason with it. The wall’s surface is unnaturally smooth, so you cannot climb it. Where limitations encourage the PCs to deal with an adversary in a new way, resistances force such an approach. There
-is, however, always a chink in the armor, embodied in the resistance’s two parts: its <em>lock</em> and <em>key</em>.
+is, however, always a chink in the armor, embodied in the resistance’s two parts: its _lock_ and _key_.
 
-The resistance’s <em>lock</em> is an aspect that states exactly what the adversary is immune to. Aspects are always true, so you don’t have to spend fate points to make the lock affect the story. If the PCs attack the dragon with
-their swords, the fact that it’s <em class="aspect">Immune to Mortal Weaponry</em> means they have no chance of hurting it.
+The resistance’s _lock_ is an aspect that states exactly what the adversary is immune to. Aspects are always true, so you don’t have to spend fate points to make the lock affect the story. If the PCs attack the dragon with
+their swords, the fact that it’s <em class="aspect">Immune to Mortal Weaponry_ means they have no chance of hurting it.
 
-The <em>key</em> is the one thing that can bypass the lock, allowing the PCs to deal with the adversary in the way they want to. The key can be an aspect, an extra, a character, another adversary, or just a fictional element. It varies
+The _key_ is the one thing that can bypass the lock, allowing the PCs to deal with the adversary in the way they want to. The key can be an aspect, an extra, a character, another adversary, or just a fictional element. It varies
 by adversary and by resistance.
 
 Here are some examples:
 
 ##### The Dragon
 
-Lock: <em class="aspect">Immune to Mortal Weaponry</em>
+Lock: <em class="aspect">Immune to Mortal Weaponry_
 
 Key: The Sword of Avelah, created by an immortal race long ago, can harm the dragon.
 
 ##### The Alien
 
-Lock: <em class="aspect">Doesn’t Understand Earthly Communication</em>
+Lock: <em class="aspect">Doesn’t Understand Earthly Communication_
 
 Key: Emily Jace, the only survivor from a deep-space expedition, is the only human known to have learned the alien language.
 
 ##### The Wall
 
-Lock: <em class="aspect">Unnaturally Smooth, Can’t Be Climbed</em>
+Lock: <em class="aspect">Unnaturally Smooth, Can’t Be Climbed_
 
 Key: If you can get a device that’ll vibrate at the right harmonic frequency, you can walk right through the wall.
 
@@ -705,7 +705,7 @@ First, never have more than one resistance in play at a time, unless you have a 
 
 Second, unless the players decide to give up on addressing the adversary, they’ll likely need to go on an adventure, or at least a series of scenes, to get the key to the adversary’s lock.
 
-Resistances can be good adventure hooks. A dragon threatening the village is an easy way to get the PCs to buy in, but if what you <em>actually</em> want them to deal with is over on the other side of the world, sending them off
+Resistances can be good adventure hooks. A dragon threatening the village is an easy way to get the PCs to buy in, but if what you _actually_ want them to deal with is over on the other side of the world, sending them off
 on an adventure there to get the key to the dragon’s lock can be a sneaky way to do it, and can add some urgency to boot.
 
 
@@ -728,10 +728,10 @@ to feel a lot like the park the PCs fought in during the last session, just with
 
 Instead, consider something like this:
 
-- One zone for the general floor space in the middle of the warehouse. This zone has lots of <em class="aspect">Crates</em> for cover.
-- A zone for the area near some <em class="aspect">Industrial Equipment</em>. If it gets switched on, the equipment becomes a block: Great (+4) <em class="aspect">Mashing Gears</em> with Weapon:2.
-- A zone near the windows, where the snipers surrounding the warehouse can see PCs. The snipers are a hazard: Superb (+5) <em class="aspect">Snipers</em> with Weapon:3.
-- A zone up on the <em class="aspect">Precarious Catwalks</em>. The fall off these catwalks is a limitation with Weapon:2.
+- One zone for the general floor space in the middle of the warehouse. This zone has lots of <em class="aspect">Crates_ for cover.
+- A zone for the area near some <em class="aspect">Industrial Equipment_. If it gets switched on, the equipment becomes a block: Great (+4) <em class="aspect">Mashing Gears_ with Weapon:2.
+- A zone near the windows, where the snipers surrounding the warehouse can see PCs. The snipers are a hazard: Superb (+5) <em class="aspect">Snipers_ with Weapon:3.
+- A zone up on the <em class="aspect">Precarious Catwalks_. The fall off these catwalks is a limitation with Weapon:2.
 
 
 And that’s all you need. If people go outside, or into an office, that’s fine; you can improvise a zone that doesn’t have much special about it, or you can apply the effects of another zone to it—for example, the snipers would likely have a clear
@@ -741,7 +741,7 @@ It’s not a place where the story’s likely to go.
 ### Tying Game Elements to Zones
 
 The previous example illustrates how to do this, but it’s important to realize that you’ve been doing it all along, simply by putting enemies in zones. The gang leader is over here, by the tables full of guns. His henchmen are spaced around the room,
-guarding the exits. So on and so forth. Now all you have to do is take that kind of thinking and apply it to all the <em>other</em> stuff you can put in a scene. Make sure that there’s an aspect, an obstacle, or a constraint
+guarding the exits. So on and so forth. Now all you have to do is take that kind of thinking and apply it to all the _other_ stuff you can put in a scene. Make sure that there’s an aspect, an obstacle, or a constraint
 associated with each zone. Also make sure there’s a reason to interact with or avoid each zone, that something interesting can happen in each one.
 
 ### Offer Free Environmental Invokes
@@ -788,8 +788,8 @@ Moving from zone to zone might require rolls, with attacks representing trying t
 
 #### Occupying Multiple Zones at Once
 
-It might seem a little counterintuitive, but why <em>couldn’t</em> you occupy more than one zone at the same time? In the chase scene mentioned earlier, you might be running on the rooftops while your quarry is in the streets
-below. This might mean you’re both <strong>above your quarry</strong> and <strong>within sight of your quarry</strong>, gaining whatever benefits and disadvantages come with each zone.
+It might seem a little counterintuitive, but why _couldn’t_ you occupy more than one zone at the same time? In the chase scene mentioned earlier, you might be running on the rooftops while your quarry is in the streets
+below. This might mean you’re both **above your quarry** and **within sight of your quarry**, gaining whatever benefits and disadvantages come with each zone.
 
 ### Mobile Zones
 

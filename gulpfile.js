@@ -280,6 +280,10 @@
       .pipe(replace('</a>',''))
       .pipe(replace('<li>','- '))
       .pipe(replace('</li>',''))
+      .pipe(replace('<em>','_'))
+      .pipe(replace('</em>','_'))
+      .pipe(replace('<strong>','**'))
+      .pipe(replace('</strong>','**'))
 
       // Clean up newlines
       .pipe(replace(/\n\n\n/g, '\n\n'))
