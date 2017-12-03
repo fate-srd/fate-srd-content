@@ -8,8 +8,7 @@ There are three main types of adversaries: enemies, obstacles, and constraints.
 
 ## Enemies
 
-Enemies are the goons, super-villains, giant robots, and hyper-intelligent ape warriors. This is the enemy’s defining characteristic: it can be fought directly, even if only under certain circumstances. Enemies have many of the same statistics as
-the PCs do: they have skills, they have at least one aspect, and the more important enemies have stunts, too. They can take stress, and some can take consequences.
+Enemies are the goons, super-villains, giant robots, and hyper-intelligent ape warriors. This is the enemy’s defining characteristic: it can be fought directly, even if only under certain circumstances. Enemies have many of the same statistics as the PCs do: they have skills, they have at least one aspect, and the more important enemies have stunts, too. They can take stress, and some can take consequences.
 
 There are four types of enemies: threats, hitters, bosses, and fillers.
 
@@ -25,14 +24,12 @@ two boxes. They can act and be taken down as groups, don’t have stunts, and ty
 
 ## Obstacles
 
-Unlike enemies, obstacles can’t be attacked directly. Instead, they must be avoided, circumvented, or simply dealt with. They always have skills and aspects, and never have stunts, stress, or consequences. Obstacles can’t be punched into submission;
-they have to be endured or avoided.
+Unlike enemies, obstacles can’t be attacked directly. Instead, they must be avoided, circumvented, or simply dealt with. They always have skills and aspects, and never have stunts, stress, or consequences. Obstacles can’t be punched into submission; they have to be endured or avoided.
 
 There are three types of enemies: hazards, blocks, and distractions.
 
 - <strong>Hazards</strong> hurt the players or threaten to do so—fire jets, spinning fan blades, or bombs that might explode at any second. A hazard has a skill and an aspect that define its purpose.
-- <strong>Blocks</strong> get in the PCs’ way. They can do damage, but mostly they deny access. A steel door with a complex keypad, a sophisticated AI counter-hacking measure, a magical force field: all of these are blocks. A block has a
-skill and an aspect that define its purpose.
+- <strong>Blocks</strong> get in the PCs’ way. They can do damage, but mostly they deny access. A steel door with a complex keypad, a sophisticated AI counter-hacking measure, a magical force field: all of these are blocks. A block has a skill and an aspect that define its purpose.
 - <strong>Distractions</strong> exist to make the PCs think about what they need to accomplish in a scene. Distractions give them a difficult choice: the villain is getting away, but there’s a bus full of innocent civilians about to go off
 the cliff! Distractions don’t always have stats. When they do, it’s typically just an aspect and passive opposition to roll against. Distractions are more about narrative challenge than mechanical challenge.
 
@@ -42,12 +39,9 @@ While enemies and obstacles are distinct types of adversaries, constraints are m
 
 There are three types of constraints: countdowns, limitations, and resistances.
 
-- <strong>Countdowns</strong> create urgency. The bomb will blow in thirty seconds! The stagecoach will go off the cliff in two exchanges! The ritual will finish in one hour! You decide what unit of time you’ll use to create that urgency,
-but countdowns typically work in days, hours, minutes, or exchanges. The important thing is that there must be a consequence for the clock striking zero. It could be the arrival of more enemies or obstacles, someone’s death or transformation,
+- <strong>Countdowns</strong> create urgency. The bomb will blow in thirty seconds! The stagecoach will go off the cliff in two exchanges! The ritual will finish in one hour! You decide what unit of time you’ll use to create that urgency, but countdowns typically work in days, hours, minutes, or exchanges. The important thing is that there must be a consequence for the clock striking zero. It could be the arrival of more enemies or obstacles, someone’s death or transformation,
 or some sort of dramatic change to the status quo, making a new aspect.
-- <strong>Limitations</strong> prevent the PCs from taking certain actions. It’s not an out-and-out restriction, though; a PC should always be free to take the limited action if she wants to deal with the consequences of doing so. Maybe the
-PCs are fighting in a nuclear reactor, and firing off gunshots could be disastrous. Maybe the monster is actually a PC’s brother, transformed. Maybe the villain has a dead-man switch. Again, it’s all about consequence: if you engage in this action,
-this will happen.
+- <strong>Limitations</strong> prevent the PCs from taking certain actions. It’s not an out-and-out restriction, though; a PC should always be free to take the limited action if she wants to deal with the consequences of doing so. Maybe the PCs are fighting in a nuclear reactor, and firing off gunshots could be disastrous. Maybe the monster is actually a PC’s brother, transformed. Maybe the villain has a dead-man switch. Again, it’s all about consequence: if you engage in this action, this will happen.
 - <strong>Resistances</strong> make other adversaries hard to handle in a particular way. The dragon’s scales are impervious to mortal weaponry. The mob boss is protected by dirty cops. The bomb is so complex that disarming it using conventional means will almost certainly detonate it. Resistances force the PCs to vary their tactics, to come up with a Plan B. A really good resistance fuels the bulk of the session: because the dragon’s scales are immune to mortal weaponry, we must go on a quest to find the one sword that <em>will</em> hurt it.
 
 # Building Adversaries
@@ -66,8 +60,7 @@ Have fun.
 
 Enemies have one thing in common: you can punch them. Or more accurately, you can defeat them by attacking them. All enemies have aspects, skills, and stress tracks. Some have stunts, and some have consequences.
 
-Enemies are the most familiar type of adversary because they are the most similar to player characters. The NPCs opposing the PCs are typically enemies, but enemies don’t <em>have</em> to be people (or robots, or gorillas, or whatever). It might be an idol in a magic circle that pulses with malevolent energy—as long as you can defeat it by dealing it stress, it’s an enemy. A fire raging out of control could be an enemy; it’ll attack nearby PCs and take stress whenever
-they hose it down or combat it with other firefighting techniques.
+Enemies are the most familiar type of adversary because they are the most similar to player characters. The NPCs opposing the PCs are typically enemies, but enemies don’t <em>have</em> to be people (or robots, or gorillas, or whatever). It might be an idol in a magic circle that pulses with malevolent energy—as long as you can defeat it by dealing it stress, it’s an enemy. A fire raging out of control could be an enemy; it’ll attack nearby PCs and take stress whenever they hose it down or combat it with other firefighting techniques.
 
 Enemies are your bread and butter as a GM. They’re the main course. They’re the lion’s share of the adversaries you’ll use, because fighting things in Fate is dramatic and interesting, whether it’s a fistfight or an argument on the floor of the Galactic Senate.
 
@@ -85,8 +78,7 @@ Threats have a high concept and a trouble. If a threat’s particularly importan
 
 Set the threat’s apex skill to one step above the PCs’ highest-rated skill or, if you want a particularly tough threat, two steps above. Then, give your threat two more skills rated one step below the apex skill. If you want to define the threat further, give her three more skills rated one step below that.
 
-A physical threat prioritizes Physique, then Fight or Shoot. Skills like Athletics and Will are useful for getting out of the way or resisting mental or social attacks. A social threat prioritizes Will, then some combination of Empathy, Rapport, Provoke,
-and Deceive. Lore is useful for creating advantages.
+A physical threat prioritizes Physique, then Fight or Shoot. Skills like Athletics and Will are useful for getting out of the way or resisting mental or social attacks. A social threat prioritizes Will, then some combination of Empathy, Rapport, Provoke, and Deceive. Lore is useful for creating advantages.
 
 #### Stunts
 
@@ -161,16 +153,14 @@ When you do use hitters, put in other enemies to distract from the hitter. Threa
 
 ### Bosses
 
-Where threats and hitters are specialized enemies, and fillers are generic bad guys, bosses are those special enemies who the PCs just can’t wait to take down. Bosses are the focal point of a set-piece battle, the big personalities that drive the
-adventure, the antagonists that hound the PCs at every turn.
+Where threats and hitters are specialized enemies, and fillers are generic bad guys, bosses are those special enemies who the PCs just can’t wait to take down. Bosses are the focal point of a set-piece battle, the big personalities that drive the adventure, the antagonists that hound the PCs at every turn.
 
 #### Aspects
 
 Bosses have a full spread of five aspects. Give your boss a high concept that drives home what she’s all about. Is she the <em class="aspect">Corrupt Police Captain</em>? The <em class="aspect">Necromancer General</em>? Your boss’s trouble
 should be a closely guarded secret that the PCs can exploit if they find out about it.
 
-For the other three aspects, come up with some unique shticks that your boss relies on, things that’ll make her memorable. Maybe the corrupt police captain is an <em class="aspect">Expert Martial Artist</em>, or maybe the necromancer general carries
-the <em class="aspect">All-Seeing </em><em class="aspect">Staff</em>.
+For the other three aspects, come up with some unique shticks that your boss relies on, things that’ll make her memorable. Maybe the corrupt police captain is an <em class="aspect">Expert Martial Artist</em>, or maybe the necromancer general carries the <em class="aspect">All-Seeing </em><em class="aspect">Staff</em>.
 
 #### Skills
 
@@ -186,8 +176,7 @@ Your boss should prioritize skills that support her personality. The corrupt pol
 A boss always has at least one stunt, and as many as three. Create stunts that make the boss memorable, stunts that bring in more bad guys to fight, stunts that make the boss hard to deal with, and stunts that represent her social status or allies.
 Here are some examples:
 
-**Connected:** Once per session, you can draw on your contacts to bring in reinforcements. These reinforcements take the form of either one hitter with an apex skill rated equal to your Contacts, two threats with apex skills rated one step lower than your Contacts, or Fair (+2) fillers equal in number to your Contacts. When you use this stunt, you can spend one fate point to gain +2 to Contacts, to a maximum of Great (+4), for the purpose of bringing in these
-reinforcements.
+**Connected:** Once per session, you can draw on your contacts to bring in reinforcements. These reinforcements take the form of either one hitter with an apex skill rated equal to your Contacts, two threats with apex skills rated one step lower than your Contacts, or Fair (+2) fillers equal in number to your Contacts. When you use this stunt, you can spend one fate point to gain +2 to Contacts, to a maximum of Great (+4), for the purpose of bringing in these reinforcements.
 
 **Escape Plan:** Once per session, if you would get taken out, you can spend a fate point to concede instead.
 
@@ -278,13 +267,11 @@ On its turn each exchange, a hazard acts as implied by its name, and rolls with 
 
 If a player wants to overcome or create an advantage against a hazard, they’ll face passive opposition equal to the hazard’s rating.
 
-> Joan is near the window, and there’s a <em class="aspect">Distant Sniper</em> out there, a hazard with a Superb (+5) rating and Weapon:4. At the beginning of the conflict, the sniper used its Superb (+5) rating to determine its initiative. Now
-that it has a chance to act, it attacks Joan, rolling an Epic (+6) result! That’s a tough attack to defend against, and if Joan can’t, the sniper’s Weapon:4 will deal a lot of stress to her.
+> Joan is near the window, and there’s a <em class="aspect">Distant Sniper</em> out there, a hazard with a Superb (+5) rating and Weapon:4. At the beginning of the conflict, the sniper used its Superb (+5) rating to determine its initiative. Now that it has a chance to act, it attacks Joan, rolling an Epic (+6) result! That’s a tough attack to defend against, and if Joan can’t, the sniper’s Weapon:4 will deal a lot of stress to her.
 
 #### Which Weapon Rating?
 
-Which Weapon rating you choose depends on how lethal you want to make your hazard. A hazard with a very high skill rating <em>and</em> a very high Weapon rating will likely take out a PC or two. You could also make a hazard with a lower skill rating but a high Weapon rating, making for something that doesn’t hit often but hits hard when it does. Reversing that makes for a hazard that hits frequently but doesn’t do much damage—more of a nuisance than a hazard, but that might
-be what you want.
+Which Weapon rating you choose depends on how lethal you want to make your hazard. A hazard with a very high skill rating <em>and</em> a very high Weapon rating will likely take out a PC or two. You could also make a hazard with a lower skill rating but a high Weapon rating, making for something that doesn’t hit often but hits hard when it does. Reversing that makes for a hazard that hits frequently but doesn’t do much damage—more of a nuisance than a hazard, but that might be what you want.
 
 #### Using Hazards
 
@@ -312,8 +299,7 @@ Blocks don’t attack and don’t have a turn in the initiative order. Instead, 
 
 Also, characters can try to force someone into a block as an attack. If you do this, you’ll roll to attack as normal, but add a Weapon rating equal to half the block’s Weapon rating (rounded down, minimum 1). So, anyone trying to cross the <em class="aspect">Vat of Acid</em>would need to beat Good (+3) opposition. If someone tried to force you into the acid, they’d attack you with Physique and, if they succeeded, add Weapon:2.
 
-Finally, some blocks can be used as cover or as armor. This is situational—for some blocks, it simply won’t make sense. You can’t hide behind a <em class="aspect">Vat of Acid</em>, and a <em class="aspect">Chain Link Fence</em> won’t stop a bullet. But that <em class="aspect">Chain Link Fence</em> <em>is</em> effective protection against a baseball bat, probably preventing the attack altogether. And if the evil wizard is hiding behind the <em class="aspect">Animate Statue</em>,
-it might soak up some damage.
+Finally, some blocks can be used as cover or as armor. This is situational—for some blocks, it simply won’t make sense. You can’t hide behind a <em class="aspect">Vat of Acid</em>, and a <em class="aspect">Chain Link Fence</em> won’t stop a bullet. But that <em class="aspect">Chain Link Fence</em> <em>is</em> effective protection against a baseball bat, probably preventing the attack altogether. And if the evil wizard is hiding behind the <em class="aspect">Animate Statue</em>, it might soak up some damage.
 
 When someone’s using a block as cover, decide whether it mitigates or negates the attack. If it negates it, the attack simply isn’t possible. If it mitigates it, the defender gets an Armor rating equal to half the block’s skill rating (rounded down, minimum 1). So, if the evil wizard used the <em class="aspect">Animate Statue</em> as cover, he’d get Armor:2.
 
@@ -321,8 +307,7 @@ When someone’s using a block as cover, decide whether it mitigates or negates 
 
 Blocks make it harder for PCs to take certain actions, so they can be frustrating if you overuse them. But they can also force the PCs to think creatively, or even to figure out how to use the blocks to their advantage.
 
-Use blocks sparingly; in many cases, you’ll want to use a threat or two instead. That said, sometimes a block is exactly what you want, and they’re pretty simple to use. If your players are getting frustrated with a particular block, you can give
-them the option to disable it somehow.
+Use blocks sparingly; in many cases, you’ll want to use a threat or two instead. That said, sometimes a block is exactly what you want, and they’re pretty simple to use. If your players are getting frustrated with a particular block, you can give them the option to disable it somehow.
 
 To disable a block, removing it from the scene, you must take a risk, putting yourself (or someone else) in danger, and make an overcome roll. The overcome roll is against passive opposition rated two steps higher than the block’s rating.
 
@@ -371,8 +356,7 @@ Here are some examples:
 
 #### Using Distractions
 
-Distractions are a great way to put more pressure on a scene. If you’re afraid the PCs will deal handily with a fight you’ve got in store, adding a distraction or two can force them to decide whether it’s more important to trounce the bad guys or
-deal with the distractions.
+Distractions are a great way to put more pressure on a scene. If you’re afraid the PCs will deal handily with a fight you’ve got in store, adding a distraction or two can force them to decide whether it’s more important to trounce the bad guys or deal with the distractions.
 
 Dealing with a distraction should always have a clear benefit or, failing that, not dealing with a distraction should always have a clear consequence. That said, you don’t <em>have</em> to let them know about any negative outcomes of dealing with the distraction.
 
@@ -380,8 +364,7 @@ Dealing with a distraction should always have a clear benefit or, failing that, 
 
 Constraints aren’t so much a type of adversary as they are a way to modify other adversaries. They make it more difficult or complex to deal with enemies or obstacles. You can use constraints to create urgency, to make particular adversaries more threatening, or to force the PCs to deal with an adversary in a way they otherwise wouldn’t.
 
-You don’t have to use constraints at all, but they can add texture to an encounter or nuance to a villain. Note that adding constraints to an adversary can make that adversary a lot more difficult to deal with. There’s advice on this in each constraint
-entry.
+You don’t have to use constraints at all, but they can add texture to an encounter or nuance to a villain. Note that adding constraints to an adversary can make that adversary a lot more difficult to deal with. There’s advice on this in each constraint entry.
 
 There are three types of constraints: countdowns, limitations, and resistances.
 
@@ -397,8 +380,7 @@ A <em>trigger</em> is an event that marks a box on the countdown track. It can b
 
 When you mark the last box, the countdown ends and the <em>outcome</em> happens, whatever it is.
 
-You can give your countdown more than one trigger if you want; perhaps the countdown proceeds at a predictable pace until something happens that accelerates it. You could also give a different trigger to each box on the countdown track, if you want
-a specific series of events to set off the outcome.
+You can give your countdown more than one trigger if you want; perhaps the countdown proceeds at a predictable pace until something happens that accelerates it. You could also give a different trigger to each box on the countdown track, if you want a specific series of events to set off the outcome.
 
 You can find some examples of countdowns attached to enemies and obstacles starting on
 
@@ -455,7 +437,7 @@ You can find some examples of countdowns attached to enemies and obstacles start
 
 **Aspects**
 
- <em class="aspect">Dark Lord of Crime; “My intellect is unparalleled!”; Fearsome Death Ray; Wanted in Sixteen Countries; “I’ll rule this city one day.”</em>
+<em class="aspect">Dark Lord of Crime; “My intellect is unparalleled!”; Fearsome Death Ray; Wanted in Sixteen Countries; “I’ll rule this city one day.”</em>
 
 **Skills**
 
@@ -507,13 +489,11 @@ You can also use countdowns to add verisimilitude to encounters, as with the for
 
 You don’t have to confine a countdown to a single scene. You could attach a countdown to your main villain, as with Baron von Darkness, that represents their master plan and its stages. Doing this adds both structure and urgency to your adventure or campaign, impressing upon the PCs that if they don’t act, the villain will go ahead and realize his plans.
 
-One word of caution: tracking many countdowns at once can be difficult, particularly if they all have different triggers. If your scene has three or four countdowns that all trigger at different times, you might find yourself forgetting to check off
-some of their boxes.
+One word of caution: tracking many countdowns at once can be difficult, particularly if they all have different triggers. If your scene has three or four countdowns that all trigger at different times, you might find yourself forgetting to check off some of their boxes.
 
 ### Limitations
 
-Limitations are fictional elements that alter how PCs must deal with a particular threat. Maybe they can’t just kill the werewolf that’s been terrorizing a small Pennsylvania town, because he’s the son of one of the PCs and doesn’t know what he’s doing when he’s a werewolf. Maybe the mob boss is protected from on high by powerful politicians, and the direct approach is untenable. Maybe the reactor that’s in meltdown is nearly impossible to repair because it vaporizes any organic material
-that comes near.
+Limitations are fictional elements that alter how PCs must deal with a particular threat. Maybe they can’t just kill the werewolf that’s been terrorizing a small Pennsylvania town, because he’s the son of one of the PCs and doesn’t know what he’s doing when he’s a werewolf. Maybe the mob boss is protected from on high by powerful politicians, and the direct approach is untenable. Maybe the reactor that’s in meltdown is nearly impossible to repair because it vaporizes any organic material that comes near.
 
 When you create a limitation, give it either an aspect or a <em>fact</em>. A fact is a true thing: the reactor vaporizes organic material when it comes near. If you want to make a limitation more concrete and mechanical, use an aspect instead. Aspects are always true, just like facts, but you can invoke and compel them.
 
@@ -527,8 +507,7 @@ Limitations don’t outright forbid actions; they simply discourage them. There�
 
 When you add a limitation to an adversary, you’re doing two things: First, you’re creating an interesting wrinkle that the players have to deal with. Limitations are best when you reveal them unexpectedly; they work well as surprise twists. Second, you’re making that adversary more important to the story. A limitation forces the players to deal with a threat in a way other than the most straightforward method. This means the players will likely have to spend more time dealing with the threat, making it more important in the fiction. They might spend a few extra exchanges taking out a particular bad guy, ensuring they remember that bad guy more. Or they might spend the entire adventure figuring out how to deal with something. Either way works.
 
-Try not to use more than one or two limitations in an adventure. If too many issues need to be dealt with in atypical ways, you’ll risk frustrating players with characters built for handling regular tasks. If you’ve got an engineer character, but every machine the PCs encounter is biomechanical and requires knowledge of advanced xenobiology knowledge to handle, the engineer is going to feel pretty useless. If only <em>one</em> such machine exists, though, the engineer
-gets to keep doing his thing, and that one machine becomes a focal point of the adventure.
+Try not to use more than one or two limitations in an adventure. If too many issues need to be dealt with in atypical ways, you’ll risk frustrating players with characters built for handling regular tasks. If you’ve got an engineer character, but every machine the PCs encounter is biomechanical and requires knowledge of advanced xenobiology knowledge to handle, the engineer is going to feel pretty useless. If only <em>one</em> such machine exists, though, the engineer gets to keep doing his thing, and that one machine becomes a focal point of the adventure.
 
 ### Resistances
 
