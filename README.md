@@ -57,6 +57,10 @@ Due to formatting, some of the source documents are unique snowflakes and have t
 - Fate System Toolkit (not done)
 - War of Ashes
 
+## Credits
+- **Randy Oest**, aka [Amazing Rando](https://randyoest.com) (Project Owner)
+- **John Alan Large**, aka [Red Dice Diaries](https://reddicediaries.com) (Fate Core SRD in Markdown)
+
 # License
 
 This work is based on [Fate Core System](http://www.faterpg.com/) and Fate Accelerated Edition, products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
