@@ -10,5 +10,10 @@
     "gulp-markdown": "^1.2.0",
     "gulp-replace": "^0.5.4",
     "gulp-tap": "^0.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
