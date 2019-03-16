@@ -1,14 +1,12 @@
-(function () {
-  const gulp = require('gulp');
-  const replace = require('gulp-replace');
-  const markdown = require('gulp-markdown');
-  const dest = require('gulp-dest');
-  const exec = require('child_process').exec;
-  const htmlsplit = require('gulp-htmlsplit');
-  const tap = require('gulp-tap');
-  const path = require('path');
+const gulp = require('gulp');
+const replace = require('gulp-replace');
+const markdown = require('gulp-markdown');
+const dest = require('gulp-dest');
+const htmlsplit = require('gulp-htmlsplit');
+const tap = require('gulp-tap');
+const path = require('path');
 
-  let match;
+(() => {
   let i = 0;
   let filename;
   let splitDest;
@@ -338,8 +336,6 @@
         }),
       )
       .pipe(htmlsplit())
-      .pipe(
-        gulp.dest(() => splitDest),
-      );
+      .pipe(gulp.dest(() => splitDest));
   });
-}());
+})();
