@@ -5,6 +5,7 @@ const dest = require('gulp-dest');
 const htmlsplit = require('gulp-htmlsplit');
 const tap = require('gulp-tap');
 const path = require('path');
+const toMarkdown = require('gulp-to-markdown');
 
 (() => {
   let i = 0;
@@ -308,6 +309,12 @@ const path = require('path');
       .pipe(dest('docs/markdown', { ext: '.md' }))
       .pipe(gulp.dest('./'));
   });
+
+  // Formats the Fate Condensed content into markdown
+  gulp.task('make-condensed-md', () => gulp.src('source/Fate-Condensed-SRD-CC-BY.html')
+    .pipe(replace(/style=\"[^\"]*\"/g, ''))
+    .pipe(toMarkdown())
+    .pipe(gulp.dest('./docs/markdown')));
 
   //  Takes Markdown files and turns them into HTML
   gulp.task('make-html', () => gulp
