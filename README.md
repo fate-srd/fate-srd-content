@@ -14,6 +14,7 @@ You'll find the following rules in this project:
 - Frontier Spirit System Reference Document
 - Fate Conspiracies (from The Three Rocketeers) System Reference Document
 - No-Skill Swashbuckling (from The Three Rocketeers) System Reference Document
+- Factions (Fate Core Kickstarter stretch goal)
 
 # How to use this project
 
@@ -58,6 +59,7 @@ Due to formatting, some of the source documents are unique snowflakes and have t
 - War of Ashes
 
 ## Credits
+
 - **Randy Oest**, aka [Amazing Rando](https://randyoest.com) (Project Owner)
 - **John Alan Large**, aka [Red Dice Diaries](https://reddicediaries.com) (Fate Core SRD in Markdown)
 
