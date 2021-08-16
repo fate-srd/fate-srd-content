@@ -1,3 +1,4 @@
+[![](https://github.com/fate-srd/.github/blob/main/img/Fate-CI-style-badge.svg)](https://github.com/fate-srd)
 # Fate SRDs
 
 This repository contains formatted SRD documents for the Fate Roleplaying Game. The source documents are from [Evil Hat Productions, LLC](http://www.faterpg.com/licensing/).
