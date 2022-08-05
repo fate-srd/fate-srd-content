@@ -1,4 +1,5 @@
 [![](https://github.com/fate-srd/.github/blob/main/img/Fate-CI-style-badge.svg)](https://github.com/fate-srd)
+
 # Fate SRDs
 
 This repository contains formatted SRD documents for the Fate Roleplaying Game. The source documents are from [Evil Hat Productions, LLC](http://www.faterpg.com/licensing/).
@@ -23,7 +24,7 @@ If you're looking for the Fate SRD rules in a clean text format, this is the pla
 
 [Download Files](https://github.com/amazingrando/fate-srd/archive/master.zip)
 
-If you are looking for the 100% official SRD rules, you can find them at http://www.faterpg.com/licensing/. That said, the files in the `source` folder are copies of those files.
+If you are looking for the 100% official SRD rules, you can find them at <http://www.faterpg.com/licensing/>. That said, the files in the `source` folder are copies of those files.
 
 # Project structure
 
@@ -50,7 +51,7 @@ This section is for maintainers.
 - Run `gulp make-md` and check the created markdown file in `/docs/markdown`.
   - Revise `gulp make-md` as needed to fix the output.
 
-## Snowflakes
+## Snowflakes (aka unique situations)
 
 Due to formatting, some of the source documents are unique snowflakes and have to be processed by hand. Currently that list is:
 
