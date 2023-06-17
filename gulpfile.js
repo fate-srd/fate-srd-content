@@ -316,6 +316,11 @@ const toMarkdown = require('gulp-to-markdown');
     .pipe(toMarkdown())
     .pipe(gulp.dest('./docs/markdown')));
 
+  // Formats the Fate Accessibility content into markdown
+  gulp.task('make-a11y', () => gulp.src('source/fate-accessibility.html')
+    .pipe(toMarkdown())
+    .pipe(gulp.dest('./docs/markdown')));
+
   //  Takes Markdown files and turns them into HTML
   gulp.task('make-html', () => gulp
     .src('docs/markdown/**.md')
