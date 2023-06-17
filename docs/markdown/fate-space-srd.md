@@ -1,10 +1,10 @@
 # Fate Space Toolkit SRD
 
-©2019 Evil Hat Productions, LLC. Refer to the licensing pages at <http://www.faterpg.com/licensing/> for details.
+©2019 Evil Hat Productions, LLC. Refer to the licensing pages at http://www.faterpg.com/licensing/ for details.
 
 This is the System Reference Document for use with the Creative Commons Attribution Unported license. The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:
 
-> This work is based on the Fate Space Toolkit SRD (found at <http://www.faterpg.com/>), a product of Evil Hat Productions, LLC, developed, authored, and edited by Bill White, C. W. Marshall, Joshua A.C. Newman, Mikki Kendall, Mike Olson, Joshua Yearsley, and Anna Meade. It is licensed for our use under the Creative Commons Attribution 3.0 Unported license (<http://creativecommons.org/licenses/by/3.0/>).
+> This work is based on the Fate Space Toolkit SRD (found at http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by Bill White, C. W. Marshall, Joshua A.C. Newman, Mikki Kendall, Mike Olson, Joshua Yearsley, and Anna Meade. It is licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
 # Introduction
 
@@ -20,12 +20,12 @@ We call this a “toolkit” because we believe that Fate games are often _custo
 
 There are lots of great science fiction games based on Fate, and we’d be remiss if we didn’t point out some of the more notable ones. You can mine these games for setting details and rules approaches, kitbashing them into your own game.
 
-* _Baroque Space Opera_ by Mark Kowaliszyn. A galactic-scale _Fate Core_ game in the mold of _Dune_ or _Jupiter Ascending_, with high technology indistinguishable from magic available to the characters who are enmeshed in the courtly intrigues of a corrupt imperium.
-* _Bulldogs!_ by Galileo Games. You’re part of the rough-and-ready multi-species crew of a space freighter hauling cargo for long hours, all for low pay and a chance to see this corner of the galaxy, full of interesting alien cultures and worlds. Your aspects emerge from your relationship with your captain and the other crew members. The latest edition is based on _Fate Core_.
-* _Diaspora_ by VSCA Publishing. Making use of Fate’s third-edition rules and inspired by an early science fiction RPG called _Traveller_, _Diaspora_ takes a hard SF perspective and offers a lot of useful “mini-game” approaches to space combat, small-unit skirmishes, and social and political contests.
-* _Mindjammer_ by Modiphius Entertainment. This is a detailed and carefully thought-out far-future transhumanist setting for _Fate Core_ with a hard SF perspective. It holds a wealth of material to mine for ideas or adapt whole cloth.
-* _Tachyon Squadron_ by Clark Valentine (published by Evil Hat). This setting book focuses on a space-fighter squadron, with rules for dogfights and interception missions as well as the ebb and flow of events back at base during an ongoing campaign in the middle of a space war.
-* You’ll also find some space adventure themes and tools in some of Evil Hat’s Fate Worlds of Adventure, including _Andromeda_ (epic space opera in an alien galaxy), _Red Planet_ (communist pulp space fantasy), _Ghost Planets_ (_Star Trek_ meets _Forbidden Planet_ by way of _Indiana Jones_), _The Three Rocketeers_ (swashbucklers in space), and _Sails Full of Stars_ (quasi-historical fantasy in the Solar System). They are available as “pay what you want” products on drivethrurpg.com, thanks to the generosity of our Patreon backers, who support the ongoing production of new settings and adventures.
+*   _Baroque Space Opera_ by Mark Kowaliszyn. A galactic-scale _Fate Core_ game in the mold of _Dune_ or _Jupiter Ascending_, with high technology indistinguishable from magic available to the characters who are enmeshed in the courtly intrigues of a corrupt imperium.
+*   _Bulldogs!_ by Galileo Games. You’re part of the rough-and-ready multi-species crew of a space freighter hauling cargo for long hours, all for low pay and a chance to see this corner of the galaxy, full of interesting alien cultures and worlds. Your aspects emerge from your relationship with your captain and the other crew members. The latest edition is based on _Fate Core_.
+*   _Diaspora_ by VSCA Publishing. Making use of Fate’s third-edition rules and inspired by an early science fiction RPG called _Traveller_, _Diaspora_ takes a hard SF perspective and offers a lot of useful “mini-game” approaches to space combat, small-unit skirmishes, and social and political contests.
+*   _Mindjammer_ by Modiphius Entertainment. This is a detailed and carefully thought-out far-future transhumanist setting for _Fate Core_ with a hard SF perspective. It holds a wealth of material to mine for ideas or adapt whole cloth.
+*   _Tachyon Squadron_ by Clark Valentine (published by Evil Hat). This setting book focuses on a space-fighter squadron, with rules for dogfights and interception missions as well as the ebb and flow of events back at base during an ongoing campaign in the middle of a space war.
+*   You’ll also find some space adventure themes and tools in some of Evil Hat’s Fate Worlds of Adventure, including _Andromeda_ (epic space opera in an alien galaxy), _Red Planet_ (communist pulp space fantasy), _Ghost Planets_ (_Star Trek_ meets _Forbidden Planet_ by way of _Indiana Jones_), _The Three Rocketeers_ (swashbucklers in space), and _Sails Full of Stars_ (quasi-historical fantasy in the Solar System). They are available as “pay what you want” products on drivethrurpg.com, thanks to the generosity of our Patreon backers, who support the ongoing production of new settings and adventures.
 
 ## The Plausibilometer
 
@@ -65,24 +65,24 @@ This view is somewhat antithetical to the spirit of Fate, whose relatively low g
 
 However, one way to deal with this conflict is to rely on the players’ own sense of scientific plausibility. In a high- or medium-plausibility game, if any player believes that something being described is a little too scientifically optimistic, they may call for “Cold Equations.” The player challenged by the Cold Equations may reply in one of two ways before they roll the dice:
 
-* “Science is a harsh mistress”: If the roll is a failure, invoking aspects can improve the result only up to a tie; it’s not possible to succeed or succeed with style.
-* “The human spirit always prevails”: Invoking an aspect for this roll only gives a +1 bonus, not +2, making it much more difficult—but still possible—to succeed or even succeed with style.
+*   “Science is a harsh mistress”: If the roll is a failure, invoking aspects can improve the result only up to a tie; it’s not possible to succeed or succeed with style.
+*   “The human spirit always prevails”: Invoking an aspect for this roll only gives a +1 bonus, not +2, making it much more difficult—but still possible—to succeed or even succeed with style.
 
 You may use the Cold Equations rule in addition to or in place of reality checks.
 
 ## How to Use This Book
 
-The first chapter after this introduction is called <span class="chapter-title">Creating a Fate Space Game</span>, which expands upon the basics of _Fate Core_ for creating a setting together. The next chapter is <span class="chapter-title">Character Creation</span>, which discusses how to customize character generation for a Fate Space setting.
+The first chapter after this introduction is called Creating a Fate Space Game, which expands upon the basics of _Fate Core_ for creating a setting together. The next chapter is Character Creation, which discusses how to customize character generation for a Fate Space setting.
 
-Then, we go over <span class="chapter-title">Spaceships and Space Travel</span>, <span class="chapter-title">Space Combat</span>, and rules for <span class="chapter-title">Aliens a</span><span class="chapter-title">nd Alien Worlds</span>, giving you many tools for your adventures throughout space.
+Then, we go over Spaceships and Space Travel, Space Combat, and rules for Aliens and Alien Worlds, giving you many tools for your adventures throughout space.
 
 Finally, we lay out five sample settings for a Fate Space game, which provide concrete examples of the rules and guidelines we talk about in the earlier chapters. You can play each as-is or plunder its ideas for your own campaign:
 
-* The Gods Know Future Things: Posthuman space opera at subluminal speeds!
-* The High Frontiersmen: Gritty Cold War political intrigue in orbit for high stakes.
-* Mass Drivers: Realistic space drama among the interplanetary working class.
-* Millennials: Optimistic space exploration and alien encounter in a spirit of discovery.
-* Pax Galactica: Transgalactic travelogue against a somewhat baroque backdrop.
+*   The Gods Know Future Things: Posthuman space opera at subluminal speeds!
+*   The High Frontiersmen: Gritty Cold War political intrigue in orbit for high stakes.
+*   Mass Drivers: Realistic space drama among the interplanetary working class.
+*   Millennials: Optimistic space exploration and alien encounter in a spirit of discovery.
+*   Pax Galactica: Transgalactic travelogue against a somewhat baroque backdrop.
 
 We intend for the _Fate Space Toolkit_ to offer a coherent picture of how to design a space-based science fiction adventure setting for Fate, with numerous alternatives and examples. But we also invite readers to go in either of two directions from using this book as a guide to setting design. GMs, you might want to _adopt a setting whole cloth_, developing and altering it as needed to suit your play group. Or you might want to dip into this book to _steal specific ideas_ and approaches as desired, regardless of whether or not you’ll incorporate them into a Fate Space adventure game.
 
@@ -94,13 +94,13 @@ Creating a setting for a Fate Space game works as in _Fate Core_ (pages 18-27). 
 
 Before actually creating the setting, then, your group will want to discuss the game you’d like to play together. The following questions can help guide that conversation. Typically, the GM leads and facilitates while taking notes and recording the answers, to be used as inspiration and guidance throughout designing the setting.
 
-* Genre: Is there a science fiction subgenre that you want the game to emulate or invent? For example, hard-hitting near-future space techno-thriller? Far-flung, rip-roaring space opera? Gritty military SF? A space-colony coming-of-age story? Pangalactic planet-of-the-week picaresque? Sneering retropunk rodomontade, a la _Buck Rogers_ meets _A Clockwork Orange_?
-* Inspiration: Are there particular fictional touchstones from literature or film that you want the game to resemble? _Star Wars_ or _Star Trek_? _Battlestar Galactica_ or _Firefly_? _The Expanse_ or _Ancillary Justice_? _Starship Troopers_ or _The Forever War_? What elements of the game should most closely mirror that fictional setting? How might it depart from that setting?
-* Connections: Will the characters be tightly connected—for example, as members of the same spaceship crew or military outfit—or will they be chance-met and potentially independent operators, with the potential to go haring off on their own on a whim? Or will they be rivals and competitors in the same arena, with alliance and enmity as strategic possibilities? Building connections during character generation can help cement the party, giving them a reason to stick together, but allowing characters to go off on their own gives a sense of openness and freedom of action that may be particularly appropriate in some kinds of space adventure.
-* Plausibility: What level of plausibility do you want for the game? Are there particular science-fictional tropes that are especially desirable or particularly unwanted—robots, cyborgs, psionics, nanotech, or aliens, for example? As a group, set your game’s plausibilometer rating.
-* Focus: Do you want to focus on one or more outer-space-related activities—for example, space piracy, alien diplomacy, interstellar trade, space exploration, spaceship-to-spaceship combat? Or do you prefer a broader sort of campaign that touches on some or many of these topics?
-* Characters: Are there particular character archetypes or roles that you want to be possible or even encouraged? The hotshot pilot, the grizzled mercenary, the daring fleet officer, the stuffy space bureaucrat? Are there character types that you think are too banal, cliché, or trite to be fun?
-* Aliens: If the setting includes aliens, how alien should they be? Completely incomprehensible and bizarre, or psychologically strange but human enough to be playable, or is being an “alien” merely a rationale for a character to have cool albeit implausible stunts, talents, and special skills? What kind of “otherness” do aliens represent in the setting?
+*   Genre: Is there a science fiction subgenre that you want the game to emulate or invent? For example, hard-hitting near-future space techno-thriller? Far-flung, rip-roaring space opera? Gritty military SF? A space-colony coming-of-age story? Pangalactic planet-of-the-week picaresque? Sneering retropunk rodomontade, a la _Buck Rogers_ meets _A Clockwork Orange_?
+*   Inspiration: Are there particular fictional touchstones from literature or film that you want the game to resemble? _Star Wars_ or _Star Trek_? _Battlestar Galactica_ or _Firefly_? _The Expanse_ or _Ancillary Justice_? _Starship Troopers_ or _The Forever War_? What elements of the game should most closely mirror that fictional setting? How might it depart from that setting?
+*   Connections: Will the characters be tightly connected—for example, as members of the same spaceship crew or military outfit—or will they be chance-met and potentially independent operators, with the potential to go haring off on their own on a whim? Or will they be rivals and competitors in the same arena, with alliance and enmity as strategic possibilities? Building connections during character generation can help cement the party, giving them a reason to stick together, but allowing characters to go off on their own gives a sense of openness and freedom of action that may be particularly appropriate in some kinds of space adventure.
+*   Plausibility: What level of plausibility do you want for the game? Are there particular science-fictional tropes that are especially desirable or particularly unwanted—robots, cyborgs, psionics, nanotech, or aliens, for example? As a group, set your game’s plausibilometer rating.
+*   Focus: Do you want to focus on one or more outer-space-related activities—for example, space piracy, alien diplomacy, interstellar trade, space exploration, spaceship-to-spaceship combat? Or do you prefer a broader sort of campaign that touches on some or many of these topics?
+*   Characters: Are there particular character archetypes or roles that you want to be possible or even encouraged? The hotshot pilot, the grizzled mercenary, the daring fleet officer, the stuffy space bureaucrat? Are there character types that you think are too banal, cliché, or trite to be fun?
+*   Aliens: If the setting includes aliens, how alien should they be? Completely incomprehensible and bizarre, or psychologically strange but human enough to be playable, or is being an “alien” merely a rationale for a character to have cool albeit implausible stunts, talents, and special skills? What kind of “otherness” do aliens represent in the setting?
 
 ## Defining the Setting
 
@@ -108,10 +108,10 @@ The answers to the preliminary questions in the previous section essentially ser
 
 World-building can be fun and satisfying, but it can also be a lot of work. The most practical strategy is to create _just enough_ material to begin playing as quickly as possible. Minimally, a setting can be described with these elements:
 
-* The Pitch: A short statement summarizing the where, when, and what of the game, emphasizing what makes it awesome.
-* Scope: Specifics of tone, period, and extent, expanding the pitch and nailing down some of the setting details.
-* Issues and Aspects: Key setting elements and their expression as aspects, tying the setting into the fate point economy.
-* Faces and Places: An outline of the initial situation, giving places to go and people to meet. It also helps define the specific elements of science fiction present, such as advanced technologies, alien artifacts, and extraterrestrial beings.
+*   The Pitch: A short statement summarizing the where, when, and what of the game, emphasizing what makes it awesome.
+*   Scope: Specifics of tone, period, and extent, expanding the pitch and nailing down some of the setting details.
+*   Issues and Aspects: Key setting elements and their expression as aspects, tying the setting into the fate point economy.
+*   Faces and Places: An outline of the initial situation, giving places to go and people to meet. It also helps define the specific elements of science fiction present, such as advanced technologies, alien artifacts, and extraterrestrial beings.
 
 ### The Pitch
 
@@ -119,11 +119,11 @@ The pitch lays out the essence of your Fate Space game. It is an elevator pitch 
 
 Later in this book, we’ll present the following five settings as examples of Fate Space game designs.
 
-* The Gods Know Future Things: Posthuman AI ship-minds in relativistic space arks shepherd the precarious Human Diaspora as it slowly expands from Sol, becoming stranger and wilder the further it goes.
-* The High Frontiersmen: An alt-1979 Cold War political spy thriller where the Earth is girdled by manned orbiting nuclear-armed battlestations, as double agents pass each other messages at a jointly occupied moonbase trying to stave off an atomic apocalypse.
-* Mass Drivers: 23rd-century space freighters living hand-to-mouth in the Asteroid Belt trying to keep body and soul and ship and crew together, avoiding the squeeze by the big corporations as much as they can.
-* Millennials: The starship _Millennium_, Earth’s first interstellar vessel, with a contingent of the planet’s best and brightest on board, makes its way to the capital of the Galactic Civilization to prove that humanity has the right stuff to join up.
-* Pax Galactica: Privileged citizens of the far-future Galactic Principate travel the spacelanes aboard luxurious interstellar liners as part of the entourage of a member of the galactic elite, to see the galaxy, or in pursuit of some vital mission.
+*   The Gods Know Future Things: Posthuman AI ship-minds in relativistic space arks shepherd the precarious Human Diaspora as it slowly expands from Sol, becoming stranger and wilder the further it goes.
+*   The High Frontiersmen: An alt-1979 Cold War political spy thriller where the Earth is girdled by manned orbiting nuclear-armed battlestations, as double agents pass each other messages at a jointly occupied moonbase trying to stave off an atomic apocalypse.
+*   Mass Drivers: 23rd-century space freighters living hand-to-mouth in the Asteroid Belt trying to keep body and soul and ship and crew together, avoiding the squeeze by the big corporations as much as they can.
+*   Millennials: The starship _Millennium_, Earth’s first interstellar vessel, with a contingent of the planet’s best and brightest on board, makes its way to the capital of the Galactic Civilization to prove that humanity has the right stuff to join up.
+*   Pax Galactica: Privileged citizens of the far-future Galactic Principate travel the spacelanes aboard luxurious interstellar liners as part of the entourage of a member of the galactic elite, to see the galaxy, or in pursuit of some vital mission.
 
 ### Scope
 
@@ -181,15 +181,15 @@ In creating a Fate Space game, the main addition to _Fate Core_ is considering h
 
 Defining a game’s issues and aspects is fundamental. According to _Fate Core_ (page 22), the things that spur characters to action are a game’s “big issues.” Big issues will imply what _Fate Core_ calls “story questions”: implicit challenges and plot hooks that drive the action. Here are some examples of issues and their associated story questions.
 
-* **Alien Invasion!**: Can we stop them? At what cost? What will we do if it seems like the aliens are winning? What will we sacrifice for victory?
-* **Uranium Rush in the Asteroid Belt**: What does it take to strike it rich? What happens when we succeed? What happens if we fail or give up?
-* **Grand Tour of the Galaxy**: How will we respond to the alien beings we meet and the alien places we visit? What local entanglements and resentments will we encounter? What problems are we carrying with us that will bear bitter fruit as we travel?
+*   **Alien Invasion!**: Can we stop them? At what cost? What will we do if it seems like the aliens are winning? What will we sacrifice for victory?
+*   **Uranium Rush in the Asteroid Belt**: What does it take to strike it rich? What happens when we succeed? What happens if we fail or give up?
+*   **Grand Tour of the Galaxy**: How will we respond to the alien beings we meet and the alien places we visit? What local entanglements and resentments will we encounter? What problems are we carrying with us that will bear bitter fruit as we travel?
 
 The big issues that define the setting may be treated as aspects. This means both that _they are generally true in the setting_ and that _they may be invoked_ for a narrative or mechanical effect under appropriate circumstances. They may also be modified or revisited at milestones. It is possible to drill down into a big issue to assign it specific aspects, which may themselves be treated according to the Bronze Rule (_Fate Core_, page 270) and fleshed out with other statistics. The Fate term for such quasi-characters—whether extraterrestrial hiveminds, alien societies, robot armies, natural disasters, or planetwide transportation networks—is **setting el****ement**.
 
-* **Orbiting Zithari Invasion Fleet**, an aspect of the alien invasion. GM might invoke to create obstacles related to orbital bombardment or enemy surveillance; PCs might compel to establish advantageous details about the composition of the fleet (ill-prepared for sustained planetary blockade!) or its routine (small blind spot in its orbital pattern provides an opportunity for stealth!). It is probably accompanied by **Zithari Ground Occupation Forces**.
-* **Space-Mining Megacorporations**, an aspect of the uranium rush. GM might invoke to create obstacles related to the megacorps’ deep pockets and profit-driven decision-making; PCs might compel to establish interorganizational rivalries and competition as well as bureaucratic inefficiencies.
-* **Pretentious Galactic Elite**, an aspect of the galactic grand tour. GM might invoke to create obstacles related to enforcing status hierarchies, pecking orders, and cliquish insularity; PCs might compel to establish cultural norms or ways of life that give them an advantage, such as being “in” with the haut monde.
+*   **Orbiting Zithari Invasion Fleet**, an aspect of the alien invasion. GM might invoke to create obstacles related to orbital bombardment or enemy surveillance; PCs might compel to establish advantageous details about the composition of the fleet (ill-prepared for sustained planetary blockade!) or its routine (small blind spot in its orbital pattern provides an opportunity for stealth!). It is probably accompanied by **Zithari Ground Occupation Forces**.
+*   **Space-Mining Megacorporations**, an aspect of the uranium rush. GM might invoke to create obstacles related to the megacorps’ deep pockets and profit-driven decision-making; PCs might compel to establish interorganizational rivalries and competition as well as bureaucratic inefficiencies.
+*   **Pretentious Galactic Elite**, an aspect of the galactic grand tour. GM might invoke to create obstacles related to enforcing status hierarchies, pecking orders, and cliquish insularity; PCs might compel to establish cultural norms or ways of life that give them an advantage, such as being “in” with the haut monde.
 
 In other words, you can treat a big issue as if it at least _potentially_ possessed some combination of aspects, skills, stunts, stress, and consequences, all while treating it as an aspect in and of itself. Usually, adding stress and consequences is more appropriate for games with epic tone, since it allows PCs to more easily push for significant, broad change in the setting, like “I take out the whole **Alien Invasion!**” Normally, affecting a big issue requires reaching a significant or major milestone (_Fate Core_, pages 264-265) by dealing with specific foes, antagonists, or problems.
 
@@ -201,17 +201,17 @@ So in effect, a black box is Just the Way Things Are, without further consequenc
 
 For example, any of these fictional details can be treated as a black box:
 
-* Antigravity in the deck plates
-* Hyperspace technology
-* Personal teleportation belts
-* Extended human lifespan
+*   Antigravity in the deck plates
+*   Hyperspace technology
+*   Personal teleportation belts
+*   Extended human lifespan
 
 A black box is probably _not_ going to be an aspect in the game, at least not when it’s first identified. Not all fictional details in the setting have to be aspects, which are simply details that are sufficiently consequential that we give them mechanical hooks.
 
 However, once established, a black box _can_ become a plot point in an adventure, even if most of the time it is ignored. Suddenly the grav plates are on the fritz; the power crystals are slowly depleting while the ship is trapped in hyperspace mid-jump; the calibration sensors on this TP-belt are out of alignment; or the captain’s nanogerionic therapy regimen has caused a harmful mutation. Any of these can be an issue that requires time and attention during play. Thus, black boxes can imply, inspire, and collect aspects that make the setting feel more plausible and coherent. For example, the black box “personal teleportation belts” might inspire the following aspects:
 
-* **We Don’t Need Roads**: Transportation infrastructure tends to be very limited, since you can teleport anywhere you want to go.
-* **Security Mazes**: Security and privacy rely on disorienting intruders and keeping them off-balance, since preventing physical intrusion is very difficult.
+*   **We Don’t Need Roads**: Transportation infrastructure tends to be very limited, since you can teleport anywhere you want to go.
+*   **Security Mazes**: Security and privacy rely on disorienting intruders and keeping them off-balance, since preventing physical intrusion is very difficult.
 
 A fun and productive way to collaborate in fleshing out the setting is to have players suggest interesting details associated with the setting elements that have been established. Then, in play, GM, pay attention to the possibilities implicit in the ongoing stream of talk that is your game, whether or not those possibilities have been formally established as aspects or identified as black boxes.
 
@@ -221,7 +221,7 @@ A fun and productive way to collaborate in fleshing out the setting is to have p
 
 Some GMs and groups will want to make this process more systematic. If you wish, you can keep a list of black boxes with specific details and relevant aspects, recording new entries as they are identified in play. Other groups will find it more enjoyable to keep the elaboration of black boxes as a completely ad hoc process.
 
-Take care to avoid having too many aspects in play at once. Enforce a limit of two to four setting aspects, including both big issues and “opened up” black boxes. In any event, one of the most important black boxes in a Fate Space game is space travel. Implementing this technology is discussed in greater detail in <span class="chapter-title">Spacecraft and Space Travel</span>.
+Take care to avoid having too many aspects in play at once. Enforce a limit of two to four setting aspects, including both big issues and “opened up” black boxes. In any event, one of the most important black boxes in a Fate Space game is space travel. Implementing this technology is discussed in greater detail in Spacecraft and Space Travel.
 
 ### Faces and Places
 
@@ -229,17 +229,17 @@ Defining important setting elements is a key to getting the game started. People
 
 #### The Space Map
 
-It is also a good idea at this point to sketch out a **space** **map** to help give players a sense of the extent of the setting. Each sample setting in this book has a space map, and the creation of space maps is discussed in greater detail in <span class="chapter-title">The Space Map</span>.
+It is also a good idea at this point to sketch out a **space** **map** to help give players a sense of the extent of the setting. Each sample setting in this book has a space map, and the creation of space maps is discussed in greater detail in <span>The Space Map.</span>
 
 #### Aliens and Alien Societies (Different Cultures)
 
-The presence or absence of aliens and their role in the setting, including specific alien species and civilizations, can be included with the faces and places to help players create characters. This is also where the setting rules about aliens can be introduced. In some settings, aliens will be very common and a new alien species—even a spacefaring one—can be introduced by anyone as a setting detail; in others, the presence of aliens on a given world will affect play significantly and will require the GM to bring them in. This is discussed in greater detail in <span class="chapter-title">Creating Aliens</span>.
+The presence or absence of aliens and their role in the setting, including specific alien species and civilizations, can be included with the faces and places to help players create characters. This is also where the setting rules about aliens can be introduced. In some settings, aliens will be very common and a new alien species—even a spacefaring one—can be introduced by anyone as a setting detail; in others, the presence of aliens on a given world will affect play significantly and will require the GM to bring them in. This is discussed in greater detail in <span>Creating Aliens.</span>
 
 More broadly, you can identify any sorts of cultural distinction in the setting. For example, in the sample setting _The High Frontiersmen_, some PCs may be Russian cosmonauts while others will be American astronauts.
 
 #### Extraterrestrial Planets
 
-Specific extraterrestrial planets can be identified in the faces and places, again to aid character creation. Similarly, rules and procedures for coming up with new worlds can be tailored to the setting depending on its extent. This is discussed in greater detail in <span class="chapter-title">Aliens and Alien Worlds</span>.
+Specific extraterrestrial planets can be identified in the faces and places, again to aid character creation. Similarly, rules and procedures for coming up with new worlds can be tailored to the setting depending on its extent. This is discussed in greater detail in Aliens and Alien Worlds.
 
 ##### Aliens and Other Strangers
 
@@ -265,9 +265,9 @@ Part of a character’s high concept may refer to their background—their plane
 
 Here are some examples:
 
-* **Spacer**: Invoke to reflect familiarity with space-going culture and folkways, including moving around in microgravity easily. Compel to suffer weakness and the possibility of injury in normal and high gravity, and to suffer the prejudices of planetbound people.
-* **Cyborg**. Invoke to reflect machine-augmented physical and computer-related capabilities. Compel to have to deal with software glitches, mechanical failures, or electronic short-circuits as well as the effects of an increasing psychological detachment from humanity.
-* **Slowtimer**: Invoke to access millennia-old secrets, information, and data from your long years of experience; compel to be blindsided by recent developments, changes, and anomalies.
+*   **Spacer**: Invoke to reflect familiarity with space-going culture and folkways, including moving around in microgravity easily. Compel to suffer weakness and the possibility of injury in normal and high gravity, and to suffer the prejudices of planetbound people.
+*   **Cyborg**. Invoke to reflect machine-augmented physical and computer-related capabilities. Compel to have to deal with software glitches, mechanical failures, or electronic short-circuits as well as the effects of an increasing psychological detachment from humanity.
+*   **Slowtimer**: Invoke to access millennia-old secrets, information, and data from your long years of experience; compel to be blindsided by recent developments, changes, and anomalies.
 
 ### Trouble
 
@@ -293,17 +293,17 @@ Adapt the skill list from _Fate Core_ to reflect your specific SF setting. We gi
 
 Option One: Rename Crafts to Engineering or Technology. This skill is used to operate, repair, design, and otherwise deal with technology of all kinds. Its stunts typically represent expertise in specific technical areas, or heavy machinery, robots, and high-tech toolkits.
 
-* Bioengineering: Because you are a trained bioengineer, you may use Engineering or Technology in place of Lore to create advantages representing biomechanical modifications or cybernetic augmentations, or to overcome obstacles related to medical conditions or treatment.
-* Life-Support Engineering: Because you are a trained life-support engineer, you gain +2 when using Engineering or Technology to overcome obstacles related to maintaining, repairing, or replacing life-support technology.
-* Xenotech: Because you are familiar with the principles of alien technology, you gain +2 when using Engineering or Technology to overcome obstacles related to understanding or adapting alien technology.
+*   Bioengineering: Because you are a trained bioengineer, you may use Engineering or Technology in place of Lore to create advantages representing biomechanical modifications or cybernetic augmentations, or to overcome obstacles related to medical conditions or treatment.
+*   Life-Support Engineering: Because you are a trained life-support engineer, you gain +2 when using Engineering or Technology to overcome obstacles related to maintaining, repairing, or replacing life-support technology.
+*   Xenotech: Because you are familiar with the principles of alien technology, you gain +2 when using Engineering or Technology to overcome obstacles related to understanding or adapting alien technology.
 
 Option Two: Rename Crafts to Technoscience. This skill includes authoritative knowledge of natural phenomena as predicted, controlled, and explained via technical means, and so it subsumes the relevant part of Lore, which may be renamed “Culture” or something similar to reflect its more limited character.
 
-* Theoretician: Because of your training and intellect, you gain +2 when using Technoscience to create advantages that refer to interesting or useful empirical implications of abstract scientific models. For example, a character might use a Technoscience success to note that if the artificial gravity fields in the ship’s deck plates can be manipulated with sufficient precision, and thus **Focused Gravitational Lensing** would permit **Localized Invisibility Fields**. The latter advantage could then justify the use of Technoscience to create invisibility fields aboard the ship controlled from the life-support workstation; **Focused Gravitational Lensing** might also lead to other specific innovations, like tractor beams and pressor arrays.
+*   Theoretician: Because of your training and intellect, you gain +2 when using Technoscience to create advantages that refer to interesting or useful empirical implications of abstract scientific models. For example, a character might use a Technoscience success to note that if the artificial gravity fields in the ship’s deck plates can be manipulated with sufficient precision, and thus **Focused Gravitational Lensing** would permit **Localized Invisibility Fields**. The latter advantage could then justify the use of Technoscience to create invisibility fields aboard the ship controlled from the life-support workstation; **Focused Gravitational Lensing** might also lead to other specific innovations, like tractor beams and pressor arrays.
 
 Option Three: Divide Crafts into Operate, Repair, and Design. Operate is limited to using technological devices not covered by another skill. Repair includes troubleshooting and fixing problems as they emerge. Design allows for modifying devices and creating new ones. Each skill is independent and discrete, so Repair doesn’t let you also Operate. Alternately, you can allow a more knowledge-intensive skill to be used in place of a less-intensive one, albeit against higher opposition, or vice versa, substituting the less-intensive skill for the more-intensive one. In general, Operate is the least knowledge-intensive while Design is the most knowledge-intensive.
 
-* Miracle Worker: Because you work well under pressure, you gain +2 when using Repair to treat consequences taken by a spaceship or other vehicle.
+*   Miracle Worker: Because you work well under pressure, you gain +2 when using Repair to treat consequences taken by a spaceship or other vehicle.
 
 If the generally available technology level varies from place to place in your setting, you might want to supplement option three by adding **tech levels**. For example, a galactic setting where each world has a distinct culture might classify planets according their relative levels of technological achievement.
 
@@ -313,28 +313,28 @@ Option 1: Split Drive into Ride, Drive, and Pilot. Ride is the skill for using m
 
 Option 2: Replace Drive with Operate. Operate covers the use of all technological devices. Stunts can be used to reflect expertise with specific vehicles.
 
-* Hot Pilot: Because you are a skilled spacepilot, you gain +2 to overcome with Operate when piloting a space fighter or other small spacecraft.
-* Space Ace: Because you are steely-nerved combat pilot, you may attack with Operate when you are piloting a space fighter or other small, armed spacecraft.
-* Seat-of-the-Pants Navigator: Because you have an uncanny knack for space navigation, you may use Pilot in place of the equivalent navigation skill (e.g., Astrogation, Science) to set a course from point A to point B in normal space.
+*   Hot Pilot: Because you are a skilled spacepilot, you gain +2 to overcome with Operate when piloting a space fighter or other small spacecraft.
+*   Space Ace: Because you are steely-nerved combat pilot, you may attack with Operate when you are piloting a space fighter or other small, armed spacecraft.
+*   Seat-of-the-Pants Navigator: Because you have an uncanny knack for space navigation, you may use Pilot in place of the equivalent navigation skill (e.g., Astrogation, Science) to set a course from point A to point B in normal space.
 
 #### Lore
 
 Option 1: Rename Knowledge. Knowledge sounds more appropriate for a science fiction game than Lore, which has a fantasy feel. You can double down on this to better describe your setting, calling it Education, Data Access, Information, or Memory instead—each name has different implications, especially for interacting with information technology and computer data.
 
-* Data Analyst: Because you are skilled at data analysis, you gain +2 to create advantages with Knowledge when you can consult accumulated data records about the object of your analysis.
-* Boolean Ace: Because you are expert at searching through large databases, you may use Knowledge in place of Investigate when you have access to data records about the target of your investigation.
+*   Data Analyst: Because you are skilled at data analysis, you gain +2 to create advantages with Knowledge when you can consult accumulated data records about the object of your analysis.
+*   Boolean Ace: Because you are expert at searching through large databases, you may use Knowledge in place of Investigate when you have access to data records about the target of your investigation.
 
 Option 2: Split Lore into Culture and Science. The former skill represents social and cultural knowledge, including the arts and humanities as well as common-sense knowledge of a given culture. The latter skills represent systematic knowledge of the social and natural worlds, respectively.
 
-* Synesthete: Because you are a synesthetic poet, you may use Culture in place of Provoke when you perform one of your multi-sensory compositions for a receptive or captive audience.
-* Experimentalist: Because you are trained in scientific experimentation, you gain +2 to create advantages with Science by testing an empirical hypothesis about some physical phenomenon.
+*   Synesthete: Because you are a synesthetic poet, you may use Culture in place of Provoke when you perform one of your multi-sensory compositions for a receptive or captive audience.
+*   Experimentalist: Because you are trained in scientific experimentation, you gain +2 to create advantages with Science by testing an empirical hypothesis about some physical phenomenon.
 
 Option 3: Split Lore into multiple discipline-based sub-skills. Broad fields of inquiry are presumed to represent bodies of knowledge and ways of knowing related to science, the arts and humanities, and other fields. Stunts can represent specialized training or education and professional recognition and achievement, like a physician’s license.
 
-* Arts: Subsumes that part of Lore related to cultural expression. Its stunts are often related to specific art forms like Painting, Sculpture, and Literature, giving +2 to creating advantages with that art form.
-* Humanities: Subsumes that part of Lore related to knowledge of specific human events, ideas, and creations. Its stunts are often related to specific disciplines like History, Philosophy, and Law, giving +2 to creating advantages with that discipline.
-* Social Science: Subsumes that part of Lore related to systematic knowledge of human behavior, interactions, and motivations. Its stunts are often related to specific social sciences like Anthropology, Sociology, and Psychology, giving +2 to creating advantages with that science.
-* Natural Science: Subsumes that part of Lore related to systematic knowledge of material phenomena. Its stunts are often related to specific natural sciences like Physics, Chemistry, and Planetology, giving +2 to creating advantages with that science. A scientist’s skill to make new scientific discoveries or theoretical breakthroughs may require a stunt (Experimentalist or Theoretician, for example) unless the setting embraces the notion of rapid scientific advancement.
+*   Arts: Subsumes that part of Lore related to cultural expression. Its stunts are often related to specific art forms like Painting, Sculpture, and Literature, giving +2 to creating advantages with that art form.
+*   Humanities: Subsumes that part of Lore related to knowledge of specific human events, ideas, and creations. Its stunts are often related to specific disciplines like History, Philosophy, and Law, giving +2 to creating advantages with that discipline.
+*   Social Science: Subsumes that part of Lore related to systematic knowledge of human behavior, interactions, and motivations. Its stunts are often related to specific social sciences like Anthropology, Sociology, and Psychology, giving +2 to creating advantages with that science.
+*   Natural Science: Subsumes that part of Lore related to systematic knowledge of material phenomena. Its stunts are often related to specific natural sciences like Physics, Chemistry, and Planetology, giving +2 to creating advantages with that science. A scientist’s skill to make new scientific discoveries or theoretical breakthroughs may require a stunt (Experimentalist or Theoretician, for example) unless the setting embraces the notion of rapid scientific advancement.
 
 #### Shoot
 
@@ -342,9 +342,9 @@ Option 1\. Rename Shoot to Weapons or Warfare. This reflects some degree of fami
 
 Option 2\. Divide Shoot into categories of weapons. Different types of weapons may require different skill sets to operate, such as Firearms (for handguns and other small arms) and Gunnery (for space naval heavy weaponry). Use stunts to represent expertise with particular classes of weapon.
 
-* Deadeye Aim: Because you are uncannily accurate with space weapons, once per scene you can gain +4, rather than +2, to your Gunnery attack when you invoke an advantage you’ve created related to taking aim or getting a target in your sights.
-* Final Protective Fire: Because you are a trained point-defense gunner, you may spend a fate point to attack multiple defenders during a single exchange with Gunnery. Before you roll, declare all of your defenders and the order in which you will attack them. For each defender after the first you declare, you suffer -1 to each of your attacks. Roll and resolve each attack in order; a given invocation applies only to one attack, not all of them.
-* Sniper: Gain +2 to attack with Firearms when you’re firing a personal firearm at a defender that is two or more zones away.
+*   Deadeye Aim: Because you are uncannily accurate with space weapons, once per scene you can gain +4, rather than +2, to your Gunnery attack when you invoke an advantage you’ve created related to taking aim or getting a target in your sights.
+*   Final Protective Fire: Because you are a trained point-defense gunner, you may spend a fate point to attack multiple defenders during a single exchange with Gunnery. Before you roll, declare all of your defenders and the order in which you will attack them. For each defender after the first you declare, you suffer -1 to each of your attacks. Roll and resolve each attack in order; a given invocation applies only to one attack, not all of them.
+*   Sniper: Gain +2 to attack with Firearms when you’re firing a personal firearm at a defender that is two or more zones away.
 
 Option 3\. Keep Shoot for Small Arms Only. Alternately, presume that Shoot refers to hand weapons only, and assign space weapons to other skills such as Drive (Pilot) or Crafts (Engineering).
 
@@ -358,43 +358,43 @@ Knowledge of the technical procedures and professional practices needed to calcu
 
 The difficulty of course calculation depends on the complexity of the course and the capabilities of the ship. Planning a straightforward trip from Planet A to Planet B across distances within the ship’s normal range and endurance may face Mediocre (+0) or Average (+1) difficulty, while trying to calculate the complicated series of burns needed to decelerate a slower-than-light generation ship coming in from interstellar space with limited delta-vee (change in velocity) by means of multiple planetary fly-bys that may subject the ship to structural stress may face Great (+4), Superb (+5), or even Fantastic (+6) difficulty.
 
-The GM will set the time required for the journey based on the distances involved and the speeds obtainable, remembering that periods of acceleration, deceleration, and possibly coasting will occur. Express the time required in “half,” “one,” “a few,” or “several” units of time, per _Fate Core_ (page 197). Attainable speeds will depend in large measure upon the technology available in your setting, discussed in greater detail in <span class="chapter-title">Spacecraft and Space Travel</span>.
+The GM will set the time required for the journey based on the distances involved and the speeds obtainable, remembering that periods of acceleration, deceleration, and possibly coasting will occur. Express the time required in “half,” “one,” “a few,” or “several” units of time, per _Fate Core_ (page 197). Attainable speeds will depend in large measure upon the technology available in your setting, discussed in greater detail in Spacecraft and Space Travel.
 
 Succeeding with style on Astrogation may create boosts such as **Fuel-Efficient Course** or **Planetary Syzygy** that can be used as a bonus if Pilot is needed to complete the maneuver. Alternatively, succeeding with style can simply reduce the time required for travel by one shift, meaning a trip that would take a few months will only take one.
 
 Failure can result in “no solution”—the ship lacks the requisite delta-vee to get to its destination. Conditions must change before any recalculation is possible. Alternately, failure can mean that the course plot is inaccurate, requiring additional expenditures of reaction mass or other resources to correct, or that the ship is subjected to structural stress or other damage, or that the time required to travel increases by one shift, or perhaps two shifts of time if you get three or more shifts of failure.
 
-* Starblazer: Because of your attention to detail, you gain +2 to Astrogation when you are plotting a course to a place where no one has gone before—or at least, no one of whom you’re aware.
-* Stargazer: Because you’ve pored over the available star charts and sky maps, you gain +2 to Astrogation when creating advantages related to knowing astrographic information about the region of space into which you are traveling.
+*   Starblazer: Because of your attention to detail, you gain +2 to Astrogation when you are plotting a course to a place where no one has gone before—or at least, no one of whom you’re aware.
+*   Stargazer: Because you’ve pored over the available star charts and sky maps, you gain +2 to Astrogation when creating advantages related to knowing astrographic information about the region of space into which you are traveling.
 
 #### Bureaucracy
 
 This is knowledge of the workings of large, impersonal, hierarchical institutions such as government agencies, corporations, and the military. It is used to overcome obstacles and create advantages related to knowing the rules, policies, and protocols of the organization, dealing with red tape, and winning at office politics. A more neutral label for this skill is “Administration,” which also implies a certain level of managerial competence. This skill is useful when trying to convince starport officials that an out-of-date docking license still passes muster, that a cargo of exotic animals doesn’t fall under extant quarantine regulations, and so forth.
 
-* Barrack-Room Lawyer: Because of your vast knowledge of administrative trivia, you may use Bureaucracy in place of Rapport to attack or create advantages when the act of throwing out legalistic or official-sounding terms and concepts might be convincing.
-* Red Tape-Cutter: Because you have a good idea about which shortcuts an organization is likely to tolerate, you gain +2 to overcome obstacles with Bureaucracy when attempting to demonstrate that you have met an organization’s requirements or followed its stipulated procedures.
+*   Barrack-Room Lawyer: Because of your vast knowledge of administrative trivia, you may use Bureaucracy in place of Rapport to attack or create advantages when the act of throwing out legalistic or official-sounding terms and concepts might be convincing.
+*   Red Tape-Cutter: Because you have a good idea about which shortcuts an organization is likely to tolerate, you gain +2 to overcome obstacles with Bureaucracy when attempting to demonstrate that you have met an organization’s requirements or followed its stipulated procedures.
 
 #### Command
 
 This is the skill for directing, inspiring, and leading people. You can use it to overcome obstacles and create advantages related to coordinating the activities of groups and individuals, keeping up morale, and ensuring good order among the troops. It subsumes the relevant parts of Rapport and Provoke.
 
-* Charisma: Because you are an inspirational leader, you gain +2 to create advantages with Command when you try to maintain or improve the morale of your followers.
-* Martinet: Because you have a reputation as a strict disciplinarian, you gain +2 to overcome with Command when you are trying to enforce compliance with behavioral rules and regulations among the people you’re leading.
+*   Charisma: Because you are an inspirational leader, you gain +2 to create advantages with Command when you try to maintain or improve the morale of your followers.
+*   Martinet: Because you have a reputation as a strict disciplinarian, you gain +2 to overcome with Command when you are trying to enforce compliance with behavioral rules and regulations among the people you’re leading.
 
 #### Encounter
 
 If aliens are relatively infrequent or very strange in your setting, you’ll use Encounter—rather than Deceive, Provoke, or Rapport—to interact with them. It is used to overcome or create advantages. If a listed skill doesn’t exist, the appropriate interaction is used instead. In any case, certain aliens may get a bonus to Will or Empathy to reflect the difficulty other species have in engaging them, though this bonus will probably be more common if you do not include Encounter.
 
-* Alien Whisperer: Because you have an intuitive or learned understanding of alien psychology, you may use Encounter in place of Empathy when trying to make sense of alien motivations or desires.
-* Practically Raised by Martians: Because of your familiarity with their culture and traditions, you gain +2 to Encounter when dealing with Martians. (You can rename this stunt to apply it to another specific alien civilization.)
+*   Alien Whisperer: Because you have an intuitive or learned understanding of alien psychology, you may use Encounter in place of Empathy when trying to make sense of alien motivations or desires.
+*   Practically Raised by Martians: Because of your familiarity with their culture and traditions, you gain +2 to Encounter when dealing with Martians. (You can rename this stunt to apply it to another specific alien civilization.)
 
 #### Planetary Survival
 
 Planetary Survival replaces that part of Lore related to practical knowledge of “roughing it” in uncivilized conditions. It may also include that part of Lore used to administer first aid; in this case, more advanced medical training is a stunt that permits the use of Science in place of Planetary Survival for that purpose. Its stunts may also be used to enhance survival skill on a specific planet or a particular type of planet—which means that how planets are classified, or what types of planets exist in your setting, is important in creating such stunts.
 
-* Absolute Zero: Because of your experience on such worlds, you gain +2 to Planetary Survival when overcoming hazardous groundside conditions on frozen worlds, like those in the outer reaches of a solar system.
-* Habitable World Training: Pick a certain class of habitable world present in the setting, such as one on the Habitable Worlds table. Because of your experience on such worlds, you gain +2 to overcome obstacles related to hazardous groundside conditions on such a world.
-* Dirtside Medic: Because of your practical experience, you gain +2 to Planetary Survival when treating mild and moderate physical consequences suffered by others as a result of exposure to planetary conditions.
+*   Absolute Zero: Because of your experience on such worlds, you gain +2 to Planetary Survival when overcoming hazardous groundside conditions on frozen worlds, like those in the outer reaches of a solar system.
+*   Habitable World Training: Pick a certain class of habitable world present in the setting, such as one on the Habitable Worlds table. Because of your experience on such worlds, you gain +2 to overcome obstacles related to hazardous groundside conditions on such a world.
+*   Dirtside Medic: Because of your practical experience, you gain +2 to Planetary Survival when treating mild and moderate physical consequences suffered by others as a result of exposure to planetary conditions.
 
 #### Psionics
 
@@ -408,25 +408,25 @@ Psionics allows you to use the power of your mind to affect the real world. It i
 
 Stunts can expand the range and versatility of the Psionics skill.
 
-* Psionic Navigation: Because of your psychic training, you may use Psionics in place of Astrogation to calculate interstellar paths through hyperspace.
-* Psychic Blast: Because of your psychic training, you may attack with Psionics against the defender’s Will or Psionics.
-* Telekinetic Force: Because of your psychic training, you may use Psionics in place of Physique to lift, throw, hurl, or crush nearby objects as if you had enormous strength.
+*   Psionic Navigation: Because of your psychic training, you may use Psionics in place of Astrogation to calculate interstellar paths through hyperspace.
+*   Psychic Blast: Because of your psychic training, you may attack with Psionics against the defender’s Will or Psionics.
+*   Telekinetic Force: Because of your psychic training, you may use Psionics in place of Physique to lift, throw, hurl, or crush nearby objects as if you had enormous strength.
 
 #### Rank
 
 Rank reflects a character’s status and position within a hierarchical organization and thus indicates their efficacy in utilizing their official powers, working as a sort of combination of Resources and Contacts when dealing with that organization. A character’s Rank rating might not correspond to their in-fiction rank. For example, a star admiral with Mediocre (+0) Rank still outranks a space sergeant with Fair (+2) Rank in the fiction, but the space sergeant would be better at getting the detachment ready for inspection or obtaining a much-needed hyperthermal coupler at stardock during refitting.
 
-* Rank Hath Its Privileges: You may use Rank in place of Resources to create advantages related to obtaining personal wealth or goods for your private use from your organization.
-* Highly Decorated: You may use Rank in place of Rapport to create advantages related to using your words to inspire, motivate, or otherwise lift up members of your organization.
+*   Rank Hath Its Privileges: You may use Rank in place of Resources to create advantages related to obtaining personal wealth or goods for your private use from your organization.
+*   Highly Decorated: You may use Rank in place of Rapport to create advantages related to using your words to inspire, motivate, or otherwise lift up members of your organization.
 
 #### Spacehand
 
 Spacehand subsumes those parts of Lore and Crafts associated with practical knowledge of shipboard life. It is typically used to overcome and defend against difficulties connected to living, working, and moving in space. This includes moving around in zero-g, wearing a spacesuit properly so as to avoid accident or injury while in vacuum, walking on the outside of a spacecraft hull, and so on. You’ll use this skill whenever something out of the ordinary happens in a space environment. Need to don your spacesuit in record time? Roll Spacehand. Need to patch a micro-meteor leak? Roll Spacehand. In a near-future setting, this skill can be called Astronaut—or Cosmonaut.
 
-* Old Space Dog: Because you’ve been around a time or two, you may use Spacehand in place of Contacts when looking for a spacer in a starport or other likely meeting place for professional space travelers.
-* Spacewalker: Because you are well trained in extra-vehicular activity, you gain +2 to Spacehand when overcoming obstacles related to operations outside a spacecraft.
-* Zero-Gee Acrobatics: Because you are skilled at low-gravity movement, you may use Spacehand in place of Athletics to move in microgravity, as long as there are surfaces that you can push against.
-* Zero-Gee Martial Arts: Because you are familiar with fighting in zero-gee, you may use Spacehand in place of Fight to attack in hand-to-hand combat while in microgravity.
+*   Old Space Dog: Because you’ve been around a time or two, you may use Spacehand in place of Contacts when looking for a spacer in a starport or other likely meeting place for professional space travelers.
+*   Spacewalker: Because you are well trained in extra-vehicular activity, you gain +2 to Spacehand when overcoming obstacles related to operations outside a spacecraft.
+*   Zero-Gee Acrobatics: Because you are skilled at low-gravity movement, you may use Spacehand in place of Athletics to move in microgravity, as long as there are surfaces that you can push against.
+*   Zero-Gee Martial Arts: Because you are familiar with fighting in zero-gee, you may use Spacehand in place of Fight to attack in hand-to-hand combat while in microgravity.
 
 ## Stunts
 
@@ -436,20 +436,20 @@ You can use stunts to add a science-fictional gloss to otherwise normal skills.
 
 Athletics stunts can reflect the physiological advantages accrued from alien, mutant, cyborg, and similar anatomical variations. Power armor, performance-enhancing drugs, and prosthetic limbs and organs may also justify Athletics stunts.
 
-* Glandular Implant: Because you have been implanted with an artificial adrenaline gland, once per session when you are using Athletics to overcome or defend, you may spend a fate point to treat your dice roll as <span class="fate-dice">++++</span> before or after rolling them.
-* Tentacles: Because you have powerful manipulator tentacles, you gain +2 to Athletics when creating advantages related to grabbing, grasping, or holding on to something.
+*   Glandular Implant: Because you have been implanted with an artificial adrenaline gland, once per session when you are using Athletics to overcome or defend, you may spend a fate point to treat your dice roll as <span>++++ before or after rolling them.</span>
+*   Tentacles: Because you have powerful manipulator tentacles, you gain +2 to Athletics when creating advantages related to grabbing, grasping, or holding on to something.
 
 ### Burglary
 
 Burglary stunts can represent high-tech lockpicks and safecracking gear. If your setting includes regions of different technological sophistication, you can use Burglary stunts to reflect the advantages of greater technical knowledge and preparation.
 
-* Ninja Skills: Because you have received special training, you gain +2 to Burglary when overcoming low-tech security equipment and procedures, such as unaugmented guards, mechanical locks, and pressure plates.
+*   Ninja Skills: Because you have received special training, you gain +2 to Burglary when overcoming low-tech security equipment and procedures, such as unaugmented guards, mechanical locks, and pressure plates.
 
 ### Contacts
 
 Contacts stunts can reflect a reputation among particular groups or a wide array of acquaintances on certain planets. They also could reflect being wired into information technology and communications networks.
 
-* Traveller: Because you have traveled extensively throughout the galaxy, whenever you return to a planet that you’ve ever visited, you gain +2 to Contacts to overcome difficulties in finding someone you need to find or want to meet. Additionally, you may spend a fate point when you first arrive on a new world to declare that you have been to this place before.
+*   Traveller: Because you have traveled extensively throughout the galaxy, whenever you return to a planet that you’ve ever visited, you gain +2 to Contacts to overcome difficulties in finding someone you need to find or want to meet. Additionally, you may spend a fate point when you first arrive on a new world to declare that you have been to this place before.
 
 ### Crafts
 
@@ -459,8 +459,8 @@ See _Fate Core_, page 102.
 
 Deceive stunts can reflect the advantages possessed by particularly inscrutable or hard-to-read alien species. Also, sophisticated disguise kits and similar technologies justify a Deceive stunt.
 
-* Mask-Like Countenance: Because your facial expressions are particularly neutral or otherwise hard to read, you gain +2 to defend with Deceive versus efforts to discern your true motivations, intentions, or nature using Empathy or Investigate.
-* Personality Graft: Because you can imprint personality patterns upon your brain, you may spend a fate point to imprint the patterns of an individual that you’ve observed, gaining +2 to create advantages and overcome obstacles with Deceive when you are imitating or impersonating that individual.
+*   Mask-Like Countenance: Because your facial expressions are particularly neutral or otherwise hard to read, you gain +2 to defend with Deceive versus efforts to discern your true motivations, intentions, or nature using Empathy or Investigate.
+*   Personality Graft: Because you can imprint personality patterns upon your brain, you may spend a fate point to imprint the patterns of an individual that you’ve observed, gaining +2 to create advantages and overcome obstacles with Deceive when you are imitating or impersonating that individual.
 
 ### Drive
 
@@ -470,23 +470,23 @@ See _Fate Core_, page 106.
 
 Empathy stunts can reflect alien, mutant, or cyborg abilities, as well as advanced neuroscientific equipment.
 
-* Projective Telempath: Because you have psionic powers, you may attack with Empathy versus Will, sending out waves of emotion after emotion that produce mind-shattering catharsis in the target.
-* Telempathic Healing: Because you have psionic powers, once per session you may reduce the severity of someone’s else’s consequence by one step by succeeding with Empathy against Mediocre (+0) difficulty for a mild consequence, Fair (+2) for moderate, and Great (+4) for severe. If you succeed, you then take a mild consequence. If you fail, you may succeed at a cost by taking a consequence of the severity you healed.
-* Vee-Kay Analyzer: Because you have access to special equipment, you gain +2 to Empathy when trying to figure out someone’s psychological stressors or breaking points during an interview.
+*   Projective Telempath: Because you have psionic powers, you may attack with Empathy versus Will, sending out waves of emotion after emotion that produce mind-shattering catharsis in the target.
+*   Telempathic Healing: Because you have psionic powers, once per session you may reduce the severity of someone’s else’s consequence by one step by succeeding with Empathy against Mediocre (+0) difficulty for a mild consequence, Fair (+2) for moderate, and Great (+4) for severe. If you succeed, you then take a mild consequence. If you fail, you may succeed at a cost by taking a consequence of the severity you healed.
+*   Vee-Kay Analyzer: Because you have access to special equipment, you gain +2 to Empathy when trying to figure out someone’s psychological stressors or breaking points during an interview.
 
 ### Fight
 
 Fight stunts can reflect training with particular weapons, especially stylishly futuristic ones. They may also refer to fighting styles or schools, or to maneuvers and strikes with futuristic weapons.
 
-* Energy-Staff Feint: Because of your _peregrinato_-warrior training, you gain +2 to create advantages with Fight when using your energy staff to blind, disorient, or otherwise discomfit your opponent.
-* Zero-Gee Brawling: Because you have trained as a space marine, you gain +2 to attack with Fight when you are in hand-to-hand combat in microgravity conditions.
+*   Energy-Staff Feint: Because of your _peregrinato_-warrior training, you gain +2 to create advantages with Fight when using your energy staff to blind, disorient, or otherwise discomfit your opponent.
+*   Zero-Gee Brawling: Because you have trained as a space marine, you gain +2 to attack with Fight when you are in hand-to-hand combat in microgravity conditions.
 
 ### Investigate
 
 Investigate stunts may reflect sophisticated cognitive capabilities as well as high-tech data-analysis tools.
 
-* Encyclopedia Pangalactica: Because you have access to the Encyclopedia Pangalactica, you gain +2 to creating advantages with Investigate if the object of your investigation is important enough to have an encyclopedia entry.
-* Full-Spectrum Signal Analyzer: Because you have access to special equipment, you gain +2 to Investigate when overcoming difficulties associated with deciphering or interpreting possible communication signals.
+*   Encyclopedia Pangalactica: Because you have access to the Encyclopedia Pangalactica, you gain +2 to creating advantages with Investigate if the object of your investigation is important enough to have an encyclopedia entry.
+*   Full-Spectrum Signal Analyzer: Because you have access to special equipment, you gain +2 to Investigate when overcoming difficulties associated with deciphering or interpreting possible communication signals.
 
 ### Lore
 
@@ -496,61 +496,61 @@ See _Fate Core_, page 114.
 
 Notice stunts represent alien abilities and mutations as well as advanced communications gear and sensors.
 
-* Handheld Scanner: Because you have access to special equipment, you gain +2 when creating advantages with Notice during an initial inspection of some area or scene.
-* Radio Sense: Because of a mutation that allows you to sense radio waves, you gain +2 to create advantages with Notice related to the electromagnetic radiation being given off by a point source.
+*   Handheld Scanner: Because you have access to special equipment, you gain +2 when creating advantages with Notice during an initial inspection of some area or scene.
+*   Radio Sense: Because of a mutation that allows you to sense radio waves, you gain +2 to create advantages with Notice related to the electromagnetic radiation being given off by a point source.
 
 ### Physique
 
 Physique stunts can reflect the physiological advantages accrued from alien, mutant, cyborg, and similar anatomical variations, as well as from survival equipment of different sorts.
 
-* Heavyworlder: Because you are native to a high-gee planet, you gain +2 to Physique to overcome or defend against the effects of high gravity, acceleration, and other g-forces that you may experience.
-* Rapid Regeneration: Because of your unique physiology, once per scene you may spend a fate point to immediately clear a mild consequence or reduce the severity of a moderate or severe consequence by one step. You may rename the consequence if appropriate.
+*   Heavyworlder: Because you are native to a high-gee planet, you gain +2 to Physique to overcome or defend against the effects of high gravity, acceleration, and other g-forces that you may experience.
+*   Rapid Regeneration: Because of your unique physiology, once per scene you may spend a fate point to immediately clear a mild consequence or reduce the severity of a moderate or severe consequence by one step. You may rename the consequence if appropriate.
 
 ### Provoke
 
 Provoke stunts can reflect alien abilities and setting-defining social circumstances.
 
-* Bug-Eyed Monster: Because you are a freakish alien, you gain +2 to Provoke when creating advantages related to frightening or repulsing normal human beings and others with similar sensibilities.
-* Psychic Blast: Because of your psychic powers, you may use Provoke to attack any intelligent target, even if you are unable to communicate or otherwise interact with them. The target defends with Will.
-* The Death Sentence in Twelve Systems: Because of your notoriety in the demimonde, you gain +2 to Provoke when creating advantages among criminals, outlaws, and other denizens of the underworld.
+*   Bug-Eyed Monster: Because you are a freakish alien, you gain +2 to Provoke when creating advantages related to frightening or repulsing normal human beings and others with similar sensibilities.
+*   Psychic Blast: Because of your psychic powers, you may use Provoke to attack any intelligent target, even if you are unable to communicate or otherwise interact with them. The target defends with Will.
+*   The Death Sentence in Twelve Systems: Because of your notoriety in the demimonde, you gain +2 to Provoke when creating advantages among criminals, outlaws, and other denizens of the underworld.
 
 ### Rapport
 
 As with Provoke, Rapport stunts can be used to reflect alien abilities and setting-defining social circumstances.
 
-* Imperial Facilitator: Because of the special trust the Imperator of the Galaxy has for you, you gain +2 to Rapport when overcoming an Imperial citizen’s reluctance to assist you in your duties.
-* Pheromonal Mimic: Because you can produce tailored pheromonal mixes, you may spend a fate point to gain +2 to Rapport against one target who shares your life-support environment. This bonus lasts until the end of the session. You may spend another fate point to change your target, but changing your target ends the bonus for your previous target.
+*   Imperial Facilitator: Because of the special trust the Imperator of the Galaxy has for you, you gain +2 to Rapport when overcoming an Imperial citizen’s reluctance to assist you in your duties.
+*   Pheromonal Mimic: Because you can produce tailored pheromonal mixes, you may spend a fate point to gain +2 to Rapport against one target who shares your life-support environment. This bonus lasts until the end of the session. You may spend another fate point to change your target, but changing your target ends the bonus for your previous target.
 
 ### Resources
 
 Resources stunts reflect unusual sources of wealth or economic influence as well as the effects of wealth accumulation.
 
-* Galactic Line of Credit: Whenever you are compelled because of your financial needs or economic circumstances, you gain an extra fate point.
-* Cash Reserves: Once per session, when you are compelled because of your financial needs or economic circumstances, you may reject the compel without paying a fate point.
-* Trader to the Stars: After you use Resources to create advantages that represent the acquisition of trade goods or valuable commodities, you may trade any unused free invocations on those advantages for fate points, one to one, but you must do so at a market for those goods. However, at the end of a session, you lose any fate points you have above your refresh. Note that others do not lose any excess accrued fate points, reflecting the volatility of the market.
-* All the Way to the Bank: At the end of a session, if you have three or more fate points in excess of your refresh, you may spend three fate points to increase your refresh by one. (GMs, as written this is a pretty powerful effect, so you may wish to slow advancement by setting the threshold for advancing to four, five, six, or even more excess fate points, depending on the circumstances of the campaign.)
-* Market Savvy: Because you are a master of buying low and selling high, whenever you use Resources to create an advantage that represents the acquisition of trade goods or valuable commodities, a success counts as a success with style.
+*   Galactic Line of Credit: Whenever you are compelled because of your financial needs or economic circumstances, you gain an extra fate point.
+*   Cash Reserves: Once per session, when you are compelled because of your financial needs or economic circumstances, you may reject the compel without paying a fate point.
+*   Trader to the Stars: After you use Resources to create advantages that represent the acquisition of trade goods or valuable commodities, you may trade any unused free invocations on those advantages for fate points, one to one, but you must do so at a market for those goods. However, at the end of a session, you lose any fate points you have above your refresh. Note that others do not lose any excess accrued fate points, reflecting the volatility of the market.
+*   All the Way to the Bank: At the end of a session, if you have three or more fate points in excess of your refresh, you may spend three fate points to increase your refresh by one. (GMs, as written this is a pretty powerful effect, so you may wish to slow advancement by setting the threshold for advancing to four, five, six, or even more excess fate points, depending on the circumstances of the campaign.)
+*   Market Savvy: Because you are a master of buying low and selling high, whenever you use Resources to create an advantage that represents the acquisition of trade goods or valuable commodities, a success counts as a success with style.
 
 ### Shoot
 
 Shoot stunts may reflect special training or experience as well as devices such as scopes, sights, and special ammunition. Firearms may be represented by special rules, such as the Weapon ratings described in _Fate Core_ (page 277) and the alternatives described in the _Fate System Toolkit_ (pages 70-72).
 
-* L-5 Colony Windage: Because you are experienced in correcting for the effects of being inside rotating cylindrical habitats and similar places, you can attack with Shoot with no increase in difficulty due to Coriolis force, as described in <span class="chapter-title">“Microgravity”</span>.
+*   L-5 Colony Windage: Because you are experienced in correcting for the effects of being inside rotating cylindrical habitats and similar places, you can attack with Shoot with no increase in difficulty due to Coriolis force, as described in “Microgravity”.
 
 ### Stealth
 
 Stealth stunts may reflect alien, mutant, or cyborg capabilities as well as technological devices such as cloaking devices and stealth sheathing.
 
-* Camouflage Circuit: Because you have a suit with a light-bending fiber-optic lattice, you may spend a fate point to remove yourself from the scene. You may later reintroduce yourself to the scene in any place that you could have reached while you were out of sight, even interrupting another’s action to do so. If you didn’t act during the exchange in which you vanished, you may act immediately. Otherwise, you simply reappear and will act during the next exchange.
-* Prana Bindu Training: Because you have been trained in a graceful and subtle martial art, you may defend with Stealth against Fight attacks as long as you have suffered no stress or consequences in the current conflict.
+*   Camouflage Circuit: Because you have a suit with a light-bending fiber-optic lattice, you may spend a fate point to remove yourself from the scene. You may later reintroduce yourself to the scene in any place that you could have reached while you were out of sight, even interrupting another’s action to do so. If you didn’t act during the exchange in which you vanished, you may act immediately. Otherwise, you simply reappear and will act during the next exchange.
+*   Prana Bindu Training: Because you have been trained in a graceful and subtle martial art, you may defend with Stealth against Fight attacks as long as you have suffered no stress or consequences in the current conflict.
 
 ### Will
 
 Will stunts may reflect alien, mutant, or cyborg capabilities as well as technological devices such as cybernetic memory or psionics.
 
-* Alien Mindset: Because your alien physiology makes you quite emotionally stable, you gain +2 to defend with Will against efforts to move or persuade you with emotional appeals, particularly those that try to “get your goat” or “get under your skin.”
-* Psychic Blast: Because of your psychic powers, you may attack with Will. The target must be able to perceive your gaze.
-* Total Recall: Because you have a library of data implanted in your skull, you gain +2 to Will when overcoming obstacles involving memory (_Fate Core_, page 127).
+*   Alien Mindset: Because your alien physiology makes you quite emotionally stable, you gain +2 to defend with Will against efforts to move or persuade you with emotional appeals, particularly those that try to “get your goat” or “get under your skin.”
+*   Psychic Blast: Because of your psychic powers, you may attack with Will. The target must be able to perceive your gaze.
+*   Total Recall: Because you have a library of data implanted in your skull, you gain +2 to Will when overcoming obstacles involving memory (_Fate Core_, page 127).
 
 ## Extras
 
@@ -568,19 +568,19 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 Technological artifacts can be assigned a **tech level**, an aspect that reflects its relative technological or scientific sophistication. When used against more primitive artifacts, the more sophisticated artifact grants its user an advantage with one free invocation per scene, or two free invocations if the tech level difference is three or more.
 
-<table id="table001" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col></colgroup>
+<table id="table001"><colgroup><col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Tech Level</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Description</div>
 
@@ -588,15 +588,15 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>**Primitive** (+0)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>The most basic or earliest types of tools capable of the task</div>
 
@@ -604,15 +604,15 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>**Archaic** (+1)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Out-of-date and obsolete tools</div>
 
@@ -620,15 +620,15 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>**Old-Fashioned** (+2)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Slightly dated technology, relatively inefficient or early-stage design</div>
 
@@ -636,15 +636,15 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>**Conventional** (+3)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Standard technology for the setting</div>
 
@@ -652,15 +652,15 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>**Advanced** (+4)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Refinements of existing tools and techniques</div>
 
@@ -668,15 +668,15 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>**Bleeding-Edge** (+5)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Tech which incorporates newly discovered principles or innovative design elements</div>
 
@@ -684,15 +684,15 @@ Technological artifacts can be assigned a **tech level**, an aspect that reflect
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>**Incomprehensible** (+6)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Tech so advanced as to be indistinguishable from magic</div>
 
@@ -712,19 +712,19 @@ Tech level can also be used to define the **effect floor** or **effect ceiling**
 
 You can apply tech levels, described in the previous section, to specific types of artifacts, creating **tool** **classes** to systematize how a given piece of technology affects individual actions. Instead of having a single tech level that defines the effectiveness of all equipment produced by a society or culture, you can separate its different types of tools—its guns, armor, power sources, communicators, and so forth—into different tech levels.
 
-* Armor: Personal protective gear can be given an Armor rating* or damage ceiling.** Generally, armor protects against physical attacks, but certain kinds of drugs or hypno-conditioning might be available to protect against mental or social attacks.
-* Communicators: Equipment for transmitting and receiving messages allows for characters to interact. If you wish to reflect the issues of using communications technology with limited bandwidth that lacks immediacy and presence, you can give the device an effect ceiling that restricts the maximum shifts of its result when you use it to act with Rapport, Provoke, Deceive, and other interpersonal skills. Operating communicators to reach distant stations or penetrate jamming may require overcoming with Lore, with the device’s rating acting as the effect floor. Jamming is technically a defend action, and may require specialized equipment.
-* Firearms: Ranged weapons used with Shoot can be given a Weapon rating* or damage floor.**
-* Hand Weapons: Melee weapons used with Fight can be given a Weapon rating* or damage floor.**
-* Heavy Weapons: Artillery and other ranged weapons used with a skill other than Shoot that reflects technical expertise, such as Crafts (Engineering), can be given a Weapon rating* or damage floor.**
-* Mobility: Jetpacks, grav skates, personal ornithopters, hoverbikes, and similar devices. Define a given mobility device according to its relevant skill, which may be Athletics, Lore, Drive, Spacehand, or Crafts. You can give it an effect floor that establishes the minimum number of zones it allows the user to cross on a successful overcome action. Certain devices are designed for particular environments or circumstances—ice, water, space (zero-gee), paved surfaces, and so forth. Countermobility devices may be used to establish barriers that make crossing zone boundaries more difficult.
-* Power Sources: Batteries, capacitors, fuel cells, turbines, and other power sources can be treated as pools of fate points available for invoking aspects related to the things they power. In essence, the power source consists of a high concept, such as **Antimatter Reactor Core**, and a refresh rating.
-* Sensors: Scanning devices, analyzers, and similar equipment used in Notice or Investigate actions. Use the device’s rating as an effect floor for the shifts of result, indicating the range and sensitivity of the device. Successful use typically creates an advantage related to characteristics of the object of the scan or conditions in the scanned environment.
-* Spacesuits: Personal life-support systems to protect spacers from vacuum conditions, including low pressure, lack of breathable air, and the difficulty in disposing waste heat—cooling systems are important in space. If the suit is particularly cumbersome, you can use its rating as an effect ceiling for overcome actions with Athletics. As spacesuit technology improves, it provides extended duration, better protection from radiation, and greater ease of use. More sophisticated models will include built-in armor, sensors and communicators, mobility devices, and possibly even weapons.
+*   Armor: Personal protective gear can be given an Armor rating* or damage ceiling.** Generally, armor protects against physical attacks, but certain kinds of drugs or hypno-conditioning might be available to protect against mental or social attacks.
+*   Communicators: Equipment for transmitting and receiving messages allows for characters to interact. If you wish to reflect the issues of using communications technology with limited bandwidth that lacks immediacy and presence, you can give the device an effect ceiling that restricts the maximum shifts of its result when you use it to act with Rapport, Provoke, Deceive, and other interpersonal skills. Operating communicators to reach distant stations or penetrate jamming may require overcoming with Lore, with the device’s rating acting as the effect floor. Jamming is technically a defend action, and may require specialized equipment.
+*   Firearms: Ranged weapons used with Shoot can be given a Weapon rating* or damage floor.**
+*   Hand Weapons: Melee weapons used with Fight can be given a Weapon rating* or damage floor.**
+*   Heavy Weapons: Artillery and other ranged weapons used with a skill other than Shoot that reflects technical expertise, such as Crafts (Engineering), can be given a Weapon rating* or damage floor.**
+*   Mobility: Jetpacks, grav skates, personal ornithopters, hoverbikes, and similar devices. Define a given mobility device according to its relevant skill, which may be Athletics, Lore, Drive, Spacehand, or Crafts. You can give it an effect floor that establishes the minimum number of zones it allows the user to cross on a successful overcome action. Certain devices are designed for particular environments or circumstances—ice, water, space (zero-gee), paved surfaces, and so forth. Countermobility devices may be used to establish barriers that make crossing zone boundaries more difficult.
+*   Power Sources: Batteries, capacitors, fuel cells, turbines, and other power sources can be treated as pools of fate points available for invoking aspects related to the things they power. In essence, the power source consists of a high concept, such as **Antimatter Reactor Core**, and a refresh rating.
+*   Sensors: Scanning devices, analyzers, and similar equipment used in Notice or Investigate actions. Use the device’s rating as an effect floor for the shifts of result, indicating the range and sensitivity of the device. Successful use typically creates an advantage related to characteristics of the object of the scan or conditions in the scanned environment.
+*   Spacesuits: Personal life-support systems to protect spacers from vacuum conditions, including low pressure, lack of breathable air, and the difficulty in disposing waste heat—cooling systems are important in space. If the suit is particularly cumbersome, you can use its rating as an effect ceiling for overcome actions with Athletics. As spacesuit technology improves, it provides extended duration, better protection from radiation, and greater ease of use. More sophisticated models will include built-in armor, sensors and communicators, mobility devices, and possibly even weapons.
 
-<div class="footnote-start">* _Fate Core_, page 277.</div>
+<div>* _Fate Core_, page 277.</div>
 
-<div class="footnote-continue">** _Fate System Toolkit_, page 70.</div>
+<div>** _Fate System Toolkit_, page 70.</div>
 
 > In a setting where modern-day humans have to deal with aliens in UFOs, the humans’ gunpowder-using _guns_ and _artillery_ are each treated as a **Primitive** (+0) tool class, while the aliens’ _energy blasters_ are **Conventional** (+3) and their _hypercannons_ are **Bleeding-Edge** (+5).
 
@@ -790,8 +790,8 @@ The GM may define alien species similarly; alien compels can be either discovere
 
 These are the Martians from H. G. Wells’s _War of the Worlds_. They are octopoid, with overdeveloped brains in leathery brain-cases and underdeveloped physical capabilities. They subsist on a diet of blood transfused from slave species, and operate advanced machinery with astounding capabilities.
 
-* Alien Invocations: To communicate telepathically over great distances or to many minds; to possess a vast, cool, and unsympathetic intelligence.
-* Alien Compels: To be sluggish in Earth’s gravity; to be vulnerable to terrestrial disease and microorganisms.
+*   Alien Invocations: To communicate telepathically over great distances or to many minds; to possess a vast, cool, and unsympathetic intelligence.
+*   Alien Compels: To be sluggish in Earth’s gravity; to be vulnerable to terrestrial disease and microorganisms.
 
 ### Psychic Powers
 
@@ -803,9 +803,9 @@ This is the chapter that you’ve been waiting for, the one on space travel. How
 
 The principles of Fate still apply to the rules for space travel: they should showcase the characters as proactive, capable people leading dramatic lives. So rather than _systematizing_ space travel, our concern is _dramatizing_ it.
 
-* Low-plausibility space travel is what you see in _Star Wars_ and similar space fantasy. Technological black boxes let us just hop in and go, without much concern for the physical laws governing real-world space travel. It’s all about feel, and often it feels like something else: WWII dogfights and bombing runs, or WWI naval combat, or even swashbuckling on 17th-century ships of the line.
-* Medium-plausibility space travel is mostly what you get in _Star Trek_ or _Battlestar Galactica_. Certain dramatically interesting constraints based on real-world conditions are maintained throughout the fiction, but they are only taken so far. The choice of technologies creates the feel of the setting: one might have teleporters and matter transmuters; another might have gravity weapons and warp-capable fighters.
-* High-plausibility space travel is the province of _The Martian_ or _The Expanse_. Real-world constraints are adopted and used to shape the setting as well as constrain actions and choices. A character who wins usually does so because they understand how the universe works.
+*   Low-plausibility space travel is what you see in _Star Wars_ and similar space fantasy. Technological black boxes let us just hop in and go, without much concern for the physical laws governing real-world space travel. It’s all about feel, and often it feels like something else: WWII dogfights and bombing runs, or WWI naval combat, or even swashbuckling on 17th-century ships of the line.
+*   Medium-plausibility space travel is mostly what you get in _Star Trek_ or _Battlestar Galactica_. Certain dramatically interesting constraints based on real-world conditions are maintained throughout the fiction, but they are only taken so far. The choice of technologies creates the feel of the setting: one might have teleporters and matter transmuters; another might have gravity weapons and warp-capable fighters.
+*   High-plausibility space travel is the province of _The Martian_ or _The Expanse_. Real-world constraints are adopted and used to shape the setting as well as constrain actions and choices. A character who wins usually does so because they understand how the universe works.
 
 ## The Space Map
 
@@ -821,7 +821,7 @@ A node map can also represent interplanetary space, such as in _Mass Drivers_, a
 
 ### Zone Map
 
-A zone map breaks the setting into zones, regions, or areas, and assumes that movement within a zone is more-or-less trivial but that movement between zones requires some effort. For example, the map from <span class="chapter-title">Pax Galactica</span> divides a galaxy-wide space empire into zones. A zone map is topologically equivalent to a node map, but while a node map gives the feeling of leaving one location and traveling to another across an intervening distance, the zone map gives the feeling of occupying a particular volume of space and crossing a border into a different one—for example, “We’ve entered the Neutral Zone!”
+A zone map breaks the setting into zones, regions, or areas, and assumes that movement within a zone is more-or-less trivial but that movement between zones requires some effort. For example, the map from <span>Pax Galactica divides a galaxy-wide space empire into zones. A zone map is topologically equivalent to a node map, but while a node map gives the feeling of leaving one location and traveling to another across an intervening distance, the zone map gives the feeling of occupying a particular volume of space and crossing a border into a different one—for example, “We’ve entered the Neutral Zone!”</span>
 
 You can flesh out the zones—or the nodes on the node map, for that matter—by adding aspects. For example, in the galaxy zone map for _Pax Galactica_, the Galactic Core is densely packed with **Mostly Planetless** stars surrounding a **Massive Black Hole** and thus **Bathed in Deadly Radiation**, while the Outer Margins and the two Rifts are **Thinly Populated with Stars**, although only the Outer Margins are a **Lawless Frontier**. The other zones are all **Civilized Space**.
 
@@ -851,25 +851,25 @@ Together, these two ideas are the main considerations in spacecraft engine desig
 
 The following table gives examples of various at-least-theoretical spacecraft engine technologies.
 
-<table id="table002" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col> <col></colgroup>
+<table id="table002"><colgroup><col> <col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Engine Type</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Low Specific Impulse</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>High Specific Impulse</div>
 
@@ -877,21 +877,21 @@ The following table gives examples of various at-least-theoretical spacecraft en
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Low Thrust</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Water rocket, cargo jettison</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Ion drive, lightsail</div>
 
@@ -899,21 +899,21 @@ The following table gives examples of various at-least-theoretical spacecraft en
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>High Thrust</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Chemical, atomic rockets</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Fusion torch, Bussard ramjet</div>
 
@@ -967,31 +967,31 @@ If travel time is an important issue, players can often use Engineering or Scien
 
 <div>Travel Time</div>
 
-<table id="table003" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col> <col> <col></colgroup>
+<table id="table003"><colgroup><col> <col> <col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Thruster Type</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Close Approach</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Interplanetary</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Extreme Interplanetary</div>
 
@@ -999,27 +999,27 @@ If travel time is an important issue, players can often use Engineering or Scien
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Low thrust, low specific impulse</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>several months</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>a few decades</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>a few centuries</div>
 
@@ -1027,27 +1027,27 @@ If travel time is an important issue, players can often use Engineering or Scien
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>High thrust, low specific impulse</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>several days</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>a year</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>a decade</div>
 
@@ -1055,27 +1055,27 @@ If travel time is an important issue, players can often use Engineering or Scien
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Low thrust, high specific impulse</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>several weeks</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>a few years</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>several years</div>
 
@@ -1083,27 +1083,27 @@ If travel time is an important issue, players can often use Engineering or Scien
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>High thrust, high specific impulse</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>a day</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>several weeks</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>several months</div>
 
@@ -1129,31 +1129,31 @@ Relativistic effects might be an important and intriguing conceit for your setti
 
 Alternately, you may need to incorporate relativistic effects as an element of an otherwise typical sci-fi setting. For example, the PCs may find themselves trapped on a primitive world and have to make a desperate subluminal bid to return to FTL starfaring civilization. In such a case, the following table* may be helpful. It maps speed as a fraction of the speed of light (_c_) to the Fate ladder, and lists the elapsed times for those aboard the spacecraft and those back home as a function of the distance in light-years that the ship travels.
 
-<table id="table004" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col> <col> <col></colgroup>
+<table id="table004"><colgroup><col> <col> <col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Rating</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Speed</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Elapsed Ship Time</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Elapsed Rest-Frame Time</div>
 
@@ -1161,27 +1161,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Terrible (-2)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.05_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 20</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 20</div>
 
@@ -1189,27 +1189,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Poor (-1)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.10_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 10</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 10</div>
 
@@ -1217,27 +1217,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Mediocre (+0)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.20_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 5</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 5</div>
 
@@ -1245,27 +1245,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Average (+1)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.50_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 2</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 2</div>
 
@@ -1273,27 +1273,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Fair (+2)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.60_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.3</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.67</div>
 
@@ -1301,27 +1301,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Good (+3)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.70_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.0</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.5</div>
 
@@ -1329,27 +1329,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Great (+4)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.80_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × .75</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.25</div>
 
@@ -1357,27 +1357,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Superb (+5)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.90_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × .5</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.10</div>
 
@@ -1385,27 +1385,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Fantastic (+6)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.95_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × .3</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.05</div>
 
@@ -1413,27 +1413,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Epic (+7)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.99_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × .15</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.01</div>
 
@@ -1441,27 +1441,27 @@ Alternately, you may need to incorporate relativistic effects as an element of a
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Legendary (+8)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>.999_c_</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × .05</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>light-years × 1.0</div>
 
@@ -1491,16 +1491,16 @@ If the spaceship’s sensors do not reach into normal space from hyperspace, it 
 
 To use hyperspace in a game, think about the following questions:
 
-* What kinds of FTL speeds can a starship travel at in hyperspace?
-* How does hyperspace affect human beings physically and psychologically? Does it have the same effect on various alien beings?
-* Are there obstacles or hazards in hyperspace? How can these be detected or avoided?
-* Can people in hyperspace see into normal space? Can people in normal space see into hyperspace?
-* Does time in hyperspace pass at the same rate as time in normal space?
-* What happens if something leaves the ship while it is in hyperspace? Does it pop back into normal space or remain lost in the void of hyperspace? More generally, does it take energy to keep the ship in hyperspace, or does it take energy to bring the ship out of hyperspace once it reaches its destination?
-* How hard is it to successfully calculate a path through hyperspace to a destination? How big is the normal margin of error?
-* How large does the hyperspace field generator need to be, relative to the starship? In other words, do starships need to be markedly larger than interplanetary vessels? Do they need to be significantly smaller?
-* How much additional fuel does the field generator require to activate or operate?
-* Can signals be sent through hyperspace?
+*   What kinds of FTL speeds can a starship travel at in hyperspace?
+*   How does hyperspace affect human beings physically and psychologically? Does it have the same effect on various alien beings?
+*   Are there obstacles or hazards in hyperspace? How can these be detected or avoided?
+*   Can people in hyperspace see into normal space? Can people in normal space see into hyperspace?
+*   Does time in hyperspace pass at the same rate as time in normal space?
+*   What happens if something leaves the ship while it is in hyperspace? Does it pop back into normal space or remain lost in the void of hyperspace? More generally, does it take energy to keep the ship in hyperspace, or does it take energy to bring the ship out of hyperspace once it reaches its destination?
+*   How hard is it to successfully calculate a path through hyperspace to a destination? How big is the normal margin of error?
+*   How large does the hyperspace field generator need to be, relative to the starship? In other words, do starships need to be markedly larger than interplanetary vessels? Do they need to be significantly smaller?
+*   How much additional fuel does the field generator require to activate or operate?
+*   Can signals be sent through hyperspace?
 
 ##### Example Hyperspace Drive: The Wang-Chaudary Vortex Drive
 
@@ -1520,11 +1520,11 @@ Warp drive involves folding or otherwise manipulating normal space so that the s
 
 Questions to address include the following:
 
-* How powerful is the warp effect? What effective rates of travel does it permit?
-* Does the warp effect produce movement in and of itself, or must the ship maneuver through the folded space using conventional means?
-* What happens when two warp fields overlap?
-* How much fuel does the warp engine require?
-* Does the warp field work at full strength within a star system or close to a planetary mass?
+*   How powerful is the warp effect? What effective rates of travel does it permit?
+*   Does the warp effect produce movement in and of itself, or must the ship maneuver through the folded space using conventional means?
+*   What happens when two warp fields overlap?
+*   How much fuel does the warp engine require?
+*   Does the warp field work at full strength within a star system or close to a planetary mass?
 
 ##### Example Warp Drive: The Millennium Drive
 
@@ -1534,19 +1534,19 @@ Warp sensors can detect ships moving in warp via quantum vibrations that have no
 
 For this drive, the approximate travel time is a time increment based on the travel distance, modified with steps of “half,” “one,” “a few,” or “several,” as in _Fate Core_. So, a hop of 80 light-years takes either several hours or about a day, while a 1,000 light-year trip takes about a week, and a 35,000 light-year journey takes a few months.
 
-<table id="table005" class="Basic-Table"><colgroup><col> <col></colgroup>
+<table id="table005"><colgroup><col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 Travel Distance
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 Time Increment
 
@@ -1554,15 +1554,15 @@ Time Increment
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 10 light-years
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 hours
 
@@ -1570,15 +1570,15 @@ hours
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 100 light-years
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 days
 
@@ -1586,15 +1586,15 @@ days
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 1,000 light-years
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 weeks
 
@@ -1602,15 +1602,15 @@ weeks
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 10,000 light-years
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 months
 
@@ -1636,12 +1636,12 @@ Wormholes—which could be skinned as portals, stargates, or transit points—ar
 
 Questions to address include the following:
 
-* How are wormholes detected and accessed?
-* Does each wormhole connect only two endpoints or several?
-* Do wormholes allow travel in both directions or only in one, so that there are “entrance” and “exit” terminals in any given system?
-* Can a wormhole be located anywhere, or must it be near specific sorts of places, such as near a black hole?
-* How extensive is the wormhole network?
-* Are wormholes artificial or natural? If artificial, who maintains the wormholes? How do they determine whom they permit to use a wormhole?
+*   How are wormholes detected and accessed?
+*   Does each wormhole connect only two endpoints or several?
+*   Do wormholes allow travel in both directions or only in one, so that there are “entrance” and “exit” terminals in any given system?
+*   Can a wormhole be located anywhere, or must it be near specific sorts of places, such as near a black hole?
+*   How extensive is the wormhole network?
+*   Are wormholes artificial or natural? If artificial, who maintains the wormholes? How do they determine whom they permit to use a wormhole?
 
 ##### A Wormhole Network
 
@@ -1665,12 +1665,12 @@ This is a very common way of doing business, since it lets the GM focus on creat
 
 There are many ways to bring a diverse group of PCs together for a space-based campaign.
 
-* Explorers: The PCs are scouts or surveyors, trained to travel to new worlds and assess them from a scientific, commercial, or military standpoint.
-* Mercenaries: The PCs are members of a mercenary company, seeking passage from one world to the next in order to hire on as soldiers for the various political leaders and organizations that come into conflict.
-* Salvage Crew: The PCs are space crew on a civilian ship, tasked to seek out and recover damaged vessels and lost cargo.
-* Space Fleet: The PCs are space crew on a military vessel, with duties relating to its combat and patrol operations.
-* Space Marines: The PCs are military personnel in the same outfit, space-going soldiers trained to conduct boarding operations, customs inspections, and planetary raids.
-* Space Merchants: The PCs are space crew on a merchant marine ship, traveling from world to world in order to buy low and sell high.
+*   Explorers: The PCs are scouts or surveyors, trained to travel to new worlds and assess them from a scientific, commercial, or military standpoint.
+*   Mercenaries: The PCs are members of a mercenary company, seeking passage from one world to the next in order to hire on as soldiers for the various political leaders and organizations that come into conflict.
+*   Salvage Crew: The PCs are space crew on a civilian ship, tasked to seek out and recover damaged vessels and lost cargo.
+*   Space Fleet: The PCs are space crew on a military vessel, with duties relating to its combat and patrol operations.
+*   Space Marines: The PCs are military personnel in the same outfit, space-going soldiers trained to conduct boarding operations, customs inspections, and planetary raids.
+*   Space Merchants: The PCs are space crew on a merchant marine ship, traveling from world to world in order to buy low and sell high.
 
 ### Passage-Based Travel
 
@@ -1684,8 +1684,8 @@ _Pax Galactica_ uses a zone-based system of spacelanes to represent the various 
 
 It may be the case that the PCs have one or more destinations available but must first engage in a challenge (_Fate Core_, page 147) to design, produce, and manufacture a spacecraft capable of reaching the destination they select. Similarly, while in many games getting into space is simply a background event, involving as little drama as a routine airplane take-off, your game could instead frame an adventure as an initial attempt to reach orbit, or as a marooned situation. In such games the launch of a spacecraft may be a dramatic point in the story, where one or both of these story questions may be at stake:
 
-* Did the engineers get their numbers right and build the thing properly?
-* Does the pilot have what it takes to get the thing into the air and keep it there?
+*   Did the engineers get their numbers right and build the thing properly?
+*   Does the pilot have what it takes to get the thing into the air and keep it there?
 
 The answer to the first question is provided by an Engineering action to overcome the technical challenges of design and construction. The difficulty can be set based on the mass of the launch vehicle, perhaps modified by the thrust of the engine. Failure indicates catastrophic loss of the craft and its payload, unless it is protected by some sort of abort-and-escape device, or may simply increase the difficulty to the Pilot action needed to reach orbit. The difficulty of the Pilot action depends on the engineer’s design skills and the amount of testing the launch system has undergone. An untried, untested prototype by competent but untested architects would justify Legendary (+8) difficulty, but rounds of testing, trials, and evaluation might reduce the difficulty, albeit increasing the time required to complete the system, as would a crack team of the brightest and best-trained minds the rocket academy can produce.
 
@@ -1713,10 +1713,10 @@ Fate is a narration-intensive game, and enjoyable play relies much on offering i
 
 For most high-plausibility games as well as medium-plausibility near-future games, spaceship crews and passengers will need to be shielded from radiation exposure. Sources of radiation can include the following:
 
-* Solar flares and similar activity
-* Intense planetary radiation belts caused by powerful magnetospheres, like Jupiter’s
-* Oncoming cosmic particles that strike a rapidly moving ship
-* Any radiation caused by the ship’s own drives or power plant
+*   Solar flares and similar activity
+*   Intense planetary radiation belts caused by powerful magnetospheres, like Jupiter’s
+*   Oncoming cosmic particles that strike a rapidly moving ship
+*   Any radiation caused by the ship’s own drives or power plant
 
 Ships without powerful electromagnetic or gravitic shielding are almost certain to have radiation shelters into which passengers and crew can retreat if the ships are designed to operate in space for any extended period of time.
 
@@ -1772,9 +1772,9 @@ If there’s a boarding party, though, you’ll probably need to make a map of z
 
 There are many ways a ship can be used, but these are the most important:
 
-* To Go Places: PCs need to get from one adventure location to another. The big rules questions here relate to how far and how fast travelers can go, and how much control they have over when they leave and where they end up. No rules may be needed, and there might not even be scenes on the ship.
-* To Get Into a Fight: Space combat is a major element in much of science fiction, particularly the sort of action-packed, cinematic sci-fi that Fate is well suited to emulate. Important rules questions include the details of attack, defense, and maneuver, as well as the specifics of detection, electronic warfare, and heat accumulation. Statistics for the ship may be needed, as the ship becomes a kind of character that the PCs control. The ship may also have a map of its interior zones.
-* To Work Hard and Live Dangerously: PCs will want to use their skills to keep the ship on course and in good repair. In space the most obvious environmental dangers are microgravity, vacuum, and radiation. For characters who live or work in space, these and other threats are occupational hazards. The relevant rules questions consider how to represent these features or, more precisely, how to represent the technology that protects characters from them. A map of the ship will be needed, with aspects that affect some zones and not others. The ship may also have detailed statistics that supplement or replace character abilities.
+*   To Go Places: PCs need to get from one adventure location to another. The big rules questions here relate to how far and how fast travelers can go, and how much control they have over when they leave and where they end up. No rules may be needed, and there might not even be scenes on the ship.
+*   To Get Into a Fight: Space combat is a major element in much of science fiction, particularly the sort of action-packed, cinematic sci-fi that Fate is well suited to emulate. Important rules questions include the details of attack, defense, and maneuver, as well as the specifics of detection, electronic warfare, and heat accumulation. Statistics for the ship may be needed, as the ship becomes a kind of character that the PCs control. The ship may also have a map of its interior zones.
+*   To Work Hard and Live Dangerously: PCs will want to use their skills to keep the ship on course and in good repair. In space the most obvious environmental dangers are microgravity, vacuum, and radiation. For characters who live or work in space, these and other threats are occupational hazards. The relevant rules questions consider how to represent these features or, more precisely, how to represent the technology that protects characters from them. A map of the ship will be needed, with aspects that affect some zones and not others. The ship may also have detailed statistics that supplement or replace character abilities.
 
 The way your spaceship is represented may change as circumstances in the campaign change, but you may want to lay out a standard procedure. This section gives some options, many of which can be combined as desired.
 
@@ -1878,9 +1878,9 @@ If all the PCs are crew and passengers aboard the same ship, space combat needn�
 
 Sketch out a zone map representing the volume of space in which the conflict is taking place. Typically, this will be a map of empty space with planets and moons as well as important artificial constructs—space stations and stargates, for example—arranged into zones to reflect their relative distances. Add aspects to zones, as needed.
 
-* At high plausibility, most zones will be deep space, but some will represent **gravity wells**—planets and other astronomical objects with enough mass to affect the performance of ships. Such objects can also be sources of intense radiation or magnetism hazardous to spacecraft or their crew. Gravity wells permit spacecraft to make slingshot or gravity-assist maneuvers to accelerate, decelerate, or change course, and they allow craft with high-thrust rockets to accelerate more efficiently via the Oberth effect by firing their rockets while diving into a gravity well. Planets with atmosphere allow for deceleration by aerobraking.
-* At medium plausibility, add nebula and clouds of space dust that obscure visibility, solar flares that pose radiation hazards, and rogue neutron stars and black holes to interfere with maneuvering, for example.
-* At low plausibility, you can add jam-packed asteroid belts, psychic nebula, deep space astro-monsters, and intense but free-floating radiation clouds, to make things interesting.
+*   At high plausibility, most zones will be deep space, but some will represent **gravity wells**—planets and other astronomical objects with enough mass to affect the performance of ships. Such objects can also be sources of intense radiation or magnetism hazardous to spacecraft or their crew. Gravity wells permit spacecraft to make slingshot or gravity-assist maneuvers to accelerate, decelerate, or change course, and they allow craft with high-thrust rockets to accelerate more efficiently via the Oberth effect by firing their rockets while diving into a gravity well. Planets with atmosphere allow for deceleration by aerobraking.
+*   At medium plausibility, add nebula and clouds of space dust that obscure visibility, solar flares that pose radiation hazards, and rogue neutron stars and black holes to interfere with maneuvering, for example.
+*   At low plausibility, you can add jam-packed asteroid belts, psychic nebula, deep space astro-monsters, and intense but free-floating radiation clouds, to make things interesting.
 
 Then, note the ranges at which sensors will reliably detect vessels and objects on the map. Typically, everything on the map will be basically visible to others, although ships may try to minimize their energy radiation (with Engineering) or blend in with a **Cluttered Sensor Background** (using Pilot) in order to evade an opponent’s attention. By the same token, “brighter” objects—those radiating more energy—are easier to detect than darker ones. All else being equal, objects in a distant zone may be harder to detect and identify than those in adjacent zones, which are in turn more difficult than those in the same zone, depending on the acuity of a ship’s sensor equipment.
 
@@ -1932,10 +1932,10 @@ Ships may have stunts representing improved technical capabilities, and characte
 
 In space combat, the costs of failure may include the following:
 
-* Physical stress or consequences for the crew, representing injuries suffered on the job.
-* Mental stress or consequences for the crew, representing loss of nerve or morale.
-* Physical stress or consequences for the ship or its components, representing damage or equipment failure.
-* Adverse situation aspects representing strain on resources and equipment, such as **Low Fuel** or **Overheated Power Plant**, or representing reflecting tactical disadvantages, such as **Patterns in Evasion Course** or **Showing Up Bright on Enemy Scopes**.
+*   Physical stress or consequences for the crew, representing injuries suffered on the job.
+*   Mental stress or consequences for the crew, representing loss of nerve or morale.
+*   Physical stress or consequences for the ship or its components, representing damage or equipment failure.
+*   Adverse situation aspects representing strain on resources and equipment, such as **Low Fuel** or **Overheated Power Plant**, or representing reflecting tactical disadvantages, such as **Patterns in Evasion Course** or **Showing Up Bright on Enemy Scopes**.
 
 ## Vector Diagrams
 
@@ -1949,35 +1949,35 @@ During play, the GM can set difficulties for tasks like tracking an enemy ship w
 
 ### Range
 
-* Contact: The target ship’s hull is in contact with yours. Most ship’s weapons will not bear on another ship in contact, particularly if the target is much smaller.
-* Proximity: The target ship is sufficiently close to permit physical exchange via spacewalk or similar means. Point-defense weapons (e.g., guns) can be used. Ship’s ordnance (missiles and torpedoes) will not have a chance to arm, but drones may be launched normally.
-* Close: The target ship is within visual range, and normal beam weapons are in optimal range. High-powered spinal mounts (i.e., large beam weapons mounted coaxially along the ship’s length) may not be able to bear on the target. Firing solutions for missiles and torpedoes are easily found.
-* Medium: Sensors can easily distinguish features of the target ship. Torpedoes and missiles may fire.
-* Long: Sensors can distinguish most of the important features of a target ship. Normal beam weapons are at a disadvantage due to attenuation. Firing solutions for missiles may be found, but slow-moving torpedoes will have a more difficult time hitting their targets.
-* Very Long: Sensors can only identify the most prominent features of the target ship.
-* Extreme: The target ship can be detected only as a point source, and is out of range of the ship’s weapons.
+*   Contact: The target ship’s hull is in contact with yours. Most ship’s weapons will not bear on another ship in contact, particularly if the target is much smaller.
+*   Proximity: The target ship is sufficiently close to permit physical exchange via spacewalk or similar means. Point-defense weapons (e.g., guns) can be used. Ship’s ordnance (missiles and torpedoes) will not have a chance to arm, but drones may be launched normally.
+*   Close: The target ship is within visual range, and normal beam weapons are in optimal range. High-powered spinal mounts (i.e., large beam weapons mounted coaxially along the ship’s length) may not be able to bear on the target. Firing solutions for missiles and torpedoes are easily found.
+*   Medium: Sensors can easily distinguish features of the target ship. Torpedoes and missiles may fire.
+*   Long: Sensors can distinguish most of the important features of a target ship. Normal beam weapons are at a disadvantage due to attenuation. Firing solutions for missiles may be found, but slow-moving torpedoes will have a more difficult time hitting their targets.
+*   Very Long: Sensors can only identify the most prominent features of the target ship.
+*   Extreme: The target ship can be detected only as a point source, and is out of range of the ship’s weapons.
 
 ### Velocity and Relative Speed
 
-* Accelerating: The target ship is increasing its speed.
-* Coasting: The target ship is neither gaining nor losing speed.
-* Decelerating: The target ship is reducing its speed.
-* Faster: The target is moving more rapidly than your ship.
-* Matched: The target is moving at the same speed as your ship.
-* Slower: The target is moving more slowly than your ship.
+*   Accelerating: The target ship is increasing its speed.
+*   Coasting: The target ship is neither gaining nor losing speed.
+*   Decelerating: The target ship is reducing its speed.
+*   Faster: The target is moving more rapidly than your ship.
+*   Matched: The target is moving at the same speed as your ship.
+*   Slower: The target is moving more slowly than your ship.
 
 If you’re dealing with multiple ships, you can assign absolute velocities using the ladder, so a high-speed interceptor may be moving at Fantastic (+6) speed, while a bulk transport on a low-fuel transfer orbit may only be moving at Mediocre (+0) speed. Ships with high thrust can change speed faster than ships with low thrust; ships with high specific impulse can accelerate and decelerate over longer periods of time than ships with low specific impulse.
 
 ### Bearing
 
-* Converging Course: The target’s vector will converge on your ship’s course.
-* Intercept Course: A converging course in which the two ships will come within range of each other at matching velocities and parallel courses.
-* Collision Course: A converging course in which the two ships will come into proximity or make contact without matching velocities.
-* Overtaking: The target’s vector will come upon your ship’s course from the stern.
-* Oncoming: The target’s vector will come toward your ship’s course from the bow.
-* Parallel Course: The target’s vector will maintain its distance from your ship’s course.
-* Diverging Course: The target’s vector will diverge from your ship’s course.
-* Escape Course: The target is ahead of your ship along the same vector and moving away.
+*   Converging Course: The target’s vector will converge on your ship’s course.
+*   Intercept Course: A converging course in which the two ships will come within range of each other at matching velocities and parallel courses.
+*   Collision Course: A converging course in which the two ships will come into proximity or make contact without matching velocities.
+*   Overtaking: The target’s vector will come upon your ship’s course from the stern.
+*   Oncoming: The target’s vector will come toward your ship’s course from the bow.
+*   Parallel Course: The target’s vector will maintain its distance from your ship’s course.
+*   Diverging Course: The target’s vector will diverge from your ship’s course.
+*   Escape Course: The target is ahead of your ship along the same vector and moving away.
 
 ### Apparent Size
 
@@ -2017,9 +2017,9 @@ A pilot may use Pilot versus a defending pilot to change its range and bearing t
 
 Missiles, torpedoes, and drones that have been launched move toward their targets. Ordnance that reaches its target during this phase detonates; the target defends with its pilot’s evade result.
 
-* Missiles are fast-moving, self-guided, single-use munitions.
-* Torpedoes are slow-moving, self-guided, single-use munitions.
-* Drones are remote-operated small craft that may be armed with short-range point-defense weaponry, equipped with an explosive payload to self-destruct, or maneuvered toward a target to relay close-range sensor data to the controlling ship. They are recoverable if not detonated or destroyed.
+*   Missiles are fast-moving, self-guided, single-use munitions.
+*   Torpedoes are slow-moving, self-guided, single-use munitions.
+*   Drones are remote-operated small craft that may be armed with short-range point-defense weaponry, equipped with an explosive payload to self-destruct, or maneuvered toward a target to relay close-range sensor data to the controlling ship. They are recoverable if not detonated or destroyed.
 
 ### Phase 2: Gunnery Phase
 
@@ -2043,9 +2043,9 @@ Crew with access to electronic countermeasures may use Lore (Science) or Crafts 
 
 Crew at weapons controls may use Shoot to create advantages related to aiming or detecting patterns in enemy flight paths.
 
-* Ships are either in range or out of range of each other’s weapons, and one overcome action versus an opposing Pilot roll is sufficient to break off an encounter.
-* Ships may be at boarding range (which presumes matched velocities), beam range, missile range, or out of range. Under near-future conditions, boarding range is only possible when a target is incapable of maneuvering or willing to match velocities.
-* Ships may use range zones to determine which weapons may be used.
+*   Ships are either in range or out of range of each other’s weapons, and one overcome action versus an opposing Pilot roll is sufficient to break off an encounter.
+*   Ships may be at boarding range (which presumes matched velocities), beam range, missile range, or out of range. Under near-future conditions, boarding range is only possible when a target is incapable of maneuvering or willing to match velocities.
+*   Ships may use range zones to determine which weapons may be used.
 
 ### Phase 4: Damage Control and Other Actions
 
@@ -2105,7 +2105,7 @@ Change the skills listed for each station as appropriate to the setting.
 
 The Burden of Command: Because you are in charge and take your responsibilities very seriously, you may take battle stress inflicted on other stations as battle stress to you instead; additionally, you are able to use your fate points on behalf of any NPC manning another station on the ship.
 
-###### Battle Stress <span class="boxes">[1][2][3]</span>
+###### Battle Stress <span>[1][2][3]</span>
 
 ##### Helm
 
@@ -2121,7 +2121,7 @@ The Burden of Command: Because you are in charge and take your responsibilities 
 
 Damn the Torpedoes!: Because your ship is a sleek warfighting machine, you gain +2 to Drive to defend or overcome obstacles related to dealing with navigation hazards or battle damage in order to get to where you want your ship to be.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ###### Notes
 
@@ -2141,7 +2141,7 @@ Damn the Torpedoes!: Because your ship is a sleek warfighting machine, you gain 
 
 Tactical Data Mining: Because you can assess the opposition’s deployments and actions, you gain +2 to create advantage with Lore when analyzing enemy tactical patterns.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ##### Espatier (Space Marine)
 
@@ -2159,7 +2159,7 @@ Armed to the Teeth: Because you are heavily armed, you gain +2 to attack using F
 
 Armored: Because you are heavily armored, you gain +2 to Physique to defend against physical attacks.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ###### Notes
 
@@ -2179,7 +2179,7 @@ Armored: Because you are heavily armored, you gain +2 to Physique to defend agai
 
 Strafing Run: Because you are in a space fighter, you gain +2 to Drive to attack enemy stations.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ###### Notes
 
@@ -2199,7 +2199,7 @@ Strafing Run: Because you are in a space fighter, you gain +2 to Drive to attack
 
 Fly Casual: Because your ship is small and obviously harmless, you gain +2 to Drive to defend against or overcome obstacles related to attempts to single out, notice, identify, or track a particular small space craft.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ##### Engineer
 
@@ -2219,7 +2219,7 @@ Damage Control: Because you can conduct field repairs, you may spend a fate poin
 
 I Don’t Know How Long She’ll Hold: Because you can conduct field repairs, you may spend a fate point to allow you to use Crafts to attempt to restore a station that has been taken out, against a difficulty equal to twice the number of the station’s battle stress boxes. It comes online with one less battle stress box than it had before it was taken out.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ##### Sick Bay / Medic
 
@@ -2235,7 +2235,7 @@ Overcome problems related to personnel injury.
 
 Good as New: You can spend a fate point to take a recovery action versus consequences related to medical injuries during a scene in circumstances that would otherwise preclude such action.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ##### Gun Crew
 
@@ -2251,7 +2251,7 @@ Good as New: You can spend a fate point to take a recovery action versus consequ
 
 Fire for Effect: Because you are using a high-powered space weapon, you gain +2 to Shoot to attack enemy stations.
 
-###### Battle Stress <span class="boxes">[1][2]</span>
+###### Battle Stress <span>[1][2]</span>
 
 ## Example of Space Combat
 
@@ -2259,9 +2259,9 @@ This example of combat is set in the _Pax Galactica_ universe and uses battlesta
 
 As the scene begins, three PCs are trying to figure out the workings of a derelict starship they’ve found in an uninhabited system in the galaxy’s Norma Arm, a region of space that was long ago the site of a centuries-long war for dominance between two alien empires. The ambitious and possibly piratical NPC who helped them find it, Lord Captain Mufese, has offered to “escort” them back to civilization, but they have demurred, and Mufese aboard his ship the _Orinocco_ is seemingly departing in good grace. The PCs turn their attention back to the alien starship, whose name they have translated to mean _Homecoming_.
 
-* Brad is playing Lark, a **Grizzled Old Space** **Hand**.
-* Chris is playing Sergeant Childe, the **Hard-Bitten Vet of a Hundred Little** **Wars**.
-* Amy is playing Lady Tabitha, an **Adventurous Aristocrat from the Oute****r Rim**.
+*   Brad is playing Lark, a **Grizzled Old Space** **Hand**.
+*   Chris is playing Sergeant Childe, the **Hard-Bitten Vet of a Hundred Little** **Wars**.
+*   Amy is playing Lady Tabitha, an **Adventurous Aristocrat from the Oute****r Rim**.
 
 GM: The _Orinocco_ spirals out in its orbit and soon disappears behind the gas giant. Lord Captain Mufese broadcasts general farewell and wishes you good luck.
 
@@ -2269,7 +2269,7 @@ Brad (Lark): Okay. In the meantime, I want to break down our capabilities. I’m
 
 GM: That’s right. You’re in the ship’s engine room, in the narrow confines toward the rear of the teardrop-shaped hull. Use Technoscience to overcome an obstacle. Call it Mediocre (+0), but it’s alien technology, not from the Principate, which means you face a +2 increase to the difficulty to try to understand it.
 
-Brad: My Technoscience is Good (+3), and the roll is... (Rolls <span class="fate-dice">++--</span>.) That’s a +3.
+Brad: My Technoscience is Good (+3), and the roll is... (Rolls <span>++--.) That’s a +3.</span>
 
 GM: That beats the modified difficulty of Fair (+2), so it’s still a success.
 
@@ -2315,7 +2315,7 @@ Brad: What’s the difficulty? Zero?
 
 GM: Right, so call it Fair (+2) due to the penalty for alien technology.
 
-Brad: I’m peering at the alien controls in the engine room, tentatively pressing buttons and turning dials. (Rolls <span class="fate-dice">+--0</span>.) I’m at zero—success at a minor cost. That just means a little more time, right? Several minutes? (See <span class="chapter-title">“How Much Time Is a Shi</span><span class="chapter-title">ft Worth?”</span> in _Fate Core_ on page 197.)
+Brad: I’m peering at the alien controls in the engine room, tentatively pressing buttons and turning dials. (Rolls <span>+--0.) I’m at zero—success at a minor cost. That just means a little more time, right? Several minutes? (See “How Much Time Is a Shi<span>ft Worth?” in _Fate Core_ on page 197.)</span></span>
 
 GM: Sure, but you know that you’re **Getting Too Old for this Sh****, right? (The GM holds up a fate point to indicate that he is compelling the character’s aspect.)
 
@@ -2329,7 +2329,7 @@ Chris: I don’t know. Can I identify it?
 
 GM: Roll Technoscience to do so.
 
-Chris: Okay. I’m Average (+1). (He rolls <span class="fate-dice">0+-0</span>.) And that’s an Average (+1) result. But I’m **Cool Under Pressure**, so I succeed. (He spends a fate point. The GM labels the bogey _Orinocco_.)
+Chris: Okay. I’m Average (+1). (He rolls <span>0+-0.) And that’s an Average (+1) result. But I’m **Cool Under Pressure**, so I succeed. (He spends a fate point. The GM labels the bogey _Orinocco_.)</span>
 
 GM: He’s coming up fast, on an intercept course.
 
@@ -2337,7 +2337,7 @@ Amy: Mufese! You scalawag! What are you up to?
 
 GM: Are you broadcasting to him?
 
-Amy: No, I won’t give him the satisfaction. I’m going to break out of orbit and head for that moon. What do I use? Spacehand? (The GM says yes.) Okay. I’m Good (+3) at that. I roll... (Rolls <span class="fate-dice">+++0</span>.) Yes! A Fantastic (+6) effort!
+Amy: No, I won’t give him the satisfaction. I’m going to break out of orbit and head for that moon. What do I use? Spacehand? (The GM says yes.) Okay. I’m Good (+3) at that. I roll... (Rolls <span>+++0.) Yes! A Fantastic (+6) effort!</span>
 
 GM: Mufese’s roll to pursue is Great (+4), but you’re using alien technology, so his roll gets a +2 relative to yours, making it a tie; you succeed at a minor cost. You punch the thrusters and tear out of orbit, but you all feel the acceleration bleed as a kind of vibration in your bodies, and you can tell that the ship’s **Systems Are All a Little Scrambled** as a minor consequence. (The GM redraws the _Homecoming_’s vector as a long arrow pointing halfway toward the rocky moon.)
 
@@ -2355,7 +2355,7 @@ GM: Childe, you see the _Orinocco_ launch a missile at your ship!
 
 Chris: Boss lady, we’re in trouble!
 
-Amy: Evasive action! (Rolls <span class="fate-dice">-0--</span>.) Oh no! That’s Terrible (-2)! But I’m **At the Helm** with a cool eye and steady hand. (She spends a fate point.)
+Amy: Evasive action! (Rolls <span>-0--.) Oh no! That’s Terrible (-2)! But I’m **At the Helm** with a cool eye and steady hand. (She spends a fate point.)</span>
 
 GM: Yes, but that **Annoying Klaxon** is getting on your nerves. (He spends a fate point from his pool.)
 
@@ -2389,31 +2389,31 @@ This list of questions will help you pin down the role that aliens and alien wor
 
 Are there intelligent aliens?
 
-* No. Humans are alone in the universe, at least as far as we know. However, there are distant worlds to explore, and intelligent life may yet be discovered on one of them.
-* No, but humanity has diverged into so many different subtypes and variants that there might as well be.
-* No, but scientists have used genetic engineering or similar technologies to enhance the intelligence and communication skills of animal species, uplifting dogs, bears, dolphins and/or monkeys.
-* Maybe, but we haven’t met any yet. This game involves discovering new alien life forms and societies. Nonintelligent extraterrestrial life may indeed be common.
-* Yes, but they have all died out or been destroyed. This game involves finding their relics and figuring out who they were.
-* Yes, a few. Humanity has encountered a handful of distinct alien species and has a history and interspecies relationship with each. There may or may not be any more out there to meet.
-* Yes, many! Space is teeming with alien species. We have met a good number of them, and have learned of many more.
-* In fact, _we_ are the aliens—humanity no longer exists, or is not the focus of this game.
+*   No. Humans are alone in the universe, at least as far as we know. However, there are distant worlds to explore, and intelligent life may yet be discovered on one of them.
+*   No, but humanity has diverged into so many different subtypes and variants that there might as well be.
+*   No, but scientists have used genetic engineering or similar technologies to enhance the intelligence and communication skills of animal species, uplifting dogs, bears, dolphins and/or monkeys.
+*   Maybe, but we haven’t met any yet. This game involves discovering new alien life forms and societies. Nonintelligent extraterrestrial life may indeed be common.
+*   Yes, but they have all died out or been destroyed. This game involves finding their relics and figuring out who they were.
+*   Yes, a few. Humanity has encountered a handful of distinct alien species and has a history and interspecies relationship with each. There may or may not be any more out there to meet.
+*   Yes, many! Space is teeming with alien species. We have met a good number of them, and have learned of many more.
+*   In fact, _we_ are the aliens—humanity no longer exists, or is not the focus of this game.
 
 If there are aliens, where do they live or where can they be found?
 
-* They have their own worlds, and it is unusual to find a species away from their homeworld. If we want to meet aliens, we have to go visit them.
-* They may come from somewhere else or have previously traveled widely, but now they live in specific quarters or districts on one or more worlds we inhabit.
-* They travel more or less freely among us, coming from a homeworld where they may be found in greater numbers.
-* We don’t know where they come from, only that they show up near our territory or on our worlds.
-* They have conquered our planet, and we resist with some measure of effectiveness.
-* Different aliens have different modes of living that bring them into contact with us in different ways.
+*   They have their own worlds, and it is unusual to find a species away from their homeworld. If we want to meet aliens, we have to go visit them.
+*   They may come from somewhere else or have previously traveled widely, but now they live in specific quarters or districts on one or more worlds we inhabit.
+*   They travel more or less freely among us, coming from a homeworld where they may be found in greater numbers.
+*   We don’t know where they come from, only that they show up near our territory or on our worlds.
+*   They have conquered our planet, and we resist with some measure of effectiveness.
+*   Different aliens have different modes of living that bring them into contact with us in different ways.
 
 If there are multiple inhabited worlds, what is the political relationship among them?
 
-* Each world is a distinct and sovereign political entity...
-  * ...with very little ability or desire to influence other planets.
-  * ...with its own recognized sphere of influence, zone of control, or other territory, negotiated on a bilateral basis with neighboring worlds.
-  * ...competing in a general struggle for control of unclaimed territories or other resources.
-  * ...interested in shoring up its alliances and maintaining a balance of power against equally self-interested rivals.
+*   Each world is a distinct and sovereign political entity...
+    *   ...with very little ability or desire to influence other planets.
+    *   ...with its own recognized sphere of influence, zone of control, or other territory, negotiated on a bilateral basis with neighboring worlds.
+    *   ...competing in a general struggle for control of unclaimed territories or other resources.
+    *   ...interested in shoring up its alliances and maintaining a balance of power against equally self-interested rivals.
 
 Some worlds are colonies or settlements of more-important worlds, or are otherwise dependent upon those worlds. Some sort of core/frontier settlement pattern may exist.
 
@@ -2421,16 +2421,16 @@ Each world is subordinate to some larger interplanetary or interstellar authorit
 
 What is the economic relationship among inhabited worlds?
 
-* Each world is basically independent. Any trade between worlds involves luxuries or novelties rather than essential commodities. Small freighters and smugglers ply the spacelanes.
-* Some worlds are colonies, clients, or outposts of another world upon which they are highly dependent, although the mother planet or homeworld is relatively self-sufficient. The central planet sends out freighters filled with workers, supplies, and equipment, and return laden with raw materials and exotic commodities.
-* Worlds are highly interdependent, specializing in producing goods or offering services in which they have some competitive advantage, and importing other necessities. This is the most fragile economic system, where the blockade or failure of one world is felt throughout the rest of that region of space. Bulk freighters work the main trade routes while smaller merchant ships subsist on the margins.
+*   Each world is basically independent. Any trade between worlds involves luxuries or novelties rather than essential commodities. Small freighters and smugglers ply the spacelanes.
+*   Some worlds are colonies, clients, or outposts of another world upon which they are highly dependent, although the mother planet or homeworld is relatively self-sufficient. The central planet sends out freighters filled with workers, supplies, and equipment, and return laden with raw materials and exotic commodities.
+*   Worlds are highly interdependent, specializing in producing goods or offering services in which they have some competitive advantage, and importing other necessities. This is the most fragile economic system, where the blockade or failure of one world is felt throughout the rest of that region of space. Bulk freighters work the main trade routes while smaller merchant ships subsist on the margins.
 
 What are the social and cultural relationships among worlds?
 
-* Each world is a distinct society comprising a number of subcultures and social groupings, and is alien to other worlds.
-* Each world is a distinct and relatively homogeneous monoculture, recognizably different from those of other worlds and alien to them.
-* Worlds are part of a larger interstellar or interplanetary society, sharing many common institutions and traditions but each possessing distinct cultural characteristics.
-* Worlds are part of a larger interstellar or interplanetary society, with each world populated by a mix of subcultures that are common across the larger society.
+*   Each world is a distinct society comprising a number of subcultures and social groupings, and is alien to other worlds.
+*   Each world is a distinct and relatively homogeneous monoculture, recognizably different from those of other worlds and alien to them.
+*   Worlds are part of a larger interstellar or interplanetary society, sharing many common institutions and traditions but each possessing distinct cultural characteristics.
+*   Worlds are part of a larger interstellar or interplanetary society, with each world populated by a mix of subcultures that are common across the larger society.
 
 ## Planetary Ecosystems
 
@@ -2438,79 +2438,79 @@ When you need to create an alien world, you can use these tables. The World Type
 
 <div>World Types</div>
 
-<table id="table006" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col> <col> <col> <col> <col></colgroup>
+<table id="table006"><colgroup><col> <col> <col> <col> <col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">0</span></div>
-
-</td>
-
-<td class="Basic-Table">
-
-<div><span class="fate-dice">+</span></div>
+<div><span>0</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">++</span></div>
-
-</td>
-
-<td class="Basic-Table">
-
-<div><span class="fate-dice">+++</span></div>
+<div><span>+</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">++++</span></div>
+<div><span>++</span></div>
+
+</td>
+
+<td>
+
+<div><span>+++</span></div>
+
+</td>
+
+<td>
+
+<div><span>++++</span></div>
 
 </td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">0</span></div>
+<div><span>0</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Artificial Habitat</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Lushworld</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Fumeworld</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Neonworld</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Edenworld</div>
 
@@ -2518,123 +2518,123 @@ When you need to create an alien world, you can use these tables. The World Type
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">-</span></div>
+<div><span>-</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Hotbox</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Rockworld</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Marginal World</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Quartzworld</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">--</span></div>
+<div><span>--</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Ammonia World</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Scumworld</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Iceworld</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">---</span></div>
+<div><span>---</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Smogworld</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Brimstone World</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">----</span></div>
+<div><span>----</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Gas Giant</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
@@ -2674,79 +2674,79 @@ Smogworld: A terrestrial world whose oxygen-nitrogen atmosphere includes signifi
 
 <div>Habitable Worlds</div>
 
-<table id="table007" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col> <col> <col> <col> <col></colgroup>
+<table id="table007"><colgroup><col> <col> <col> <col> <col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">0</span></div>
-
-</td>
-
-<td class="Basic-Table">
-
-<div><span class="fate-dice">+</span></div>
+<div><span>0</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">++</span></div>
-
-</td>
-
-<td class="Basic-Table">
-
-<div><span class="fate-dice">+++</span></div>
+<div><span>+</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">++++</span></div>
+<div><span>++</span></div>
+
+</td>
+
+<td>
+
+<div><span>+++</span></div>
+
+</td>
+
+<td>
+
+<div><span>++++</span></div>
 
 </td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">0</span></div>
+<div><span>0</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Artificial World</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Savannah Planet</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Jungle Planet</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Forest World</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Radio Planet</div>
 
@@ -2754,123 +2754,123 @@ Smogworld: A terrestrial world whose oxygen-nitrogen atmosphere includes signifi
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">-</span></div>
+<div><span>-</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Crater Planet</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Desert Planet</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Ice Planet</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Canyon Planet</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">--</span></div>
+<div><span>--</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Swamp Planet</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Water World</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Volcano Planet</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">---</span></div>
+<div><span>---</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Fungus Planet</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Archipelago Planet</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">----</span></div>
+<div><span>----</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Special Planet</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
@@ -2950,9 +2950,9 @@ Create three to five aspects defining the species’ general culture. A member o
 
 You can use the Bronze Rule to give relevant skills to a planetary civilization. Your approach in representing a whole world could vary from game to game, but a simple system might define a planetary civilization with three skills. Generally, the Bronze Rule will be used to define planets more often in games with epic tone, as characters interact with larger-scale entities. The typical range for such skills is Mediocre (+0) to Legendary (+8). To determine it randomly, roll four dice and add four.
 
-* Extent: How much of the planet and its surrounding system does the civilization occupy? This might represent the resilience of the civilization, giving it stress boxes or otherwise showing how much damage it can take in the face of threats of an appropriate scale. Additionally, extent is a measure of the resources available to the civilization.
-* Technology: How sophisticated and advanced is the civilization’s command of material and energy-producing technology? This reflects the difficulty of overcoming its military and technical defenses and protections.
-* Culture: How sophisticated and robust are the civilization’s art, philosophy, and other forms of expression? This reflects the difficulty of overcoming its legal system and other governmental controls, enticing or otherwise taking advantage of gullible or careless citizens on a wide scale.
+*   Extent: How much of the planet and its surrounding system does the civilization occupy? This might represent the resilience of the civilization, giving it stress boxes or otherwise showing how much damage it can take in the face of threats of an appropriate scale. Additionally, extent is a measure of the resources available to the civilization.
+*   Technology: How sophisticated and advanced is the civilization’s command of material and energy-producing technology? This reflects the difficulty of overcoming its military and technical defenses and protections.
+*   Culture: How sophisticated and robust are the civilization’s art, philosophy, and other forms of expression? This reflects the difficulty of overcoming its legal system and other governmental controls, enticing or otherwise taking advantage of gullible or careless citizens on a wide scale.
 
 ## Interplanetary Trade and Commerce
 
@@ -2992,79 +2992,79 @@ Other than that, however, each character’s alienness matters only insofar as i
 
 If you need to come up with a low-plausibility alien on the fly, roll four dice on this table one or more times.
 
-<table id="table008" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col> <col> <col> <col> <col></colgroup>
+<table id="table008"><colgroup><col> <col> <col> <col> <col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">0</span></div>
-
-</td>
-
-<td class="Basic-Table">
-
-<div><span class="fate-dice">+</span></div>
+<div><span>0</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">++</span></div>
-
-</td>
-
-<td class="Basic-Table">
-
-<div><span class="fate-dice">+++</span></div>
+<div><span>+</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">++++</span></div>
+<div><span>++</span></div>
+
+</td>
+
+<td>
+
+<div><span>+++</span></div>
+
+</td>
+
+<td>
+
+<div><span>++++</span></div>
 
 </td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">0</span></div>
+<div><span>0</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Centauroid</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Anguilliform (Eel-Like)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Achatinoid (Snail-Like)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Avian (Bird-Like)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Bicephalous (Two-Headed)</div>
 
@@ -3072,123 +3072,123 @@ If you need to come up with a low-plausibility alien on the fly, roll four dice 
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">-</span></div>
+<div><span>-</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Insectoid</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Mammalian</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Reptilian</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Octopoid</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">--</span></div>
+<div><span>--</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Simian (Ape-Like)</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Humanoid</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Cetacean (Whale-Like)</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">---</span></div>
+<div><span>---</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Fungoid</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Arachnoid</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">----</span></div>
+<div><span>----</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Exotic</div>
 
 </td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
-<td class="Basic-Table"></td>
+<td></td>
 
 </tr>
 
@@ -3218,7 +3218,7 @@ Humanoid: This species resembles human beings, at least in general form.
 
 Insectoid: This species has insect-like features.
 
-Mammalian: This species has similarities with some species of terrestrial mammal. Roll two dice or choose—<span class="fate-dice">--</span> feline (cat-like); <span class="fate-dice">-0</span> leonine (lion-like) or vulpine (fox-like); <span class="fate-dice">-+</span> ursine (bear-like); <span class="fate-dice">00</span> equine (horse-like) or bovine (cow-like); <span class="fate-dice">0+</span> porcine (pig-like); <span class="fate-dice">++</span> canine (dog-like) or lupine (wolf-like).
+Mammalian: This species has similarities with some species of terrestrial mammal. Roll two dice or choose—<span>-- feline (cat-like); <span>-0 leonine (lion-like) or vulpine (fox-like); <span>-+ ursine (bear-like); <span>00 equine (horse-like) or bovine (cow-like); <span>0+ porcine (pig-like); <span>++ canine (dog-like) or lupine (wolf-like).</span></span></span></span></span></span>
 
 Octopoid: This species resembles a terrestrial squid or octopus, probably because it has many tentacles it uses for locomotion, manipulation, or both.
 
@@ -3244,19 +3244,19 @@ One example of interesting high-plausibility aliens is the Moties of Niven and P
 
 Begin by describing the species’ **crèch****e planet**, where the alien species evolved, and which may or may not be its current homeworld or where it is encountered by PCs. Here is a short table of possible crèche planets.
 
-<table id="table009" class="Basic-Table _idGenTablePara-1"><colgroup><col> <col></colgroup>
+<table id="table009"><colgroup><col> <col></colgroup> 
 
 <tbody>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
 <div>Roll</div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>Description</div>
 
@@ -3264,15 +3264,15 @@ Begin by describing the species’ **crèch****e planet**, where the alien speci
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">--</span></div>
+<div><span>--</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>A cold, arid planet whose water is mainly locked in its ice caps.</div>
 
@@ -3280,15 +3280,15 @@ Begin by describing the species’ **crèch****e planet**, where the alien speci
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">-0</span></div>
+<div><span>-0</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>A hot, arid planet whose water exists primarily as atmospheric vapor.</div>
 
@@ -3296,15 +3296,15 @@ Begin by describing the species’ **crèch****e planet**, where the alien speci
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">-+</span></div>
+<div><span>-+</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>A highly volcanic planet with significant seismic activity and eruptions.</div>
 
@@ -3312,15 +3312,15 @@ Begin by describing the species’ **crèch****e planet**, where the alien speci
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">00</span></div>
+<div><span>00</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>A world whose elliptical orbit produces extreme seasonal variations.</div>
 
@@ -3328,15 +3328,15 @@ Begin by describing the species’ **crèch****e planet**, where the alien speci
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">0+</span></div>
+<div><span>0+</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>A planet with high radiation exposure and consequent mutation rates.</div>
 
@@ -3344,15 +3344,15 @@ Begin by describing the species’ **crèch****e planet**, where the alien speci
 
 </tr>
 
-<tr class="Basic-Table">
+<tr>
 
-<td class="Basic-Table">
+<td>
 
-<div><span class="fate-dice">++</span></div>
+<div><span>++</span></div>
 
 </td>
 
-<td class="Basic-Table">
+<td>
 
 <div>An idyllic garden planet with many varied and abundant ecological niches in which life thrives.</div>
 
@@ -3366,18 +3366,18 @@ Begin by describing the species’ **crèch****e planet**, where the alien speci
 
 Keeping the crèche planet in mind, answer the following questions and write one or two aspects based on those answers. These aspects will define the norm for the alien species, society, or subculture, depending on why you are creating the alien.
 
-* Alien Physiology: What physical features distinguish these aliens? How are these features connected to their intelligence, tool use, or other capabilities?
-* Alien Psychology: What distinctive attitudes or mental features characterize these aliens? What personality traits are regarded as typical or normal for them?
-* Alien Society: How are the aliens organized and governed? What principles guide their interactions and dealings with each other?
-* Alien Culture: What ideas, practices, or material objects are valued by these aliens? What meanings do they have to the aliens?
-* Alien History: What events greatly impacted the course of the aliens’ lives or their sense of place in the universe and their relationships with each other and with other species?
+*   Alien Physiology: What physical features distinguish these aliens? How are these features connected to their intelligence, tool use, or other capabilities?
+*   Alien Psychology: What distinctive attitudes or mental features characterize these aliens? What personality traits are regarded as typical or normal for them?
+*   Alien Society: How are the aliens organized and governed? What principles guide their interactions and dealings with each other?
+*   Alien Culture: What ideas, practices, or material objects are valued by these aliens? What meanings do they have to the aliens?
+*   Alien History: What events greatly impacted the course of the aliens’ lives or their sense of place in the universe and their relationships with each other and with other species?
 
 ##### Example High-Plausibility Aliens: The Leonids of Alaxor 12
 
 Alaxor 12 is a jungle planet that is known as the source of consciousness-expanding drugs used in local religious ceremonies, and so serves as a site of spiritual pilgrimage for many galactic citizens. The planetary natives thus include local mystagogues willing to introduce visitors to the ceremonies as well as disapproving religious purists.
 
-* Alien Physiology: The natives are a bipedal species of **Dimorphic Polygamous Carnivores** where males are characterized by **Ornate Status-Signaling Manes** and **Corpulent Hypermuscular Bodies** while females tend to be **Wiry Endomorphs**.
-* Alien Psychology: Male leonids tend to be **Territorial**, **Status-Conscious**, and **Sentimental**, while female leonids tend to be **Cooperative**, **Clan-Conscious**, and **Cold-Blooded**. The females do most of the hunting of prey, while the males engage in elaborate status rituals to defend and augment their own territories.
-* Alien Society: The leonid mystagogues are an **Ascetic Society of Monastic Spiritualists** and exist as a distinct subculture within the larger leonid society, which tends to be divided along gender lines. In contrast, the mystagogues are **Egalitarian in Outlook** and thus **Regarded with Suspicion by Larger Leonid Soc****iety**.
-* Alien Culture: Within the subculture of the leonid mystagogues, the **Spirit Hunt Ritual**, a hallucinatory trance enabled by the rare and costly **Spider-Orchid Poison**, is a central experience. Successful completion of the ritual is said to produce a feeling of union with nature and with others, heightened self-awareness, and greater empathy and interpersonal understanding.
-* Alien History: Throughout leonid history, Spirit Hunt ritualism has been a recurring heresy because of how it challenges traditional leonid modes of being. The **Planetary Patriarch and His Council of Wives** have recently promulgated **Laws Against the Spirit** **Hunt** that make it illegal to traffic in spider-orchid poison, with territorial dispossession as punishment. The enforcement of these laws has created a class of **Leonid Spirit Hunter Refugees** who entice off-worlders with an entheogenic trip by means of illegally obtained spider-orchid poison.
+*   Alien Physiology: The natives are a bipedal species of **Dimorphic Polygamous Carnivores** where males are characterized by **Ornate Status-Signaling Manes** and **Corpulent Hypermuscular Bodies** while females tend to be **Wiry Endomorphs**.
+*   Alien Psychology: Male leonids tend to be **Territorial**, **Status-Conscious**, and **Sentimental**, while female leonids tend to be **Cooperative**, **Clan-Conscious**, and **Cold-Blooded**. The females do most of the hunting of prey, while the males engage in elaborate status rituals to defend and augment their own territories.
+*   Alien Society: The leonid mystagogues are an **Ascetic Society of Monastic Spiritualists** and exist as a distinct subculture within the larger leonid society, which tends to be divided along gender lines. In contrast, the mystagogues are **Egalitarian in Outlook** and thus **Regarded with Suspicion by Larger Leonid Soc****iety**.
+*   Alien Culture: Within the subculture of the leonid mystagogues, the **Spirit Hunt Ritual**, a hallucinatory trance enabled by the rare and costly **Spider-Orchid Poison**, is a central experience. Successful completion of the ritual is said to produce a feeling of union with nature and with others, heightened self-awareness, and greater empathy and interpersonal understanding.
+*   Alien History: Throughout leonid history, Spirit Hunt ritualism has been a recurring heresy because of how it challenges traditional leonid modes of being. The **Planetary Patriarch and His Council of Wives** have recently promulgated **Laws Against the Spirit** **Hunt** that make it illegal to traffic in spider-orchid poison, with territorial dispossession as punishment. The enforcement of these laws has created a class of **Leonid Spirit Hunter Refugees** who entice off-worlders with an entheogenic trip by means of illegally obtained spider-orchid poison.

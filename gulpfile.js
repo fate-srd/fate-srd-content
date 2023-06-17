@@ -318,6 +318,10 @@ const toMarkdown = require('gulp-to-markdown');
 
   // Formats the Fate Space content into markdown
   gulp.task('make-space', () => gulp.src('source/fate-space-srd.html')
+    .pipe(replace('<span class="chapter-title">', ''))
+    .pipe(replace('</span>', ''))
+    .pipe(replace(/style=\"[^\"]*\"/g, ''))
+    .pipe(replace(/class=\"[^\"]*\"/g, ''))
     .pipe(toMarkdown())
     .pipe(gulp.dest('./docs/markdown')));
 
