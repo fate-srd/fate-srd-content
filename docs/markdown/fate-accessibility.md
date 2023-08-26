@@ -137,13 +137,13 @@ On the other hand, establishing a disability through an aspect opens up a wealth
 
 You can make as many of your aspects as you wish incorporate your disability. Discussions of the various disabilities in _Fate Accessibility Toolkit_ give plenty of example aspects specifically related to those disabilities, but some examples include:
 
-****Blind Champion of Queen Iranthi**:** Invoke to gain a bonus in combat, take advantage of the fact that you know the Queen personally, or declare that the flickering firelight doesn’t bother you (because you can barely see it anyway). Compel when an opponent uses your limited vision against you or when you’d rather be taking care of a different problem but duty to the Queen calls you away.
+**Blind Champion of Queen Iranthi:** Invoke to gain a bonus in combat, take advantage of the fact that you know the Queen personally, or declare that the flickering firelight doesn’t bother you (because you can barely see it anyway). Compel when an opponent uses your limited vision against you or when you’d rather be taking care of a different problem but duty to the Queen calls you away.
 
-****The Best Hearing Aids Fifty Bucks Can Buy**:** Invoke when you need to replace them inexpensively or when you need a bonus to hear that guy sneaking up on you. Compel when the cheap pieces of junk crackle with static or whistle with feedback.
+**The Best Hearing Aids Fifty Bucks Can Buy:** Invoke when you need to replace them inexpensively or when you need a bonus to hear that guy sneaking up on you. Compel when the cheap pieces of junk crackle with static or whistle with feedback.
 
-****Former Wheelchair Basketball Olympian**:** Invoke to gain a bonus in a chase or when you need to throw an object, or when your determination never, ever to quit gets you through a tough spot. Compel when “never quit” means you throw good effort after bad, or when your rival from the Australian team shows up with some payback on her mind.
+**Former Wheelchair Basketball Olympian:** Invoke to gain a bonus in a chase or when you need to throw an object, or when your determination never, ever to quit gets you through a tough spot. Compel when “never quit” means you throw good effort after bad, or when your rival from the Australian team shows up with some payback on her mind.
 
-****Quality Earplugs**:** Invoke when you need to recover from an autistic meltdown or don’t want the incredibly loud sounds of that factory to stir up your migraine. Compel when your earplugs mean you don’t hear the warning your partner yells to you, or you miss that your phone is ringing.
+**Quality Earplugs:** Invoke when you need to recover from an autistic meltdown or don’t want the incredibly loud sounds of that factory to stir up your migraine. Compel when your earplugs mean you don’t hear the warning your partner yells to you, or you miss that your phone is ringing.
 
 #### Stunts
 
