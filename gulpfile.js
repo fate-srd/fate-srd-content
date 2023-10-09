@@ -316,6 +316,13 @@ const toMarkdown = require('gulp-to-markdown');
     .pipe(toMarkdown())
     .pipe(gulp.dest('./docs/markdown')));
 
+  // Formats the Fate Space content into markdown
+  gulp.task('make-space', () => gulp.src('source/fate-space-srd.html')
+    .pipe(replace('<span class="chapter-title">', ''))
+    .pipe(replace('</span>', ''))
+    .pipe(replace(/style=\"[^\"]*\"/g, ''))
+    .pipe(replace(/class=\"[^\"]*\"/g, '')));
+
   // Formats the Fate Accessibility content into markdown
   gulp.task('make-a11y', () => gulp.src('source/fate-accessibility.html')
     .pipe(toMarkdown())
