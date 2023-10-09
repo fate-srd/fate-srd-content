@@ -1,0 +1,2123 @@
+# Fate Accessibility Toolkit SRD
+
+©2019 Evil Hat Productions, LLC. Refer to the licensing pages at <http://www.faterpg.com/licensing/> for details.
+
+This is the System Reference Document for use with the Creative Commons Attribution Unported license. The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:
+
+This work is based on the Fate Accessibility Toolkit SRD (found at <http://www.faterpg.com/>), a product of Evil Hat Productions, LLC, developed, authored, and edited by Elsa Sjunneson, Lillian Cohen-Moore, Philippe-Antoine Ménard, Clark Valentine, Zeph Wibby, Mysty Vander, ASL For RPG, Amanda Valentine, Ruth Tillman, Sophie Lagacé, and Jaydot Sloane. It is licensed for our use under the Creative Commons Attribution 3.0 Unported license (<http://creativecommons.org/licenses/by/3.0/>).
+
+# Nothing About Us Without Us
+
+In this book, we talk about all sorts of disabilities, from visible to invisible, from mental illness to people who use wheelchairs. We talk about the mechanics of how adaptive devices work in game, and how they work on a practical level. Basically, we get into as many specifics as possible.
+
+We can’t go over every disability on the planet; that would be futile. When you look at the text in _The Nitty Gritty of Specific Disabilities_ (page XX), it’s important to know a couple of things. Every disability has been addressed by someone who knows the topic because they live it. Lillian has schizophrenia and synesthesia; Elsa is blind, deaf, and has PTSD (yup, it’s a fun diagnostic party). This is deliberate; personal experience gives you better insight into how to play a character than a medical text can. It also means our advice might be flawed.
+
+_Gaming With Disabilities_ (page XX) gives you more information about how to do the research and learn from other people without hurting anyone, and it’ll help you bring people who already have disabilities to your table.
+
+Some of what’s said here may feel like you’re being told what not to do, which isn’t necessarily the most Fate-y thing ever. The goal here is to help you (the player and the GM) come to a better place where disability inclusion looks more like it should—a way to experience new stories without the burden of harmful tropes. Sometimes the only way to do that is to stop doing the things you’ve always done before.
+
+> #### Sidebar: On Saying “No”
+>
+> _Brian is one of the system and mechanics developers for this book! He pops in and out with ways to flesh out your mechanics from a Fate-y perspective._
+>
+> As Elsa said, some of the text in this book likely feels like we’re telling you what not to do, and that might feel contrary to the ethos of Fate. You’re supposed to say “yes,” aren’t you?
+>
+> Here’s the thing: Fate is a respectful game. We don’t tackle topics if we can’t tackle them in a respectful way, and when we do tackle topics—especially sensitive, difficult topics—we do it with the goal of not causing harm. Sometimes that works, and sometimes it doesn’t.
+>
+> This book aims to help your table do this for a specific set of topics. We want everyone to have fun, but in a way that doesn’t hurt anyone or make anyone feel like they are less important.
+>
+> So try this trick: if you write an aspect or a stunt or whatever and someone else at the table says, “Hey, that aspect kind of hurts me. Do you mind changing it?” don’t approach that as them saying “no” to you. Approach it as an opportunity for you to learn, to come up with a better, more respectful way to express what you’re trying to express, or to realize that sometimes a trope is just plain harmful and shouldn’t be used at the table.
+>
+> Remember that everyone at the table is there to have fun, and if something you do is causing someone pain or discomfort, you’re getting in the way of their fun. It’s okay for the table to say “no” to that kind of behavior. Because Fate is a respectful game.
+>
+> —Brian
+
+## A Short List of Things You May Not Have Considered
+
+* Disabled people don’t always want to be cured.
+* Not all disabilities have a cure.
+* The Disability Binary is a lie. Most disabilities exist on a sliding scale. Not all blind people are totally blind, not all D/deaf people are totally D/deaf, a person in a wheelchair may be able to stand and walk short distances.
+* An adaptive device is a tool, sometimes an extension of or replacement for a body part. It is not a toy or a prop or a thing to be mocked.
+* Disability can be part of your identity, but it isn’t all of you either. Disabled people are Jewish, PoC, gay, straight, trans… Disabled people are just that. Complex people.
+* Pain is relative. Some kinds of pain don’t even rate for someone who has it all the time.
+* Disability is not one size fits all; it looks different on everyone, and everyone who has a disability handles their own differently. Even people with the same disability don’t all handle it in the exact same way.
+* Not all disabilities are visible. You might play a character with an invisible disability—their experience is still a disabled one.
+
+## Language and Identity
+
+There are a few different ways that people with disabilities talk about ourselves. Some prefer person first language. What does that mean? It’s very simple: It means the word “person” goes before the disability, such as “a man with depression.” Some people feel that it helps them maintain their identity as a “person first, disability second.” Other people, including myself (Elsa), prefer to be called a blind woman or a disabled woman. It’s a matter of preference and practice. In my case, because I have never known a body other than a disabled one to be mine, I choose the language of disabled first. However, gaining a disability later in life does not mean that you would prefer person first language. When you’re creating a character with a disability, consider what language they might prefer or, for that matter, the language preferred for the world you’re playing in.
+
+## A Note on Aspects
+
+A cornerstone of Fate is that you can choose the aspects that interest you as a player, and choose language that suits your thinking. Since good aspects can be compelled as well as invoked, phrase aspects in a useful, flexible way. A character might be **Strong**, but they might also be **Built Like a Tank** or **Tiny but Mighty**. The actual wording of the aspect is just the anchor point to hang your understanding of the character on. Consider jotting down a description of how the aspect is supposed to work, both when invoked and when compelled. After all, even aspects like **Amazon Princess** or **World’s Greatest Detective** can use a little description to nail down what they cover.
+
+We hope this book helps you apply the same richness of thought to tweaking straightforward aspects like **Blind Swordsman** (like Zatoichi) or **Depressed Green Monster** (like Shrek) or **Anxious Blue Thought** (like Sadness from _Inside Out_). While this book provides more colorful aspects that might be used in lieu of those, more importantly, it provides tools to allow you to have a richer understanding of the **idea** you’re expressing. We’re not looking to police “good” and “bad” aspects, only to suggest that the more you understand, the better the experience will be for you and for everyone you play with.
+
+GMs, never compel an aspect in such a way that it takes a player character out of the flow of the story. For example, do not compel an **Agoraphobic** to force a player to hide in a corner while the action is unfolding in a vast train station. Instead, provide ideas of choices that will lead to more possibilities for the character. For example, you can hold up a fate point and suggest: “Do you think your agoraphobia would drive you to seek a safe spot somewhere? The station master ran out of the office when the second alarm rang, and the ‘Employees only’ door is slightly ajar…”
+
+## Heroism and Overcoming
+
+We encourage you to use the _Fate Accessibility Toolkit_ to explore playing characters with disabilities in heroic situations. Rewrite the **overcoming narrative**—the narrative that as a disabled person you’re heroic because you manage to get out your front door. This is one of the narratives we’re trying to encourage players to leave behind, telling new stories. Always push to have your characters with disabilities be part of the story as people first—not because they’re disabled, but because they’re heroes.
+
+# Gaming With Disabilities
+
+Whether you’re playing a disabled character, creating a character with disabilities, GMing for disabled characters, or making your gaming space more accessible and welcoming for disabled players, this section covers a lot of things you should think about.
+
+## Playing Characters With Disabilities
+
+The way disabilities are expressed in Fate Core comes from the choices you make in character and the way you use your skills to navigate the world around you. You won’t necessarily narrate using your white cane on the pavement unless it matters in the story, but you might narrate the experience of trying to find a clue with your hands and not your eyes. Your character in a wheelchair has the Athletics skill, but it’s used for other ways of getting around than running and jumping. When playing a character with disabilities within Fate, avoid embodying that character by using a prop; rather, shift the way you think about interacting with the world at large.
+
+### Physical Disabilities
+
+Most people are familiar with the disabilities you assume you can see—those that require mobility devices or exterior help. They’re often the disabilities that people stare at, because they see something as different from them. Some of the disabilities covered in this book include blindness, deafness, paralysis, and amputation. The fact is, not all these disabilities _are_ visible, though. A blind person might wear glasses, or they might only be blind in one eye and not both. A **D/deaf** person might wear invisible hearing aids, or have a cochlear implant. All these things change the visible nature of disability—and that’s before we get future tech involved!
+
+Physical disabilities likely affect play the most in terms of physical actions—everything from being able to notice objects or find clues, to running from a pack of slavering beasts.
+
+> #### Sidebar: Capital D or lowercase d?
+>
+> The term D/deaf is used to describe people across the spectrum of deafness and of participation in Deaf Culture. A person who is a “capital D Deaf” person likely uses sign language either as their primary language or to the exclusion of orally spoken language. A person with the “little d” designation likely uses oral language skills, lipreading, and hearing aids. D/deaf is often used as a shortcut to describe both groups who are similar but not exactly the same when it comes to communication.
+>
+> Hard of hearing (HoH) refers to those who have trouble hearing some sounds; this can range from mild to severe and is often helped by amplification devices such as hearing aids. There’s a medical definition with a firm delineation, but culturally and personally the lines are more blurry. How do you know if someone is hard of hearing or deaf or Deaf? It depends on how they personally identify themselves.
+
+#### Invisible Disabilities
+
+An invisible disability may not be apparent at first blush—a condition which, for better or worse, isn’t seen as a part of you at a glance. Many of these disabilities are still physical in nature by the way they affect the body, but aren’t obvious at first sight.
+
+It should be made clear that these disabilities are not things that someone could make up, or convince oneself of within the context of mental illness. Both mental illness and invisible disabilities are valid, and real, and things which should be taken seriously, not questioned for their validity. Unfortunately, this is a common reaction to such disabilities, especially ones around pain or around neurotypicality.
+
+> #### Sidebar: Multiple Disabilities
+>
+> Each disability could be coupled with other disabilities. However, as someone who lives with three disabilities, I can tell you that it’s not an easy path—I don’t recommend it unless you have extensive understanding of all the disabilities in your character’s background.
+>
+> However, there may be occasions where it seems fitting to have two disabilities overlap from the same cause. In this case, it may be wisest to start with the cause—an accident, an illness, etc.—and identify a few consequences. For example, a character who survived a serious car wreck may have a mobility disability and also have PTSD which manifests primarily around travel and transit.
+>
+> Rather than develop a full set of aspects for each, you might take one aspect related to PTSD and focus the rest of the character’s disability-related mechanics on their mobility disability. Or consider that one disability may manifest as mechanics, while the rest are part of the narrative gameplay. Above all, remember that your character is a complex person and should not be defined primarily by their disabilities, even if they have several.
+>
+> See _Creating a Disabled Fate Character_ (page XX) for suggestions on how to balance the mechanics.
+
+### Mental Illness
+
+In game design we have a really difficult relationship with mental illness. Games don’t have a great track record for representing mental illness well, or for treating people who have mental illnesses with respect.
+
+A lot of that has to do with the language that we use in creating games. Sanity checks. Games set in horrifying psychiatric facilities. Flaws or character defects that make mental illness look scarier than it is. All these things have made the game table a very shaky place to talk about mental health—but I hope this book can dispel a little bit of that bad faith. When discussing mental illnesses, we do our best to talk about not just what mental health can look like in games, but how it might affect your character for real, not as a joke or as a punchline, but as a way to develop your character. To help address these concerns, each of the mental illness sections has been written by a person who lives with the mental health condition listed.
+
+It’s common and easy to assume we’re familiar with mental health conditions based on the oversimplified and often joking way they’re portrayed and talked about in everyday conversation. How often have you seen an offhand comment about OCD that describes it as a quirk and doesn’t account for the reality of what it means to live with it? If you play a character with a mental illness, consider doing an internet search of medical sources to get an idea of what a clinical diagnosis looks like. Not every mental illness plays out exactly the way that the diagnosis is written, but it’s a helpful piece of information for you to have. As a note, clinical diagnostic criteria sometimes change, and the definitions often alter how people identify. Having your diagnosis be a moving target is also something to consider, because it may make your character less sure of what exactly they live with.
+
+> #### Sidebar: Don’t Diagnose the Table
+>
+> Just because you’re given access to these tools to diagnose and play out your character’s mental illness does not mean you should use these tools to diagnose real live people. If you have concerns about a friend or family member’s mental health, consider giving them the tools to seek out help, rather than diagnosing them on your own.
+
+#### Horror and Mental Health
+
+When playing in a game that focuses on people’s realities being torn apart, such as Cthulhu Mythos-related games, players should pay attention to how trauma, or changes to the reality they ascribe to, affect them as a character. Rather than using “crazy” behavior to elicit humor, focus instead on how the things that shift your worldview change what you are and aren’t willing to do. A woman who believes so strongly in justice that she’s willing to do anything to uphold the law may have trouble looking herself in the mirror after having to kill a cultist who was attempting to sacrifice a virgin. A doctor who believes strongly in his Hippocratic oath might not be so comfortable with himself when he finds out that the body doesn’t actually work the way that he’s always learned it does. The worlds we create can have effects on the mental health of our characters without becoming a hilarious trope of what the media feeds us as comedy.
+
+I see a lot of people playing “crazy” characters as the catharsis of humor in many horror games. They’re the ones who do silly things and who act like children; in that case mental illness is played as a trait that makes people unpredictable or funny. People will still do this—I can’t reach through the pages of this book and stop you—but I encourage you to consider how mental illness would actually affect a character running around in a world that no longer makes any sense.
+
+#### Anchors: Tracking Mental Trauma
+
+The mind is complex, and a mechanic like sanity points or a random mental illness chart simplifies it in a way that can be reductive and insulting to people who actually live with mental illness. If you think your game needs such a mechanic, consider this as an alternative.
+
+When creating characters, each player chooses five aspects: a high concept, a trouble, and three **anchors**. Those anchors are things that stabilize them, that give them comfort, that prevent them from spiraling into despair. They can be relationships, daily rituals they engage in, beliefs they hold, personal items or places that are very important to them, or a variety of other grounding forces.
+
+Whenever a player wants a better roll but has no way to improve that roll—they’re out of fate points, they have no applicable stunts, or they simply don’t have any relevant aspects—they can **risk an anchor**. Doing so provides the benefit of invoking an aspect, but it comes with a catch: if the player succeeds on their roll, they must _change that anchor_ by the end of the scene. The new anchor can be related or entirely new, provided that it makes sense within the context of the game. If the character fails their roll, nothing happens to their anchors; they simply suffer the effects of failure. A character can risk each anchor only once on a single roll.
+
+This system is less about penalizing players or “damaging their sanity” when they’re exposed to horrific things and more about modeling how people change when exposed to horrors. It’s not explicitly for modeling mental illness, but it can be used to do so in a way that’s more organic and respectful than sanity points or a random mental illness chart.
+
+If you use this system, know that it relies heavily on depriving the players of fate points. Consider lowering players’ starting refresh and using compels sparingly.
+
+## Creating a Disabled Fate Character
+
+There are a number of ways to make a character with a disability and have the disability represented in game mechanics. The first step in all of those ways is to have one of your character aspects (possibly your high concept but it doesn’t have to be) establish the disability, such as **Paraplegic Sleuth** or **Autistics Think Outside the Box**. This alone shows that your character’s disability is a part of them that you’d like to explore. If that’s as far as you want to go, it’s absolutely enough.
+
+### Components of a Disability
+
+On the other hand, establishing a disability through an aspect opens up a wealth of options. These include additional aspects, stunts, conditions, and extras.
+
+#### Aspects
+
+You can make as many of your aspects as you wish incorporate your disability. Discussions of the various disabilities in _Fate Accessibility Toolkit_ give plenty of example aspects specifically related to those disabilities, but some examples include:
+
+**Blind Champion of Queen Iranthi:** Invoke to gain a bonus in combat, take advantage of the fact that you know the Queen personally, or declare that the flickering firelight doesn’t bother you (because you can barely see it anyway). Compel when an opponent uses your limited vision against you or when you’d rather be taking care of a different problem but duty to the Queen calls you away.
+
+**The Best Hearing Aids Fifty Bucks Can Buy:** Invoke when you need to replace them inexpensively or when you need a bonus to hear that guy sneaking up on you. Compel when the cheap pieces of junk crackle with static or whistle with feedback.
+
+**Former Wheelchair Basketball Olympian:** Invoke to gain a bonus in a chase or when you need to throw an object, or when your determination never, ever to quit gets you through a tough spot. Compel when “never quit” means you throw good effort after bad, or when your rival from the Australian team shows up with some payback on her mind.
+
+**Quality Earplugs:** Invoke when you need to recover from an autistic meltdown or don’t want the incredibly loud sounds of that factory to stir up your migraine. Compel when your earplugs mean you don’t hear the warning your partner yells to you, or you miss that your phone is ringing.
+
+#### Stunts
+
+You can compose stunts related to your disability using your character’s usual stunt slots and refresh. Stunts can represent qualities of your disability, as well as adaptive devices (page XX) you use. See Fate Core's stunt chapter (_Fate Core System,_ page 88) for extensive details about composing stunts, but some examples include:
+
+**Shotgun Prosthetic (Deceive):** Your rigid prosthetic leg contains a shotgun barrel, triggered by a lever at your hip. When you’re seated, you may make an attack (with Weapon:3) using Deceive against a target in your zone that isn’t aware of this extra feature.
+
+**Pain Tolerance (Physique):** Your many years of dealing with chronic pain have made you resilient to physical punishment. Once per session, at the cost of a fate point, you can reduce the severity of a moderate consequence that’s physical in nature to a mild consequence (if your mild consequence slot is free), or erase a mild consequence altogether.
+
+**Lip Reader (Notice):** You are highly adept at reading lips. You gain +2 to overcome actions made with Notice to “eavesdrop” on someone from a distance, provided you can see their mouth.
+
+#### Extras and Conditions
+
+Extras (_Fate Core System_, Chapter 11) can be used to represent some adaptive devices, such as wheelchairs or cybernetic implants. Most extras have a cost that you need to meet in order to take it, such as skill ranks in a certain skill or spending a stunt slot.
+
+A **condition** is… well… a temporary condition that your character might find themself in. Conditions have special rules that come into effect when they’re active, and have a way to recover from them to deactivate those rules. We talk a lot about conditions on page XX.
+
+#### What Can I Add To My Character?
+
+So, how many conditions, extras, and such can you take when you make your character? Your aspects, skills, and stunts work as usual. The parts of your disability represented by aspects, skills, and stunts fit into those frameworks no differently than non-disability related elements. Extras list a permission (typically an aspect) and a cost (typically a stunt slot or point of refresh, sometimes more). Many give you some free aspects and stunts, which don’t count against your usual slots. You can take as many extras as you can afford within that cost.
+
+Conditions are a bit different. Some extras suggest (or even require) particular conditions, so take those, but we suggest that you take any that make sense to your conception of your character.
+
+Remember that with the _Fate Accessibility Toolkit_, your aim should not be precise mechanical “balance,” where every disadvantage is evened-out by a concrete advantage somewhere else. Let your focus be on modeling in rules the parts of your character that you’d like to reflect in rules.
+
+This goes for any mechanical part of the game, not just conditions. Game designers and writers who live with these disabilities have stressed throughout this book many times that every person’s disability is unique—so it would be ridiculous to have hard-and-fast rules about how, say, blindness works that apply the same way every time. Be flexible. Make the character on paper the way they are in your imagination.
+
+##### Example: Creating Ma Bell
+
+Laurel is playing in a 90s-era Hackers game. Her high concept is **Aspie Phone Phreaker** who goes by “Ma Bell.” As a trouble aspect, Laurel decides her character has an **I Can Do It!** attitude which often gets her in over her head. Sometimes this could be related to an autistic fixation, but it’s more often a consequence of her curiosity and love of experimentation. Ma Bell pulls off her hijinks because she **Hears in Patterns** and uses devices to exactly mimic the sounds she needs. This is a cooler use of a real life way in which Laurel experiences her autism. Laurel reminds the GM that she isn’t playing a stereotypical savant or someone with superpowers; Ma Bell’s talent is in reproducing the patterns she hears.
+
+Since Ma Bell uses homemade gadgets to phreak, Laurel creates the stunt Sonic Scrounger. With this stunt, she can identify potential components even when she’s separated from her electronic devices without spending a fate point. Making a new gadget still requires a Craft check. Laurel draws on her own experience of making people uncomfortable by observing things which fall outside social norms to develop the stunt I Can’t Help But Notice; it uses her character’s Notice in place of Provoke to create an advantage by unsettling or upsetting the target.
+
+Laurel adds condition Meltdown to her sheet and tells the GM it’s generally triggered for her character by auditory stimuli. She considers whether she wants to take any assistive devices as aspects or extras. In everyday life, her partner acts as a service human. But she decides that her character is more of a loner and that her gadgets are all focused around her trade. She may invoke some of her real-life autistic traits in engaging with her gadgets, but she doesn’t feel it needs to be mechanical.
+
+###### Ma Bell
+
+**Aspects**
+
+**High Concept:** **Aspie Phone Phreaker**
+
+**Trouble:** **I Can Do It!**
+
+**Other Aspects:** **Hears in Patterns; Pockets Full of Gadgets; Friends in Geeky Circles**
+
+**Skills**
+
+**Great (+4):** Notice
+
+**Good (+3):** Craft, Investigate
+
+**Fair (+2):** Empathy, Resources, Stealth
+
+**Average (+1):** Athletics, Contacts, Lore, Will
+
+**Stunts**
+
+**Sonic Scrounger (Crafts):** Ma Bell can identify potential components for her gadgets even when she’s separated from her electronic devices. She doesn’t need to spend a fate point to declare she has what she needs. Making a new gadget still requires a Craft check.
+
+**I Can’t Help But Notice (Notice):** Thanks to her habit of observing things that fall outside of social norms, Ma Bell can use Notice in place of Provoke when creating an advantage by making the target unsettled or upset.
+
+**Always Making Useful Things (Crafts):** You don’t ever have to spend a fate point to declare that you have the proper tools for a particular job using Crafts, even in extreme situations (like being imprisoned and separated from all your stuff). This source of opposition is just off the table.
+
+**Stress**
+
+**Physical:** <tt>[1][2]</tt>
+
+**Mental:** <tt>[1][2][3]</tt>
+
+**Conditions**
+
+<tt>[]</tt>**Meltdown** (fleeting)
+
+**Consequences**
+
+**<tt>[2]</tt>Mild:**
+
+**<tt>[4]</tt>Moderate:**
+
+**<tt>[6]</tt>Severe:**
+
+**Refresh: 3**
+
+##### Example: Creating Professor Jenkins
+
+Elsa is creating Professor Jenkins, a blind super sleuth in a mystery campaign set in the 1920s. She takes the high concept aspect **Blind Mystery-Solving Literature Professor** which establishes that she’s blind and is extremely well-read and highly educated. Another of her aspects is **Glasses Like Soda Bottles**; Elsa tells the GM that Jenkins has some vision in one eye but it’s limited to close-up work and then only with her strong glasses.
+
+Next, she composes this stunt to represent one of her items of adaptive technology, using one of her character’s three free stunts:
+
+* **Magnifiers (Investigation):** Professor Jenkins’s glasses have a jeweler’s magnification lens that she can position in front of her usual lenses. With this lens, she gains +2 to overcome and create advantage Investigation actions when examining objects close-up and looking for tiny details.
+
+Finally, she likes the look of the extra called White Cane, and decides to add it to her character. The White Cane extra costs one of her stunt slots (so that’s the second of the three free stunts), but it gives her two free stunts and an additional aspect that are related to her cane. It also requires the Without My Device condition.
+
+###### Professor Jenkins
+
+**Aspects**
+
+**High Concept:** **Blind Mystery-Solving Literature Professor**
+
+**Trouble:** **The Dean Has It In For Me**
+
+**Other Aspects:** **Glasses Like Soda Bottles; Cane Expertise, Martial and Otherwise; That’s What Grad Students Are For**
+
+**Skills**
+
+**Great (+4):** Investigate
+
+**Good (+3):** Contacts, Lore
+
+**Fair (+2):** Notice, Stealth, Fight
+
+**Average (+1):** Deceive, Empathy, Rapport, Will
+
+**Stunts**
+
+**Magnifiers (Investigate):** Professor Jenkins’s glasses have a jeweler’s magnification lens that she can position in front of her usual lenses. With this lens, she gains +2 to overcome and create advantage Investigation actions when examining objects close-up and looking for tiny details.
+
+**Stun Stick (Fight):** The handle of your cane conceals a powerful electrical stunning device, which delivers a viciously painful shock through the cane’s tip. Once per scene, you can apply **Shocked and Stunned** to the target of your successful Fight attack made with the cane.
+
+**Trapfinder (Notice):** You have optimized your cane for locating traps, snares, false floors, and other pitfalls you might encounter while exploring ancient temples and ruins. Gain +2 to overcome actions with Notice to find traps.
+
+**The Power of Deduction (Investigate):** Once per scene you can spend a fate point (and a few minutes of observation) to make a special Investigate roll representing your potent deductive faculties. For each shift you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.
+
+**Extras**
+
+White Cane
+
+**Conditions**
+
+<tt>[]</tt>**Without My Device** (fleeting)
+
+**Stress**
+
+**Physical:** <tt>[1][2]</tt>
+
+**Mental:** <tt>[1][2][3]</tt>
+
+**Consequences**
+
+**<tt>[2]</tt>Mild:**
+
+**<tt>[4]</tt>Moderate:**
+
+**<tt>[6]</tt>Severe:**
+
+**Refresh: 3**
+
+## GMing for Disabled Characters
+
+So you’ve got all these new characters rolling around the table, and suddenly you need to adjust how you GM in order to tell the stories of disabled characters as well as you’ve told the stories of able bodied ones. The first thing to remember is that telling a story includes all the senses that characters might have access to. For example, if a blind character is at the table, you want to make sure to give their player excellent sensory directions like smell, taste, touch, and sound. The air can taste like blood if you’re used to paying attention to such things, for example.
+
+One of the ways to think about this is also a great writing technique—look at a scene and take away a single sense for yourself, then consider all the ways it might be read from other sensory angles. If you can’t hear at all, a room full of people shouting might look very different, because you can’t contextualize the shouting by tone.
+
+This also means that you need to know what’s in an area very well, or at least be prepared to elaborate on the fly. If you’ve got a character with a wheelchair, you might need to diversify the ways characters get into a building or around a space. If your players aren’t disabled, they may not know tricks to getting around or may not have thought about fantastical measures for getting a wheelchair into a building, so you need to be three steps ahead with possible solutions to move the story forward.
+
+It is also totally reasonable to challenge your characters with disabilities in ways that a person with a disability would be challenged in real life, provided the player themself is not disabled. Having to play out scenarios that a player with a disability lives every day is boring, but giving able bodied players a chance to think through everyday solutions to problems is a reasonable part of play.
+
+## Disabilities at the Table
+
+Most of this book is dedicated to the question: How do I play disabled people in games? This section is about the other question I often get asked: How do I bring players with disabilities to my table? It focuses on bringing players with disabilities to our gaming tables without asking them to do the bulk of the work to figure out how to get there.
+
+The first few steps are really simple. Start with bright lights, comfortable chairs, and accessible materials such as large print dice, simpler character sheets with larger print, or even a tablet with a PDF of the game rules on it. On page page XX of this book you’ll find a large print character sheet for Fate Core, and on page XX you'll find a list of ASL signs for some basic RPG terms.
+
+These are a start, but there’s more to do. Your table can’t just be accessible because you’re willing to play with people; it has to be accessible because you’ve made your table that way.
+
+> #### Sidebar: Leveling the Playing Field
+>
+> The world won’t always be perfectly accessible. We may not always have strong lighting, we may not be able to eradicate crosstalk at our tables, or completely eradicate harmful tropes.
+>
+> But we can try.
+>
+> We can try to create better gaming spaces, create better characters, develop better systems.
+>
+> We can make large print character sheets, and design mechanics that represent more people. We can stop using harmful tropes, and develop more content about disabled people.
+>
+> The best tool I can leave you with is to ask questions of your disabled peers. Want to play a D/deaf character? Ask somebody. Want to have a visually impaired or blind player at your table? Ask them what will make the game more comfortable for them.
+>
+> We didn’t cover a lot of disabilities in here, not because they aren’t important but because we only had so much space. Don’t assume that because we didn’t include them doesn’t mean they aren’t worthy of inclusion, representation, or support. Intellectually disabled gamers exist, gamers with MS, with muscular dystrophy, with ALS exist. They deserve representation and inclusion in our world.
+>
+> We can always do better.
+
+### Language
+
+Inclusion and representation doesn’t just take place in the ways that we play our games, or with the characters we develop; it’s also about changing our culture to include people. We’re still fighting and learning how to include women and people of color in our games and at our tables, but disability is important too.
+
+That fight starts with how you speak.
+
+The real tool you need to create accessibility is knowing how to talk about access with your friends, players, and strangers. There’s language to be used for that, and there are better and worse ways to discuss these issues.
+
+Let’s start with the basics of the language people use to describe themselves and their disabilities. There are two major theories that get used: Person First Language and Identity First Language. It’s safest to use Person First Language at first, when you don’t yet know someone’s preference. Once you’ve gotten to know someone for a while, I suggest asking your friend what language they use for their disability.
+
+#### Person First Language
+
+This is a pretty simple idea: put the word _person_ before the word _disability_ or the kind of disability involved. Person with a wheelchair, person with a disability (PWD for short).
+
+#### Identity First Language
+
+I (Elsa) am an identity first user. I’m a blind woman. A disabled person. The identity of disability is important to who I am, and I can’t get rid of it. For me, person first language feels distancing, but for others it feels respectful. That’s why you should always ask!
+
+#### Language to Avoid
+
+Handicapable, special needs, and other cutesy ways to avoid disability are often viewed as harmful. They erase the need for language that says the word, they play into the need to pretend that disability doesn’t exist. People aren’t comfortable confronting disability as it is.
+
+_Special needs_ is a term that particularly sticks with me, because my needs at the game table (or anywhere) aren’t special. It’s not special that I need a level playing field using adaptive devices. It’s not special treatment to ask for a different character sheet, or for everyone to use large print dice. It’s just how it is. When you adjust your language to believe that these are needed changes, and not _special_, you’re acknowledging equality with your words.
+
+### Creating a Safe Environment
+
+It goes without saying that the environment needs to be physically safe for all players, so here we’re talking about making your table a place where the players feel safe to engage with the game and with other players.
+
+First, it’s important to set the tone for your table by talking about people’s expectations and things that won’t be accepted at your table, like playing disabilities for laughs or scenes with violence against children. Talk about things that the players do and don’t want to experience—you are also one of those players, so make your own wishes known, both for your comfort and to set an example to encourage others to share as well. If your players are expecting a swashbuckling adventure, they may be caught unawares by a dark dungeon crawl with a high likelihood of death. If a player has a spider phobia, maybe rethink the plan to have them enter a haunted house full of spiders; maybe another creature would be just as creepy without touching on deep-seated fears. See “Trigger Warnings” on page XX for more on this.
+
+Despite your best attempts at trying to avoid in-game situations that make your players uncomfortable, sometimes a player (including you) may find the game heading in an unwelcome direction. There are a few strategies for dealing with this in the game as it happens. The two we talk about here are the X-Card and Script Change.
+
+#### The X-Card
+
+John Stavropoulos’ creation of the X-Card has made it possible to have a physical representation of the trigger warning on every gaming table we sit at. The X-Card acts as a way to remove ourselves from a scene or situation that might be uncomfortable, for whatever reason. Many people use it to avoid having to engage in any kind of roleplay they might not be comfortable with (any kind of sexual scene with someone they don’t know well, for example), while others use it to avoid any material that might be triggering for a psychological disorder such as PTSD.
+
+The X-Card creates a way to signal safely without having to explain yourself to a table of potential strangers. It means that if you want to play a game with people you don’t know, you don’t have to explain your whole life history before sitting down. Some detractors of the X-Card say that it just allows people to find out what your weaknesses are, but that would be an abuse of the dynamic that the card represents.
+
+The X-Card and trigger warnings are intended to create an environment where any theme can be explored, or where any theme can be expressly avoided if necessary. The ideal is, of course, that all players feel comfortable within the space.
+
+The X-Card is particularly suited to conventions, game day events, and other situations where the participants may not know one another all that well and where time for discussion of sensitive issues may be limited. You can learn more about the X-Card on page XX.
+
+#### Script Change
+
+Brie Beau Sheldon’s Script Change RPG Toolbox is more suited to ongoing games between people who know one another and have built a level of trust. Often it’s good to discuss with your group a “rating” for your game content, however sometimes people don’t know their boundaries yet. Maybe they do, and they just aren’t expecting to kick down the door and find something that really makes them scared or uncomfortable. This is where Script Change comes in.
+
+At any point during the game, if a player or game master (GM) finds that they are uncomfortable with the subject matter or actions happening in the game, they can call for a Script Change. To make things easier, the GM should write “Rewind,” “Fast Forward,” and “Pause” on individual index cards or print out the sample Script Change cards in the Appendix of this book. You can learn more about Script Change on page XX.
+
+#### Trigger Warnings
+
+Trigger warnings are another method of assisting players with potential mental health concerns around a table. Instead of asking your players to air their concerns in front of one another (which the X-Card forces you to do to some extent) you can always offer to have conversations with your players individually about their triggers or topical concerns when it comes to subject matter. You don’t have to even have a mental health concern to have something you don’t want to come up in game. For example, I really prefer my horror without eyeball trauma.
+
+Another way to use the trigger warning or content warning is to tell your players ahead of time at the top of a session that “these are the themes we might get into at the table today” and then letting people opt out if they need to. Giving people the information that _Wraith: The Oblivion_ contains themes of violent death might seem redundant, but not everyone is going to be aware. Giving everyone equal opportunity to sit down at the table and enjoy a game is valuable.
+
+### All Access Gaming
+
+The philosophy to which I subscribe, and the reason I wrote this book, can be called “all access gaming.” Ideally our hobby will eventually be radically accessible, a place in which no matter if you can hear, see, or walk, you can still play in any game you want.
+
+This doesn’t just apply to the table at your home. It applies to the gaming stores we go to and the publishers we buy from. Asking for access needs to come not just from the disabled gamers who request it, but from their friends who want to be able to play with them. All access gaming means that we’ve busted open the hobby as wide as we can and told everyone that they can come roll the dice with us.
+
+A lot of people ask why gamers should care about equal representation for disabled gamers. After all, if you’re not disabled those stories aren’t obviously fun to play. The answer is because we live in a diverse world, and the stories we want to tell are not just about us. We cannot on one hand criticize players for wanting to play themselves, and then not want to tell as many stories and hear as many stories as we can.
+
+All access gaming means welcoming people with new stories to our tables, and making those tables easily attended. Since accessibility isn’t the default, however, we have to begin designing our games around change, rather than expecting the change to develop around games.
+
+#### Accessible Randomizers
+
+Dice are one of the most inaccessible accessories in our hobby—and yet they’re also one of the most integral. They’re difficult or impossible to read for those with vision problems, and those with tremors or other fine motor control issues may have difficulty rolling them.
+
+The dice that are most readable for low vision or blind gamers are often clunky, large, and difficult to roll, especially for pool-based games where you need a lot of dice. Some people like to design braille dice, which is great for completely blind players, but braille readers and NLP (no light perception) blind people are a small fraction of the population. There’s lots of low vision folks out there who want good looking large print dice, or other options.
+
+This is part of why the _Fate Accessibility Toolkit_ was written for the Fate system. Fate dice are easily read by touch and they’re more accessible than most dice because there isn’t any counting to be done. In the vast majority of Fate games, you never roll more than four dice, which are all the same size and shape.
+
+In addition, if you don’t want to handle tactile dice (or if tactile dice aren’t an option for you), many dice apps have options for Fate or Fudge dice. There’s also the physical [Deck of Fate from Evil Hat](https://www.evilhat.com/home/deck-of-fate/) and the Deck of Fate app. The Deck of Fate mimics the probability of Fate dice with the numeric results shown in large numbers—red for negative results, black for neutral, and blue for positive. The licensed Deck of Fate app from [Hidden Achievement](http://deckoffate.hiddenachievement.com/) has an option to add a skill profile and let the app do all your math for you.
+
+The Fate system is accessible, and it can be made more accessible by players and GMs.
+
+#### Text Issues
+
+Rules embedded in a wall of small print. A multi-page character sheet full of columns of stats. Many games aren’t friendly to those who have trouble processing text.
+
+Tactics like retaining white space on the page and including “cheat sheets” that summarize important rules in large print can help make a game book easier to read and reference. Different versions of the character sheet, including one that is decluttered and has plenty of room to write, can also make your game more accessible. Consider offering these as free downloads to make them available to anyone who needs them.
+
+PDFs, which can be zoomed in to make the text easier to read, are becoming more widespread, but some of the most popular games aren’t yet available in PDF form. Nor are most gaming books available via audiobook, although ebooks can be turned into audiobooks, particularly if they are in .ePub or .mobi formats. (_Fate Core System_ is available in both .ePub and .mobi formats in addition to PDF.)
+
+#### The Verbal Component
+
+In a hobby that is almost entirely about the spoken word, people who cannot hear or speak might be shut out. Those who struggle with sensory input or crowds can easily be overwhelmed by a noisy table and people talking over each other.
+
+Deaf gamers face specific struggles within the hobby—or they don’t. If a Deaf gamer finds other Deaf people to game with, then they can game in their own language. But if they want to play new games and meet new people, it may seem like an overwhelming challenge. Disabled gamers can hack a game and tell stories within our own social groups and disability related communities, but it’s when we try to bridge the gap and play with able bodied players that things become more difficult.
+
+A lot of this boils down to being aware of the needs of the gamers at your table. Ensuring that everyone has a chance to express themselves in whatever way they need to—whether spoken, signed, or written—can help gamers feel less isolated. If you see someone pulling back from group discussion, see if you can give them a chance to communicate without being spoken over. Take time to calm the overall atmosphere of the room when your players have gotten excited. There’s an understandable tendency to let things go as long as players seem engaged, but keep an eye out for the quiet ones and look for ways to make the table comfortable for them as well.
+
+#### Conventions
+
+Conventions are where game culture goes to develop. People take new tools back to their home FLGS (Friendly Local Game Store) or to their homebrew games. Cons help by creating standards of access and requiring able bodied participants to be aware of the access limitations which are present at the con, and how they can better support disabled places in their own environments.
+
+Gaming will benefit from creating better representation by simply creating space at all conventions—not just the ones that disabled folks work at. Hire someone within your convention planning team to specifically work on accessibility.
+
+Here are some suggestions to get you started:
+
+* Since our hobby is so focused on vocal storytelling, we need to remember that not everyone can hear in a loud crowded gaming hall. Allocate space for games run by or played by d/Deaf gamers and others who need to play in a low distraction environment.
+* Create a website for your game that can be easily accessed by visually impaired attendees, or offer the option of large print character sheets.
+* Make wheelchair friendly lanes in hallways and the exhibitor hall, and put disability seating in panel spaces.
+* Have a designated and well advertised quiet room with low lighting where attendees who are overwhelmed by the crowds, the sounds, the visuals, etc. can go to rest and recharge.
+
+What this all boils down to, whether it’s a blind player or a player on the autism spectrum, is that we must be in dialogue with one another, so that every single one of us can play.
+
+# The Nitty Gritty of Specific Disabilities
+
+In this section we talk about a lot of different disabilities, how to play them, and what to look out for.
+
+We’ve presented them in the most straightforward way—divided up and addressed one at a time. But the fact of the matter is, disabilities intersect; they don’t just intersect with each other (Elsa is deafblind, which means she’s both!), but they also intersect with other identities. Disabled people aren’t just disabled; they’re also PoC, cisgender, transgender, and as many intersections of identity as you can come up with.
+
+When you’re working through this section and creating a character, you shouldn’t use this as a menu to say, “Oh cool, my character can have ALL these disabilities.” It should be approached as a tool for building disabled characters thoughtfully.
+
+A few questions to guide you along the way:
+
+* How did my character acquire this disability?
+* What kinds of adaptive devices does this character use? What have they used in the past that didn’t work for them?
+* Is the condition complete (totally deaf, totally blind) or is it on a sliding scale?
+* How does my character relate to their disability? How do they relate to people asking them questions about it?
+
+Despite media portraying most disability narratives as stories of tragic acquisition, whether it be a car accident or a random illness, not all disability narratives are like that. Some people are born with their disability, others experience a slow decline in their senses because of aging. The decision of how your character became disabled is just as important as what the disability is, because it will inform their entire history.
+
+If you’re interacting with a disability that you’ve never thought about before, it’s probably worth doing the tiniest amount of research outside of this book to find out how people deal with diagnosis and adaptation; regardless of how your character got their disability, they will have ways of seeing the world that you have never thought of.
+
+In each of these sections, we talk about how the disability manifests, how it could work mechanically in Fate Core, and how it might make itself known in play. Each section also gives tips on how to play a character with that disability, with suggestions on how to avoid tropes that are often considered offensive or problematic by people who live with those disabilities.
+
+## Navigating the Dark: Blindness
+
+_Hi, Elsa here—I may have mentioned it before, but I’m blind. Specifically, I’m completely blind in one eye, and partially sighted in the other. I have used a white cane to navigate and I recently started working with a guide dog._
+
+### Living with Blindness and Low Vision
+
+Blindness is a disability frequently portrayed in media. Whether it’s a superhero like Daredevil, a victim like Reba McClane in _Red Dragon_, or a soccer player like Marina Datillo in _Arthur_, we see a lot of different blind people throughout our media.
+
+What we don’t see are the variations of blindness that are the reality of the world. Ten percent of all blind people in the world are actually totally blind. For the rest of us (myself included) it’s a liminal space. Some of us are fully blind in one eye and legally blind in the other. Others have shades of grey, where the colors drain from the world they see. Yet others see through pinholes or toilet paper rolls, a telescope to the world that others see fully.
+
+> #### Sidebar: Legally Blind
+>
+> **Legally blind** is a term used to define blindness under the law. Someone who is legally blind either has a visual acuity of a certain level (how sharp your vision is) or a field of vision of a certain level (can’t see peripherally.) People who are legally blind are restricted from the use of motor vehicles and might be eligible for disability benefits.
+
+Blindness isn’t a static condition; when creating mechanics and fiction for gameplay, be specific about what your character does or doesn’t see. Can the character see out of one, both, or neither eyes? What does the character see out of the eyes that are sighted?
+
+When you create a blind character, you need to work out for your character:
+
+* **Depth perception:** It helps you do a lot of things. See stairs, catch a baseball, gauge how large something is at a distance (turns out a spaniel on a hill can look a lot like a Great Dane if you’re not careful). It lets you know when to stop before you crash into a glass door, and is probably the key factor to driving a car or playing bumper cars. Characters without depth perception will struggle with several day-to-day tasks that you might not think of because they’re unable to see where something is in their world.
+* **Color:** When it comes to color and definition, do you see only in shadow, or do you see the world in colors? Are those colors dulled, or are they bright and shiny? Do people’s faces have definition, or are you seeing them as balls of fuzziness?
+* **Field of vision/peripheral vision:** These are almost the same thing. Field of vision is how much you see when looking straight ahead—can you see everything that’s in front of you or is it like looking through a tube? Peripheral vision is what you see out of the corners of your eyes. If you don’t have peripheral vision, you can only see what’s straight ahead of you—and depending on the cause of your blindness, that too might be compromised. Both of these things let you and other players know what you see. Can you see the entire desk that you’re sitting at or can you only see what’s right in front of you?
+
+The world can be as fuzzy as a 1950s-television set, or clear as day out of one eye. What it can’t be is magically enhanced for no reason. Playing a blind character only makes sense if you’re willing to invest your characterization in it. For example, people often argue that Daredevil isn’t really blind, because his powers allow him to “overcome” that disability without having sight. Basically, if his powers let him “see,” is he really blind? Depends on who you ask. Playing a character with blindness means acknowledging and playing out the effect it has on how they experience the world. If you don’t want to do that, then don’t play a blind character because then it’s just color. It’s fine not to reflect the blindness in your character’s stats—but if it’s just a disability for roleplay value, then it needs to be done carefully and respectfully.
+
+### Blindness and Aspects
+
+Your aspects related to blindness will link to how blind your character is. Once you know the answers to the questions in the previous section, you’ll have a better idea of how to pick your aspects. They should illustrate the ways in which your character is disabled, and probably at least hint at how your character deals with that disability. And although you may pay more attention to sense like hearing or touch, blindness doesn’t give you supersenses to accommodate for the lack of vision.
+
+Consider how situation aspects representing dim light or darkness affect your character. Here’s where the details of your character’s blindness are important—is she completely blind, or does she have limited vision? If she isn’t relying on sight at all, it makes sense that **Poor Lighting** can’t be invoked against her by opponents! On the other hand, if she’s hoping her limited vision gets the job done, **Poor Lighting** might dramatically affect her.
+
+Some blindness-related aspects include:
+
+* **One-Eyed Pirate**. Invoke to: intimidate, bluster, sail, swashbuckle, etc. Compel to: miss a flanking attack, misjudge distance, etc.
+* **Thickest Glasses This Side of the Mississippi**. Invoke to: keep a poker face, intimidate with a stern lecture, etc. Compel to: lose a trail in the rain, require concentration to follow a rapidly moving object, etc.
+
+Trouble aspects can be a bit more one-sided:
+
+* **Can’t See in the Dark**: Compel to complicate things during twilight, make nighttime navigation impossible, make a power failure that much more challenging
+* **Peripheral Vision? What’s That?**: Compel to make spotting that ambush harder, visually chaotic scenes that much more challenging
+* **Lack of Depth Perception Makes Stairs My Worst Enemy**: Compel to slow movement through a building or aboard a ship, fail to notice the curb, etc.
+
+### Blindness and Skills
+
+One of the important things to remember when working with blind characters is to not assume incompetence. Mr. Magoo and his stats are not what we’re going for, because that uses disability for comedy. This is Fate and we’re going for highly competent blind people. People who know how to use their adaptive devices. So perhaps your character has a low skill when it comes to observation, but their sense of observation when they use their cane is different. Flexibility in how you perceive the capabilities of blind people will help you here.
+
+### Blindness and Stunts
+
+Unlike aspects, which work in both positive and negative ways, stunts are always in your character’s favor. Think about ways in which a character’s blindness could become an advantage in specific circumstances.
+
+> In the example below, maybe we’d want to have Elsa’s directional sense in relationship to her blindness represented as a stunt instead of an aspect. She could have the high concept **Blind Jewel Thief** and the stunt Directional Sense Tied to Memory, Not Sight:
+>
+> **Directional Sense Tied to Memory, Not Sight (Notice):** Because Elsa is blind and her sense of direction is tied to memory, not sight, she gets +2 to overcome or create advantage actions using Notice when maintaining her orientation in poorly lit conditions.
+
+### Blindness and Conditions
+
+Consider taking the conditions Without My Device (page XX) and Low On Charge (page XX).
+
+### Player Advice
+
+So your character is blind. Let’s just use me as an example; it’s easier that way. If it’s part of the character’s high concept, your description might look like this:
+
+> **Blind Jewel Thief**: Despite being a world-class jewel thief with several daring heists to her name, Elsa is completely blind in one eye and partially sighted in the other, with no depth perception. Invoke to: Plan a theft, evaluate security measures, estimate a jewel’s value, move in complete darkness, etc. Compel to: Be recognized by a former associate, lure with a jewel too tempting to resist, miss fine-print information, etc.
+
+But maybe blindness is not central to your concept and it’s part of your character’s other stats instead. For example:
+
+> You’re trying to break into a dark warehouse to steal a jewel. Great, but what can you do in the dark? With the stunt Directional Sense Tied to Memory, Not Sight, Elsa knows how to quickly escape the building when the cops arrive, because rather than relying on her eyesight, she’s relying on her mental map of the warehouse.
+
+### GM Advice
+
+Compelling blindness ultimately depends on the kind of blindness that your player has chosen to give their character.
+
+> Back to Elsa and the jewel heist in the warehouse. Let’s say Elsa didn’t manage to run fast enough, and she has to hide out. If her trouble is **Peripheral Vision? What’s That?** it could be invoked against her in this situation because the cops can come at her when she’s not looking.
+>
+> Uh oh.
+
+The trick here is to always use it with empathy—you’ll see this a lot in this book. It’s not about Mr. Magoo and making blind jokes; it’s about portraying disabilities that are real. So, a blind character _might_ fall down some stairs, but if they do, it won’t be for comedic purpose. Your goal here is not to use the disability because it’s funny.
+
+### Antagonists with Blindness
+
+You know the White Walkers in _Game of Thrones_? The zombies of _The Walking Dead_? The witches in…almost everything? Most of them have cataracted sclera. It’s pretty exhausting to have to share an eye or eyes with every evil protagonist or chorus on the planet. Remember that blindness isn’t an indicator of personality or of moral alignment.
+
+It’s also not an indicator of powers—not all people who can see ghosts should be blind, not all psychic characters should be blind. Not all blind characters should be able to subvert their blindness using superpowers (or at all).
+
+While these aren’t necessarily antagonist approaches, they might be, and it’s best to avoid these tropes.
+
+## Negotiating the Sound Barrier: D/deaf & Hard of Hearing Characters
+
+_Here’s Elsa again. I’m deaf and I use a hearing aid._
+
+### Living with D/deafness and Being Hard of Hearing
+
+Deafness is another disability that lies within the world of liminal spaces. When you play a deaf character, you should recognize that there are varying degrees of deafness in the same way that there are varying degrees of blindness. People can be deaf in one ear or both, and deafness and hearing loss can be on a scale from mild to moderate to profound to severe. You can have varying levels of deafness within the context of one person, too. For example, a player could have a character who has only mild deafness in one ear, and profound deafness in the other.
+
+What complicates this, ultimately, is that while a blind character might read braille instead of a text based medium, a Deaf character uses a variety of methods to communicate, and they might participate in a culture that is not hearing culture.
+
+Does a Deaf character sign instead of speak? Do they have a Deaf speech pattern? Do they wear a hearing aid, or do they eschew them because they choose not to participate in hearing culture? (And you’re probably wondering, what _is_ hearing culture anyway? Check the sidebar on page XX.)
+
+All these questions are important and valid, and they are where the D/deaf distinction comes in. People who identify as Deaf with a big D are members not just of the Deaf community by their disability, but by their cultural identity. Depicting this in an RPG setting might be a challenge, but it’s a storytelling challenge that can make your backgrounds richer.
+
+Playing a deaf character doesn’t mean that you need to use a deaf speech pattern. In fact, you shouldn’t do that unless if you’re D/deaf and you have one already. Those speech patterns have been mocked and belittled by comedians and dramatists for over a century; there’s no need to repeat them in the present.
+
+To play a deaf character you need to figure out some of the specifics around the disability. How deaf is your character? Has the character been deaf since birth, or is deafness a new part of their life?
+
+Those choices affect how the character communicates and where they fit in the spectrum of D/deaf culture. Among the most important questions you’ll need to answer are:
+
+* Does your character reject D/deaf culture as a whole, or do they embrace it?
+* Are they happy with their identity as a Deaf person, or are they ambivalent about it because of how it has changed their life?
+
+Deciding how your character communicates with the other characters in the game is the next most important decision you make. Whether you communicate through vocal language, a whiteboard, sign language, and/or lip reading, this decision always affects your gameplay.
+
+Players shouldn’t try to create new ways for people with disabilities to live their lives, because there’s so much richness in the disabled community to look at and learn from. This especially applies to Deaf culture and language. If you’re in a game played by only able bodied people, your responsibility is to never mock or create your own “sign language.” Doing so is like mocking another language to entertain yourselves—you wouldn’t do it with Spanish, don’t do it here. American Sign Language, British Sign Language, and other forms of sign are not to be co-opted. If you want to learn how to sign, then do so and do it with respect, engaging with the culture and history of Deafness as you do so; learning to sign also makes you more able to work with a larger community of people in the world you live in.
+
+There are games that have successfully developed hand signals for various kinds of communication. The third edition of _Ars Magica_ is an excellent example of this. The creators of _Ars Magica_ developed signs and hand gestures that correspond to spells you can cast at the table. This makes the game accessible to deaf players and able bodied players alike. This is an acceptable hack because it creates words for a system which doesn’t exist, rather than creating language where there is already a language in place to be used and learned. If you’re just making your own sign language words up because you don’t feel like looking up the word for _dragon_, it’s very different from creating a language of magic. Though of course, witches and wizards can be D/deaf too!
+
+> #### Sidebar: Hearing Culture
+>
+> Hearing culture is what it says on the tin. It’s the expectation that the gold standard for living is to be able to hear. Deaf people have a completely different set of cultural norms and expectations, and hearing culture assumes that all norms for hearing people should be the preferred standard. Oral speech instead of sign is prized. It’s the false assumption that all things must be heard. Hearing culture is often enforced by not allowing Deaf people to sign, forcing people to accept hearing aids, and many other tactics to enforce the supremacy of hearing.
+
+> #### Sidebar: Deaf Culture and Sign Language
+>
+> If you’re playing a character who’s part of the Deaf community, make sure you do your research, and make sure you respectfully portray that disability and the people who have it. As long as you’re doing that, consider that you might actually be able to get a stunt or a new way to invoke an aspect from being part of such a tight-knit community. Deaf culture comes in many forms, including attending schools for the Deaf or the use of sign language.
+>
+> Historically, the development of sign language has differed significantly from country to country. Japanese Sign Language, for example, is still mostly a colloquial language, while American Sign Language is something you can learn from YouTube videos and community college courses. And knowing American Sign Language doesn’t mean you can communicate with a Deaf person from England unless you also know British Sign Language.
+>
+> Deaf culture isn’t limited merely to linguistic preferences, however. There are also medical preferences around the choice of whether or not to treat deafness and hearing loss at all. For some parts of the community, there is a resistance to invasive medical technology, particularly cochlear implants, especially when it comes to children. Hearing parents of deaf children are often criticized for forcing their children to participate in hearing culture before they have the chance to learn about Deaf culture.
+
+### Deafness and Aspects
+
+For able bodied and hearing players, it might seem very foreign and exclusionary to not want to hear, or to not want hearing people to participate in your culture, as some Deaf advocates feel. Being deaf often means that you are excluded from the hearing world. So Deaf culture being inaccessible to the hearing makes a certain amount of sense. That doesn’t mean that the world we’ve got already in place doesn’t use the lack of sound to various advantages. What you do with it in game matters a lot.
+
+As an example for where silence (and lack of sound) can matter in a game, let’s talk about the action genre. Action adventures use the silent communication techniques we’ve seen in movies—they’re not sign language, but they’re still usable by characters of all abilities. A sniper who receives all their signals through hand gestures from a distance may be a **Silent Killer**, and so on.
+
+Some examples:
+
+* **Silent Killer**: Invoke to get a bonus on stealth, take the perfect shot. Compel to miss the sound of an approaching enemy.
+* **Perfect Lip Reading**: Invoke to visually eavesdrop or communicate silently. Compel to miss part of a message when the speaker looks away.
+* **One Side Hears, One Side Doesn’t**: Invoke to ignore the effects of a flash-bang grenade. Compel to not know which side danger is approaching from.
+
+There are plenty of ways to play a deaf character who interacts with their world with ease and engagement, without ever making them someone they’re not. You don’t ever have to make the character’s arc about them hearing or not hearing, but instead about how they navigate through the world. The purpose here isn’t to make deafness the plot point, but rather to make deafness part of the character as a fully realized piece to their identity.
+
+### Deafness and Skills
+
+This mostly concerns talking and hearing skills. That doesn’t necessarily meant that your character can’t hear, but you might want to consider how it affects things. For example, Elsa’s deaf knight can’t hear the Master at Arms when he yells at her. Her deaf jewel thief can’t hear the clicks of a safe being opened.
+
+But, she may have ways around it. Sign language, good social skills which get people to help her out on the sly, keenly trained touch sense for picking locks. Rather than think about what your character can’t do, consider how deafness affects what she can.
+
+### Deafness and Stunts
+
+Think of particular circumstances in which being D/deaf is a benefit. For example:
+
+* **Ignore the Noise:** Because I am Deaf, I can ignore noise around me. Opponents cannot invoke aspects against me related to chaotic or distracting noise.
+* **Pillar of the Deaf Community (Rapport):** Because of my many friends and contacts in the Deaf community, once per game session I can find a helpful NPC who provides me a bit of useful information, lends me some gear, or lets me lay low in their apartment for a few hours. Work with the GM to decide on an appropriate person.
+
+### Deafness and Conditions
+
+Consider taking the conditions Without My Device (page XX) and Low On Charge (page XX).
+
+### Player Advice
+
+D/deafness invokes will have a lot to do with how your character deals with their D/deafness.
+
+So, for example, Elsa has a hearing aid, and another character is _really irritating_. This NPC will Not Shut Up, and they’re just going on and on, mansplaining to her about how to break into a museum, when she’s worked plenty of heists… **Cyberpunk Hearing Aid** lets her tune out the frequency of the NPC and thus, she doesn’t have to fight him and waste time.
+
+Another good example: If Joss Whedon had written a D/deaf character in _Buffy_, in the episode “Hush”, where everyone’s voices are taken away, the aspect **Fluent in ASL** would have been useful in communicating with the rest of the Scooby Squad.
+
+### GM Advice
+
+Switching genres (because we can), let’s talk about how to compel D/deafness. Elsa’s playing a Knight of the Realm, which is great for her. But hearing aids don’t exist in this setting, so her character doesn’t hear very well at all out of one ear. So when the Master at Arms shouts at her to “Halt!” the GM can invoke **Deaf Knight of the Realm** and Elsa will be in a fair amount of trouble. After all, not following orders is not a good trait in someone meant to be a champion for the Queen.
+
+### Antagonists with Deafness
+
+There have been some really fantastic antagonists in film and television who are Deaf. If you want to consider going that route, two examples to look at are from the first season of _Fargo_ the TV show, and _John Wick 2_. Generally speaking, you don’t want to imply with the deafness aspect that the character cannot communicate or speak, so either they should have an interpreter for sign, or they can lipread or speak just fine.
+
+## Betrayed by the Meatcage: Mobility Issues
+
+_Elsa here. I don’t have a mobility issue, but I consulted several of my colleagues and friends who do._
+
+### Living with a Mobility Impairment
+
+When you choose to play a character with mobility related disabilities, begin with asking how mobile—rather than immobile—your character is.
+
+As with deafness and blindness there’s—you guessed it—a sliding scale of mobility. Players may create a character with a limp, a character with low balance who uses arm crutches, or a character who is either para or quadriplegic.
+
+These choices determine how your character moves around the world, but also how your character interacts with the world. Counters are almost always too tall for a non-powered wheelchair user; a stairwell is almost always a challenge for a crutch user. When playing a character with a mobility disability, the thing to consider is what your environment bans you from doing. Whether it’s successfully navigating a staircase during a chase scene or finding your wallet on a tall counter, your environment is often your biggest enemy.
+
+In the case of mobility impairment, we’re also not talking about a single diagnosis in quite the same way that we are with D/deafness or blindness; we’re talking about a whole host of diagnoses, some of which might come with other disabilities in tow.
+
+For example, a character with muscular dystrophy has a whole body experience with their mobility issues, whereas someone who lost a limb due to an accident or an infection won’t have the same physical experience. Before you pick the mobility impairment your character lives with, you should definitely do research to understand where the mobility impairment comes from and how it will affect play.
+
+Furthermore, not every disability uses the adaptive devices in the exact same way. In this case, I’m talking specifically about wheelchairs. You see “funny” memes on the internet a lot about miracles around wheelchairs, an image of someone standing up out of a wheelchair to reach a bottle of booze, for example.
+
+Not only is that offensive, but it’s also downright incorrect. Wheelchair users aren’t just people who cannot walk or stand; many wheelchair users are given chairs because of fatigue or stress being put on their bodies. A wheelchair user might, for example, be able to stand up out of the chair and walk a few feet, or reach for a book on a tall shelf, but they may not be able to walk for more than a block, or run. It always comes down to what the wheelchair is meant for—and that’s why there’s so many kinds of wheelchairs to choose from. For more details on types of wheelchairs and how to add mechanics to your game, see page XX.
+
+### Mobility Disabilities and Aspects
+
+Your aspects should reflect the kind of mobility impairment, as well as how it might interact with living in the wider world.
+
+Aspects for mobility impaired characters might include things like:
+
+* **Cane-Wielding Martial Artist**: Invoke to gain a bonus to attacks and defense, or to not be parted from your weapon. Compel to give you trouble with that unexpected drop or to fail to notice the archer atop the roof across the street.
+* **The Steve McQueen of Wheelchair Drivers**: Invoke to speed away from the guards, to dodge through pedestrian traffic, or get a bonus to modifying your wheels for a soft surface. Compel to put a staircase in your way.
+* **Weak Hands in the Cold**: Compel to make it hard to hold onto the roof of the train going through the Canadian Rockies.
+
+### Mobility Disabilities and Skills
+
+A mobility related disability doesn’t mean that characters can’t participate in combat, or escapes, or high-speed chases; it just means acknowledging during gameplay that your world is from the waist down, or requires an extra set of limbs to be ascended. See page XX for vehicle rules for wheelchairs.
+
+_Mobility issues_ primarily refer to issues with legs or with the ability to stand. However, characters might also have issues with their hands or arms. Generally in those cases the source of the issue is from pain, but muscles can atrophy or be injured and hands can develop tremors. If your character’s mobility impairment is at the spine, or involves arm issues, then obviously that will present differently.
+
+### Mobility Disabilities and Stunts
+
+Many of the stunts relating to mobility disabilities may be tied to the use of assistive devices. In that case, GMs should be mindful that loss of the device in the fiction means taking away stunts from the player character. It may be okay in certain circumstances but should be a rare event. Other non-mobility-impaired player characters placed in similar circumstances (e.g., captured by a villain, lost in the desert, etc.) should suffer equivalent losses.
+
+Examples of mobility-related stunts:
+
+* **Blade Runner (Athletics):** Because I have blade-style prostheses, I can run like the wind and jump like a hare; I get +2 to overcome actions made with Athletics when running speed or jumping height or distance are important.
+* **Powered Wheelchair (Drive):** Because I use a powered wheelchair, I get +2 to overcome or create advantage actions made with Drive against opponents on foot in appropriate terrain.
+
+### Mobility Disabilities and Conditions
+
+Consider taking the conditions Without My Device (page XX), Exhausted (page XX), Making Payments (page XX), Hacked (page XX), Low On Charge (page XX), Limited Focus (page XX), and Medical Debt (page XX).
+
+### Player Advice
+
+Look for ways that your disabilities may open up options, rather than limit them. Let’s take inspiration from a real world example: Senator Tammy Duckworth.
+
+You’re running a _House of Cards_ inspired Fate game, and there’s a sit-in on the Senate Floor. Sen. Duckworth has you covered. Her aspect **Prosthetic Leg** allows her to say that she hid her cell phone inside of the prosthetic; she’s smuggled it onto the floor of the Senate so she can record everything that happens during the closed session.
+
+(This actually happened. Senator Duckworth is amazing.)
+
+### GM Advice
+
+Compels might refer to not having the right adaptive device for a situation. It’s a lot harder to run in a regular prosthetic than with blades, for example. If you’re not in a cyberpunk setting, you probably don’t have a mechanized limb with fully articulated fingers. One kind of wheelchair might be better than another; for example a motorized scooter can only move so fast, whereas a manual wheelchair can be propelled by arms and possibly feet, or pushed by another person.
+
+So Cara has multiple wheelchairs. She and her _Leverage_-style gang of heisters have managed to track their bad guy down to the seaside, and using an all-terrain air tire wheelchair, she can race along the sand dunes with the rest of her crew.
+
+But when she’s trying to sneak into the bank owned by a notorious murderer, she uses a motorized chair, for quiet, less noticeable thieving. Both of these wheelchairs are effective modes of transit, both can be compelled, both can be invoked.
+
+Both the GM and the player need to know the wheelchairs, and what they can do, though!
+
+A prosthetic limb is not easy to use, and it takes time and practice to expertly handle one. Has your character had that limb for a long time, or is it new to them? What is the learning curve for them at this stage of their life? Also, is it a good prosthetic or is it a crappy one? There’s lots of kinds of prosthetics and they aren’t always good.
+
+Missing limbs and paralyzed body parts aren’t the only kind of mobility impairment that your characters can experience, either. Disorders like cerebral palsy have different levels of effect on people’s lives. Some are crutch or cane users while others require a wheelchair or scooter to make their way through the world. Doing a little bit of research to get your character into the right place for the story you want to tell can go a long way.
+
+Like with everything else in these sections, knowing what the disability is caused by is important, but knowing how it manifests and the sliding scale on which it functions is far more important. Your character doesn’t have to look like Stephen Hawking or like Artie from _Glee_ in order to qualify as someone with a mobility impairment.
+
+### Antagonists with Mobility Disabilities
+
+There’s a great character in _Kingsman_ who has blade feet and she’s an assassin. That being said, wheelchairs, canes, and so forth are often used by evil characters to make them look vulnerable somehow. Let’s use Richard III as an example: within the Shakespeare play it’s assumed that Richard is ugly and deformed because he’s a bad person. We should strive not to make players with mobility related disabilities feel as though the alignment of the character is reliant upon their physical description.
+
+## Little People, Big Game: Dwarfism
+
+_Now I’d like you to meet Casey, who has a form of Dwarfism._
+
+### Living with Dwarfism
+
+The concept of a dwarf in a fantasy setting was made popular by J.R.R. Tolkien, who was inspired by the dwarves from Norse and Germanic folklore. In most game settings, dwarves as a race are short with a solid, stocky build, many times shown with a beard (depending on the setting, dwarven women may also have beards as in Tolkien’s conception). They are known in many systems to be hardy, resistant to magic and poison, able to see in the dark, and attuned with various mining and smithing tasks. Some settings include subraces of dwarves with different abilities, aptitudes, appearances, and cultures. Settings with more of a modern, science fiction, or urban fantasy spin might have a similar version of dwarves, but as a player it’s important to think about the difference between the near-human dwarf based in fantasy and the actual impairment that people, like me, have lived with throughout history. No matter which type of dwarf you end up playing, there are some important things to think about when your character has unusually short stature.
+
+Before describing types of dwarfism and things to think about when roleplaying someone with dwarfism, it’s important to note language use. “Midget” was once used to describe a person with proportional dwarfism, but is considered an offensive term because of its origins in the freakshows of the late 1800s and early 1900s. This connection is important because dwarves on the freak show circuit were on display solely as a curiosity based on their short stature. If you want to refer to a character with a form of dwarfism, good word choices include little person, dwarf, or person with short stature (or even better, their name!).
+
+Dwarves are a great example of what disability scholars and activists refer to as the social model of disability. When a dwarf in a fantasy setting is in a dwarf-centric area, everything is sized for the average dwarf. Think of Gandalf visiting Bilbo Baggins in the Shire; everything in the Shire is sized for people with a stature shorter than the average human, making Gandalf the one disabled by the environment by being too tall!
+
+When someone lives in an environment that’s built so they can function in the best way for their body, many pieces of that person’s environment may become unusable for other people with very different bodies. For example, I’m the only person with dwarfism in my family and everyone on my dad’s side of the family is over six feet tall (roughly 1.8m) with several people around six and a half feet tall (2m). My grandmother’s house was specifically built for taller than average people and made me feel like I was a gnome doing dishes in an orc’s house!
+
+For players who want to play a character or have an NPC with dwarfism (versus a dwarf as per the fantasy race), it’s important to research what form of dwarfism the character has as each form comes with its own challenges in life.
+
+I’ll give a really brief glimpse at the two main types, although there are more than 200 different types and all of them result in an adult height that is less than 4’10” (unless the person has had medical intervention to make them taller). The two types fall under **proportionate dwarfism** (with all parts of the body being similarly proportioned to a typically growing human. Ben Woolf, who played Meep on _American Horror Story: Freakshow_ had this type) or **disproportionate dwarfism** (with limb-to-torso proportions different, either average torso and short limbs or short torso with long limbs. Peter Dinklage, the actor playing Tyrion Lannister in _Game of Thrones_, is a good example). Most forms are genetic, especially disproportionate types, but can be from birth defects or even acquired from something like brittle bones restricting someone’s growth. Each type brings its own challenges, some medical and some from social and structural barriers, all of which should be considered when trying to choose your high concept and trouble.
+
+For example, with achondroplasia, the most common type of dwarfism where a person’s arms and legs are much shorter in relation to the trunk of their body, your character would likely stop growing between 3’8” and 4’9” (with a male averaging around 4’3” and a female around 4’1”). For most people with achondroplasia, their lifespans aren’t impacted at all so you won’t be tailoring a trouble based on that. That being said, the character might have problems with their joints due to the way their bodies move and are structured, so that might lead to a trouble based on needing a lot of medical care or physical therapy—**Medical Bills Make Me Broke**, **In Debt to Corrupt Medical System**, or **Requires Long-Term & Frequent Medical Care**.
+
+Another example is the type of dwarfism I have, called pituitary dwarfism. It’s the most common type of proportionate dwarfism and can come about for a variety of reasons, like genetics, a brain tumor, or a pituitary gland injury (the pituitary is a gland in the brain that produces hormones that control growth and other important bodily functions). If the character is like me, they might have been born with it because of a broken blood vessel or they may have started out growing typically and had a brain tumor as a kid that impacted that area of the brain. Since I was born in the late 20th century in a developed country with modern medicine, I had growth hormone injections as a teenager to help me get taller. Nowadays, when kids are identified early as having pituitary dwarfism, they start the injections as early as possible, depending on their family’s health insurance and financial resources since the medication is expensive. An adult character may find that they need to continue these injections as well as deal with other health issues, making good troubles very similar to the character with achondroplasia—although there may be additional issues related to hard-to-get medications that are also hard-to-afford and can make _Breaking Bad_ feel less fictional!
+
+Something else to consider is that my type of dwarfism, when I’m not replacing growth hormone as well as the other hormones my body doesn’t make on its own, makes me have less physical endurance and get tired easily, which makes life difficult for adventuring or trying to survive in a post-apocalyptic setting.
+
+### Dwarfism and Aspects
+
+There are other things that could make for good troubles or even just minor disadvantages or quirks for a variety of characters who are unusually short, whether they have a form of dwarfism or are a race that’s just smaller than a human. These might include: **The World Is the Wrong Size**, **Picked on About Size by Peers/Family/Rivals**, **Hard to Find Clothes/Equipment/Weapons That Fit Body/Limbs**, or the character might have a troubled or problematic relationship with a person, group, or institution (the only doctor that treats your character’s impairment, a fight the character started at the local Little People of America meeting, or inability to get healthcare from the government because of some snafu).
+
+It can also be interesting to tie your trouble in with your high concept. For example, I’m a fitness geek who likes to try out all sorts of physical activities, so I might roll up a **Dwarf Martial Artist** as a high concept with a trouble relating to **Having Trouble Finding Gear in My Size**. A friend of mine rolled up a character with my type of dwarfism to play a **Dwarf Spaceship Pirate** who is **Constantly Upset About Being Underestimated Because of her Size**.
+
+* **Dwarf Martial Artist:** Invoke to: Low blow, hamstring, fight dirty. Compel to: Short reach, extra effort to hit above the belt.
+* **The World Is the Wrong Size:** Invoke to: Fit into places that typical people can’t fit, never hit your head, etc. Compel to: Require roll to reach items or handle items that aren’t sized appropriately.
+* **Hard to Spot in a Crowd:** Invoke to: Navigate unnoticed in a crowd, find cover, etc. Compel to: Get tripped over by others, require concentration to find certain people or places.
+
+### Dwarfism and Skills
+
+Little people can do anything that regular sized people can do. The only advice I give? Don’t make blacksmithing their best skill in _every_ game.
+
+### Dwarfism and Stunts
+
+Stunts related to dwarfism might have to do with the ability to hide in small spaces, or taking advantage of being socially less noticed, For example:
+
+* **Hard to Spot (Stealth):** Because I am a Small Person, I get +2 to Stealth when hiding in restricted spaces.
+* **Fly on the Wall (Empathy):** Because I am often socially overlooked, I get +2 to overcome or create advantages with Empathy when observing people in a group as long as I do nothing to attract attention to myself.
+
+### Dwarfism and Conditions
+
+Consider taking the conditions Exhausted (page XX), Low On Charge (page XX), and Medical Debt (page XX).
+
+### Player Advice
+
+Invoking being a Little Person might be a challenge, but you’re sure to find options. For example, a rogue might use their size to sneak and hide underneath things that average sized people may not be able to use. Or, they might blend in with a crowd better because they can’t be spotted at the eye level of where everyone else is.
+
+### GM Advice
+
+Compels may show up in social situations. **Constantly Upset about Being Underestimated Because of Her Size** may come into play, or you might have a character who is mistaken for a child all the time, and so they have a short fuse.
+
+Compels may also occur in terms of negotiating a world not built for the character’s body. So, Casey may have to find unique solutions around opening some kinds of doors, accessing countertops, ovens, or even security systems.
+
+### Antagonists with Dwarfism
+
+Tropes aren’t cool. So try to avoid having Little People represented only as uh, Little People. Like leprechauns. Or faeries. Or Hobbits. Make sure that you’re not tokenizing the disability using the traditional tropes assigned to it by fiction.
+
+Check out Tyrion Lannister as a great example of a Little Person who isn’t necessarily evil—or good, either.
+
+## Chronic Illness as Disability
+
+_This is Elsa again. I have a heart condition, and I consulted a wide range of individuals dealing with chronic illnesses when writing this section._
+
+### Living with Chronic Illness
+
+This is a sticky issue. We have to start there, because not everyone with a chronic illness, or illness at all, would consider themselves disabled. Some people would.
+
+We’re also treading close to the curable realm, which is another sticky issue for disabled people. Some people with disabilities (like myself, Elsa) don’t feel they need a cure. They don’t want someone to come in and say, fix their eyesight permanently, for many reasons. But with chronic illness, sometimes there are cures available. Sometimes there are not.
+
+Certainly, under the header of chronic illness, we also have to touch briefly on terminal illness, or severe illness which might leave the character with a disability that’s mentioned elsewhere in the book.
+
+Advising caution here is paramount. Playing a character with multiple sclerosis (MS), cancer, or other life-threatening illnesses isn’t a good idea unless if everyone at the table is okay with it, and if you’ve done the research to make sure that you can do it responsibly.
+
+With all of that said, let’s address some of the basics:
+
+If your character has a chronic illness, it will pervade their entire life. They will not make a single decision without thinking about how their decision affects them with their chronic illness. A character with Crohn’s disease isn’t going to eat anything—certainly not the bread offered with bread and salt, nor a tasty snack offered by a fairy—without knowing whether or not the contents will harm them. If it’s a life or death decision, they will have to weigh that against their health. We’re counting asthma and allergies as part of chronic illness, because it’s a chronic interaction with the body, persistent, ever present, and something you have to be constantly aware of.
+
+An excellent example of a character with a chronic debilitating illness is President Bartlet from _The West Wing_. President Bartlet’s relapsing and remitting multiple sclerosis challenges him to perform his duties as president as expected. We often see him doing things like dropping things or shaking hands until he absolutely cannot do it anymore; he even goes so far as to hide his condition because he feels he can’t be President and be a patient at the same time.
+
+These are the expectations we need to weigh when living with chronic illness. It’s true with any disability really, but especially when it comes to something that is treatable, and that you have to live with the consequences of the minute you do just about anything.
+
+A character with Osteogenesis Imperfecta might behave like Miles Vorkosigan does—recklessly. But they will pay for it every time, with casts, with new treatments, with painful medical care.
+
+Ultimately, how your character handles their chronic illness will determine how the chronic illness affects them. A character with a pain disorder probably won’t display anything externally to suggest that they are disabled. Invisible disabilities might be the easiest to roleplay because they come out through roleplaying someone’s lived experience. A character who is in constant pain might have checks to make sure they can focus, or may have a short fuse when trying to be patient. A character with pain might also be able to take a lot of hits in combat, because they’re used to feeling pain—they may not recognize being smacked with a sword in the same way that someone else would. There’s an inversion here, both with pain and with fatigue. Whereas most of these disabilities affect your character in the moment, pain and fatigue might only show up during downtime scenes. Your character might thrive on the adrenaline, only to find when they come down, they’re not able to function as well.
+
+### Chronic Illness and Aspects
+
+When selecting your aspects for a chronically ill character, consider the various symptoms that accompany the diagnosis when you build them. Research is key, as always.
+
+For example, President Bartlet might have a trouble aspect like **Suddenly Heavy Objects** as a symptom of his MS—he might drop something suddenly, or collapse.
+
+Fitting these aspects together is something like a puzzle. Whatever comes up most frequently for the illness might be what you pick, but knowing how it comes into play will be more important. For example:
+
+* **Fibromyalgia Makes My Skin Hurt**: Compel to make recovering from the Exhausted condition that much harder or to distract while you’re trying to concentrate.
+* **Bones Like Glass, Pain Tolerance Like Steel**: Invoke to ease recovery from conditions and consequences related to pain and fatigue. Compel to aggravate damage taken by a blunt force attack.
+
+Sample aspects for characters with pain conditions might include a **Part Time Wheelie** researcher who can’t stand for long periods of time without ill effects, or a thief who has burned off their fingerprints so many times that they **Don’t Have Feeling in Their Fingertips**.
+
+### Chronic Illness and Skills
+
+Skills will vary from illness to illness. One might have no issue with running, but another might not be able to use Athletics at all. Weighing these differences is important, but again this is about vigilance in the setting of your disability.
+
+### Chronic Illness and Stunts
+
+You won’t find much here that’s advantageous, but with a bit of creativity you might find something, such as:
+
+* **Lay Medic (Lore):** I’ve spent so much time in hospitals that I have more medical information that a lot of medical residents. I gain +2 to overcome and create advantage actions using Lore when it comes to hospital procedure, medical knowledge, and health insurance bureaucracy.
+
+### Chronic Illness and Conditions
+
+Consider taking the conditions Exhausted (page XX) and Medical Debt (page XX).
+
+### Player Advice
+
+Invokes for a chronic illness will be challenging. There’s little that’s good about a chronic illness, few advantages that you can eke out of what’s generally a disruptive illness. But you might be able to use it to your advantage.
+
+Someone who has a habit of fainting, for example, might be very good at faking it so that they can be hauled into the giant asylum for their undercover work.
+
+### GM Advice
+
+Compelling an illness is easy. You could compel President Bartlet to drop a pitcher given to him by the Queen of England in her presence, and have that cause tension during a political negotiation.
+
+You could have a character suffer fatigue during a chase, or have another develop blurry vision during a car driving scene. Negotiating these compels requires time with your player to figure out what their character’s disease would do to them.
+
+### Antagonists with Chronic Illness
+
+One thing not to do is to make the weakness for your villain their illness. You shouldn’t get to the baddie just as they hack up their lungs from consumption, and find that they’re already dead. They shouldn’t be a supervillain with a cough, or a mastermind with cancer. These are tropes that have been trod a lot, and all they do is reinforce that being sick in the body means that you are sick morally.
+
+Basically, disability and illness is not a barometer for morality. Watch for this in your NPC building; it’s a common trope that many people fall into without noticing.
+
+> #### Sidebar: Modeling an Asthma or Allergy Attack
+>
+> This is an option for dramatic, climactic moments that directly involve a character’s chronic illness, not a recipe for every compel of the related aspect.
+>
+> Simply speaking, this is a conflict. Give the asthma or allergy attack a skill and a rating, like Good (+3) Asthma Attack or Great (+4) Peanut Allergy. Give it stress boxes based on its rating: one box per point of rating (so a +4 Peanut Allergy would have 4 stress boxes). These stress boxes escalate in value just like a PC’s, but an asthma or allergy attack can check off as many stress boxes as it wants to absorb a hit, and has no consequences.
+>
+> When you’re running the conflict, the asthma or allergy attack uses its skill to attack its victim each exchange, dealing physical stress. The victim might defend with Physique, Will, Athletics, or something similar. Using a skill that makes sense, the victim can attack the asthma or allergy attack on their turn, dealing stress to it. For example, an inhaler or epi pen might be a Resources or Lore roll, while using breathing techniques might be Will or Athletics. Other people can help by creating advantages, but can’t directly attack the asthma or allergy attack unless they have sufficient justification (such as a doctor administering treatment).
+>
+> When the asthma or allergy attack gets taken out, it ends, leaving the victim with whatever stress and consequences it’s inflicted.
+
+## Not Your Puzzle: Autism
+
+_I’d like you to meet Zeph, Laurel, and Jess. They’re autistic and have written a fantastic section on how autism (a form of neurodiversity) works!_
+
+### Living with Autism
+
+Autism spectrum disorder (ASD) is characterized by difficulty with social interaction and communication as well as by restricted or repetitive behavior or interests. ASD casts a very broad net and includes many variations and more specific traits that aren’t at all uniform and may be difficult to recognize (Asperger’s syndrome has been removed from the most-recent psychiatric manual and is now classified as part of ASD). It can be especially difficult to recognize ASD because popular media featuring autistic characters tends to focus on a narrow set of traits that are easy to recognize and has led to a stereotyped ideal of what autism means and how it looks.
+
+Think of autistic characters you have seen in television and movies and make a mental list of “autistic” traits you’d expect based on these depictions. I expect your list might include things like “difficulty understanding emotion,” “socially inept,” “logic-minded,” “obsessive,” or “inflexible.” I suppose all of those could be used to describe me, but they don’t really get at what it’s like for me, the underlying causes of behavior that makes people think of me that way. As a result, often when I see autistic characters in the media, I feel that they’re actually playing a neurotypical person with exaggerated quirks. I rarely feel that I’m seeing myself represented.
+
+Despite what you see in many movies and TV shows, savant syndrome (genius in a particular area) is very rare; portrayals of it run the risk of implying autistic people are valuable only if they have superpowers despite their neurology, so I recommend not using this trope or being very careful with it. Exercise care when playing, and consider your character as happening to have both high intelligence and autism, not some magical combination.
+
+When playing an autistic character, I recommend throwing out those ideas of how you think autism looks and focusing instead on how your character feels. Obviously autism is not the only thing that affects your character’s experience of the world, but it does mean that much of what they experience is processed differently.
+
+For example, one of the more common autistic traits rarely seen in media depictions is sensory processing difficulties. Many autistic people are either hypersensitive or hyposensitive to sensory input—textures, sounds, images, light, etc. Your character might become overwhelmed by sensory input and shut down or appear to tune out, or they might engage with a point of focus, such as touching a wall as they walk along to keep them grounded in an overwhelming situation. Sensitivity isn’t always bad. I may enjoy the feel of my hand along the brick wall or have a whole-body experience of the sound of an orchestra. Your character may appear oblivious to others while experiencing hyper-awareness of some aspect of their surroundings.
+
+Another common autistic trait is typically referred to as “special interests.” All this means is that we may be interested in things that seem unusual to others or may express those interests in ways that seem unusual. It might be that the interest is more typical for someone much older or younger than we are (maybe a cartoon or type of toy), that it’s focused on things that are mostly seen as practical or necessary rather than fun (such as collecting mundane objects and knowing tiny or obscure details about them), or that the topic of interest is typical but the level of interest seems intense and obsessive to others (such as listening to the same song over and over for weeks, which also happens to be a sensory experience). These may change over time, or an autistic person may rotate through a restricted list of special interests.
+
+Similarly, autistic people often feel most comfortable when following structured routines and may have rituals which help them orientate in the world. I’ve prepared my breakfast in the same order, from the same ingredients, every day for over a decade years now. Having that disrupted no longer causes the meltdowns it did when I was younger and had fewer coping mechanisms, but it’s distressing enough that I bring the ingredients with me when I travel.
+
+When considering the kind of autistic character you intend to play, consider the following questions:
+
+* Which sensory experiences does my character find most painful? Which do they find most pleasurable? Do they hardly experience some? You might have a love-hate relationship with your sense of touch. Or the two needn’t overlap: perhaps your light sensitivity means you’re most comfortable in dark rooms analyzing background noise on a headset. Although the lived sensory experience of an autistic person can be complex and overwhelming, focusing on a few sensory areas may help you and the GM remember when your character would respond to a stimulus.
+* What are my character’s most common methods for coping with sensory imbalance? Some possibilities for handling everyday sensory issues might include fidget toys, chewable jewelry, or earplugs. If the character is non-verbal, they might use a word/picture board or electronic device to communicate. See _Adaptive Devices_ (page XX) for more suggestions and for advice on using game mechanics to reflect your character’s coping mechanisms.
+* What routines can’t my character miss and/or what rituals keep them grounded?
+* What have some of my character’s previous special interests been? You may want to declare these in the moment, but understanding whether your character is more likely to collect objects or happens to know every line and inflection of their favorite films will shape the type of special interests you may have in the future.
+
+### Autism and Aspects
+
+Answering the questions above will help you shape what kinds of aspects your character might have. If you have auditory hyper-awareness, whether positive or negative, you might often hear things which others around you only perceive as background noise. This could be an aspect called **Can’t You Hear That?**. As a benefit to your character, it could be invoked to let them notice some tiny detail in the environment that alerts the group to danger or reveals something important. On the other side, it could be invoked against the character by distracting them from the task at hand, such as a car alarm going off three blocks away.
+
+If the character is in a particularly chaotic environment or one with a very intense element such as bright lights or loud noises, the environment would have an aspect relating to the sensory effect. An environment with the aspect **Noise From All Directions** is likely to have a negative effect on the character. Or, your character might turn it around, creating a temporary aspect like **In the Zone**. They’ve filtered out extraneous stimuli completely and can focus exclusively on a single goal or sound as an anchor, giving them an advantage to accomplishing that specific thing.
+
+An environmental aspect **Stimtastic Wonderland** would mean a room is full of fun textures that the autistic character finds calming or interesting. Stimming is a behavior used to provide sensory input. It may be used to filter out more distracting input, as a calming sensation in anxious situations, or just because it feels good. Some examples include spinning, fidgeting, tapping fingers, hair twirling, and whistling. A room with velvety curtains, textured walls, and toys that make odd noises could be a lot of fun to explore! (_Velvet is my sensory nightmare! —Laurel_) It could be invoked as a benefit to your character by helping them to calm down and focus, or invoked against them by making them not want to leave the room or focus on anything else until they’re satisfied. (_Or cause them to freak out! This is a great example of how autistic people’s sensory experiences may dramatically vary. —Laurel_)
+
+Your current special interests may also be a source of aspects. For example, your character might have the **World’s Best Key Collection**. The character would find keys incredibly fascinating, have a collection of keys, and maybe own lock-picking equipment. It’s important to note that this isn’t a professional interest (although they may also pursue an occupation that utilizes or relates to it); the knowledge isn’t simply practical but rather borne out of the same sort of love that most people have for their favorite book or TV show. They would be able (and happy!) to talk to you for hours about different manufacturers and style characteristics, historical details, and how they work.
+
+This could be invoked by letting them have the right type of key or equipment to get into a locked door, or knowing enough about the lock to realize that they’d noticed the key earlier and can find it. For a compel, while other characters are involved in something more immediately and obviously relevant like questioning an NPC or trying to solve a puzzle, the character may get caught up in the idea that if only they can discover the key, they can handle the situation. They become fixated on finding a key or interrupt a successful interrogation by demanding the key’s whereabouts.
+
+### Autism and Skills
+
+Autistic characters aren’t necessarily more or less skilled in any particular areas than any other character. Consider how your answers to the questions in “Living With Autism” may affect your character’s skills, either inherently or through practice. For example, your character may not take any points in Notice because she often finds herself visually and auditorily overwhelmed in large spaces. Or she may have coped with that by developing excellent Notice to sort through too much information to focus on what’s necessary. Similarly, autistic people don’t necessarily have poor people skills. Your character may have put effort into easily building Rapport or learning how to Deceive by imagining their statement as true.
+
+### Autism and Stunts
+
+This is a place where special interests shine. A character with an intense interest in mythology could have a stunt related to it, like:
+
+**Ask Me About Folktales! (Lore):** Gain +2 to overcome and create advantage actions made with Lore regarding folktales, folklore, fairy tales, and related subjects.
+
+### Autism and Conditions
+
+Consider taking the conditions Without My Device (page XX) and Meltdown (page XX).
+
+### Player Advice
+
+The most important piece of advice for playing autistic characters is to play a character rather than a disability. Every autistic person is different, and all of us are much more than this particular diagnosis. It’s a large part of how I experience the world, but it isn’t my whole life. When designing an autistic character, don’t only consider how they’re different but how they have to adjust to function in a world built for people who think differently from them. Personally, I probably wouldn’t start with more than 2 aspects and 1 stunt that specifically relate to autism, preferring to focus on other parts of a character’s personality and making sure that they are well-rounded and interesting with the same range of motivations I would give any other character.
+
+### GM Advice
+
+Let your player’s answers to the questions in “Living with Autism” shape how you use it in gameplay. Consider where they may encounter challenges and talk with them beforehand about specific consequences. For example, if things go poorly, they may be affected by a condition and experience a Meltdown (page XX). While some autistic people are completely non-verbal and must use other means of communication, others who can talk under normal circumstances might struggle to do so or lose the ability to speak under severe stress.
+
+### Antagonists with Autism
+
+Because antagonists are often more one-note than a player character, exercise particular care in avoiding stereotypes. As previously mentioned, the savant trope has been done to death. Nor is lack of empathy an autistic characteristic. If an antagonist seeks or accepts humanity’s demise, this isn’t because they’re autistic.
+
+Try not to make their disability into their undoing either. If Laurel’s your antagonist, you can’t just wrap her in a velvet blanket and call it a day—unless perhaps you’ve done intensive backstory research which has identified this critical vulnerability. Consider instead that reactions to stimuli and special interests may make your antagonist an interesting and well-rounded person, just as they do your character.
+
+## Depression & Generalized Anxiety
+
+_This section is a group effort—many people on this project wrestle with depression and/or anxiety, so we all contributed a bit._
+
+### Living with Depression or Anxiety Disorders
+
+Both sadness and anxiety are feelings that are normal and even healthy. However, for many people at some point in their lives, these feelings become pervasive and excessive, interfering with daily life. Anxiety and depression are separate diagnoses, but they often overlap and coexist, so we’re covering them together.
+
+Your character’s way of presenting as depressed or anxious may be completely counter to the way that they operate normally. A calm scientist or researcher may shoot off in rage when they’re anxious, for example, and many individuals wrestling with depression have an outwardly cheerful demeanor.
+
+#### Depression
+
+Characters with depression fall into two categories: People who have always had depression because of their brain chemistry and people whose depression is triggered by an event. The latter can come with relationships to other disorders like post-traumatic stress disorder, but for now we’re just talking about garden variety depression.
+
+Depression isn’t a long period of sadness. Its symptoms reach much farther than that. The American Psychiatric Association’s criteria for diagnosis—sleeping too much or too little, lack of interest in activities, misplaced or excessive guilt or regret, overeating or losing appetite, fatigue, trouble concentrating and making decisions, slower than usual movement, thoughts of death and suicide—gives those who don’t live with depression a better idea of how it manifests, without using language that might stigmatize the person who has it. That being said, it’s not the be-all and end-all of depression diagnosis and shouldn’t be used as a checklist. Only five of the criteria must be present for a diagnosis of depression, and suicidal ideation is not a requirement. The way the symptoms manifest may vary wildly from person to person.
+
+A character with depression loses interest in doing things they want to do—but it’s important not to play a depressed character like a mopey dog. Depressed characters may feel like they’re drowning in sadness, but that won’t necessarily change how they speak. It won’t make them sound like a sad puppy, which is one of the most common mistakes I see in playing depressed characters.
+
+What’s more, depression is complicated—it doesn’t always manifest as sadness or despair. Often it’s a stubborn malaise, a general lack of motivation to do anything, that people frequently mistake for sheer laziness. Sometimes it’s hopelessness, sometimes angry self-loathing, sometimes all of the above. However it manifests, many depressed people have well-rehearsed social coping mechanisms—be careful of being _too_ self-deprecating, say “I’m great! How are you?” a lot, practice that cheerfulness and enthusiasm. Fake it ‘til you make it.
+
+Another thing to note about playing a character with depression is that depression can spiral. You start out feeling sort of not okay, and by the end of the depression spiral you’re at the bottom of your well. You have no idea how to get up or out, except to dig yourself further into the darkness.
+
+Many people with depression also wrestle with anxiety, which compounds this problem—you obsessively worry about things, can’t find the motivation to actually do something, then feel guilt and self-loathing about the whole thing. It’s a feedback loop from hell.
+
+#### Anxiety Disorders
+
+Anxiety disorders cover a large range of issues centered on fear (fight or flight in the moment) and anxiety (worry about future incidents, often resulting in avoidance). These are natural and necessary feelings, so to be a disorder they must be out of proportion for the situation and/or hinder your ability to function in some way. Anxiety often interacts and coexists with other kinds of mental illnesses.
+
+It’s worth doing a cursory search for anxiety disorders to look at the different types and get a sense of the many ways they can manifest. Phobias, panic disorders, agoraphobia, separation and social anxiety all fall under this umbrella. For the purpose of this book, we focus on generalized anxiety disorder, which is primarily persistent and excessive worry that disrupts your daily life. Symptoms include restlessness or nervousness, fatigue, insomnia, nightmares, muscle tension and pain, digestive issues, and trouble concentrating. Part of what makes generalized anxiety so difficult to diagnose is that the worries often focus on things that people normally worry about, like your job, money, the health of your family and you, the state of the world, or everyday things like chores and appointments. Everyone worries about those things, but it’s a disorder when that worry is excessive and interferes with your daily life.
+
+The American Psychiatric Association only recognizes _panic attacks_, rather than the more general _anxiety attacks_. But in practice, most professionals and certainly most people who suffer from anxiety recognize that not all attacks result in panic. Personally, my anxiety attacks often happen in crowded grocery stores and similar situations. It takes a lot of effort to keep moving through the crowd, and I feel very nervous. However, the worst case scenario is that I might leave a loaded grocery cart behind and walk out of the store, and so far I haven’t had it get even that bad. I don’t feel like I’m panicking. But I still feel smacked upside the head by my anxiety.
+
+An anxiety attack can present itself in a number of different ways. It can feel like energy you can’t push away, or push down; it can present like rage, hot and fast and uncontrolled; or it can present as completely shutting down and being unable to do anything. There are lots of different ways to have anxiety, just as there are lots of different ways to be deaf or blind.
+
+### Depression, Anxiety, and Aspects
+
+A Miskatonic University librarian has situational depression about **So Much Knowledge Forever Forgotten** after their library is destroyed. They dwell on their grief over books and information lost to time—but also know a lot of obscure facts in an effort to save and reconstruct what they can.
+
+The mobster with Seasonal Affective Disorder has the aspect **Winter Is Coming** and needs a certain amount of self care to manage their needs during wintertime game settings. But if you need to know when the sun will set or rise, or when the days start getting longer again, or you need access to a sun lamp, they’ve got you covered.
+
+The action scientist’s anxiety may manifest as fear of failure with an aspect like **I’m Probably a Fraud**. It’s easy to see how to compel this, but it could also be invoked when the scientist has thoroughly researched a topic in an attempt to feel like they can look like an expert, or when they need to deceive someone—after all, they spend all of their time deceiving people about their qualifications, don’t they?
+
+Social anxiety can manifest as thoughts like **I’m Pretty Sure They Secretly Hate Me**. It will make social situations daunting, but may also give your character an advantage in seeing through people who are trying to be nice to your face while stabbing you in the back.
+
+### Depression, Anxiety, and Skills
+
+It’s unlikely that depression or anxiety would manifest in changing your skills. They may however, make it more difficult to do things. Characters may struggle with the actual action of getting up and doing research, or leaving for a heist. They may have to overcome debilitating anxiety, which raises the difficulty of using a skill, or fight off a panic attack after doing so (or as a consequence of failing a roll). It’s challenging to find skills that would be affected, however, because this is much more of a roleplaying disability than a skill based one.
+
+### Depression, Anxiety, and Stunts
+
+You might think there’s not a lot of advantage you can draw from depression and anxiety, but… well, yeah, you’d be right. But if you think laterally, you can come up with a thing or two.
+
+* **Self-Deprecating Joker (Rapport):** Maybe it’s a shield—you make the joke before they do—but you’ve become skilled at the delicate art of the self-deprecating joke. Gain +2 to create advantage and overcome actions using Rapport when you crack wise at your own expense.
+* **I’ve Heard It Before (Empathy):** There’s nothing anyone else can say about you that your own internal monologue hasn’t said to you a thousand times already. Gain +2 to Empathy defense actions against mental attack or create advantage actions made to belittle, insult, or anger you.
+* **Overstocked Emergency Kit (Lore, Crafts):** Sometimes your planning for the worst case scenario pays off. You gain +2 to overcome actions made with Lore or Crafts when your emergency kit comes in handy—first aid supplies, signaling devices, battery chargers, protein bars, tools, etc.
+
+### Depression, Anxiety, and Conditions
+
+Consider taking the conditions Exhausted (page XX) and Meltdown/Panic Attack/Anxiety Attack (page XX).
+
+### Player Advice
+
+Just like other disabilities, it’s important to become familiar with the mental illness you’re portraying. Jot down a description and seriously consider each portion of the diagnostic material your character faces—it might be helpful to look at [_medlineplus.gov_](https://medlineplus.gov/) or another trusted online database. While the American Psychiatric Association’s DSM-V is helpful, it’s a tool primarily used by doctors; a layperson’s guide to mental illness will serve you just as well, if not better.
+
+Commit to your choices, and follow through even when it’s difficult in gameplay.
+
+### GM Advice
+
+Compels should never be about dictating to a player how their character should feel or react; this is even truer for aspects relating to mental illness. If you want to move a compel towards an emotional state, bring it about through negotiation with the player. For example:
+
+> GM to a player: “Chris just lost the file that would prove Dr. Akhan’s innocence. Given their **Major Depressive Disorder**, do you think this would cause them to experience feelings of worthlessness or guilt?” (Holds up a shiny fate point…) “If so, what happens next?
+
+GMs can also rely on narrating physical symptoms that the character would experience. For example:
+
+> GM: “That night, Chris is unable to sleep. They toss and turn, but their mind won’t stop coming up with ways things could go wrong. By morning, Chris feels like there isn’t enough coffee in the world.” (Holds up a fate point.) “How does that affect them?”
+
+### Antagonists with Depression or Anxiety
+
+So, when it comes to antagonists with depression or anxiety, you’ve got lots of examples to go with, but consider this when writing your antagonists or NPCs:
+
+Is that character just like Sadness from _Inside Out_? Are they a mere representation of their diagnosis, or are they something more? Like with the rest of these disabilities and mental illnesses, a character who has a diagnosis isn’t _only_ their diagnosis. They’re more than that. They’re a whole character, a whole person.
+
+## Am I Dreaming: Schizophrenia
+
+_Here’s Lillian, to talk about a perpetually misunderstood mental illness: schizophrenia._
+
+### Living with Schizophrenia
+
+Schizophrenia is a disease that affects how you interpret reality. For someone without it, laughing off a sudden paranoid thought or an image out of the corner of your eye isn’t hard. When you’re schizophrenic, either of these situations can be fraught with fear.
+
+It’s much more than hearing voices.
+
+Schizophrenics have a brain disorder that can impact their ability to socialize and/or interpret reality, and are often “read” as having depression instead of schizophrenia. They are not inherently dangerous or psychopathic serial killers.
+
+There are _positive symptoms_ of schizophrenia, meaning new symptoms and behaviors that weren’t present in someone before the onset of their schizophrenia. There are also _negative symptoms_, meaning behaviors and abilities that have ceased or been greatly suppressed by schizophrenia.
+
+The most famous of positive symptoms is hearing voices. It’s not a symptom every schizophrenic has, and the voice(s) can vary wildly in what they’re like. Some research suggests that the voices vary based on cultural differences, and American schizophrenics hear voice(s) that are critical, paranoid, and cruel. These voice(s) are famous in the news as directing schizophrenics to commit crimes. In reality, they most often chip away at the confidence and coping abilities of a schizophrenic.
+
+Many schizophrenics tend to isolate themselves at home, cut off social contact, and avoid others whenever possible. This is often an outgrowth of their paranoia, another famous positive symptom. Severe anxiety and fears surrounding personal safety contribute greatly to this isolation. It also tends to prolong schizophrenic episodes. Delusions, strange behaviors, anxiety, hallucinations, nervousness, difficulty with coherent speech, and confusion are all common positive symptoms as well.
+
+When it comes to the negative symptoms of schizophrenia, these losses are not only painful for a schizophrenic to cope with, but can be emotionally wrenching for those around them. Some schizophrenics exhibit a _flat affect_, meaning they no longer show signs of any personality; this often comes hand in hand with social withdrawal and severe fatigue.
+
+These two sides of schizophrenic symptoms can make it hard to spot schizophrenia and complicates getting a correct diagnosis—the positive symptoms look like a manic episode, while the negative symptoms look like depression.
+
+Children are rarely diagnosed with schizophrenia. It’s also rare for onset to occur after age 45\. In teens, the onset may look like normal teen behavior—sleeping issues, drop in grades, withdrawal, irritability. It’s unusual for a teen to hear voices, but it’s common for teen schizophrenics to experience visual hallucinations. Most people experience the onset of their schizophrenia in their twenties.
+
+The onset of schizophrenia occurs through stages. _Promodromal_ is a common entry point, characterized by sleep disturbances, irritability, exhaustion, and emotional outbursts. This phase can last for as short a time as a week, to months or even years. After this, people move into an _acute_ stage. Most frequently, this is only a month or two, characterized by hallucinations, paranoid delusions, and difficulty thinking and speaking coherently. Most schizophrenics are diagnosed in the acute stage. Acute stage schizophrenia can lead to a _psychotic episode_. No longer able to distinguish between reality and delusions, bizarre behaviors and extremes of emotion can emerge. There are a number of schizophrenics who only experience a single psychotic episode over the course of their lives. It’s important to stress that during the acute phase, a schizophrenic can still—though often with difficulty—distinguish between their symptoms and reality. Psychosis is when they lose that grasp on reality.
+
+As a schizophrenic is treated for their acute symptoms, generally through a triangle of antipsychotic medication, therapy, and social support, they slide into _remission_. Typically, symptoms subside during this time.
+
+_Relapse_ is the final stage. The process repeats itself. But now there’s a frame already in place of care providers, people in a schizophrenic’s life who know about their condition, and a regimen of medication. This cycle may repeat several times before a longstanding remission occurs. A unique set of conditions may emerge over time, giving a schizophrenic an idea of what kinds of stresses and situations may cause a cycle of schizophrenic symptoms to return. As the years go by, positive symptoms may even decrease in severity, while negative symptoms increase and intensify.
+
+A significant number of schizophrenics experience an _incomplete recovery_—they don’t respond to the most effective medications for schizophrenia, which acts as a substantial barrier to their long term recovery. These are patients who are willing and able to comply, but the medication simply fails to alleviate their symptoms. Often increasing social support and therapy has to take the place of medication. Most commonly, people experience negative symptoms in the case of incomplete recovery.
+
+By now, you can see how perceptions of schizophrenia in media and entertainment don’t match the reality. It’s a complicated condition, one that leads people to an often solitary, stigmatized, and emotionally wrenching experience.
+
+### Schizophrenia and Aspects
+
+Example aspects to convey your character’s schizophrenia could include:
+
+Since you are a **Creature of Habit** to help order your thoughts, routine is very important to you. This aspect can be compelled to disrupt your routine and make the challenges you face more difficult. It can be invoked when you grab onto a routine and use it to pull some order out of the chaos in your mind.
+
+Since your character **Has Met the Bogeyman** in the form of hallucinations, voices, or other manifestations of their fears, outside threats may not seem as immediate to you. This aspect can be compelled to make danger seem less menacing than than it is (”Just another hallucination, shut up, I know you’re not real!”) or on the contrary to make it reinforce one of your own familiar fears. It can be invoked when you use your experience with facing your demons to push past the fear of an immediate threat.
+
+Since you’re **Aloof for Your Own Damn Reasons**, you don’t easily make casual connections with people you meet. This aspect can be compelled to make it difficult for you to befriend, convince, or sweet-talk NPCs. It can be invoked to resist peer pressure, seduction, attempts at getting information from you, and so forth.
+
+### Schizophrenia and Skills
+
+Depending on the type and phase of schizophrenia your character has, anything that involves paying attention, short term memory, putting memories in order, and completing a task could be difficult to nearly impossible to accomplish. This is the burden of negative symptoms—behaviors and capabilities a schizophrenic can have impaired (or be unable to access/express). This could affect skills like Notice, Investigation, or Will when your character’s schizophrenia isn’t being managed well.
+
+With positive symptoms (behaviors and capabilities schizophrenics experience that aren’t normal for them between schizophrenic episodes), they may believe they have supernatural abilities, they may suffer from feelings of paranoia and persecution, or they might exhibit risk taking behavior. Someone could experience elaborate delusions that they have skills they don’t have any real knowledge of. This could also affect Empathy and Rapport if people seem more dangerous than they are.
+
+### Schizophrenia and Stunts
+
+Stunts are a place where the experiences and coping mechanisms of characters with schizophrenia can shine. For many with schizophrenia, cognitive tasks are difficult. But when those tasks are accomplished with the methods and aids that work for a given person with schizophrenia, they’re no longer as difficult. Stunts can be used to accomplish things with a skill that under normal circumstances can’t be done; for characters with schizophrenia, you could write stunts that help them do what they can’t under general conditions, something they’re capable of in specific circumstances.
+
+Consider stunts that represent those coping mechanisms by allowing you to perform certain actions with alternate skills, such as:
+
+* **I Run Therefore I Am (Athletics):** You’re an avid runner, and lean on the endurance and strength that builds to bolster your sometimes shaky mental resilience. Use your Athletics skill rather than Will to size your mental stress track.
+* **Talk Them Up (Rapport):** You’re aware that unhealthy paranoia is a thing you tend toward, so you consciously rely on the vibe you get chatting with people to determine their trustworthiness. Use Rapport rather than Empathy to defend against lies and deception.
+
+### Schizophrenia and Conditions
+
+There’s no condition for a psychotic episode. There’s no good way to capture the entirety of what a psychotic episode does to a person in game rules—it should only occur when you, the player, are OK with it occurring. Treat it as a self-compel of the aspect that establishes your schizophrenia, and play it out from there.
+
+### Player Advice
+
+Think about the times you’ve misread social situations every time your character has to socialize. You can be “perfectly normal” and misconstrue a statement as hurtful or threatening; having this brain disorder makes this easier to do. All the time.
+
+Consider when and why (and if) your character can fake being okay, and how much it takes out of them.
+
+Before playing a schizophrenic character, ask yourself these questions and jot down some notes. Knowing these things about your character will help you roleplay more conscientiously.
+
+* When did your character experience the onset of their schizophrenia?
+* What kind of symptoms did they have then, and which ones do they exhibit now, if any?
+* Are they in remission? In another stage?
+* If they’re on medication, how well do they respond? Are they experiencing an incomplete recovery? Have they stopped taking their medication, now or in the past?
+* Have they ever experienced a psychotic episode?
+* What do they do to cope with their symptoms? How do they treat positive symptoms?
+* What kind of treatment have they/do they receive?
+* Who in their life knows about their diagnosis? If they keep it a secret, is it from everyone, or just specific people? What motivates their secrecy?
+* How do they feel about their schizophrenia? Did they decide not to abuse alcohol or drugs to improve their chances at recovery, or do they abuse substances to “manage” their symptoms?
+* Do they avoid personal relationships of any kind, or do they pursue friendships and romantic relationships like they would without their condition? Have they decided not to have children out of fear of possibly “passing it on”?
+* How do the people in their life treat them, if they know their diagnosis? Are there strained personal relationships, or ones that were terminated when their schizophrenia began? Is anyone overbearing about it, constantly checking up on them regardless of how they’re doing?
+
+### GM Advice
+
+If your party contains a schizophrenic character, make sure you understand what schizophrenia is—and, just as importantly, what it is not. Avoid the tropes of violent psychopathy, multiple personalities, or whatever other nonsense popular culture has asserted it to be (including the word “schizo”—if that’s still in your vocabulary at all, consider excising it entirely, and not just at the game table). Give the player space to explore their character’s limitations. Don’t force a complete psychotic episode on them if they don’t want to play that.
+
+That said, if they choose to play a schizophrenic character, give them the experience they want. Don’t be afraid to compel their disability-establishing aspect and make them feel the symptoms—voices, paranoia, etc. But make sure you do so from a place of knowledge, not pop culture. Yes, this means doing some homework as part of your own prep, but you signed up for that when you decided to sensitively run a game with disabled characters.
+
+### Antagonists with Schizophrenia
+
+Age, treatment, social support, and country inform what these NPCs will be like. Schizophrenics in Western countries tend to report voices that are critical and cruel, while anthropological studies suggest auditory hallucinations experienced by schizophrenics in India and Ghana are far less geared towards devastation; these voices have been reported to be playful, even mild in their temperament. Most men become ill between 16-25, with 18 as an average age of onset. Women typically fall between 25-34, with 29 as an average age of onset. Where’s your NPC from? When did they experience their first episode? Have they ever been treated? Have any support, from anyone? When did they experience their first episode? Is it right now? Did they recover completely from their first episode? Or have they experienced incomplete recovery?
+
+In general, you don’t look at someone and say “I bet they have schizophrenia.” Do they have visible symptoms, and if so, do they let other people call their own conclusions? When you have an NPC with schizophrenia, consider what (if anything) their schizophrenia looks like to the outside world, and how the outside world looks to them. If negative symptoms have impaired their ability to read social cues, they may be quiet, requiring coaxing. Or they may be a brash jerk. Schizophrenia impairs how the brain functions, so how they cope may be the most visible thing about their schizophrenia. If they experienced multiple episodes that created long term social and career issues for them, they may be willing to give a PC a break no one else would. Or they may hold them to a strict high standard, because they weren’t coping with what this NPC has had to live with.
+
+So, your three beats to hit as you consider making a NPC with schizophrenia are how they look to others, how others look to them, and how they experience their schizophrenia.
+
+## Touched by Fire: Bipolarity
+
+_This is Phil; he’s been diagnosed with Type II Bipolar Disorder for a few years and is going to give you a sense of how that functions._
+
+### Living with Bipolar Disorder
+
+Bipolar disorder is a neurological condition commonly found in writers, artists, and industry leaders. While there’s a clear genetic link to the condition, it usually manifests itself in early adulthood. In my case, I suffered several depressions after the age of 25 and was diagnosed at 35\. The condition is characterized by cyclical mood swings ranging from high-energy manic phases to severe depressions, and it’s considered easily treatable with a combination of medications, healthy lifestyle choices, and psychotherapy.
+
+In my day to day life, my condition manifests itself in larger-than-life emotions. I get really happy, excited, and loud in a second and then I can get super moody and non-responsive as I mull over that one thing someone said to me three hours ago. I can be a hard act to follow.
+
+Fiction and real life are rife with examples of bipolar characters, many of which met tragic ends. Winston Churchill, Marilyn Monroe, Russell Brand, and Carrie Fisher are well known examples from real life. Norman Osborn (The Green Goblin from Spiderman), Carrie Mattison (_Homeland_ TV series), and Locke Lamora (The Gentlemen Bastards book trilogy by Scott Lynch) are textbook examples of fictional bipolar characters. In fact, The Gentlemen Bastards trilogy would probably be among the best models for bipolar characters; it captures the essence of bipolarity without getting stuck in over-realistic details that could hinder play.
+
+What truly defines bipolarity is the existence of recurring, intense phases of manic activity, usually triggered by a series of strong stimulations brought by exciting or overwhelming experiences. When that happens to me, I feel like a rock star, I need less sleep, I’m easily distracted, I express excessive happiness, I get super irritable, I may feel restless, I experience racing thoughts, and I have a tendency to make too many plans. Trust me, these are like freaking roller coaster rides!
+
+The disorder is divided into two categories, Type I and Type II. They mostly differ with how individuals experience mania. Type I individuals suffer a more severe form of mania that disrupts the ability to work and socialize, and may require hospitalization to prevent harm to themselves or others. They can lose touch with reality to the point of being psychotic.
+
+As someone with Type II, I go through milder phases of mania (called hypomania), which remain rooted in reality. In fact, given the modern world’s expectations for high performance, people with Type II bipolar disorder often go undiagnosed as they are considered “productive” individuals.
+
+Being bipolar makes it easier for me to tap into my creative potential. My atypical brain chemistry helps me generate an impressive amount of ideas and scenarios in a short time. Highly intelligent and/or charismatic people with the condition often stand out in the crowd, which is why we seem to find so many among entertainment media and Fortune 500 companies.
+
+The clichés of alcoholic grizzled writers and overdosing rockstars are widespread, yet are very much steeped in reality. The wild mood swings, frequent depression, anxiety, and general sense of sadness often leads those with bipolarity to self-medication through mind-altering substances. I’ve had my shares of binge drinking days. Such abuse, which often provides temporary relief from my occasional bipolar _mal-de-vivre_, almost invariably makes my depression symptoms worse; for some, this often leads to thoughts of death and suicide attempts.
+
+All of the above can serve as inspiration when playing bipolar characters and can help flesh out their backgrounds. Giving your characters histories helps you define how they’re likely to react to stressful situations. If the character is young, she may be inexperienced with her condition and not quite understand that her actions and reactions come from her and not her environment; she might blame everyone else for them. An older version of that character might be more self-aware and may have developed balances and checks—or bad habits—to be more socially functional. Such elements could be part of your character’s high concept if they define who they are at their core. However, I’d advise you to put anything related to bipolarity other aspects. Bipolarity doesn’t usually define who we are, but it is very much a part of how we interact with the world.
+
+### Bipolarity and Aspects
+
+Consider taking aspects that play on the mercurial nature of a bipolar’s mood swing like: **Quick to Anger**, **Loud Talker**, **Sulks When Contradicted**, **Easily Excited**, **Unnerving Laugh**, **Twitchy**, **What Were You Sayin’?**, etc.
+
+You could also pick aspects that play to the deeper, manic/depressive facets of the character: **Make It a Double**, **I’ll Try Anything Once**, **Well Hello There**, **I’ll Sleep When I’m Dead**, **What’s the Point?**, **I Have No [redacted] to Give**, **Try to Keep Up**, **Obsessive Overthinker**, etc.
+
+#### Triggering an Episode
+
+Your aspects are the key to triggering a manic or depressive episode. A compel on the appropriate aspect is the trigger for either type of episode, but when you create your character and compose the aspect that establishes your bipolarity you should talk about what sorts of events tend to trigger you. They might include things like:
+
+* Drug use or overindulging in alcohol
+* Death of a friend or loved one
+* Major personal failure
+* Loss of a job
+* Failed relationship
+* Insomnia or loss of sleep over time
+* Change of seasons, especially winter’s darkness
+
+The episode results from a compel, whether initiated by the GM or by you. Being off your meds (see the Off My Meds condition, page XX.) makes this much more likely. Once the compel occurs and is accepted, decide whether the episode will be depressive or manic (see Exhausted and Hypomania conditions, pages XX and XX), and go from there.
+
+### Bipolarity and Skills
+
+Some skills might be easier or harder depending on where in your emotional cycle you land. If you’re feeling invincible, it might hurt you, or it might help you. Pay attention to where your character is, and how they’re feeling.
+
+Your tendencies while in a manic phase might also affect your skills. If you tend to be loud and angry, it’s possible that you’re pretty good at Provoke and/or Fight. Perhaps that time you spent an entire weekend learning to weld gives you a higher Crafts skill.
+
+### Bipolarity and Stunts
+
+There’s not a lot of advantage to be gained from bipolarity; the heightened productivity of mania is covered by the condition Hypomania (page XX). Otherwise, it’s all about harm mitigation:
+
+* **I Know The Warning Signs:** You’ve been around the bipolar block a few times, so you know the signs of an approaching episode and how to ward it off. When your bipolarity aspect is compelled against you to trigger an episode, if your character takes some sort of self-care action, you may buy off that compel with one fewer fate point than usual.
+* **Risk Reduction:** Your friends, colleagues, and business partners know to watch for manic behavior and mitigate some elements of risky behavior. Choose one area of trouble you could get into—financial, legal, social, or health—and you won’t hurt yourself or others in that realm during a manic or hypomanic episode.
+
+### Bipolarity and Conditions
+
+Take the conditions Off My Meds (page XX), Exhausted (page XX), and Hypomania (page XX).
+
+### Player Advice
+
+Bipolar characters make for unpredictable, reckless action heroes; razor-sharp thinkers plagued by countless inner demons; or hyper-perceptive investigators with a penchant for making terrible decisions. Bipolarity is a great vessel to create rich characters who can shine while still having a darker, dramatic streak. It’s fine to play up the ever changing behavior of the character—but make sure it’s never used as an excuse to act however the hell you want at the table. Play your character from the perspective of putting yourself in the shoes of someone whose brain is either on fire or stuck in gloom.
+
+In play, feel your character’s emotions strongly and follow a cyclical pattern for those emotions.
+
+### GM Advice
+
+If you’re going to GM a game with bipolar characters, you should think about ways to create dramatically significant points of stress for the characters. Thus, you can create situations for people to gleefully embark on playing their characters as they want or make for thrilling opportunities for compels for you. Have a few triggering situations ready and don’t hesitate to discuss with the players themselves so they can share what kind of scenes and what kind of character development moments they want to explore.
+
+### Antagonists with Bipolar Disorder
+
+Bipolar antagonists will be larger than life, likely narcissistic and bombastic. The trick here is to make them human, not cartoon pastiches of the diagnosis we’re giving them.
+
+## PTSD: Living With the Past in the Present
+
+_This is Elsa again. I have post-traumatic stress disorder._
+
+### Living with Post-Traumatic Stress Disorder
+
+Something horrible happened. Something you can’t process, but you can’t forget. Your brain reacts to that by protecting you—it’s the only thing it knows how to do. But by protecting you, by putting your memories into a box that you can only access when you’re terrified, the memories can be let out of their own Pandora’s box by a literal trigger from the past and that’s when things really get bad. PTSD is often discussed in relation to soldiers, and for good reason, but any traumatic event can cause PTSD.
+
+Post-Traumatic Stress Disorder (PTSD) manifests for people differently, but the basic earmarks are the same. Night terrors. Anxiety attacks. Flashbacks. Hypervigilance. Sensory memories. People have different experiences of the disorder, but they all experience some of the above. Looking up the American Psychiatric Association’s guidelines for diagnosis might help you to figure out how your character’s PTSD manifests, but the basics are these: intrusive thoughts, flashbacks/nightmares, or triggers which set off anxiety. These aren’t the only factors in diagnosing PTSD, but they can get you started on understanding what you’re doing.
+
+One of the reactions that you might consider is hypervigilance; it keeps you on edge but also helps make sure you’re ready for anything that might happen. PTSD sometimes manifests with a sharp memory for everything, allowing you to pull clear memories from your past.
+
+That being said, PTSD is not a positive. Triggers, flashbacks, and night terrors are all cause for difficulty, especially if they happen in the wrong place at the wrong time. A trigger might be straightforward, like **Sound of a Gunshot**, but it’s also possible that a trigger won’t necessarily be obvious. It’s harder to outrun your fears when they present as a certain kind of smell, like ammonia for a character whose hospitalizations were particularly traumatic. PTSD will make you avoidant, hyperaware, and sometimes unable to cope in the face of the thing you fear most.
+
+### PTSD and Aspects
+
+PTSD is a specific demon, one that preys on the specifics of your past; therefore you need to be specific about its execution. Naming an aspect for PTSD should be endemic to the kind of PTSD the character has. Night terrors isn’t really enough, but a specific night terror might be. A flashback isn’t enough, but an aspect naming the kind of flashback would be. You get the idea.
+
+The CIA Agent with PTSD from a mission gone bad might have the aspect **Hyperaware of Change** which helps keep her safe from anything that might go wrong during a mission, but also makes it hard to let her guard down and relax, even among friends.
+
+The thief who survived childhood abuse might have the aspect **Memory for the Ages** and can remember things that happened far in the past, thus being able to remember locations for heists with ease. Those memories may not be pleasant to call up, however.
+
+### PTSD and Skills
+
+For the most part, PTSD doesn’t interact with skills. However, some skills may be affected during a flashback or a panic attack. Essentially, when your character is exposed to something triggering, they may not be able to perform, even with a high skill, at the same level as when they are fully functional. A character who was in a car accident may not be able to use their social skills to the highest level while they’re in a car, even if they have a skill which should normally transcend that.
+
+See the condition Meltdown/Panic Attack/Anxiety Attack (page XX) for more ideas.
+
+### PTSD and Stunts
+
+PTSD-related stunts will likely have to do with hypervigilance or memory, and their applicable circumstances will relate to an applicable trigger. For example:
+
+* **The Smell of Napalm in the Morning:** Because my PTSD is triggered by the scent of gasoline or similar fuels, I get +2 to overcome, create advantages, or defend when reacting to threats that produce such smells, like fires, nearby vehicles, accelerants, etc.
+* **Hair-Trigger:** Because my PTSD left me with a hair-trigger response to physical violence, I always go first in PC initiative order when I feel attacked by an opponent in my personal space.
+* **Memory Like a Steel Trap:** Because PTSD left me with inescapable memories, I never forget a smell; I get +2 to overcome or create advantages by recognizing specific smells I have encountered before.
+
+### PTSD and Conditions
+
+Consider taking the conditions Exhausted (page XX), Meltdown/Panic Attack/Anxiety Attack (page XX), and Off My Meds (page XX).
+
+### Player Advice
+
+Invoking PTSD might involve using hypervigilance or flashbacks. Invoking a flashback means deliberately exposing your character to a trigger in order to give the rest of the players information about the story you’re telling. The Exhausted condition (page XX) adds mechanical weight to the effects of encountering a trigger in play.
+
+Characters living with PTSD not only need to have a well-articulated concept for how their triggers operate, they also need to have a well-articulated past and a reason for why they have the condition. Write up a timeline of events around your character’s PTSD—how and when it developed, how they’ve learned to cope, what things are triggers for them. Delving into your character’s psyche might seem silly at the beginning of a game, but making the choice to play a character like this demands it for good roleplay, and it will make your story richer for having it.
+
+### GM Advice
+
+Post-Traumatic Stress Disorder is a mental illness brought on by circumstances outside of the individual’s control. PTSD isn’t something you’re born with, but something you gain as a result of lived experience—which means that PTSD is a mental illness your character can get during a game.
+
+PTSD is like a permanent consequence in Fate Core, if you’re playing to make these kinds of choices. PTSD isn’t something that a player can have their character resolve between sessions—a GM would have to agree to at least a year long interlude in order to resolve that consequence as a result of gameplay.
+
+### Antagonists with PTSD
+
+Try not to create antagonists whose PTSD is the reason for their evilness. For example, a soldier who wants revenge against the people who he was at war with isn’t a cool storyline for a number of reasons.
+
+A woman who wants revenge against her rapist? It’s been done many times, and unless if a player has specifically asked to play through that scenario as a catharsis of some variety, it’s not something you should spring on someone.
+
+Stipulating that a villain has PTSD is often used as a get out of jail free card, something to complicate whether or not they should be allowed to continue doing evil things. That’s not just infuriating for people with PTSD who don’t want to do those things, but it reinforces the assumption that people with PTSD are always angry.
+
+# Rubber Hits the Road: Conditions and Adaptations
+
+Now, let’s talk about mechanizing (or not) how your character experiences the world. We break this down into **conditions**—temporary experiences tied to your character’s disability—and **adaptive devices**, which may involve aspects, stunts, extras, and conditions. The following ideas and suggestions are intended to inspire, rather than prescribe. Use them to develop and describe your own.
+
+Remember, playing a disabled character doesn’t require you to focus on the mechanics of disability. It might extend no farther than the high concept. If you’d prefer, roleplay your chronically ill character’s limited choices rather than trigger Exhausted. Maybe your blind character uses a white cane, but you’d rather use your focus your stunts elsewhere and use it as you might a limb—nothing mechanically significant.
+
+## Conditions
+
+Conditions represent temporary states your character will sometimes be in due to their disability. They’re essential to modeling many disabilities and the limitations of some adaptive devices. If you don’t see a condition or device here that recreates the effect you’re interested in, use an existing one as a template to fill with your own ideas. Make your character _yours_.
+
+### What Are Conditions?
+
+A **condition** is a set of rules that is either in effect or not, based on whether a particular trigger has occurred in the game. A powered wheelchair runs low on battery power if you use it too much before you recharge it. An autistic person might feel overwhelmed in a loud, chaotic nightclub. Many disabled characters might have one or more conditions they are prone to (they might also have none!).
+
+Conditions can be **marked**, which activates their special rules. These rules are different for each condition, and are described in detail in each condition’s section. Marking a condition activates it, and deactivating a condition is called **recovering**.
+
+Each condition is rated with one of four ratings for what you have to do to recover from it: fleeting, sticky, lasting, and permanent.
+
+* **Fleeting:** You recover from a fleeting condition when you have a moment to sit down, catch your breath, drink some water, or anything else that represents a momentary rest. Alternately, if the condition represents being without an adaptive device, regaining access to (or turning on, repairing, etc.) the device allows recovery.
+* **Sticky:** Sticky conditions last until you do something specific (often involving a skill check) to recover from it. Each sticky condition’s write-up describes the details.
+* **Lasting:** Like sticky conditions, you must do something specific to recover from a sticky condition, but it typically takes much longer—usually the end of not this game session, but the _next_ one. Each lasting condition’s write-up describes the details.
+* **Permanent:** They’re not _exactly_ permanent, but these don’t go away until a major milestone (_Fate Core System_, page 260).
+
+Please note that the words fleeting, lasting, etc. make no statement about the severity or impact of the condition—just its duration. Even a fleeting condition can be completely debilitating while it’s active.
+
+#### How To Use Conditions
+
+As examples, we provide several conditions for common situations disabled people might find themselves in. Use them as written, or use them as inspiration to create your own for your own character.
+
+Remember that the point of the _Fate Accessibility Toolkit_ is to help you make and play a character that works the way you want them to, not create a delicate and finely tuned mechanical balance of advantage vs. disadvantage. It is absolutely OK to decide to mark a condition _because it makes sense to_, regardless of the precise trigger. It is absolutely OK to ignore the recovery rules _when it makes sense to_.
+
+Not every real-world condition related to a disability has a condition listed here. Some are better modeled as aspects, to be invoked and compelled in the usual way. Some are so severe that it’s essentially a taken out situation—so use it to explain being taken out of a scene. Some are such world-rocking events—a psychotic episode brought on by schizophrenia, for example—that it shouldn’t be triggered by rules, but by the player wanting it to happen to their character. Such events can’t be done justice by a limited set of game rules. If you’re playing a character like this, do some homework and learn what brings those situations on and the different ways they manifest, then roleplay that when you feel it’s appropriate to explore it—and never, _ever_ for laughs.
+
+### Example Conditions
+
+Here are a number of conditions players might find useful to make their character’s disability have more mechanical impact. Take as many as necessary to get your character to match what’s in your imagination, but not more—additional mechanical complication has a point of diminishing returns.
+
+**Taking a condition** means you add it to your character sheet as a condition your character might sometimes have. If you don’t take a condition, that situation might still happen to you but only in a narrative sense. The game rules won’t come into effect unless you choose to make them happen by taking the condition.
+
+> #### Sidebar: Conditions and Abled Characters
+>
+> Some of these conditions might look a lot like situations that some people who don’t have a medically identified and diagnosed disability experience sometimes. Some otherwise abled people have a tremendously difficult time in crowds, for instance, and react in ways that look a lot like an autistic meltdown. Pregnancy can wallop a person with fatigue that works very much like the Exhausted condition. In cases like this, you could consider having access to that condition even as an able-bodied character—and from a purely rules standpoint, it would work just fine.
+>
+> Before you do, though, take the temperature of the table. First and foremost, these rules are intended to help disabled players see people like themselves in the game, and giving abled characters access to them might dilute that. Be sensitive to concerns expressed by disabled players, and be prepared to leave conditions to disabled characters.
+
+> #### Sidebar: Modeling Other Conditions
+>
+> We can’t possibly provide a condition for every way a disability can knock a person down and make their lives difficult, but we hope what’s here can serve as a starting point. Lots of widely varying disabilities manifest in ways that have similar effects. If the disability you’d like to represent in your game isn’t listed here explicitly, look for effects and conditions that appear similar. Grab a condition that looks like it’s close to what you want and adjust it to work the way you need it to—maybe that’s just changing some words, maybe it’s combining the trigger of one condition with the effect of another, maybe it’s adding a track and rules of your own design. As an added bonus, if you weren’t already, you’re now a game designer!
+
+**Exhausted (Lasting) <tt>[][][]</tt>:** This condition covers a wide range of unrelated situations that share similar symptoms. It’s appropriate for characters with any fatigue disorder or chronic pain condition: many chronic illnesses, fibromyalgia, migraines, and chronic sleep disorders. It can also model the depressive episodes of a person with bipolar disorder or major depression or the effects of someone with PTSD encountering a trigger. The Exhausted condition represents more than just being tired; it’s the bone-deep weariness of someone whose body and mind simply can’t, or won’t.
+
+Different people who endure pain and exhaustion have different metaphors for it; some call it being “out of spoons” (spoon theory, created by Christine Miserandino, was originally posted on “But You Don’t Look Sick”—see full resource information in Resources on page XX), some say they’re “turning into a pumpkin” (a la Cinderella’s carriage). Once you’re Exhausted, even the smallest actions require herculean effort and create ongoing costs.
+
+This condition has a track of three boxes—think of these as your “spoons.” You never quite know how many you’ll have available on any given day, so each morning you pre-mark a random number of boxes. Roll one dF:
+
+* <tt>[-]</tt> means you immediately mark two boxes, leaving one available.
+* <tt>[0]</tt> means you mark one, leaving two available.
+* <tt>[+]</tt> means all three are available.
+
+If you’re using this condition to model a fatigue disorder, each scene during which you take an action requiring significant effort, mark another box. (What qualifies as “significant effort” is up to the player and GM.)
+
+If you’re using this condition to model depression (whether from major depression or as a symptom of another disability such as PTSD), mark a box for each scene in which something triggers your depression—your failure hurting someone else, by seeing “evidence” of your own inadequacy (recognize how depression can warp perception of such things, of course!), and the like.
+
+If you’re using the condition to model bipolar depressive episodes, skip the boxes. If one of your triggers occurs, consider treating it like a compel on your bipolarity aspect and mark _all_ the boxes.
+
+If you get through to the end of the day—meaning, you’re going to sleep—with at least one box still unmarked, clear out the track. Good job managing your spoons!
+
+As soon as you mark the final box, you become Exhausted. While Exhausted, three effects come into play:
+
+* Whenever you take an action requiring significant effort (again, you and the GM work together to define that), you automatically suffer a one shift hit.
+* You can’t clear your stress (but you can recover from consequences). You must recover from Exhausted first.
+* You can’t clear the Exhausted track simply by sleeping; you must first recover from Exhausted first.
+
+As a lasting condition, recovery doesn’t happen until the end of the _next_ session, and furthermore has two requirements:
+
+* Your character must sleep somewhere safe and reasonably comfortable.
+* Your character must succeed on an overcome action against a difficulty of +4 using your Physique or Will skill (your choice). You can create advantages using new and existing aspects to make that overcome action easier. For example: Eat a **Healthy and Satisfying Meal**, or maybe go straight for the **Comfort Food**. It might be a good idea to make use of your **Wheelchair** or **Scooter** whenever possible during the session your character is Exhausted. Get your **Weighted Blanket** and **Go to Bed Early**. Let your **Supportive Friends** bring you a cup of tea.
+
+Once you have recovered, clear the Exhausted track and your stress.
+
+> #### Sidebar: Exhausted Is Harsh
+>
+> Yeah, the Exhausted condition can be really harsh. It’s designed to do two things: both force players to confront a very and variably limited resource—their own physical or emotional energy —and to encourage roleplaying some sort of self-care in the recovery from the condition.
+>
+> At first this way of roleplaying disability might feel artificial or “edutainment”-y, but as players become comfortable with the model, making hard choices about how their characters interact with the world won’t feel as hokey—and will help players feel, even if just for a moment, like a disabled character might in a real world setting.
+>
+> This isn’t recommended for games where players are facing off against the Great Old Ones, or are running for their lives in a superspy story. But in a _Leverage_ style scenario trying to pull off a long con? Those questions could be interesting. More than anything, using Exhausted for a session to get players used to playing disabled characters with the appropriate consequences and choices in place might be a great way to start a campaign.
+>
+> If you want to model fatigue or depression or PTSD in a simpler way, lean on your aspect establishing your disability. That aspect can be compelled (by the GM, or by you) for a fate point in the way aspects usually are, which gets the same effect with much less bookkeeping and rules. But it also doesn’t quite model the unpredictability and resource management effort necessary to live with depression or fatigue. Each method has its advantages, and the choice is up to you!
+
+**Hacked (Sticky) <tt>[]</tt>:** This condition is for cybernetic implants and prostheses that have wireless data connections—which is most of them. Mark this condition when an opponent has hacked your device (requiring an overcome action against passive opposition of your Notice skill). Note that _you might not know_ you’ve been hacked, but your GM will. The hacker might steal data that you’re witnessing, or feed you false data.
+
+Determine that you’ve been hacked by telling the GM you’re checking for intruders in your implant, and making an overcome action with your Technology skill (or other applicable skill in your game) against Fair (+2) passive opposition. Recover when you notice and can take some action to evict the hacker’s signal.
+
+**Hypomania (Sticky) <tt>[]</tt>:** Strongly consider taking this condition if your character is Bipolar (especially Type II; Type I has far more severe mania than this condition represents). Mark the condition when your bipolarity aspect is compelled (see Bipolarity and Aspects, page XX).
+
+While Hypomania is marked, you gain two aspects:
+
+* **Manic Productivity** (with one free invoke): Invoke to gain a bonus to solve problems, resist sleepiness, and defend against mental attacks.
+* **Faulty Risk Assessment** (with one free invoke for the GM): Compel to suggest making risky decisions that you will regret later.
+
+Without treatment, the condition will go away on its own in a few days to a week—but by then, your risky behavior may have you in very, very serious trouble. The only way to make it go away quickly is medication—your character might have a stash, or they might need to seek help from a doctor, which may require a Resources overcome action if you don’t have insurance.
+
+**Limited Focus (Sticky) <tt>[][][]</tt>:** This condition models the toll that concentrating on using a complex device can take. Consider taking it if you wear anything with a direct neural input or that requires concentration. Mark one box at the end of any scene in which you make extensive use of the device (you and your GM decide what qualifies). Recover (clear all boxes) when you get a decent night’s sleep. If you mark the final box, you start having trouble focusing on the device, and your pain and lack of concentration render it useless—you suffer the same negatives as the Without My Device condition.
+
+**Low On Charge (Sticky) <tt>[][][]</tt>:** At the end of each scene you use a device that runs on batteries (powered wheelchairs, for example), mark a box of this condition. When it’s fully marked, the device starts running in low-power mode. You no longer have access to the stunts and aspects associated with it. Recover (clear all boxes in the track) by swapping out the battery, letting the battery charge overnight, or some similar action to restore full power.
+
+**Making Payments (Permanent) <tt>[]</tt>:** This represents cyberpunk/science fiction characters with cybernetic sensory implants that they don’t own. If you can’t pay for your implant, take this condition and mark it immediately. Recover only when you pay off the debt—at the next major milestone (_Fate Core System_, page 260). While this condition is marked, someone else owns the implant in your body. In the most benign cases, it might mean you need to watch or listen to the occasional advertisement streamed through the device directly into your brain. In less benign cases, the owner might capture data you witness through the device, to be used for whatever end they choose, or the owner might demand you perform services for them that you might otherwise not want to perform.
+
+**Medical Debt (Lasting) <tt>[]</tt>:** Mark this condition when recovering from a moderate or worse consequence representing a physical or mental injury, or when you recover from a disability-related condition by seeking professional medical attention. While in Medical Debt, you automatically fail any actions using your Resources skill. To recover, make an overcome roll with Resources (this one isn’t an autofail) against a passive opposition related to what caused the debt: +2 for recovery from a condition, +4 for a moderate consequence, +6 for a severe consequence. You may create advantages on existing or new aspects to help with that roll, such as **Crowdfunding**, **Side Hustle**, **Family Money**, etc.
+
+**Meltdown/Panic Attack/Anxiety Attack (Fleeting) <tt>[]</tt>:** Take this condition if your character is susceptible to meltdowns (some autistic people) or panic attacks (some people with anxiety disorders or PTSD). When you established that your character is autistic or susceptible to panic attacks, you discussed the sorts of things that might trigger a meltdown—sensory overload, crowds, specific fear triggers, etc. Mark this condition when an aspect is in play that declares that sort of thing is occurring, AND you mark the highest stress box on your mental or physical stress track.
+
+Every person susceptible to meltdowns and panic attacks has a different reaction, so when you mark the condition choose one or two sets of symptoms you will exhibit:
+
+* You are unable to speak (but may be able to write notes or sign, if you know how)
+* You are unable to move without assistance
+* You exhibit very strong, muddled emotions that are difficult to control
+* You cannot tolerate anyone (or possibly anything) touching you
+* You are overwhelmed by an urge to flee or get away from the situation
+* You become dizzy and nauseated, feel chest pain, and might pass out
+* You become short of breath and your heart races
+
+To recover from the condition, you must spend a little time away from the stimulus that caused it. Regardless of the particular symptoms, a person experiencing a meltdown or panic attack is under tremendous psychological (and perhaps physical) strain. Effects will likely last for hours after the worst of the symptoms have passed.
+
+**Off My Meds (Sticky) <tt>[]</tt>:** Take this condition if your character has disabilities or illnesses that they're on medication for. Mark this when you’ve missed your meds one or two doses in a row (depending on your medication). Recover when you’ve resumed taking them and have had a chance to rest to let them kick in again. Compels and invokes are affected in the same way as Without My Device (below).
+
+**Without My Device (Fleeting) <tt>[]</tt>:** Take this condition if your character is highly reliant on a particular adaptive device (and specify which one). Mark it when you are without that device—it’s stolen, broken, or otherwise out of service for whatever reason. Recover when you regain your device in a useful state.
+
+When this condition is marked, it costs one fewer fate point for the GM to compel or invoke against you any of your aspects related to the disability this device assists with. Free invokes, such as might occur if an opponent creates an advantage on this aspect, are unaffected—in effect, this condition means your opponents _always_ have a free invoke on your disability aspect. You’ll want to get that device back ASAP.
+
+## Adaptive Devices
+
+This section tackles the kinds of adaptive devices that your characters might use to get around in an able bodied world, and will help you make decisions like whether or not your blind character has a white cane or a guide dog, or if your wheelchair is motorized or manual. People with different disabilities might use the same adaptive device with minor variations. These choices help you flesh out your character, and bonus, they’re also mechanical advantages for your character.
+
+In the _Fate Accessibility Toolkit_, there are lots of ways to represent adaptive devices. Any adaptive device from a fidget cube to non-device things like a service animal can be represented by an aspect (using one of your character’s usual aspect slots) or stunt (using one of your character’s stunt slots or refresh points). For more mechanical representation, you can make the device an extra. You can also simply declare that you have one but give it no mechanical backing as a stunt or aspect; in this case it’s simply descriptive and has no rules impact at all (i.e., you have a cane, but its presence or absence never affects dice rolls).
+
+Starting on page XX, we go through a list of possible adaptive devices with suggested stunts and extras you might take or adapt if your character uses the device.
+
+### Adaptive Devices and Stunts
+
+Lots of the disabilities discussed in this book list example stunts for adaptive devices—here are some additional examples that you can use as written, or use as inspiration to write your own.
+
+**Crutch Shield (Fight):** My crutch has a built-in steel shield made from the cuirass of a vanquished foe, granting +2 to defend actions made with Fight vs. attacks from other hand weapons.
+
+**Hearing Aid Eavesdroppers (Deceive):** My hearing aids are tuned to shift human speech into a frequency range my ears are most sensitive to. Gain +2 to Deceive overcome actions to eavesdrop on people who don’t think I’m paying attention to them or believe I can’t hear them.
+
+**Weighted Blanket (Will):** My weighted blanket is a great comfort to me. Gain +2 to Will overcome actions to recover from the Exhausted condition, and +2 to Physique create advantage actions to create aspects representing a good night’s rest.
+
+**Sword Cane (Fight):** The cane I use to assist my mobility conceals a 50 centimeter blade, and I gain Weapon:2 on successful attacks I make with it—and I can still use the scabbard as my cane while I fight.
+
+**Tremor Sense (Notice):** I have a magically enhanced sense of touch and vibration concentrated in my feet. When barefoot, I can easily sense floorplans and notice solid obstacles by tapping the ground. Additionally, I gain +2 to overcome actions made with Notice to detect ambushes and sense people trying to hide, regardless of lighting—provided the ground is solid. Sand, thick carpet, and footwear more substantial than thin socks interfere with this effect. (Yes, this is a magical adaptive device. Sometimes, though, fantasy tropes can be used to tell stories that aren’t based in the real world and that opens up possibilities.)
+
+**Fidget Box (Will):** A fidget box is a small plastic cube festooned with buttons and spinners and switches. When I can fiddle with it (in a jacket pocket, for instance) the Meltdown condition can’t affect me until the top _two_ boxes of my Mental stress track are filled, rather than the top one.
+
+**Stone String (Will):** Because I use a stone on the end of a string as a fidget that helps anchor my thoughts, I can make attack actions with it using my Will skill rather than Fight.
+
+**Arm Like a Prybar (Physique):** My rigid prosthetic forearm is extremely tough, and gives me +2 to all overcome actions made with Physique to move heavy objects.
+
+### Adaptive Devices and Extras
+
+If you’d like to invest a bit more of your character’s mechanics into your device, you can treat many of the devices as an extra (_Fate Core System_, page 270). Each extra has a permission (typically an appropriate aspect), costs, and benefits (stunts, new skills, etc.).
+
+Not all adaptive devices have extras listed. Some devices, like hearing aids, are better suited to representation through a single aspect. Each adaptive extra has a base cost, and many have varying additional costs depending on how many optional elements you choose.
+
+**Skills:** You may need to select a particular skill, costing you skill ranks. For example, effective use of a wheelchair might require you to have ranks in Drive (for powered chairs) or Athletics (for manually-driven chairs).
+
+**Stunts:** All stunts related to the device cost one of your character’s stunt slots or refresh points.
+
+### Choosing Your Adaptive Devices
+
+The following table is intended to inspire rather than confine your choices. For instance, many blind people do not have service animals, even more Deaf people do not. But some do. Consider how your character engages with a world designed primarily for those without disabilities and choose adaptive devices that feel appropriate for your character and the setting.
+
+#### Disabilities and Adaptive Devices
+
+* Blindness: service animals, wheelchairs, canes, prosthetics, glasses, human assistant, communication device.
+* Deafness: service animals, hearing aids or cochlear implants, communication device.
+* Mobility: service animals, wheelchairs, canes, prosthetics, human assistant.
+* Dwarfism: service animals, wheelchairs, canes, prosthetics, human assistant.
+* Chronic illness: service animals, wheelchairs, canes, human assistant.
+* Synesthesia: glasses, earplugs.
+* Autism: service animals, human assistant, communication device, coping device (fidgets or anchors), earplugs.
+* Depression: human assistant, communication device, coping device.
+* Anxiety: service animals, human assistant, communication device, coping device, earplugs.
+* Schizophrenia: human assistant, coping device.
+* Bipolar: human assistant, communication device, coping device.
+* PTSD: service animals, human assistant, communication device, coping device, earplugs.
+
+### Guide Dogs and Service Animals
+
+Some characters—such as those who are blind, who are epileptic or live with seizures, or who have anxiety or PTSD—might have service animals who work for them to make their lives easier. A character with a service animal can use that animal (most often a dog) in several ways as a mechanic to negotiate with their disability in game.
+
+* A blind character with a guide dog, for example, can navigate spaces faster than they would with a cane (page XX). The dogs give them a better sense of their environment, because the dog can see.
+* A character with PTSD or anxiety could have a dog who is trained to help them navigate an anxiety attack, thus lessening the effects and repercussions of such an incident.
+* A service dog or cat for a character with seizures would be trained to tell a player character when they are having a seizure.
+* A service dog for someone who is Deaf could be trained to tell someone when their phone is ringing, if they’re being followed, or if someone is at the door.
+
+An important note about guide dogs and service dogs in general is that they are still dogs with dog brains. Sometimes, they’re going to act like a normal dog would—and that’s a complication, isn’t it? This could be even more true for less traditional service animals, like a monkey or a ferret.
+
+You should describe some basic things about your service animal. What’s its name, and what breed is it? What is its personality like? What services is it trained to provide? Service animals can be trained to perform all sorts of actions. You don’t need to represent them all with a stunt—any guide dog will stop you at a busy street curb. Any suitably trained service dog will help you pick up your house keys. Very few are trained for combat—the dog doesn’t get a separate turn in fights, and doesn’t make attacks. It might defend you from attackers, however.
+
+Perhaps the easiest way to model a service animal is for the player to devote an aspect to it (**My Guide Dog, Jonesy**) and to rate that animal as a skill on the character’s pyramid (Good (+3) Jonesy). Whenever the character has to make a roll involving using that service animal, such as using Jonesy to navigate a particularly complex area, they roll that skill. Most of the time, don’t bother with the roll.
+
+#### Extra: Service Animal
+
+**Permission:** An aspect establishing a suitable disability—usually blindness, but other disabilities can also benefit from a service animal.
+
+**Cost:** Skill ranks in the skill Service Dog—add this skill to your skill array as you would any other skill. The extra also uses one of your stunt slots or a point of refresh.
+
+**Skill:** Service Dog. Use it whenever your service dog does something within a service dog’s purview: sensing danger, intimidating foes, fetching dropped items, etc. You cannot make attack actions with this skill.
+
+##### Aspect
+
+Compose an aspect like **My Service Collie Jack**:
+
+**Invoke:** Jack snarls menacingly at a threatening goon! Jack’s sharp senses notice approaching danger.
+
+**Compel:** Jack’s in danger and needs to be rescued! That lady dog sure does smell nice and Jack _really_ wants to get to know her better…
+
+##### Stunts
+
+You may choose one free stunt from this list of examples or compose your own.
+
+**Don’t You Hurt My Friend:** Jack willingly faces down those who would attack you. You may roll your Service Dog skill to defend against attacks against you made unarmed or using hand-to-hand weapons.
+
+**Table Top:** You give Jack a subtle hand signal, and he maneuvers behind an opponent’s knees. You give that opponent a shove, sending them tumbling. Gain +2 to overcome or create advantage actions using your Service Dog skill made to trip a standing opponent.
+
+**Light-“Fingered” Pooch:** Jack is trained to find and retrieve numerous common items—the training was to help you when you misplace your cell phone, but it turns out he’s great at petty larceny. Roll your Service Dog skill with a +2 bonus to overcome actions when picking pockets, burgling from purses, or silently nicking items out of a drawer.
+
+##### Variations
+
+**Other Animals:** Instead of a dog, use a cat or monkey—but make sure you read up a bit on non-dog service animals to get a feel for what they’re capable of.
+
+**Fantasy:** Instead of a dog perhaps it’s a tiny dragon, magical invisible force, or a demon or spirit you’ve bargained with.
+
+**Sci-Fi:** Instead of a dog perhaps it’s a robot, a synthetic life form genetically engineered to look like a dog, or an animal of alien origin.
+
+#### Service Animals in Conflict
+
+If a character has an omnipresent service animal, realize that causing harm to that animal in the game might be unpleasant or traumatic to the player—and to other players around the table. As such, it’s often best for the animal to “fade into the background” when violence starts; it doesn’t attack enemies, and they don’t attack it. Plus, most service animals are trained to not engage in violence, so their instinct is to get out of danger—and to take their human with them!
+
+### Wheelchairs
+
+Wheelchairs are vehicles. That’s the first thing to understand when you play a character who uses one. The second is that you have some decisions to make: based on the disability that your character has, you need to select what kind of chair your character uses.
+
+A paraplegic can use either a manual wheelchair or a motorized wheelchair, whereas a quadriplegic is only able to use a motorized chair in order to move around. Someone with fatigue or chronic pain may need a scooter while out and about, but walk with a cane or walker while at home where they can rest when necessary. What are your character’s needs? What kind of chair will best suit those needs?
+
+#### Types of Wheelchairs
+
+Manual wheelchairs come in a few different types, but they’re all the same in terms of propulsion: They are moved by the user’s arms or sometimes feet, or are pushed by another person. They can be super lightweight, clunky, brightly colored. They can have rims. They can be designed to support participation in various sports and other physical activities (hand-operated bicycling, contact sports like “murderball,” team sports like volleyball or basketball, etc.) or for specific kinds of terrain (e.g., sandy, muddy, rocky).
+
+When designing your chair, think about the function of the wheelchair and what kind of terrain it is intended for. It may also be helpful to know whether it has handles for assistive pushing. Everything else is narrative detail about how your chair looks, etc.
+
+Mechanical chairs are bigger and heavier, and they do not, for the most part, fold. They often have a sort of evil mastermind or borg chair look to them. They are generally controlled by a manual joystick and buttons to adjust chair height, tilt, etc. Users are significantly faster and more independent than those with a manual chair, but manual chairs are more portable and easily accessed. Motorized chairs also tend to perform poorly in soft terrain.
+
+Players should consider perspective when playing a character who is a wheelchair user. A manual wheelchair is usually at about crotch height with the rest of the world. Great for checking out people’s butts, but less great if you want someone to notice you when you’re wheeling down a busy street. On the other hand, wheelchairs are also something people like to avoid looking at—because they don’t want to stare. Because of where the average person’s focus is, a wheelchair can be almost invisible, and by extension, the person who uses the chair becomes invisible too.
+
+Characters with any kind of wheelchair have less access to things like bars, counters, and high shelves. Motorized wheelchairs are often higher off the ground than manual ones, so that might change what you can or can’t reach, and some include a seat lift option to reach even higher. Wheelchair users often carry a “grabber” to mitigate the challenge of reaching up or down. The spatial experience of sitting down in a wheeled chair while interacting with the world can be compared to the experience of an adult who is the height of a nine year old.
+
+Wheelchairs can have different kinds of tires and wheels for different purposes. It’s worth a quick search to see what your character’s options might be. There are wheels and tires for beach adventures, offroad trekking, handcycling, court sports, racing, and so forth.
+
+#### Extra: Hand-Propelled Wheelchair
+
+Many people with mobility impairments use wheelchairs, but some people really become artists with their chairs. That’s you. You don’t have to be a full-time user—many wheelchair users can walk well enough, but require the option of wheeling around when necessary; this doesn’t mean they can’t be really good with their ride.
+
+**Permission:** An aspect establishing a appropriate disability.
+
+**Cost:** One of your free stunt slots or a point of refresh. Athletics skill of at least Fair (+2), reflecting the physical strength and endurance that develops from frequent manual wheelchair propulsion.
+
+##### Aspects
+
+You may compose an additional aspect like **Hell on Wheels** or **Wheelchair Marathoner**. Talk with your GM about how you imagine those aspects being compelled and invoked.
+
+##### Stunts
+
+Choose two stunts from this list. Additional stunts related to your wheelchair must occupy your character’s regular stunt slots or points of refresh.
+
+* **The Need For Speed (Athletics):** You’re the fastest around when it comes to human-powered travel. When you’re in your chair, you gain +2 to all overcome actions made with Athletics in chases or races when your opposition is on foot.
+* **Crowd Control (Athletics):** You know how to avoid traffic, pedestrians, and cyclists. When you’re trying to move fast in your chair, aspects reflecting physical obstacles (crowds, pallets of cargo, spilled garbage cans, etc.) can’t be invoked against you—unless they outright prevent movement (locked doors, walls, steep stairs, closed gates).
+* **Offroad Chair (Athletics):** Your chair is equipped with large wheels intended for offroad travel. You gain +2 to all overcome and create advantage Athletics actions related to movement and positioning when on grass, gravel, sand, snow, etc.
+* **Bottomless Saddlebags (Resources):** That bag slung across the back of your chair always seems to have the perfect thing for any occasion. Gain +2 to create advantage actions with the Resources skill to create situation aspects for having exactly the right tool, gizmo, item, or supplies.
+
+##### Conditions
+
+If you rely on your chair to the point where you’re at a substantial disadvantage without it, take Without My Device (page XX).
+
+#### Extra: Powered Wheelchair/Scooter
+
+If your wheelchair or scooter has a motor, this might be the one for you. Cool pair of aviator sunglasses optional.
+
+**Permission:** An aspect establishing an appropriate disability.
+
+**Cost:** One of your free stunt slots or a point of refresh. Drive skill of at least Fair (+2), reflecting the practice you get piloting your chair.
+
+**Special:** Use the Drive skill to operate your chair—where someone on foot would roll Athletics, you roll Drive.
+
+##### Aspect
+
+Compose a free aspect like **Mozart in a Go-Kart** or **Wheels for Any Occasion**.
+
+##### Stunts
+
+You may take two stunts for free, chosen from this list or created by you. Additional stunts related to your chair must occupy one of your character’s free stunt slots or a point of refresh.
+
+* **Made a Few Special Modifications Myself (Drive):** You (or your mechanic) have upgraded the drive motors and suspension on your ride to give it some real top end velocity. When you’re in your chair, you gain +2 to all overcome actions made with Athletics in chases or races when your opposition is on foot.
+* **Gunship (Drive):** Your chair has an axial-mounted submachine gun. When you use it to make an attack with Drive, gain Weapon:2 on successful attacks.
+* **Amphib (Drive):** Your chair is designed to navigate water as easily as ground—it can traverse calm bodies of water.
+* **Solar Charger (Drive):** You have a highly efficient solar charging station for your chair. If you spend a scene outdoors in bright sunlight, the track of the condition Low On Charge clears. You can also use the charging station to charge other devices.
+
+##### Conditions
+
+You must take the condition Low On Charge (page XX). If you rely on your chair to the point where you’re at a substantial disadvantage without it, take Without My Device (page XX).
+
+##### Variations
+
+**Fantasy:** Instead of wheels, a flying carpet or a small but strong extraplanar pack animal to handle curbs and stairs
+
+**Sci-Fi:** Instead of wheels, repulsorlifts or leg-like mechanisms to handle curbs and stairs
+
+### Canes
+
+The use of a cane may be temporary or permanent. Selecting what kind of cane your character might use is important, not just to how their character deals with their disability, but also as a way for them to express their character. Canes are also blunt force weapons. A straight up and down wooden cane can be used to bash down a person or a door, a white cane might secretly snap out to be a set of nunchucks, and of course there are many variants of the swordcane—a cane can hide blades, poisons, and many other things.
+
+Dr. Gregory House had a cane decorated with flames going up the side, whereas a hacker elf might have a cane made of pure steel with a glowing internal shaft. Your character’s cane is an extension of their body, not just in terms of how it supports them, but also in terms of how it displays their nature.
+
+#### Types of Canes
+
+Canes come in a few different varieties.
+
+There are stabilizing walking canes. A character who uses a regular walking cane might have a permanent injury causing a limp, they might have a prosthetic leg which requires extra load bearing support, or they might have a seizure disorder or pain disorder.
+
+For other disabilities, stabilizing crutches may be more appropriate. Characters with arm braced (cuff) crutches are typically those with disabilities like Down syndrome, cystic fibrosis, or any other condition which might affect their balance or ability to bear weight, including pain conditions.
+
+And then of course there’s the white cane for characters with low vision and blindness.
+
+#### White Canes
+
+Rather than a guide dog (page XX), characters with low vision and blindness might use a white cane instead. There are three types of white cane that your character might select from.
+
+* **A standard long white cane.** Completely white, or white until the last foot, which is red. It doesn’t fold, it doesn’t do anything fancy, it just is. These generally have a metal tip on the end, and are free from the National Federation for the Blind in the United States. (But only get one if you’re actually blind, folks.)
+* **A folding white cane.** These are made out of either aluminum or carbon, fold into 6 distinct sections, and can be stuffed inside a backpack. They fold up and snap out kind of like nunchucks. You’ve seen these on shows like _Dare__devil_.
+* **Stabilizing white cane.** This is painted like the red and white cane, but has the shape and use of a standard weight bearing walking cane for people with multiple disabilities.
+
+To play a character who uses a white cane, you have to understand a little bit about how it works. The user picks up the cane in their dominant hand, and sweeps (the technical term is “scans”) it along the ground; the tip of the cane touching the ground acts as a radar or sonar reader. As the cane sweeps across the ground, it gives the user a sense of what kind of ground they’re walking on, bumps into objects telling the user to stop and find out where that object is so that they can move around it, and catches in sidewalk cracks telling the user where to step carefully. It also tells them where there are stairs and curbs. Basically, a white cane user understands their environment through the feel of the cane. Someone who is well trained in the use of the cane almost uses it as a new sense, a little like tactile echolocation.
+
+Weaponizing a cane is something you can do fairly easily by describing it as an aspect (**Spiky End Point** comes to mind) and talking about what makes it a good weapon.
+
+Alternately, it could be described as a stunt:
+
+* **My Trusted Cane (Fight):** Because I always have my heavy walking cane with me, I get +2 to defend actions with Fight made against melee attacks.
+* **“Upgraded” White Cane (Fight):** Because I “upgraded” my telescoping white cane with a sharp point, I get +2 to attack actions made with the Fight skill, when my opponent doesn’t expect my attack.
+
+#### Extra: White Cane
+
+**Permission:** An aspect establishing a blindness disability.
+
+**Cost:** This extra occupies one of your character’s stunt slots or uses a point of refresh. You must take the Without My Device condition.
+
+##### Aspect
+
+You may compose a free character aspect like **Cane Expertise** which does not count against your usual aspect slots.
+
+##### Stunts
+
+You may choose two free stunts from this list (or compose your own).
+
+* **Effortless Parry (Fight):** You know exactly how to put an attacker off balance with a simple flick of your cane. You gain +2 to defend actions with the Fight skill when an opponent attacks you with a knife, sword, club, fist, or the like.
+* **Stun Stick (Fight):** The handle of your cane conceals a powerful electrical stunning device, which delivers a viciously painful shock through the cane’s tip. Once per scene, you can apply **Shocked and Stunned** to the target of your successful Fight attack made with the cane.
+* **Trapfinder (Notice):** You have optimized your cane for locating traps, snares, false floors, and other pitfalls you might encounter while exploring ancient temples and ruins. Gain +2 to overcome actions with Notice to find traps.
+* **Step Lightly (Stealth):** Your touch with the cane is delicate enough to give you a sense of where to step to be as quiet as possible. Gain +2 to overcome actions with Stealth when opposed by an opponent’s Notice.
+
+##### Conditions
+
+You must take Without My Device (page XX).
+
+##### Variations
+
+**Fantasy:** The cane might be a wizard’s staff or druid’s shillelagh.
+
+**Sci-Fi:** The cane might be a force projector or energy beam rather than a stick made of solid matter, or might contain other hidden devices which should be represented by appropriate stunts.
+
+### Prosthetics
+
+Prosthetic limbs are a fairly common type of disability that we often don’t notice because of how they look in modern day. Common because military service can often result in the loss of a limb, common because of celebrity athletes whose cheetah feet have become part of their cult of personality. If you saw _Mad Max Fury Road_, you saw Imperator Furiosa’s incredible wrench hand. People with prosthetic arms, legs, hands, eyes, etc., face a few challenges, most of them related to navigating a world that isn’t designed for their bodies. Hands may not be able to open doors (if there were a case for a service velociraptor anywhere in this book…), legs may be caught in things, limbs might come off because of a faulty joint. Even eyes have prosthetic limbs available to them—Elsa wears one every day, called a scleral shell. Technology here is an advantage, a tool, and sometimes even a nifty gadget.
+
+Characters with prosthetic limbs might wear cheetah feet or blades for running; they might have a 3D-printed hand or a fully articulated steam powered hand. Considering possible leaps and bounds in design and biotech, how a prosthetic might appear in your story makes it a little more unique and exciting.
+
+#### Extra: Cybernetic Limb
+
+A cybernetic limb is suitable in many science fiction/cyberpunk settings. It’s made of and powered by exotic materials and is controlled by a direct neural link—possibly directly wired into the wearer’s nervous system, or possibly wirelessly linked to a brain implant. Be careful not to erase the disability—pay attention to the fatigue and pain such a device might cause with extended use.
+
+**Permission:** An aspect establishing an appropriate disability.
+
+**Cost:** One stunt slot or point of refresh. Also, justification for having paid the immense cost of such a device—an aspect establishing your character as wealthy, a Resources skill of at least +3, a debt owed to a powerful creditor, etc. If you can’t pay for it, take the Making Payments condition.
+
+##### Aspects
+
+Compose a free aspect like **The Best Hand Money Can Buy** or **I Don’t Even Own My Own Leg**.
+
+##### Stunts
+
+Choose two free stunts from this list, or design your own. Any additional stunts you take regarding this device each come at the cost of one of your stunt slots or a point of refresh.
+
+* **Smuggler’s Compartment (Deceive):** Your prosthesis has a concealed compartment large enough to contain a tool, small weapon, or some other contraband where it is invisible to scanning. Spend a fate point to have a device where you shouldn’t have it.
+* **Frickin’ Lasers (Shoot):** Your prosthesis contains a built-in blaster, giving you Weapon:2 when you make Shoot attack actions with it.
+* **Autoinjector (Physique):** Your prosthesis contains a system that automatically dispenses a bioengineered steroid that kickstarts your physical healing. Once per session, at the cost of a fate point, you can reduce the severity of a moderate consequence that’s physical in nature to a mild consequence (if your mild consequence slot is free), or erase a mild consequence altogether.
+* **A Single Bound (Athletics):** Your leg is enormously strong and allows you to make superhuman leaps. Gain +2 to overcome actions made with Athletics related to climbing and leaping.
+
+##### Conditions
+
+Take one of the following conditions; an extra one or two would be appropriate if you choose: Exhausted (page XX), Hacked (page XX), Limited Focus (page XX), Low On Charge (page XX), Making Payments (page XX).
+
+##### Variations
+
+**Fantasy:** A magical or enchanted limb
+
+#### Extra: Cybernetic Sensory Implants
+
+Cybernetic or bionic sensory prosthetics are a standard trope of cyberpunk and science fiction settings. They’re usually manufactured devices, made of exotic materials and full of electronics. The way many people think of these devices makes it _very_ easy to ignore your character’s disability entirely—it’s a delicate balance to make them useful without making them erasing.
+
+Make sure you establish with the GM what it can and can’t do, or what trouble it brings you. Does that cybernetic eye fail to interface properly with the part of your brain responsible for facial recognition? Maybe an intermit malfunction translates text you read with it into a language you don’t understand. Does the aural implant require expensive recalibration on a regular basis? Does your corporate sponsor only _lease_ you the implant? Does the device give you crushing headaches, requiring you to deactivate it when it’s not essential?
+
+**Permission:** You must have a disability aspect that corresponds to your implant.
+
+**Cost:** One stunt slot or point of refresh. Also, justification for having paid the immense cost of such a device—an aspect establishing your character as wealthy, a Resources skill of at least +3, a debt owed to a powerful creditor, etc. If you can’t pay for it, take the Making Payments condition.
+
+##### Aspects
+
+Compose an aspect like **The Company’s Robotic Eye** or **Infrasonic Implant**.
+
+##### Stunts
+
+Choose two stunts for free. Additional stunts require use of your character’s stunt slots or refresh.
+
+**Expanded Frequency Range (Notice):** The device allows you to see or hear beyond typical wavelength limits—infrared or ultraviolet for eyepieces, or infrasound or ultrasound for ear implants.
+
+**Extended Range (Notice):** The device allows you to zoom in to distant events as if it were a telescope, or hear minute sounds at a distance.
+
+**Embedded Recording (Notice):** On mental command, your device can record what it sees or hears, and wirelessly upload it to a server. It can play back directly into your mind what it hears or sees.
+
+##### Conditions
+
+Consider taking the conditions Making Payments (page XX) or Hacked (page XX).
+
+### Other Senses
+
+Blind characters will build extensive mental maps to find their way around cities that they navigate—for example, a character who has lived in one city for part of their lives might take a minute to re-orient themselves into a tactile map of the city, but once they understand their directions, they can run off and go anywhere. A blind person often has some kind of system for how they get around, whether it’s through landmarks (low vision characters can still see) or by the way the street changes from cobbles to bricks in the span of a block.
+
+With the advent of smartphones, characters also have the option of headphones reading them the directions they need, but a blind character might also navigate using very specific directions provided by sighted characters using no visual landmarks, only counted block numbers.
+
+Characters who are blind also likely navigate using what they feel under their feet. A character might know what room they’re in based on whether a room has tile, carpet, or hardwood. The sense of what’s below them might very well give them a better understanding of where they are than a sighted person.
+
+GMs should be aware of the surroundings they give their PCs, knowing what their disabled characters would be aware of that able bodied PC’s might not be, such as the kind of floor, or whether there’s a wheelchair ramp into the library. Access and the lack of it are important things to know about your setting.
+
+> #### Sidebar: Human Echolocation
+>
+> Some blind people can echolocate. They’ve taught themselves how to do this by clicking their tongues and navigating based on the way the sound comes back to them. It’s actual echolocation. Not every blind person can do this, but those who can are easily findable on the internet to learn more about the how. If you play a character with this particular ability, you likely won’t use a cane or a dog, but you also aren’t likely to be multiply disabled because your ability to hear should be exemplary in order to master this particular skill, and a wheelchair or cane might make sound distractions which would affect your ability to echolocate.
+
+### Glasses
+
+Glasses and other corrective lenses, such as contact lenses, are perhaps the most common adaptive devices. If you don’t use them yourself, you almost certainly know someone who does. Especially as they get older, people often end up with several different lenses to solve different vision issues. Glasses and contact lenses aren’t perfect solutions—they can be uncomfortable, they often don’t fully solve the problem, they’re inconvenient, they fog up with annoying regularity—but they’re so common that we often hardly think of them as adaptive devices.
+
+Even if your character needs glasses, it may not need to be more than a narrative detail that isn’t reflected in the mechanics. If you want your glasses to really matter to your character, consider an aspect like **I Look Awesome in My Nerd Glasses**, which could be invoked when you play on the stereotype of people in glasses being smarter or more serious, and compelled when your glasses fog up, break, or are misplaced.
+
+To make your glasses an extra, see Cybernetic Sensory Implants on page XX.
+
+#### Corrective Lenses
+
+A variety of vision problems—such as nearsightedness, farsightedness, astigmatism—can be helped with corrective lenses. Even people with relatively good vision may require corrective lenses to help them see in certain situations or to improve focus issues, but they can function without the lenses if they choose to. Focus issues cover a wide range, though, and many people can’t do much without their glasses. Some can’t really see anything without corrective lenses.
+
+#### Sunglasses
+
+While we should all wear sunglasses to protect our eyes when the sun is bright, for some people it’s a necessity. Photophobia—a sensitivity to light—is a symptom of many illnesses, headaches, and conditions. It can be a side effect to certain medications. People with light colored eyes are frequently sensitive to bright light, especially sunlight. Blue light from computer screens or harsh indoor fluorescent lighting irritates many people. Some people are bothered by any kind of light. Dark or colored lenses of varying types can help deal with these issues by blocking or reducing certain types of light.
+
+#### Protective Lenses
+
+Having glasses in front of your eyes inherently protects them from being hit by something, thus safety glasses are required when working with machines, chemicals, etc. If your eyes have difficulty reacting quickly, however, protective lenses may be a daily tool. For instance, if you’re blind in one eye, your depth perception and side vision are impaired. The blink reflex may be slowed or nonexistent. Protective lenses help make that slow reflex less of a danger.
+
+#### Color-Corrective
+
+Color-corrective glasses for those who are colorblind do exist. They’re not covered by any insurance or discount program, and they’re a little expensive ($400 or so), but they exist, and they mostly work (though not for everyone). They help the wearer distinguish colors more easily, and they make everything a little more vibrant, but they’re not a perfect solution. It’s a bit like having a prescription for regular glasses that doesn’t _quite_ get you to 20/20.
+
+### Hearing Aids & Cochlear Implants
+
+Hearing aids and cochlear implants were covered a bit in the Deafness chapter (page XX) but here’s some extra material you might want to know about.
+
+Both hearing aids and cochlear implants can be used to manage hearing loss. A character who uses either of these kinds of aids may not require mechanics beyond a related aspect, but it will change the way that your character interacts with the world, and there are rules.
+
+A character who wears a hearing aid in one or both ears only has the benefits of that aid when the hearing aids are in. A character who takes their hearing aids out at night or to swim might not hear something when the aid is out.
+
+One of the complications of having an aid is that they are breakable, whether because you set your hearing aid on the table and a dragon ate it, or because you accidentally went swimming with a Siren. Neither cochlear implants or hearing aids are impervious to water.
+
+Hearing aids and cochlear implants are also not a perfect solution. Hearing aids are like a small microphone in your ear; depending on the kind you have (in the ear, behind the ear) you might have a microphone that faces front, and you can’t hear people behind you, or you might not always hear people because the wax trap is full. Cochlear implants are not an exact replica of hearing; for reference—we’re not kidding—go to the Wikipedia entry on cochlear implants where you can listen to Beethoven’s 5th Symphony as heard through one. It gives you an idea of what that’s like.
+
+A hearing aid is also a tool that you have to learn how to use; a character who gets one put in has a learning curve for how they hear, as well as learning what words sound like. They might be surprised by how loud the sound of crumpling paper is, or that bacon makes a sound when it hits a frying pan. A hearing aid (except in the far future) is not an exact method for adjusting someone’s hearing.
+
+To make your hearing aid or implant an extra, see Cybernetic Sensory Implants on page XX.
+
+### Service Humans
+
+Almost any disabled person may rely on steady assistance from one or more people. In some cases, such as through organizational requirements (sign language interpreter) or government/private funding (group home care assistant), the service human officially assists with designated tasks. In other situations, the role of “service human” is filled by family, roommates, or friends. In considering which person or persons may regularly act as your “service human,” evaluate the tasks for which regular assistance enables you to navigate a world built primarily for the able-bodied.
+
+#### Official
+
+As the chart on page XX indicates, almost anyone may have a service human, but you are more likely (although statistically still unlikely) to have some form of official assistance as a blind person (transcription, navigation), Deaf person (interpretation), someone with a mobility disability, or dwarfism. For example, people with mobility disabilities can lead generally self-sufficient lives but may have an assistant who receives a small salary to assist them with bathing, using the toilet, shopping, cooking, and other tasks. The service human may be a roommate in a group living situation or come by regularly to assist with specific tasks, such as your evening bath. In other cases, this role may be filled by a member of their family. Those with mental illnesses are more likely only to have official service humans in the form of therapists.
+
+#### And Otherwise
+
+Whether through family or as part of a community, unofficial service humans provide reliable assistance while not receiving any payment for the role. It may be the friend or partner around whom you may safely melt down or who stays alert to disengage triggers before you reach meltdown point. Or it could be the classmate who has agreed to email you typed notes so that you can listen in class and not worry about your braille keyboard.
+
+#### Extra: Personal Assistant
+
+**Permission:** A suitable disability as established by one of your character aspects.
+
+**Cost:** One of your stunt slots or a point of refresh. Skill ranks, a rating of Good (+3) in the skill My Assistant.
+
+**Skill:** My Assistant. Use this skill for any action your service human undertakes that is in one of their identified areas of competence—essentially giving you those skills at +3, as long as your assistant is around.
+
+**Special:** Identify two Fate skills that your service human is trained in. Also specify what hours they have off.
+
+##### Aspect
+
+Write an aspect naming and describing your assistant. Invoke the aspect to hire the assistant to work overtime and be there during an off-hours scene; a compel of the aspect might establish that the current scene is happening during the assistant’s off hours.
+
+##### Stunts
+
+You get no free stunts with this extra.
+
+> #### Sidebar: Example Personal Assistant
+>
+> Brian makes a character for a modern-day Mythos horror game—James Martinez, an occultist with a popular podcast—and decides he wants the character to have a multiple sclerosis-induced mobility disability. He takes the extra Personal Assistant, and decides that his assistant is a former MMA fighter and fitness instructor. Brian adds **Patricia Cooper, Personal Assistant** to his character sheet and writes the skills “Fight, Provoke +3” next to it. She’s off Mondays and Tuesdays, and evenings after 3\. Brian also announces that she’s great at making healthy and delicious smoothies, but that’s not going to have any rules impact.
+
+##### Variations
+
+You might be tempted in some fantasy or historical games to declare that the assistant is an indentured servant or an enslaved person. Please stop, think about that again, and then don’t.
+
+**Fantasy:** A demon you’ve made a bargain with, a construct or familiar
+
+**Sci-Fi:** A robot, whose off-hours might be when they’re charging. Or, if it’s a sapient AI, they should get time off too, right?
+
+### Communication Devices
+
+Many people with severe motor control impairment, or autistic people experiencing a meltdown, are unable to speak; fortunately there are communications devices that range from very simple (white boards, plastic letter boards) to exceedingly complex (the sophisticated computerized system that Stephen Hawking used, which allowed him to deliver lectures about physics and calculus using a sensor that detected movement of his cheek). A d/Deaf character might always carry around a small paper pad and pen to ease communications. In the middle of a **Meltdown** an autistic character may converse in sign language with her service human or pull up an app which simulates texting and completely avoid eye contact as she passes it to others. The extra below is about devices that lean toward Professor Hawking’s system, although yours might run on spells rather than batteries. If your character is looking for something in between the two, check out the TV show _Speechless_ for an example of a laser pointer and board style communication system.
+
+#### Extra: Electronic Communication Device
+
+**Permission:** A suitable disability as established by one of your character aspects.
+
+**Cost:** One of your stunt slots or a point of refresh.
+
+##### Aspects
+
+Compose an aspect such as **NeuroComm 3000 Communicator** or **My Computer Speaks For Me**.
+
+##### Stunts
+
+Choose two free stunts from this list. If you take more, you must use your character’s stunt slots or points of refresh.
+
+* **Audio Out (Lore):** Your speech system can output any sort of sound you wish, and loudly. Gain +2 to create advantage actions when making sounds is helpful: a piercing siren, a disconcerting subaural rumble, etc.
+* **Computerized Linguist:** Not only can your speech system output spoken words in any of several dozen languages, but the computer can render speech you hear as text and translate it into a language you understand. With this computer, you will always understand and be understood.
+* **Mimic (Deceive):** The speech synthesizer can mimic the voice and inflection of anyone it hears for at least a minute. Gain +2 to Deceive overcome or create advantage actions when you’re trying to impersonate the voice of someone the system has heard.
+* **Etiquette & Protocol (Rapport):** The system that translates your inputs into text is sophisticated enough to make wording suggestions and provide simple cultural context. Gain +2 to overcome and create advantage actions with Rapport when you’re persuading strangers to do you a favor or regard you as a friend.
+
+##### Condition
+
+Take the condition Low On Charge (page XX) and possibly Hacked (page XX).
+
+> #### Sidebar: There’s an App for That
+>
+> Assistive technology also includes a multitude of virtual tools that can be controlled using electronic devices such as smartphones, tablets, communication devices, some powered wheelchairs, etc.. For example, useful phone apps include magnification, voice recognition, text-to-speech, remote control capability, and so forth. “Smart” devices can be used to control automated house features such as temperature, lights, doors and locks, sound systems, alarm systems, and more.
+
+### Coping Devices
+
+From weighted blankets to chewable necklaces to fidget spinners, these are your tools for staying calm in tough situations or recovering afterward. Your coping device may act as an anchor, like a talisman you use to remind yourself that depression lies. These may give you a direct advantage against mental stress, or come into play in the form of stunts (see Adaptive Devices and Stunts, page XX).
+
+### Medications, Exercise, etc
+
+There’s a lot you can do for depression and anxiety—medication, therapy, light boxes, and there will likely be more for the future. If you have aspects like **Light Box**, **My Therapist Is On Call**, or **Scrip For Citalopram**, you can invoke them to help recover from consequences and conditions.
+
+Never suggest that a character will get better with some outdoor time and some exercise and some relaxing yoga. **This is a harmful trope that needs to die.** Depression and anxiety are frequently caused by imbalances in your chemical system, or issues with your brain and the way that it functions.
+
+# Appendices
+
+## Resources
+
+### DSM
+
+The Diagnostic and Statistical Manual of Mental Disorders, or DSM for short, has been published by the American Psychiatric Association (APA) since 1952 to provide a common language and standard criteria for the classification of mental disorders. It’s subject to many criticisms but remains a touchstone for clinicians, researchers, psychiatric drug regulation agencies, health insurance companies, pharmaceutical companies, the legal system, and policy makers. The most recent version is the fifth edition or DSM-5, published in 2013, but many users still prefer the previous version, the DSM-IV-TR (or just DSM-IV, revised) released in 2000, so you may see references to either.
+
+### Useful Links
+
+* American Sign Language Dictionary, Jolanta Lapiak,  
+    [_https://www.handspeak.com/word/_](https://www.handspeak.com/word/)
+* Free Braille Dice 3D Printer Patterns, DOTSrpg,  
+    [_https://www.dotsrpg.com/dice-models_](https://www.dotsrpg.com/dice-models)
+* How to Turn e-Books Into Audiobooks, National Aphasia Association,  
+    [_https://www.aphasia.org/stories/turn-e-books-audio-books/_](https://www.aphasia.org/stories/turn-e-books-audio-books/)
+* The Spoon Theory, Christina Miserandino,  
+    [_https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/_](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
+* Gaming Without Sight: Accessibility for the Visually Impaired,  
+    Aser Tolentino, [_https://site.pelgranepress.com/index.php/gaming-without-sight-accessibility-for-the-visually-impaired/_](https://site.pelgranepress.com/index.php/gaming-without-sight-accessibility-for-the-visually-impaire)
+
+## ASL Reference for Common RPG Terms
+
+These are meant as quick references for GMs and players looking to make their table more accessible to Deaf/HH individuals who know and utilize ASL to communicate. Each term includes the specific signs as well as a description of each sign in words and illustration. We encourage you to learn the language in its entirety to communicate fully with fellow community members. The best place to learn ASL is through your local colleges/universities where ASL classes are offered and taught by Deaf individuals.
+
+_NOTE: You can [download a zipfile of the SVG graphics](fact-images.zip) used in the following illustrations._
+
+> #### Sidebar: (fs)
+>
+> fs = fingerspell using the ASL alphabet, e.g.:
+>
+> **FATE:** FATE (fs)
+
+### General RPG Terms
+
+#### Character Sheet
+
+**PAPER + CHARACTER:** With both hands using the 5-handshape, use the palm of your dominant hand to hit the palm of your nondominant hand and then bring your dominant hand in a C-handshape to the top left quadrant of your chest and move it in a short circular motion once.
+
+![ILLUSTRATION: The 5-handshape is the hand with all four fingers and thumb out, relaxed. The fingers on the dominant hand point towards the wrist of the non-dominant, with the dominant hand held flat above the non-dominant. For the C-handshape, the four fingers are held together and curved slightly downward, while the thumb curves slightly upward toward them. They should not touch. ](../assets/fact-images/character.svg)
+
+#### Create a Character
+
+**INVENT + CHARACTER:** With your dominant hand make a 4-handshape and place it turned inward on your cheekbone and bring it up to your forehead and then bring your dominant hand in a C-handshape to the top left quadrant of your chest and move it in a short circular motion once.
+
+![ILLUSTRATION: The 4-handshape is the hand with all four fingers out and the thumb folded in across the palm. With this shape, tap the side of your index finger first against your cheek, then against your temple on the same side of your head.](../assets/fact-images/create_a_character.svg)
+
+#### Damage
+
+**HURT:** With both of your index fingers pointed at one another, twist your hands in quick and opposing directions.
+
+![](../assets/fact-images/damage.svg)
+
+#### Player Character
+
+**CHARACTER:** Bring your dominant hand in a C-handshape to the top left quadrant of your chest and move it in a short circular motion once.
+
+![ILLUSTRATION: For the C-handshape, the four fingers are held together and curved slightly downward, while the thumb curves slightly upward toward them. They should not touch.](../assets/fact-images/character.svg)
+
+#### GM Character/Non-Player Character (NPC)
+
+**CHARACTER + GM(fs) or NPC (fs):** Bring your dominant hand in a C-handshape to the top left quadrant of your chest and move it in a short circular motion once followed by fingerspelling GM using the ASL alphabet. Alternatively, you can sign “N” + “P” + “C”.
+
+![](../assets/fact-images/character.svg) ![ILLUSTRATION: For the letter G, make a fist and extend your index finger, with your finger held parallel to the ground and your other fingers and thumb facing your chest. For the letter M, make a fist with the back of your hand facing your chest, then tuck your thumb under your first three fingers. ](../assets/fact-images/gm.svg) ![For the letter N, make a fist with the back of your hand facing your chest, then tuck your thumb under your first two fingers. For the letter P, make a fist with the index finger extended, parallel to the ground with your other fingers and thumb facing the ground. Then extend your middle finger so it points towards the ground and touch your thumb to the side of your middle finger. For the letter C, the four fingers are held together and curved slightly downward, while the thumb curves slightly upward toward them. They should not touch.](../assets/fact-images/npc.svg)
+
+#### GM/Host/Facilitator
+
+**GAME + CREATOR :** Bring your two fists towards each other, knuckles together and thumbs pointing upwards, twice. Then use your dominant hand to make a 4-handshape and place it turned inward on your cheekbone and bring it up to your forehead.
+
+![ILLUSTRATION: For the sign for game, the wrists and closed fingers should be facing the chest. The 4-handshape is the hand with all four fingers out and the thumb folded in across the palm. With this shape, tap the side of your index finger first against your cheek, then against your temple on the same side of your head.](../assets/fact-images/gm_host_facilitator.svg)
+
+#### Adversary/Opponent/Antagonist
+
+**ENEMY:** With your two index fingers touching and the backs of your hands turned outward, fists closed, bring them apart and then bring both hands, open, down on either side of the body in front and near the hips.
+
+![ILLUSTRATION: For the sign for enemy, after touching your index fingers together, bring your hands out to either side of your head at the width of your shoulders. Then open your hands and bring them both down in a swift motion from shoulders to hips, without making contact with your body.](../assets/fact-images/enemy.svg)
+
+#### Monster
+
+**MONSTER:** With both hands in a C-handshape opened like a claw on either side of your head, swivel your hands slightly.
+
+![ILLUSTRATION: For the C-handshape, the four fingers are held together and curved slightly downward, while the thumb curves slightly upward toward them. They should not touch. For the sign for monster, instead of holding the fingers together, splay them out while keeping them curved. This will make a grasping, claw-like shape. Swivel them from side-to-side.](../assets/fact-images/monster.svg)
+
+#### Action
+
+**DO-DO:** With both of your hands in a D-handshape, bring your index finger toward your thumb at least two times.
+
+![ILLUSTRATION: For the D-handshape, point your index finger upwards and bring the tips of your other three fingers and thumb together, forming a circle with the fingers, palm, and thumb. With both hands in this shape, tap each your index finger against the thumb on the same hand twice.](../assets/fact-images/action.svg)
+
+#### Ally
+
+**FRIEND:** With your fists closed, extend your index fingers into an X-handshape and hook them together twice in opposing directions.
+
+![ILLUSTRATION: For the X-handshape, extend your index finger and curl it into a hook shape. To sign friend, hold your hands parallel to the ground, one hand facing up, the other facing down. and hook your index fingers together once. Then rotate your hands so they're facing the opposite directions and hook your fingers together again.](../assets/fact-images/friend.svg)
+
+#### Contact
+
+**CONTACT:** With both hands in a 5-handshape, extend your middle fingers to tap one another twice. This is a directional sign; move your hands in between the two individuals who are contacting one another.
+
+![](../assets/fact-images/contact.svg)
+
+#### Location
+
+**AREA:** With your dominant hand in a 5-handshape, move it around in a circular motion with your palm facing downwards.
+
+![](../assets/fact-images/area.svg)
+
+#### Roll a die
+
+**GAMBLE (dice):** Using your dominant hand with your palm up and fingers curled in as though you are holding a die, shake it at the top quadrant of your chest in front and on the same side as your dominant hand. Release the sign by pretending to toss the imaginary die out of your hand and in front of you.
+
+![](../assets/fact-images/roll_a_die.svg)
+
+#### Roll 4 dice
+
+**GAMBLE + FOUR:** Using your dominant hand with your palm up and fingers curled in as though you are holding a die, shake it at the top quadrant of your chest in front and on the same side as your dominant hand. Release the sign by pretending to toss the imaginary die out of your hand and in front of you. Then, using your dominant hand, extend your four fingers with your palm facing inward.
+
+![](../assets/fact-images/roll_4_dice.svg)
+
+#### Roll 2d6
+
+**GAMBLE + 2 + D + 6:** Using your dominant hand with your palm up and fingers curled in as though you are holding a die, shake it at the top quadrant of your chest in front and on the same side as your dominant hand. Release the sign by pretending to toss the imaginary die out of your hand and in front of you. Sign the number “2” and then turn your palm outward to spell “D” and then the number “6”.
+
+![](../assets/fact-images/roll_2d6.svg)
+
+### Fate-Specific Terms
+
+#### Fate die/Fudge die/1dF
+
+**FATE(fs) + GAMBLE / 1 + D + F:** Fingerspell FATE using the ASL alphabet. Then, using your dominant hand with your palm up and fingers curled in as though you are holding a die, shake it at the top quadrant of your chest in front and on the same side as your dominant hand. Then release the sign by pretending to toss the imaginary die out of your hand and in front of you. Alternatively, you can sign “1” + “D” + “F”.
+
+![](../assets/fact-images/roll_1df.svg)
+
+#### Roll 4dF
+
+**4 + D + F + GAMBLE:** Sign the number “4” and then “D” and then “F”. Using your dominant hand with your palm up and fingers curled in as though you are holding a die, shake it at the top quadrant of your chest in front and on the same side as your dominant hand. Release the sign by pretending to toss the imaginary die out of your hand and in front of you.
+
+![](../assets/fact-images/roll_4df.svg)
+
+#### I spend a Fate Point
+
+**ME + FATE(fs) + POINTS + EXCHANGE + ME:** Using your index finger point at your chest and then with your dominant hand fingerspell FATE using the ASL alphabet, followed by using your nondominant hand in a D-handshape upright and then bringing your dominant hand also in a D-handshape down to tap both index fingers together twice. Your index fingers should meet at a 90 degree angle. Point to your chest with the index finger of your dominant hand.
+
+![](../assets/fact-images/i_spend_a_fate_point.svg)
+
+#### I invoke an aspect
+
+**CHARACTER + IDENTITY + DESCRIBE + ME:** Bring your dominant hand in a C-handshape to the top left quadrant of your chest and move it in a short circular motion once. Then, with your nondominant hand in a 5-handshape and fingers pointing upwards, bring your dominant hand in an I-handshape and hit your nondominant palm twice with the thumb side of your dominant hand.
+
+![](../assets/fact-images/i_invoke_an_aspect.svg)
+
+#### I use a stunt
+
+**SPECIAL + SKILL + USE + ME:** Have your nondominant hand making a 1-handshape, palm turned inward, and your dominant hand using an F-handshape, palm facing downward, “pick-up” the nondominant hand at the tip of your index finger and lift it upward slightly. Then using a 5-handshape with your nondominant hand, palm facing across your body, bring your dominant hand to grasp the side of your nondominant palm and pull forward into an A-handshape twice. Then with your nondominant hand facing downward, bring your dominant hand in a U-handshape behind and slightly on-top of the back of your hand and swivel it from side-to-side briefly, and then using your dominant hand point with your index finger to your chest.
+
+![](../assets/fact-images/i_use_a_stunt.svg)
+
+#### Take a consequence
+
+**BAD + RESULT + TAKE:** Using a B-handshape, start with the tips of your fingers at the base of your chin, palm turned inward, using your dominant hand. Move your dominant hand outward and then down and back inwards to meet your nondominant hand, waiting in a 5-handshape at the base of your torso with the palm facing upward. With a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand. With your dominant hand start with an extended 5-handshape, palm facing downward, and quickly close your hand into an S-handshape while bringing it toward your body.
+
+![](../assets/fact-images/take_a_consequence.svg)
+
+#### Four basic Fate actions
+
+##### Attack
+
+**ATTACK:** With your nondominant hand in a 1-handshape, palm facing across your body, bring your dominant hand in an A-handshape and palm facing inward to meet your index finger.
+
+![ILLUSTRATION: The 1-handshape, hold up your index finger with your palm facing your chest. To complete the sign, start with your dominant hand open, palm facing your chest. As you bring your hand to your index finger on your non-dominant hand, close your dominant hand into the A-handshape, which is a fist with the thumb pressed against the index finger.](../assets/fact-images/attack.svg)
+
+##### Defend
+
+**DEFEND:** With both arms crossing each other across the chest and hands in an S-handshape, press your arms gently forward twice.
+
+![ILLUSTRATION: For the S-handshape, make a fist with your thumb crossing the rest of your fingers. To complete the sign, your arms should be crossed in an X over your chest.](../assets/fact-images/defend.svg)
+
+##### Overcome
+
+**OVERCOME + TRY:** With your nondominant hand in an S-handshape, palm facing downward, bring your dominant hand in an S-handshape down to meet the top of your hand with your palm facing across the body. Once your two hands meet, extend your index and middle fingers of your dominant hand into a U-handshape. Then using both hands in an A-handshape and palms facing downward at your front mid-quadrant sides, twist your wrists upwards.
+
+![](../assets/fact-images/overcome-updated.svg)
+
+##### Create an Advantage
+
+**BENEFIT + GET:** Using your dominant hand in an F-handshape, palm facing downward and thumb toward your body, flick down slightly on the left upper quadrant of your chest. Then, place your nondominant hand directly beneath your dominant hand in front of your body, palms facing across your body in a 5-handshape, pull them slightly toward yourself while changing both hands into S-handshapes.
+
+![](../assets/fact-images/create_an_advantage.svg)
+
+#### Outcome states
+
+##### Fail
+
+**FAIL:** With your nondominant hand facing palm upwards, and your hand in a V-handshape, start with the back of your dominant hand on your nondominant palm and move it outward.
+
+![](../assets/fact-images/fail.svg)
+
+##### Tie
+
+**EQUAL:** In front of your chest with both of your hands facing palms across your body, bend your fingers at a 90 degree angle toward one another and tap your fingertips together twice.
+
+![](../assets/fact-images/tie.svg)
+
+##### Success
+
+**SUCCESS:** With both of your hands in a 1-handshape, start with them on either side of your face at your lip-line, palm facing inward, and then flick them outwards and upwards away from your face ending with your palms facing outwards and at your forehead-line further away from your face and maintaining the 1-handshapes.
+
+![](../assets/fact-images/success.svg)
+
+##### Success With Style
+
+**BENEFIT + SUCCESS:** Place your nondominant hand directly beneath your dominant hand in front of your body, palms facing across your body in a 5-handshape, pull them slightly toward yourself while changing both hands into S-handshapes. Then, with both of your hands in a 1-handshape, start with them on either side of your face at your lip-line, palm facing inward, and then flick them outwards and upwards away from your face ending with your palms facing outwards and at your forehead-line further away from your face and maintaining the 1-handshapes.
+
+![](../assets/fact-images/success_with_style.svg)
+
+##### Success at a Cost
+
+**COST + WITH + SUCCESS:** With your nondominant hand in a 5-handshape and palm facing toward your body, start with your dominant hand in an X-handshape above and behind and bring it down beneath your nondominant hand. Bring your two hands together in an A-handshape, palms inward, until your fingers touch and tap them twice. With both of your hands in a 1-handshape, start with them on either side of your face at your lip-line, palm facing inward, and then flick them outwards and upwards away from your face ending with your palms facing outwards and at your forehead-line further away from your face and maintaining the 1-handshapes.
+
+![](../assets/fact-images/success_at_a_cost.svg)
+
+#### Minor Cost
+
+**COST + MINOR:** With your nondominant hand in a 5-handshape and palm facing toward your body, start with your dominant hand in an X-handshape above and behind and bring it down beneath your nondominant hand. Then with both hands in an F-handshape, palms facing inward, bring your dominant hand down past your stationary nondominant hand, touching your index and thumbs together as you pass, and then turn your dominant hand still in an F-handshape palm facing downward.
+
+![](../assets/fact-images/minor_cost.svg)
+
+#### Major Cost
+
+**COST + A LOT:** With your nondominant hand in a 5-handshape and palm facing toward your body, start with your dominant hand in an X-handshape above and behind and bring it down beneath your nondominant hand. Then with both hands on either side of your body in S-handshapes, palms facing upward, release them into an open handshape with your fingers splayed outwards and upwards.
+
+![](../assets/fact-images/major_cost.svg)
+
+#### Mild Consequence
+
+**BAD + RESULT:** Using a B-handshape, start with the tips of your fingers at the base of your chin, palm turned inward, using your dominant hand. Move your dominant hand outward and then down and back inwards to meet your nondominant hand, waiting in a 5-handshape at the base of your torso with the palm facing upward. Then with a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand.
+
+![](../assets/fact-images/mild_consequence.svg)
+
+#### Moderate Consequence
+
+**BAD + RESULT:** Using a B-handshape, start with the tips of your fingers at the base of your chin, palm turned inward, using your dominant hand. Move your dominant hand outward and then down and back inwards to meet your nondominant hand, waiting in a 5-handshape at the base of your torso with the palm facing upward. Exaggerate “BAD” more than the mild consequence. With a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand.
+
+![](../assets/fact-images/moderate_consequence.svg)
+
+#### Severe Consequence
+
+**WORST + RESULT:** Take both of your hands using a V-handshape with your palms turned inward starting at either side of your body to cross one another at the center. With a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand.
+
+![](../assets/fact-images/severe_consequence.svg)
+
+#### Mark a Condition
+
+**CONTINUOUS + BAD + RESULT + TAKE:** With both hands in an A-handshape and palms facing downward, extend your thumbs outward to meet one another at the center of your body and then press your hands forward slightly in a circular motion twice. Using a B-handshape, start with the tips of your fingers at the base of your chin, palm turned inward, using your dominant hand. Move your dominant hand outward and then down and back inwards to meet your nondominant hand, waiting in a 5-handshape at the base of your torso with the palm facing upward. With a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand. With your dominant hand start with an extended 5-handshape, palm facing downward, and quickly close your hand into an S-handshape while bringing it toward your body.
+
+![](../assets/fact-images/mark_a_condition.svg)
+
+##### Fleeting
+
+**SHORT + BAD + RESULT:** With both hands in a U-handshape, palms facing diagonally across the body, bring your dominant hand’s index and middle finger to rest on top of your nondominant hand’s index and middle finger and run them along the length of your fingers twice. Using a B-handshape, start with the tips of your fingers at the base of your chin, palm turned inward, using your dominant hand. Move your dominant hand outward and then down and back inwards to meet your nondominant hand, waiting in a 5-handshape at the base of your torso with the palm facing upward. With a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand.
+
+![](../assets/fact-images/fleeting.svg)
+
+##### Angry
+
+**ANGRY:** With an open, clawed C-handshape, use your dominant hand (or both hands for emphasis) to quickly come toward your face in a short movement.
+
+![ILLUSTRATION: For the C-handshape, the four fingers are held together and curved slightly downward, while the thumb curves slightly upward toward them. They should not touch. For the sign for angry, splay your fingers out slightly while keeping them curved to make a claw-like shape with your hand.](../assets/fact-images/angry.svg)
+
+##### Frightened
+
+**SCARED:** Using both hands starting in an S-handshape on either side of your body with palms facing inwards, fling your fingers out to an open 5-handshape across your chest.
+
+![ILLUSTRATION: For the S-handshape, make a fist with your thumb crossing the rest of your fingers. For the open 5-handshape, splay out all of your fingers and thumb. This sign should be done in a quick, sharp motion, like something startling.](../assets/fact-images/scared.svg)
+
+##### Sticky
+
+**BAD + RESULT + STAY:** Using a B-handshape, start with the tips of your fingers at the base of your chin, palm turned inward, using your dominant hand. Move your dominant hand outward and then down and back inwards to meet your nondominant hand, waiting in a 5-handshape at the base of your torso with the palm facing upward. With a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand. With your dominant hand in a Y-handshape, palm facing nearly downward, press it shortly downward and outward.
+
+![](../assets/fact-images/sticky.svg)
+
+##### Exhausted
+
+**TIRED:** With both hands in a closed 5-handshape, palms facing outward, near the inner sides of your shoulders with your fingertips pressed to your chest, bring them down slightly.
+
+![](../assets/fact-images/exhausted.svg)
+
+##### Hungry
+
+**HUNGRY:** With your dominant hand in a C-handshape, palm facing inwards, start at the center and top of your chest and bring your hand downward toward your stomach.
+
+![](../assets/fact-images/hungry.svg)
+
+##### Lasting
+
+**BAD + RESULT + FOREVER:** Using a B-handshape, start with the tips of your fingers at the base of your chin, palm turned inward, using your dominant hand. Move your dominant hand outward and then down and back inwards to meet your nondominant hand, waiting in a 5-handshape at the base of your torso with the palm facing upward. With a closed 5-handshape on your nondominant hand, palm facing inward, and your dominant hand in an R-handshape palm facing downward starting at the thumb of your nondominant hand, bring your dominant hand outwards and then down next to your nondominant hand. Using your dominant hand in a 1-handshape, palm facing inward, move your hand in a circular motion and then with your dominant hand in a Y-handshape, palm facing nearly downward, press it shortly downward and outward.
+
+![ILLUSTRATION: The B-handshape is all four fingers extended, held together, thumb across the palm. To sign bad, Move this hand out in a swift, sharp motion, as if throwing or brushing something unpleasant away, then bring it back down to clap against your palm-up non-dominant hand. To sign result: hold your hand with all fingers and thumb out, held together, palm facing your chest, pinky finger facing the ground. For the R-handshape, cross your index and middle fingers and fold your other fingers and thumb down. To sign forever: the 1-handshape is a fist with your index finger extended. Start with the tip of your index finger touching your temple on the same side as the hand you're signing with. Then push your hand forward and swiftly transition into a Y-handshape by extending your thumb and pinky finger with all other fingers folded down.](../assets/fact-images/lasting.svg)
+
+##### Broken
+
+**BROKE + STAY:** With both of your hands in an S-handshape, palms facing downward and hands pressed together, quickly snap your hands so that your palms are facing across your body, keeping your hands in S-handshapes. Then with your dominant hand in a Y-handshape, palm facing nearly downward, press it shortly downward and outward.
+
+![ILLUSTRATION: For the S-handshape, make a fist with your thumb crossing the rest of your fingers. To complete the sign, make a sharp, swift motion with your hands, as if breaking a stick in half and then pulling the halves away from each other.](../assets/fact-images/broken.svg)
+
+##### Wounded
+
+**HURT + STAY:** With both of your index fingers pointed at one another, twist your hands in quick and opposing directions. Then with your dominant hand in a Y-handshape, palm facing nearly downward, press it shortly downward and outward.
+
+![](../assets/fact-images/wounded.svg)

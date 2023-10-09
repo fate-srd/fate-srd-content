@@ -1,7 +1,7 @@
 {
-  "name": "VC",
-  "description": "VC",
-  "version": "0.0.1",
+  "name": "fatesrd",
+  "description": "Fate SRD content.",
+  "version": "2.0.0",
   "private": true,
   "dependencies": {
     "gulp": "^3.9.0",
