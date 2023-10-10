@@ -316,6 +316,11 @@ const toMarkdown = require('gulp-to-markdown');
     .pipe(toMarkdown())
     .pipe(gulp.dest('./docs/markdown')));
 
+  // Formats the Fate Condensed content into markdown
+  gulp.task('make-horror-md', () => gulp.src('source/fate-horror-toolkit.html')
+    .pipe(toMarkdown())
+    .pipe(gulp.dest('./docs/markdown')));
+
   // Formats the Fate Space content into markdown
   gulp.task('make-space', () => gulp.src('source/fate-space-srd.html')
     .pipe(replace('<span class="chapter-title">', ''))
