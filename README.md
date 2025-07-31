@@ -24,7 +24,11 @@ If you're looking for the Fate SRD rules in a clean text format, this is the pla
 
 [Download Files](https://github.com/amazingrando/fate-srd/archive/master.zip)
 
-If you are looking for the 100% official SRD rules, you can find them at <http://www.faterpg.com/licensing/>. That said, the files in the `source` folder are copies of those files.
+If you are looking for the 100% official SRD rules, you can find them at https://fate-srd.com/official-licensing-fate. That said, the files in the `source` folder are copies of those files.
+
+## Making a translation into another language
+
+You can make a language translation for Fate under both the [CC-BY or the OGL licenses](https://fate-srd.com/official-licensing-fate). 
 
 # Project structure
 
