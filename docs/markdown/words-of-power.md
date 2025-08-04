@@ -2,6 +2,8 @@
 
 Written by Brian Engard • Edited by John Adamus • Layout by Fred Hicks
 
+Commissioned by John Hoylan.
+
 The following is an official Fate Core rules supplement, created for John Hoyland as part of a Fate Core Kickstarter commission.
 
 ## Magic
