@@ -18,6 +18,11 @@ You'll find the following rules in this project:
 - No-Skill Swashbuckling (from The Three Rocketeers) System Reference Document
 - Factions (Fate Core Kickstarter stretch goal)
 
+# Licensing information
+
+> [!IMPORTANT]  
+> When using these files, follow the licensing information at https://fate-srd.com/official-licensing-fate.
+
 # How to use this project
 
 If you're looking for the Fate SRD rules in a clean text format, this is the place. The files in the `docs` folder have everything in several formats, e.g. markdown, HTML, and Docx (Word).
@@ -71,4 +76,7 @@ Due to formatting, some of the source documents are unique snowflakes and have t
 
 # License
 
-This work is based on [Fate Core System](http://www.faterpg.com/) and Fate Accelerated Edition, products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+This work is based on [Fate Core System](https://fate-srd.com/) and Fate Accelerated Edition, products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+
+This work is based on [Fate Condensed](https://fate-srd.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz, and Sophie Lagacé, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+
